@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-17T12:51-03:00",
+ "updated": "2026-10-17T20:41-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -70,6 +70,18 @@ window.CIRCO = {
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
    "og_checked": true
+  },
+  {
+   "id": "https://www.applesfera.com/ipad/ciencia-dicta-sentencia-imanes-nevera-peligrosos-que-se-piensa-yo-estuve-anos-ipad-viejo-pegado-al-frigorifico",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "La ciencia dicta sentencia: los imanes en la nevera son más peligrosos de lo que se piensa. Y yo estuve años con un iPad viejo pegado al frigorífico",
+   "link": "https://www.applesfera.com/ipad/ciencia-dicta-sentencia-imanes-nevera-peligrosos-que-se-piensa-yo-estuve-anos-ipad-viejo-pegado-al-frigorifico",
+   "excerpt": "Poner imanes en la nevera puede ser perjudicial. Así de contundente es la conclusión de un estudio hecho por expertos. Aunque hay matices, ya que no es malo para los alimentos o el frigorífico en sí , sino más bien para aquellas neveras que cuenten con algún tipo de pantalla.…",
+   "image": "https://i.blogs.es/056ee3/ipad-nevera/1024_2000.jpeg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
   },
   {
    "id": "https://www.applesfera.com/curiosidades/steve-jobs-le-propuso-cambio-ordenador-dueno-dijo-que-no-ahora-se-ha-vendido-millon",
@@ -166,6 +178,126 @@ window.CIRCO = {
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
    "og_checked": true
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/colectivos-del-amba-reduciran-sus-frecuencias-desde-el-lunes-19-de-octubre-que-lineas-se-veran-afectadas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Colectivos del AMBA reducirán sus frecuencias desde el lunes 19 de octubre: qué líneas se verán afectadas",
+   "link": "https://www.filo.news/noticia/2026/10/17/colectivos-del-amba-reduciran-sus-frecuencias-desde-el-lunes-19-de-octubre-que-lineas-se-veran-afectadas",
+   "excerpt": "Las empresas de transporte advirtieron que comenzarán a recortar los servicios nocturnos por la falta de actualización de tarifas y subsidios. La medida afectará a recorridos que conectan la Ciudad de Buenos Aires con el conurbano.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/202512251201004-scaled5185_re.jpg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/luis-caputo-aseguro-que-hay-un-excedente-de-dolares-y-anticipo-el-fin-de-las-restricciones-cambiarias",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Luis Caputo aseguró que hay un \"excedente de dólares\" y anticipó el fin de las restricciones cambiarias",
+   "link": "https://www.filo.news/noticia/2026/10/17/luis-caputo-aseguro-que-hay-un-excedente-de-dolares-y-anticipo-el-fin-de-las-restricciones-cambiarias",
+   "excerpt": "El ministro de Economía destacó las inversiones aprobadas bajo el RIGI y sostuvo que permitirán eliminar las restricciones que todavía afectan a las empresas. También se refirió a las compras del Banco Central.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/202609260901901-scaled4234_re.jpg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/dia-de-la-lealtad-cristina-kirchner-salio-al-balcon-para-saludar-a-la-militancia-reunida-en-san-jose-1111",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Día de la Lealtad: Cristina Kirchner salió al balcón para saludar a la militancia reunida en San José 1111",
+   "link": "https://www.filo.news/noticia/2026/10/17/dia-de-la-lealtad-cristina-kirchner-salio-al-balcon-para-saludar-a-la-militancia-reunida-en-san-jose-1111",
+   "excerpt": "La expresidenta saludó a los manifestantes que se acercaron a su domicilio en Constitución, donde cumple su condena por la causa Vialidad. La jornada también estuvo marcada por actos separados de Axel Kicillof y Máximo Kirchner.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/20261027320_re.jpeg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/preocupacion-por-el-dibu-martinez-salio-en-camilla-ante-everton-y-sufrio-una-lesion-en-la-mandibula",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Preocupación por el Dibu Martínez: salió en camilla ante Everton y sufrió una lesión en la mandíbula",
+   "link": "https://www.filo.news/noticia/2026/10/17/preocupacion-por-el-dibu-martinez-salio-en-camilla-ante-everton-y-sufrio-una-lesion-en-la-mandibula",
+   "excerpt": "El arquero argentino sufrió un fuerte choque durante el triunfo del Chelsea por la Premier League. Fue trasladado a un hospital para realizarse estudios y su evolución es seguida de cerca por la Selección argentina.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/20261017t130130z_885066753_up1emah106hd9_rtrmadp_3_soccer-england-eve-che1314_re.jpg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/ola-de-protestas-en-europa-miles-de-personas-se-movilizan-en-francia-italia-espana-y-otros-paises",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Ola de protestas en Europa: miles de personas se movilizan en Francia, Italia, España y otros países",
+   "link": "https://www.filo.news/noticia/2026/10/17/ola-de-protestas-en-europa-miles-de-personas-se-movilizan-en-francia-italia-espana-y-otros-paises",
+   "excerpt": "Las manifestaciones se extendieron por distintos países europeos con reclamos por el costo de vida, la educación y la vivienda. En varias ciudades se registraron incidentes y enfrentamientos con la Policía.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/98fcbec625f043b6-ac48-b78773dcc9612173_re.png",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/dia-de-la-lealtad-maximo-kirchner-cuestiono-a-dirigentes-del-pj-y-llamo-a-reconstruir-el-peronismo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Día de la Lealtad: Máximo Kirchner cuestionó a dirigentes del PJ y llamó a reconstruir el peronismo",
+   "link": "https://www.filo.news/noticia/2026/10/17/dia-de-la-lealtad-maximo-kirchner-cuestiono-a-dirigentes-del-pj-y-llamo-a-reconstruir-el-peronismo",
+   "excerpt": "El diputado nacional encabezó un acto en Chaco junto a Jorge Capitanich, donde criticó a sectores del justicialismo y pidió fortalecer la unidad para enfrentar al Gobierno de Javier Milei.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/maximo4376_re.jpg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/protestas-en-francia-miles-de-manifestantes-se-enfrentaron-con-la-policia-y-hubo-detenidos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Protestas en Francia: miles de manifestantes se enfrentaron con la Policía y hubo detenidos",
+   "link": "https://www.filo.news/noticia/2026/10/17/protestas-en-francia-miles-de-manifestantes-se-enfrentaron-con-la-policia-y-hubo-detenidos",
+   "excerpt": "Estudiantes, sindicalistas y miembros de los Chalecos Amarillos se movilizaron este sábado contra el costo de vida y los problemas educativos. Se registraron disturbios en París, Marsella y Lyon.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/20261017t185524z_715596224_rc205oavto1s_rtrmadp_3_france-protest_(1)2356_re.jpg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/kicillof-encabezo-el-acto-por-el-dia-de-la-lealtad-y-sostuvo-que-sin-justicia-social-no-hay-libertad-verdadera",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Kicillof encabezó el acto por el Día de la Lealtad y sostuvo que sin justicia social no hay libertad verdadera",
+   "link": "https://www.filo.news/noticia/2026/10/17/kicillof-encabezo-el-acto-por-el-dia-de-la-lealtad-y-sostuvo-que-sin-justicia-social-no-hay-libertad-verdadera",
+   "excerpt": "El gobernador bonaerense lideró un masivo encuentro peronista en La Matanza, donde criticó al Gobierno nacional y vaticinó el retorno del espacio al poder.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/xcoetctvk1200x0_22666_re.jpg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/babasonicos-en-buenos-aires-la-reinvencion-constante-de-una-banda-que-no-envejece",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Babasónicos en Buenos Aires: la reinvención constante de una banda que no envejece",
+   "link": "https://www.filo.news/noticia/2026/10/17/babasonicos-en-buenos-aires-la-reinvencion-constante-de-una-banda-que-no-envejece",
+   "excerpt": "Del sonido de Jessico a las canciones de Cuerpos Vol. 1, el grupo recorrió distintas etapas de su discografía en el estadio de Villa Crespo, donde volverá a presentarse este sábado 17 de octubre.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/babasonicosmovistar16_oct_bonetto_0633995_re.jpeg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/resumen-pj-compara-a-cfk-con-peron-papa-leon-xvi-de-alta-preocupacion-por-el-dibu-martinez",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Resumen:  PJ compara a CFK con Peron - Papa Leon XVI de alta - Preocupación por el Dibu Martinez",
+   "link": "https://www.filo.news/noticia/2026/10/17/resumen-pj-compara-a-cfk-con-peron-papa-leon-xvi-de-alta-preocupacion-por-el-dibu-martinez",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/capturadepantalla_2026-10-17_1127498375_re.png",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/17/maxima-preocupacion-por-el-dibu-tras-sufrir-un-fuerte-golpe-en-el-triunfo-de-chelsea-ante-everton",
@@ -720,126 +852,6 @@ window.CIRCO = {
    "og_checked": false
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/16/vtv",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Sturzenegger apuntó contra Kicillof por el aumento en la VTV bonaerense",
-   "link": "https://www.filo.news/noticia/2026/10/16/vtv",
-   "excerpt": "El ministro de Desregulación cuestionó la suba de la tarifa y reprochó la negativa provincial a liberar el trámite en talleres mecánicos.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/filo1-_2026-10-16t180818.8787476_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/villa-bosch-denuncian-a-alumnos-de-una-escuela-por-crear-imagenes-falsas-de-sus-companeras-con-ia",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Villa Bosch: denuncian a alumnos de una escuela por crear imágenes falsas de sus compañeras con IA",
-   "link": "https://www.filo.news/noticia/2026/10/16/villa-bosch-denuncian-a-alumnos-de-una-escuela-por-crear-imagenes-falsas-de-sus-companeras-con-ia",
-   "excerpt": "Se trata de otro caso más de violencia sexual digital en escuelas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/disenosin_título_-_2026-10-16t144304.7356832_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/el-fmi-pidio-focalizar-los-subsidios-energeticos-en-los-sectores-mas-vulnerables",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El FMI pidió focalizar los subsidios energéticos en los sectores más vulnerables",
-   "link": "https://www.filo.news/noticia/2026/10/16/el-fmi-pidio-focalizar-los-subsidios-energeticos-en-los-sectores-mas-vulnerables",
-   "excerpt": "En su informe regional presentado en Bangkok, el organismo ponderó el esquema fiscal argentino y proyectó una mejora económica para 2027.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/filo1-_2026-10-16t170843.3696589_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/se-confirmaron-los-proximos-amistosos-de-la-seleccion-argentina",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Se confirmaron los próximos amistosos de la Selección Argentina",
-   "link": "https://www.filo.news/noticia/2026/10/16/se-confirmaron-los-proximos-amistosos-de-la-seleccion-argentina",
-   "excerpt": "El elenco nacional jugará ante Uruguay y Costa Rica la primera doble fecha FIFA tras la despedida de Lionel Messi.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/seleccinargentina,_amistoso_vs._bolivia_2026_(reuters)9295_re.jpg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/juicio-por-maradona-jana-maradona-nego-un-acuerdo-con-morla-y-apunto-a-dalma",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Jana Maradona le respondió a Dalma y negó un pacto con Matías Morla",
-   "link": "https://www.filo.news/noticia/2026/10/16/juicio-por-maradona-jana-maradona-nego-un-acuerdo-con-morla-y-apunto-a-dalma",
-   "excerpt": "La hija menor del Diez rechazó las acusaciones de traición en el juicio y defendió la estrategia de sus abogados.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/filo1-_2026-10-16t153403.1065969_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/resumen",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Difunden las primeras fotos del Papa tras la operación; Represión en la Marcha Federal Universitaria; Murió Fernando Confessore; y más...",
-   "link": "https://www.filo.news/noticia/2026/10/16/resumen",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/noname3876_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/caso-andis-dictan-un-nuevo-procesamiento-contra-diego-spagnuolo-por-presunta-corrupcion",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Caso ANDIS: dictan un nuevo procesamiento contra Diego Spagnuolo por presunta corrupción",
-   "link": "https://www.filo.news/noticia/2026/10/16/caso-andis-dictan-un-nuevo-procesamiento-contra-diego-spagnuolo-por-presunta-corrupcion",
-   "excerpt": "La medida alcanza a exfuncionarios y empresarios por asociación ilícita, fraude al Estado y maniobras de lavado de dinero.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/filo1-_2026-10-16t144845.2192264_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/lali",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Bajofondo & Lali, Trueno, Tate Mcrae, Soledad y Rusher, los estrenos de la semana",
-   "link": "https://www.filo.news/noticia/2026/10/16/lali",
-   "excerpt": "Todos los lanzamientos nuevos de la música, escuchalos acá.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/image0044878_re.jpg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/santiago-motorizado-cuando-y-donde-sera-su-proximo-show-en-buenos-aires",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Santiago Motorizado: cuándo y dónde será su próximo show en Buenos Aires",
-   "link": "https://www.filo.news/noticia/2026/10/16/santiago-motorizado-cuando-y-donde-sera-su-proximo-show-en-buenos-aires",
-   "excerpt": "Después de una gira internacional que lo llevó por más de 30 ciudades europeas y destinos como Japón, Australia y México, el músico se presentará el 4 de diciembre en Buenos Aires con un show dedicado a su proyecto solista y a las canciones de El Retorno.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/img6948horizontal7942_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/santilli-advirtio-a-los-gobernadores-deberian-estar-preocupados-por-si-gana-kicillof",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Santilli advirtió a los gobernadores: \"Deberían estar preocupados por si gana Kicillof\"",
-   "link": "https://www.filo.news/noticia/2026/10/16/santilli-advirtio-a-los-gobernadores-deberian-estar-preocupados-por-si-gana-kicillof",
-   "excerpt": "El jefe de Gabinete habló de cara al año electoral en medio de las negociaciones por la agenda legislativa.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/noname4556_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201158",
    "source": "CIPER",
    "category": "Notis",
@@ -979,18 +991,6 @@ window.CIRCO = {
    "link": "https://www.applesfera.com/rumores/apple-prepara-iphone-18-base-a-grande-no-esta-claro-que-consiga-repetir-exito",
    "excerpt": "El iPhone 17 ha sido el más vendido de la historia . Razones no le faltaron: mantuvo el precio, dobló el almacenamiento y trajo los 120 Hz a la pantalla. ¿Qué podrá hacer frente a esto el iPhone 18? De momento, Apple ha presentado solo los iPhone 18 Pro . El iPhone 18 base se va…",
    "image": "https://i.blogs.es/113321/iphone-18/1024_2000.jpeg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.applesfera.com/seleccion/homepod-mini-2-merece-pena-dira-su-primera-generacion-estas-sus-diferencias-importantes",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Si el HomePod mini 2 merece la pena lo dirá su primera generación: estas son sus diferencias más importantes",
-   "link": "https://www.applesfera.com/seleccion/homepod-mini-2-merece-pena-dira-su-primera-generacion-estas-sus-diferencias-importantes",
-   "excerpt": "Apple ha presentado la segunda generación de su altavoz con un HomePod mini 2 que llegará muy pronto ( 30 de octubre ). Lo hace con nuevos acabados y con algunas novedades que de momento no podremos disfrutar en España. Con todo ello, ¿merece la pena? En este artículo vamos a…",
-   "image": "https://i.blogs.es/4c94d4/homepod-mini-y-homepod-mini-2/1024_2000.jpeg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
    "og_checked": false
