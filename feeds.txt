@@ -15,9 +15,10 @@ https://www.youtube.com/@GregIsenberg | Greg Isenberg
 [Publi]
 https://theinspiration.com/ | The Inspiration
 https://musebyclios.com/ | Muse by Clio
-https://lacriaturacreativa.com/ | La Criatura Creativa
+https://www.reasonwhy.es/rss/actualidad | Reason Why
 
 [La pelotita]
+# revistalibero.com no publica un RSS en su portada; este es el feed de su blog
 https://revistalibero.com/blogs/contenidos | Revista Líbero
 
 [Notis]

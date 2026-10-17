@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-17T11:16-03:00",
+ "updated": "2026-10-17T12:51-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -37,9 +37,9 @@ window.CIRCO = {
    "feed": "https://musebyclios.com/feed/"
   },
   {
-   "name": "La Criatura Creativa",
+   "name": "Reason Why",
    "category": "Publi",
-   "feed": "https://lacriaturacreativa.com/feed/"
+   "feed": "https://www.reasonwhy.es/rss/actualidad"
   },
   {
    "name": "Revista Líbero",
@@ -70,6 +70,18 @@ window.CIRCO = {
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
    "og_checked": true
+  },
+  {
+   "id": "https://www.applesfera.com/curiosidades/steve-jobs-le-propuso-cambio-ordenador-dueno-dijo-que-no-ahora-se-ha-vendido-millon",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Steve Jobs le propuso un cambio de ordenador y el dueño dijo que no. Ahora se ha vendido por más de un millón",
+   "link": "https://www.applesfera.com/curiosidades/steve-jobs-le-propuso-cambio-ordenador-dueno-dijo-que-no-ahora-se-ha-vendido-millon",
+   "excerpt": "El Apple-1 fue el primer ordenador de Apple , construido a mano por Steve Wozniak y Steve Jobs en 1976. Hoy quedan menos de 75 ejemplares en todo el mundo y muy pocos siguen funcionando. Así que cada vez que uno sale a subasta alcanza cifras de vértigo. El último acaba de…",
+   "image": "https://i.blogs.es/4b822b/carta/1024_2000.jpeg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
   },
   {
    "id": "https://www.applesfera.com/seleccion/mediamarkt-tiene-este-ipad-pro-su-outlet-doble-descuento-su-configuracion-2-tb",
@@ -108,6 +120,18 @@ window.CIRCO = {
    "og_checked": false
   },
   {
+   "id": "https://www.theverge.com/?p=1013409",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Meta removes language that may have allowed it to scrape news sites",
+   "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+   "excerpt": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": true
+  },
+  {
    "id": "https://theinspiration.com/?p=54739",
    "source": "The Inspiration",
    "category": "Publi",
@@ -142,6 +166,30 @@ window.CIRCO = {
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
    "og_checked": true
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/maxima-preocupacion-por-el-dibu-tras-sufrir-un-fuerte-golpe-en-el-triunfo-de-chelsea-ante-everton",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Máxima preocupación por el Dibu tras sufrir un fuerte golpe en el triunfo de Chelsea ante Everton",
+   "link": "https://www.filo.news/noticia/2026/10/17/maxima-preocupacion-por-el-dibu-tras-sufrir-un-fuerte-golpe-en-el-triunfo-de-chelsea-ante-everton",
+   "excerpt": "El arquero argentino debió ser retirado inmovilizado en camilla tras chocar la cabeza contra un rival durante la séptima fecha de la Premier League.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/capturadepantalla_2026-10-17_1135205128_re.png",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/17/el-partido-justicialista-comparo-la-situacion-de-cfk-con-la-proscripcion-de-peron-y-exigio-su-libertad",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Partido Justicialista comparó la situación de CFK con la proscripción de Perón y exigió su libertad",
+   "link": "https://www.filo.news/noticia/2026/10/17/el-partido-justicialista-comparo-la-situacion-de-cfk-con-la-proscripcion-de-peron-y-exigio-su-libertad",
+   "excerpt": "En el marco del Día de la Lealtad, el PJ emitió un documento institucional denunciando persecución judicial e inhabilitación política.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/capturadepantalla_2026-10-17_1127498649_re.png",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "og_checked": false
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/17/donald-trump-suspendio-el-nuevo-paquete-de-sanciones-contra-rusia-por-razones-de-interes-nacional",
@@ -492,6 +540,66 @@ window.CIRCO = {
    "og_checked": true
   },
   {
+   "id": "https://www.reasonwhy.es/actualidad/evolucion-inversion-publicidad-ingresos-grandes-marcas-warc",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Las grandes marcas destinan una proporción cada vez menor de sus ingresos a publicidad, según Warc",
+   "link": "https://www.reasonwhy.es/actualidad/evolucion-inversion-publicidad-ingresos-grandes-marcas-warc",
+   "excerpt": "La moderación de las ventas o los cambios en la asignación presupuestaria son algunas de la fuerzas tras la tendencia.",
+   "image": "https://www.reasonwhy.es/media/library/relacion-ingresos-publicidad-warc.jpg",
+   "day": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/mitsubishi-lluvia-sobre-coche-para-demostrar-conduccion-carreteras-mojadas",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Mitsubishi hace que llueva sobre uno de sus coches para demostrar su conducción en carreteras mojadas",
+   "link": "https://www.reasonwhy.es/actualidad/mitsubishi-lluvia-sobre-coche-para-demostrar-conduccion-carreteras-mojadas",
+   "excerpt": "Ha instalado una nube artificial sobre un Mitsubishi Xforce que recorre las calles mientras recibe una lluvia constante.",
+   "image": "https://www.reasonwhy.es/media/library/mitsubishi-nube-lluvoa.jpg",
+   "day": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/dior-medallion-accesorio-movil-generacion-z",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Dior quiere estar más cerca de la Generación Z con con un bálsamo labial para la carcasa del móvil",
+   "link": "https://www.reasonwhy.es/actualidad/dior-medallion-accesorio-movil-generacion-z",
+   "excerpt": "La marca de lujo ha creado una versión de su producto pensado como accesorio para el móvil en una declaración de estilo.",
+   "image": "https://www.reasonwhy.es/media/library/dior-medallion.jpg",
+   "day": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/estudio-atencion-acumulada-frecuencia-publicidad-resultados-marca-2026",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "La atención acumulada a la publicidad predice ocho veces mejor los resultados de marca que la frecuencia de exposición",
+   "link": "https://www.reasonwhy.es/actualidad/estudio-atencion-acumulada-frecuencia-publicidad-resultados-marca-2026",
+   "excerpt": "Lumen, Amazon Ads y Cint concluyen que el tiempo de atención es más relevante que el número de impactos",
+   "image": "https://www.reasonwhy.es/media/library/pantallas-translucidas-frecuencia-publicidad.jpg",
+   "day": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/apple-safari-comparacion-chrome-nueva-campana",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Apple recurre de nuevo a la fórmula “Mac vs. PC” para destacar las ventajas de Safari frente a Chrome",
+   "link": "https://www.reasonwhy.es/actualidad/apple-safari-comparacion-chrome-nueva-campana",
+   "excerpt": "La tecnológica destaca la potencia y privacidad de su navegador frente al de su rival en la campaña \"Switch to Safari\".",
+   "image": "https://www.reasonwhy.es/media/library/apple-safari-navegador-chrome.jpg",
+   "day": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/16/visita-diplomatica-dos-altos-funcionarios-de-trump-viajaran-a-la-argentina-la-semana-proxima",
    "source": "Filo.News",
    "category": "Notis",
@@ -732,30 +840,6 @@ window.CIRCO = {
    "og_checked": false
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/16/solomun-despedira-el-ano-en-sudamerica-con-tres-fechas-punta-del-este-mendoza-y-mar-del-plata",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Solomun despedirá el año en Sudamérica con tres fechas: Punta del Este, Mendoza y Mar del Plata",
-   "link": "https://www.filo.news/noticia/2026/10/16/solomun-despedira-el-ano-en-sudamerica-con-tres-fechas-punta-del-este-mendoza-y-mar-del-plata",
-   "excerpt": "El DJ y productor alemán realizará un tour especial entre el 29 de diciembre y el 2 de enero. El recorrido incluirá un regreso a Mendoza después de más de nueve años y una nueva presentación en MUTE, uno de los escenarios habituales de su paso por Argentina.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/20261016_12.22.48_(1)2543_re.jpg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/de-la-catarsis-al-pogo-chechi-de-marcos-presento-su-nuevo-disco-ey-no-molestes",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "De la catarsis al pogo: Chechi de Marcos presentó su nuevo disco, “Ey, no molestes”",
-   "link": "https://www.filo.news/noticia/2026/10/16/de-la-catarsis-al-pogo-chechi-de-marcos-presento-su-nuevo-disco-ey-no-molestes",
-   "excerpt": "",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/dscf04743)2136_re.jpg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201158",
    "source": "CIPER",
    "category": "Notis",
@@ -912,18 +996,6 @@ window.CIRCO = {
    "og_checked": false
   },
   {
-   "id": "https://www.applesfera.com/analisis/anker-maggo-powerbank-2-pro-analisis-caracteristicas-precio-especificaciones",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Anker MagGo Power Bank 2 Pro, análisis: más ligera, más rápida y con una refrigeración que sorprende",
-   "link": "https://www.applesfera.com/analisis/anker-maggo-powerbank-2-pro-analisis-caracteristicas-precio-especificaciones",
-   "excerpt": "Las baterías externas magnéticas son para mí uno de los accesorios más prácticos para el iPhone. Desde la llegada de MagSafe, poder ampliar la autonomía del teléfono simplemente colocando una batería en su parte trasera ha cambiado considerablemente nuestra forma de utilizarlos.…",
-   "image": "https://i.blogs.es/2611e6/anker-maggo-power-bank-2-pro-analisis-6/1024_2000.jpeg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
    "id": "https://www.theverge.com/?p=1012510",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -991,18 +1063,6 @@ window.CIRCO = {
    "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
    "excerpt": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch…",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&crop=0%2C10.814080979907%2C100%2C78.371838040185&w=1200",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://www.theverge.com/?p=1011938",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Friends don’t let friends feed their data to AI agents",
-   "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-   "excerpt": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
    "og_checked": true
@@ -1078,6 +1138,78 @@ window.CIRCO = {
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
    "og_checked": true
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/iniciativa-soy-yo-adigital-llamadas-comerciales-empresas-telefono-prefijo-400",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Adigital lanza “Soy Yo”, una plataforma para saber qué empresa llama por teléfono",
+   "link": "https://www.reasonwhy.es/actualidad/iniciativa-soy-yo-adigital-llamadas-comerciales-empresas-telefono-prefijo-400",
+   "excerpt": "La herramienta llega ante la entrada en vigor del prefijo 400 para identificar las llamadas comerciales en España.",
+   "image": "https://www.reasonwhy.es/media/library/llamada-centralita.jpg",
+   "day": "2026-10-15",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/aseguradora-aviva-menopausia-monopoly-promover-conversacion",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "La aseguradora Aviva aborda el impacto de la menopausia con una versión especial del Monopoly",
+   "link": "https://www.reasonwhy.es/actualidad/aseguradora-aviva-menopausia-monopoly-promover-conversacion",
+   "excerpt": "La aseguradora británica Aviva ha reinventado el popular juego de mesa para promover conversaciones y reflexiones sobre el proceso.",
+   "image": "https://www.reasonwhy.es/media/library/aviva-monopoly-menopausia.jpg",
+   "day": "2026-10-15",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/virgin-busca-head-of-yes-experiencias-viajes-mundo-richard-branson-2026",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Virgin busca a su nuevo “Head of Yes”: seis meses diciendo sí a experiencias por todo el mundo",
+   "link": "https://www.reasonwhy.es/actualidad/virgin-busca-head-of-yes-experiencias-viajes-mundo-richard-branson-2026",
+   "excerpt": "La compañía recupera una iniciativa que está remunerada con 100.000 dólares durante un periodo de seis meses.",
+   "image": "https://www.reasonwhy.es/media/library/head-of-yes-virgin.jpg",
+   "day": "2026-10-15",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/yatekomo-campana-cambio-receta-protagonismo-ceo",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "“No estaba orgullosa de la anterior receta”: la CEO de Yatekomo promociona un cambio en los noodles",
+   "link": "https://www.reasonwhy.es/actualidad/yatekomo-campana-cambio-receta-protagonismo-ceo",
+   "excerpt": "Miranda Visscher protagoniza la nueva campaña de Yatekomo para comunicar la nueva receta, más saludable.",
+   "image": "https://www.reasonwhy.es/media/library/yatekomo-ceo-nueva-receta.jpg",
+   "day": "2026-10-15",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/kantar-estudio-colaboraciones-marcas-influencers-2026",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Solo uno de cada cuatro consumidores recuerda colaboraciones de marcas e influencers, según Kantar",
+   "link": "https://www.reasonwhy.es/actualidad/kantar-estudio-colaboraciones-marcas-influencers-2026",
+   "excerpt": "Según datos de Kantar, el engagement y el potencial para aportar valor a una marca están alineados en un tercio de las ocasiones.",
+   "image": "https://www.reasonwhy.es/media/library/influencer-belleza.jpg",
+   "day": "2026-10-15",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/agencia-you-first-completa-integracion-gersh-marca-global",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "La agencia You First completa su integración en Gersh y operará bajo una misma identidad global",
+   "link": "https://www.reasonwhy.es/actualidad/agencia-you-first-completa-integracion-gersh-marca-global",
+   "excerpt": "La agencia española de deporte y entretenimiento fue adquirida por el grupo de representación de talento a finales de 2024.",
+   "image": "https://www.reasonwhy.es/media/library/gersh-completa-integracion-you-first.jpg",
+   "day": "2026-10-15",
+   "first_seen": "2026-10-17",
+   "og_checked": false
   },
   {
    "id": "https://www.ciperchile.cl/?p=201140",
@@ -1198,6 +1330,78 @@ window.CIRCO = {
    "day": "2026-10-14",
    "first_seen": "2026-10-17",
    "og_checked": true
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/luz-luces-laia-prunera-santalucia-pitches-concurso-agencia-construir-marca",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Asignación directa y construir marca a largo plazo, dos decisiones para conseguir los objetivos",
+   "link": "https://www.reasonwhy.es/actualidad/luz-luces-laia-prunera-santalucia-pitches-concurso-agencia-construir-marca",
+   "excerpt": "La Directora de Marketing de Santalucía explica en Luz & Luces la estrategia para lograr un incremento de su notoriedad espontánea.",
+   "image": "https://www.reasonwhy.es/media/library/laia-prunera-2.jpg",
+   "day": "2026-10-14",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/luz-luces-laia-prunera-santalucia-plan-medios-mejores-resultados",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Innovar en el plan de medios exige más esfuerzo, pero puede llevar a mejores resultados",
+   "link": "https://www.reasonwhy.es/actualidad/luz-luces-laia-prunera-santalucia-plan-medios-mejores-resultados",
+   "excerpt": "Laia Prunera explica en Luz & Luces las apuestas que Santalucía introdujo en la planificación de “Help”.",
+   "image": "https://www.reasonwhy.es/media/library/laia-prunera-santalucia-1.jpg",
+   "day": "2026-10-14",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/msd-campana-matices-que-importan-realidad-cancer-mama",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "El rosa y sus diferentes tonos reflejan la realidad diversa del cáncer de mama en esta campaña",
+   "link": "https://www.reasonwhy.es/actualidad/msd-campana-matices-que-importan-realidad-cancer-mama",
+   "excerpt": "La empresa biomédica MSD lleva su nueva edición de la campaña \"Matices que importan\" al Metro de Madrid.",
+   "image": "https://www.reasonwhy.es/media/library/msd-campana-matices-que-importan.jpg",
+   "day": "2026-10-14",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/pablosky-compromiso-eliminar-rostros-infantiles-publicidad",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Pablosky se compromete a no mostrar rostros infantiles en su comunicación comercial",
+   "link": "https://www.reasonwhy.es/actualidad/pablosky-compromiso-eliminar-rostros-infantiles-publicidad",
+   "excerpt": "La marca de calzado infantil revisa sus códigos visuales y narrativos a tenor de los cambios sociales y digitales.",
+   "image": "https://www.reasonwhy.es/media/library/pablosky-compromiso-privacidad.jpg",
+   "day": "2026-10-14",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/ikea-disena-coleccion-muebles-para-jovenes-cambian-constantemente-vivienda",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Ikea diseña una colección de muebles para jóvenes que cambian constantemente de vivienda",
+   "link": "https://www.reasonwhy.es/actualidad/ikea-disena-coleccion-muebles-para-jovenes-cambian-constantemente-vivienda",
+   "excerpt": "La colección incluye 13 productos para facilitar el transporte, como un colchón que se convierte en mochila.",
+   "image": "https://www.reasonwhy.es/media/library/jovenes-muebles-ikea-mudanza.jpg",
+   "day": "2026-10-14",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/nueva-plataforma-just-eat-quedate-en-el-momento",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "La nueva plataforma de marca de Just Eat celebra el rol del delivery: “Quédate en el momento”",
+   "link": "https://www.reasonwhy.es/actualidad/nueva-plataforma-just-eat-quedate-en-el-momento",
+   "excerpt": "Lanza una plataforma centrada en el tiempo de calidad bajo el mensaje \"Quédate en el momento\".",
+   "image": "https://www.reasonwhy.es/media/library/just-eat-quedate-en-el-momento.jpg",
+   "day": "2026-10-14",
+   "first_seen": "2026-10-17",
+   "og_checked": false
   },
   {
    "id": "https://www.ciperchile.cl/?p=201068",
@@ -1330,6 +1534,42 @@ window.CIRCO = {
    "day": "2026-10-13",
    "first_seen": "2026-10-17",
    "og_checked": true
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/apple-home-view-nuevo-dispositivo-hogar-inteligente-2026",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Apple lanza Home View, un nuevo dispositivo para el hogar inteligente",
+   "link": "https://www.reasonwhy.es/actualidad/apple-home-view-nuevo-dispositivo-hogar-inteligente-2026",
+   "excerpt": "Home View integra Siri y funciones para los distintos miembros de la familia. No llegará inicialmente a la Unión Europea.",
+   "image": "https://www.reasonwhy.es/media/library/apple-home-2026.jpg",
+   "day": "2026-10-13",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/ing-nueva-flagship-madrid-estrategia-comunicacion",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Así comunica ING su nueva flagship en Madrid: referencias a Colón y un concierto Candlelight",
+   "link": "https://www.reasonwhy.es/actualidad/ing-nueva-flagship-madrid-estrategia-comunicacion",
+   "excerpt": "El banco ha generado notoriedad sobre la inauguración de su oficina recurriendo al humor y un despliegue de publicidad exterior.",
+   "image": "https://www.reasonwhy.es/media/library/ing-oficina-colon.jpg",
+   "day": "2026-10-13",
+   "first_seen": "2026-10-17",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/luzyluces-laia-prunera-santalucia-entrevista",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "“En Marketing debemos fomentar una cultura de riesgo. No hay otra manera para averiguar cómo podemos hacerlo mejor”",
+   "link": "https://www.reasonwhy.es/luzyluces-laia-prunera-santalucia-entrevista",
+   "excerpt": "Laia Prunera, Directora de Marketing en Santalucía, es la invitada del episodio 008 de Luz & Luces.",
+   "image": "https://www.reasonwhy.es/media/library/laia-prunera-luz-luces-foto-portada-optim.jpg",
+   "day": "2026-10-13",
+   "first_seen": "2026-10-17",
+   "og_checked": false
   },
   {
    "id": "https://www.ciperchile.cl/?p=201021",
