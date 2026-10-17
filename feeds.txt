@@ -1,0 +1,25 @@
+# CIRCO FEED: fuentes por categoría.
+# [Categoría] abre una sección. Después va una fuente por línea: "link | Nombre".
+# El link puede ser el feed RSS/Atom o la página del sitio (el script busca el feed solo).
+# El nombre es opcional; sin nombre se usa el título del feed. Las líneas con # se ignoran.
+
+[Mundo Apple]
+https://www.theverge.com/rss/apple/index.xml | The Verge · Apple
+https://www.applesfera.com/index.xml | Applesfera
+
+[Tech + la IA]
+https://www.theverge.com/rss/google/index.xml | The Verge · Google
+https://www.theverge.com/rss/ai-artificial-intelligence/index.xml | The Verge · IA
+https://www.youtube.com/@GregIsenberg | Greg Isenberg
+
+[Publi]
+https://theinspiration.com/ | The Inspiration
+https://musebyclios.com/ | Muse by Clio
+https://lacriaturacreativa.com/ | La Criatura Creativa
+
+[La pelotita]
+https://revistalibero.com/blogs/contenidos | Revista Líbero
+
+[Notis]
+https://www.filo.news/ | Filo.News
+https://www.ciperchile.cl/ | CIPER

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>CIRCO FEED</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<aside id="menu">
+  <a class="logo" href="#" data-view="all"><img src="circofeed-logo.png" alt="CIRCO FEED"></a>
+  <p id="updated"></p>
+  <nav id="nav"></nav>
+  <div class="toggles">
+    <label class="toggle"><input type="checkbox" id="mark-read"><span></span>Marcar como leído</label>
+    <label class="toggle"><input type="checkbox" id="hide-read"><span></span>Ocultar leídas</label>
+  </div>
+</aside>
+<main>
+  <header id="view-head"></header>
+  <div id="feed"></div>
+  <footer id="errors"></footer>
+</main>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
