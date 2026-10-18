@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-18T02:18-03:00",
+ "updated": "2026-10-18T10:52-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -20,6 +20,11 @@ window.CIRCO = {
    "name": "The Verge · IA",
    "category": "Tech + la IA",
    "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+   "name": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
   },
   {
    "name": "The Inspiration",
@@ -52,13 +57,92 @@ window.CIRCO = {
    "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
- "errors": [
-  {
-   "url": "https://www.youtube.com/@GregIsenberg",
-   "error": "HTTP Error 404: Not Found"
-  }
- ],
+ "errors": [],
  "items": [
+  {
+   "id": "https://www.applesfera.com/seleccion/este-cargador-inalambrico-anker-carga-tres-dispositivos-a-vez-esta-casi-a-mitad-precio-mejor-que-te-bolsillo",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Este cargador inalámbrico Anker carga tres dispositivos a la vez y está casi a mitad de precio. Pero lo mejor es que te cabe en el bolsillo",
+   "link": "https://www.applesfera.com/seleccion/este-cargador-inalambrico-anker-carga-tres-dispositivos-a-vez-esta-casi-a-mitad-precio-mejor-que-te-bolsillo",
+   "excerpt": "Me gustan los cargadores que permiten cargar varios dispositivos a la vez. Hay muchos tipos diferentes para elegir, pero la mayoría suelen ser bastante voluminosos. Esto no es lo ideal en casa porque ocupa más espacio, pero también cuando uno va de viaje. Por eso mismo, el Anker…",
+   "image": "https://i.blogs.es/b731e8/cargador-anker-maggo/1024_2000.jpeg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.applesfera.com/apple-watch/30-dias-apple-watch-series-12-que-me-ha-gustado-que-me-ha-chirriado",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "30 días con el Apple Watch Series 12: lo que me ha gustado y lo que me ha chirriado",
+   "link": "https://www.applesfera.com/apple-watch/30-dias-apple-watch-series-12-que-me-ha-gustado-que-me-ha-chirriado",
+   "excerpt": "He pasado por casi todas las generaciones del Apple Watch y sé que un reloj se juzga cuando se acaba la novedad. Por eso quería esperar a llevar un mes con el Series 12 en la muñeca, el tiempo necesario para dejar de mirarlo como un juguete nuevo y empezar a verlo como un…",
+   "image": "https://i.blogs.es/7268d3/series-12/1024_2000.jpeg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.theverge.com/?p=1013485",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Trump says Google kisses his ass",
+   "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+   "excerpt": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": true
+  },
+  {
+   "id": "https://musebyclios.com/?p=133779",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "These Classic Album Covers Are Always in Fashion",
+   "link": "https://musebyclios.com/art-of-the-album/these-classic-album-covers-are-always-in-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=these-classic-album-covers-are-always-in-fashion",
+   "excerpt": "Having worked on projects in both the fashion and music space as an editor, I see how these worlds become enmeshed but can also stand in opposition to each other. For example, I originally set out to write about album covers where fashion is the story. But while I was compiling…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/17155021/AOTA-j.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": true
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/leon-xiv-reaparecio-tras-su-operacion-de-pulmon-y-confirmo-que-retomara-su-actividad-de-forma-gradual",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "León XIV reapareció tras su operación de pulmón y confirmó que retomará su actividad de forma gradual",
+   "link": "https://www.filo.news/noticia/2026/10/18/leon-xiv-reaparecio-tras-su-operacion-de-pulmon-y-confirmo-que-retomara-su-actividad-de-forma-gradual",
+   "excerpt": "El Papa recibió una ovación de miles de fieles en el Vaticano, cuatro días después de recibir el alta médica. Agradeció las oraciones y el trabajo del equipo médico, mientras crece la expectativa por su gira por América Latina, que incluye una visita a la Argentina en noviembre.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/20261018t103842z_175823004_rc2m5oavsp80_rtrmadp_3_pope-health-prayer3822_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/racing-e-independiente-cruzan-sus-caminos-en-un-nuevo-clasico-decisivo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Racing e Independiente cruzan sus caminos en un nuevo clásico decisivo",
+   "link": "https://www.filo.news/noticia/2026/10/18/racing-e-independiente-cruzan-sus-caminos-en-un-nuevo-clasico-decisivo",
+   "excerpt": "El Estadio Presidente Perón albergará una edición trascendental del derbi de Avellaneda en medio de necesidades contrapuestas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/images51)1663_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/la-ucr-exige-reforzar-los-fondos-de-discapacidad-y-mantener-la-movilidad-en-las-auh-para-aprobar-el-presupuesto-2027",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La UCR exige reforzar los fondos de discapacidad y mantener la movilidad en las AUH para aprobar el presupuesto 2027",
+   "link": "https://www.filo.news/noticia/2026/10/18/la-ucr-exige-reforzar-los-fondos-de-discapacidad-y-mantener-la-movilidad-en-las-auh-para-aprobar-el-presupuesto-2027",
+   "excerpt": "El bloque radical condicionó su apoyo a la ley de leyes planteando exigencias clave en materia de prestaciones sociales y financiamiento universitario.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/capturadepantalla_2026-10-10_0857586049_re.png",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
   {
    "id": "https://www.theverge.com/?p=1013025",
    "source": "The Verge · Apple",
@@ -351,7 +435,7 @@ window.CIRCO = {
    "id": "https://www.filo.news/noticia/2026/10/17/el-papa-leon-xiv-recibio-el-alta-medica-y-retomara-sus-actividades-publicas-en-el-vaticano",
    "source": "Filo.News",
    "category": "Notis",
-   "title": "El Papa León xiv recibió el alta médica y retomará sus actividades públicas en el vaticano",
+   "title": "El Papa León XIV recibió el alta médica y retomará sus actividades públicas en el vaticano",
    "link": "https://www.filo.news/noticia/2026/10/17/el-papa-leon-xiv-recibio-el-alta-medica-y-retomara-sus-actividades-publicas-en-el-vaticano",
    "excerpt": "El pontífice abandonó el Policlínico Gemelli tras recuperarse de una cirugía pulmonar y este domingo rezará el habitual Ángelus",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/17/capturadepantalla_2026-10-17_0848027636_re.png",
@@ -816,42 +900,6 @@ window.CIRCO = {
    "og_checked": false
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/16/cinco-series-y-documentales-que-llegan-esta-semana-al-streaming",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Cinco series y documentales que llegan esta semana al streaming",
-   "link": "https://www.filo.news/noticia/2026/10/16/cinco-series-y-documentales-que-llegan-esta-semana-al-streaming",
-   "excerpt": "Repasamos los estrenos más destacados para que puedas maratonear el fin de semana. Lanzamientos, nuevos episodios y más en esta nota.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/tmtrailer2still_44119_re.jpg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/la-mora-familiar-freno-su-suba-en-agosto-pero-continua-en-niveles-elevados",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La mora familiar frenó su suba en agosto pero continúa en niveles elevados",
-   "link": "https://www.filo.news/noticia/2026/10/16/la-mora-familiar-freno-su-suba-en-agosto-pero-continua-en-niveles-elevados",
-   "excerpt": "El atraso crediticio de los hogares bajó al 12,8%, aunque prácticamente se duplicó en el último año según datos del Banco Central.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/filo1-_2026-10-16t182910.9251314_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/trasladaron-a-mas-del-93-de-los-presos-desde-devoto-a-marcos-paz",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Trasladaron a más del 93% de los presos desde Devoto a Marcos Paz",
-   "link": "https://www.filo.news/noticia/2026/10/16/trasladaron-a-mas-del-93-de-los-presos-desde-devoto-a-marcos-paz",
-   "excerpt": "En la quinta jornada, se derivaron otros 207 internos al nuevo Complejo Penitenciario Federal VIII de Marcos Paz, por lo que ya son 1.400 los internos que se encuentran alojados.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/capturadepantalla_2026-10-16_a_la(s)_4.00.24 p. m.6063_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201158",
    "source": "CIPER",
    "category": "Notis",
@@ -898,6 +946,18 @@ window.CIRCO = {
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
    "og_checked": true
+  },
+  {
+   "id": "yt:video:jEOUUAPC1sc",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
+   "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
+   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
+   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "day": "2026-10-15",
+   "first_seen": "2026-10-18",
+   "og_checked": false
   },
   {
    "id": "https://www.theverge.com/?p=1012293",
@@ -967,30 +1027,6 @@ window.CIRCO = {
    "link": "https://www.applesfera.com/apple-1/alla-hombre-meme-apple-quien-craig-federighi-cual-su-papel-iphone-ipad-mac",
    "excerpt": "Craig Federighi es uno de los rostros más visibles y reconocidos de Apple . En cada uno de los eventos, y sobre todo en las WWDC, es quien introduce las novedades en software de la compañía. Es un tipo divertido y se nota por cómo sus presentaciones van siempre acompañadas de…",
    "image": "https://i.blogs.es/53811e/craig-federighi/1024_2000.jpeg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.applesfera.com/aplicaciones-ios/whatsapp-abre-sus-llamadas-a-tenga-whatsapp",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "WhatsApp abre sus llamadas a cualquiera, aunque ni tenga WhatsApp",
-   "link": "https://www.applesfera.com/aplicaciones-ios/whatsapp-abre-sus-llamadas-a-tenga-whatsapp",
-   "excerpt": "Qué tiempos aquellos en los que WhatsApp servía solo para mandar mensajes. Con los años llegaron las llamadas de voz, luego las de vídeo... y ahora, en 2026, la aplicación quiere competir con Google Meet y con Zoom . Para plantarles cara le faltaba una pieza por completar: poder…",
-   "image": "https://i.blogs.es/1309a0/llamadas-whatsapp/1024_2000.jpeg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.applesfera.com/rumores/apple-prepara-iphone-18-base-a-grande-no-esta-claro-que-consiga-repetir-exito",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Apple prepara el iPhone 18 base a lo grande, aunque no está claro que consiga repetir el éxito",
-   "link": "https://www.applesfera.com/rumores/apple-prepara-iphone-18-base-a-grande-no-esta-claro-que-consiga-repetir-exito",
-   "excerpt": "El iPhone 17 ha sido el más vendido de la historia . Razones no le faltaron: mantuvo el precio, dobló el almacenamiento y trajo los 120 Hz a la pantalla. ¿Qué podrá hacer frente a esto el iPhone 18? De momento, Apple ha presentado solo los iPhone 18 Pro . El iPhone 18 base se va…",
-   "image": "https://i.blogs.es/113321/iphone-18/1024_2000.jpeg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
    "og_checked": false
@@ -1452,18 +1488,6 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "https://www.theverge.com/?p=1009862",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Google finally releases Gemini 4 Argon",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-   "excerpt": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
    "id": "https://musebyclios.com/?p=133639",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1740,6 +1764,18 @@ window.CIRCO = {
    "og_checked": true
   },
   {
+   "id": "yt:video:rkK8ZyzYyEA",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "8 GitHub Repos To Go Viral and Make Money",
+   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
+   "excerpt": "In this solo episode, I walk through eight GitHub repos and AI skills that I test at night and on weekends. The list covers launch videos, social research, local voice and dubbing, editable decks, agent teams, lead-magnet tools, idea stress-testing, and design guidance. For each…",
+   "image": "https://i3.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
+   "day": "2026-10-08",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
    "id": "https://theinspiration.com/?p=54708",
    "source": "The Inspiration",
    "category": "Publi",
@@ -1894,6 +1930,18 @@ window.CIRCO = {
    "day": "2026-10-07",
    "first_seen": "2026-10-17",
    "og_checked": true
+  },
+  {
+   "id": "yt:video:bQPU6UJ4iCw",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "13 Businesses for the Age of AI",
+   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
+   "excerpt": "In this solo episode, I walk through the 13 businesses I think are left to build in the agentic era. I believe that in a world of agents and abundance, owning the right assets puts you in a better position. For each business, I explain what it is, why it holds up in a world of…",
+   "image": "https://i3.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
+   "day": "2026-10-06",
+   "first_seen": "2026-10-18",
+   "og_checked": false
   },
   {
    "id": "https://musebyclios.com/?p=133380",
