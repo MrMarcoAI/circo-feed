@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-18T10:52-03:00",
+ "updated": "2026-10-18T13:17-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -60,6 +60,30 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.applesfera.com/curiosidades/steve-jobs-encargo-avion-privado-identico-al-otro-multimillonario-solo-diferenciaba-boton",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Steve Jobs encargó un avión privado idéntico al de otro multimillonario. Solo los diferenciaba un botón",
+   "link": "https://www.applesfera.com/curiosidades/steve-jobs-encargo-avion-privado-identico-al-otro-multimillonario-solo-diferenciaba-boton",
+   "excerpt": "La influencia de los amigos es tal que muchos acabamos comprando algo solo porque se lo hemos visto a alguno de ellos. Lo que pocos hemos podido hacer es comprarnos un avión como hizo Steve Jobs, quien se encaprichó cuando vio la aeronave de Larry Ellison , fundador de Oracle y…",
+   "image": "https://i.blogs.es/f079ac/jobs-avion/1024_2000.jpeg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.applesfera.com/trucos/ocho-consejos-ajustes-para-usar-iphone-sola-mano-incluso-iphone-max",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Ocho consejos y ajustes para usar el iPhone con una sola mano (incluso si es un iPhone Max)",
+   "link": "https://www.applesfera.com/trucos/ocho-consejos-ajustes-para-usar-iphone-sola-mano-incluso-iphone-max",
+   "excerpt": "Me pase años defendiendo la comodidad de los iPhone pequeños hasta que la batería y la necesidad puntual de una mayor pantalla me hizo pasarme al bando de los 'Plus' y 'Max'. Sin embargo, no he renunciado a usar el iPhone con una sola mano . No de forma continua, pero sí…",
+   "image": "https://i.blogs.es/bbd063/iphone-en-una-mano/1024_2000.jpeg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
    "id": "https://www.applesfera.com/seleccion/este-cargador-inalambrico-anker-carga-tres-dispositivos-a-vez-esta-casi-a-mitad-precio-mejor-que-te-bolsillo",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -84,18 +108,6 @@ window.CIRCO = {
    "og_checked": false
   },
   {
-   "id": "https://www.theverge.com/?p=1013485",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Trump says Google kisses his ass",
-   "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
-   "excerpt": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": true
-  },
-  {
    "id": "https://musebyclios.com/?p=133779",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -106,6 +118,66 @@ window.CIRCO = {
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
    "og_checked": true
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/16/maxi-pachecoy-la-musica-como-herramienta-para-sanar-sus-raices-chaquenas-y-las-historias-detras-de-el-artesano",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Maxi Pachecoy: la música como herramienta para sanar, sus raíces chaqueñas y las historias detrás de El Artesano",
+   "link": "https://www.filo.news/noticia/2026/10/16/maxi-pachecoy-la-musica-como-herramienta-para-sanar-sus-raices-chaquenas-y-las-historias-detras-de-el-artesano",
+   "excerpt": "El músico presenta su nuevo álbum, un trabajo que cruza folclore, pop, rock nacional y canción de autor. En diálogo con Filo.news, repasó las influencias que marcaron su recorrido y contó cómo surgieron las colaboraciones con Raúl Rufino, Rubén Goldín, Sol Mianovich, Pablo Dacal…",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/diputados4)7751.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/resumen-leon-xiv-retoma-sus-actividades-colectivos-del-amba-reducen-frecuencias-hoy-el-clasico-de-avellaneda",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Resumen: León XIV retoma sus actividades - Colectivos del AMBA reducen frecuencias - Hoy el clásico de Avellaneda",
+   "link": "https://www.filo.news/noticia/2026/10/18/resumen-leon-xiv-retoma-sus-actividades-colectivos-del-amba-reducen-frecuencias-hoy-el-clasico-de-avellaneda",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/okpzpz3364_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/el-gobierno-nacional-difundio-un-mensaje-institucional-por-el-dia-de-la-madre",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El gobierno nacional difundió un mensaje institucional por el Día de la Madre",
+   "link": "https://www.filo.news/noticia/2026/10/18/el-gobierno-nacional-difundio-un-mensaje-institucional-por-el-dia-de-la-madre",
+   "excerpt": "La Casa Rosada publicó una pieza audiovisual en redes sociales destacando la importancia de los valores de la familia argentina.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/capturadepantalla_2026-10-18_1133014617_re.png",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/crecida-del-parana-por-el-nino-deja-evacuados-en-argentina-y-paraguay-y-buscan-a-tres-desaparecidos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Crecida del Paraná por El Niño deja evacuados en Argentina y Paraguay y buscan a tres desaparecidos",
+   "link": "https://www.filo.news/noticia/2026/10/18/crecida-del-parana-por-el-nino-deja-evacuados-en-argentina-y-paraguay-y-buscan-a-tres-desaparecidos",
+   "excerpt": "El aumento del caudal ya obligó a familias a abandonar sus hogares en Corrientes y afecta a unas 2.000 personas en Paraguay. En Santa Fe, Prefectura busca a tres hombres que cayeron al río desde una lancha.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/diputados3)6410_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/bomberos-salvaron-a-dos-obreros-colgados-en-un-piso-siete-en-formosa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Bomberos salvaron a dos obreros colgados en un piso siete en Formosa",
+   "link": "https://www.filo.news/noticia/2026/10/18/bomberos-salvaron-a-dos-obreros-colgados-en-un-piso-siete-en-formosa",
+   "excerpt": "El personal del cuerpo de rescate descendió en rapel desde la terraza para poner a resguardo a los operarios",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/qcp5mtj_1256x620__15723_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/18/leon-xiv-reaparecio-tras-su-operacion-de-pulmon-y-confirmo-que-retomara-su-actividad-de-forma-gradual",
@@ -840,66 +912,6 @@ window.CIRCO = {
    "og_checked": false
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/16/inflacion-mayorista-el-aumento-del-petroleo-impulso-una-suba-del-3-2-en-septiembre",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Inflación mayorista: el aumento del petróleo impulsó una suba del 3,2% en septiembre",
-   "link": "https://www.filo.news/noticia/2026/10/16/inflacion-mayorista-el-aumento-del-petroleo-impulso-una-suba-del-3-2-en-septiembre",
-   "excerpt": "El indicador del INDEC superó en 1,3 puntos al IPC del mes y cortó el sendero de desaceleración previa.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/filo1-_2026-10-16t185530.2705675_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/remate-judicial-de-activos-de-lazaro-baez-camionetas-desde-los-usd2-2-millones",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Rematan camionetas, utilitarios y obradores de la empresa de Lázaro Báez",
-   "link": "https://www.filo.news/noticia/2026/10/16/remate-judicial-de-activos-de-lazaro-baez-camionetas-desde-los-usd2-2-millones",
-   "excerpt": "El catálogo digital del máximo tribunal incorporó bienes de la constructora que operó en Santa Cruz entre 2003 y 2015.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/filo1-_2026-10-16t184330.2896382_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/sigue-la-fecha-13-del-torneo-clausura-2026-dias-horarios-y-tv-de-los-partidos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Sigue la fecha 13 del Torneo Clausura 2026: días, horarios y TV de los partidos",
-   "link": "https://www.filo.news/noticia/2026/10/16/sigue-la-fecha-13-del-torneo-clausura-2026-dias-horarios-y-tv-de-los-partidos",
-   "excerpt": "Tras la victoria de Gimnasia ante Huracán, la jornada continuará este viernes con dos encuentros.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/webnpelota7779_re.jpg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/el-eaaf-identifico-los-restos-de-carlos-rafael-medina-desaparecido-durante-la-ultima-dictadura-militar",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El EAAF identificó los restos de Carlos Rafael Medina, desaparecido durante la última dictadura militar",
-   "link": "https://www.filo.news/noticia/2026/10/16/el-eaaf-identifico-los-restos-de-carlos-rafael-medina-desaparecido-durante-la-ultima-dictadura-militar",
-   "excerpt": "El joven tenía 20 años y fue secuestrado de su casa en Tucumán el 15 de abril de 1976. Sus restos fueron hallados en el Pozo de Vargas, la mayor fosa clandestina de la represión ilegal descubierta en Argentina.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/disenosin_título_-_2026-10-16t161411.2941912_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/el-enfrentamiento-entre-dalma-y-jana-por-discrepancias-en-el-juicio-por-la-muerte-de-diego-maradona",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El enfrentamiento entre Dalma y Jana por discrepancias en el Juicio por la muerte de Diego Maradona",
-   "link": "https://www.filo.news/noticia/2026/10/16/el-enfrentamiento-entre-dalma-y-jana-por-discrepancias-en-el-juicio-por-la-muerte-de-diego-maradona",
-   "excerpt": "Las hermanas discutieron luego de que Jana se uniera al pedido de las hermanas de Diego Maradona y pidieran la absolución de Carlos Díaz, psicólogo que lo atendió en sus últimos días.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/jana7506_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201158",
    "source": "CIPER",
    "category": "Notis",
@@ -1003,30 +1015,6 @@ window.CIRCO = {
    "link": "https://www.applesfera.com/iphone/nos-metieron-doblada-revuelta-broncano-se-toma-humor-lanzamiento-iphone-duo",
    "excerpt": "Los plegables llevan ya unos años entre nosotros y Apple ha llegado bastante más tarde que otros . Sin embargo, lo comentan los medios de tecnología, las redes y, de vez en cuando, hasta las televisiones generalistas. El iPhone Duo tuvo su momento de gloria (por llamarlo de…",
    "image": "https://i.blogs.es/b37554/iphone-duo-revuelta/1024_2000.jpeg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.applesfera.com/curiosidades/su-visita-a-japon-steve-jobs-fue-arrestado-al-salir-llevar-encima-estrellas-ninja",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "En su visita a Japón, Steve Jobs fue arrestado al salir por llevar encima estrellas ninja",
-   "link": "https://www.applesfera.com/curiosidades/su-visita-a-japon-steve-jobs-fue-arrestado-al-salir-llevar-encima-estrellas-ninja",
-   "excerpt": "La peculiar personalidad de Steve Jobs nos ha dejado innumerables anécdotas a lo largo de los años. Desde pedir que despidieran a la cúpula directiva de Starbucks hasta una mansión colonial española en California que intentó derribar. Todas estas historias son increíbles, pero…",
-   "image": "https://i.blogs.es/dc91ff/jobs-estrellas-ninja/1024_2000.jpeg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.applesfera.com/apple-1/alla-hombre-meme-apple-quien-craig-federighi-cual-su-papel-iphone-ipad-mac",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Más allá del \"hombre meme\" de Apple. Quién es Craig Federighi y cuál es su papel en los iPhone, iPad y Mac",
-   "link": "https://www.applesfera.com/apple-1/alla-hombre-meme-apple-quien-craig-federighi-cual-su-papel-iphone-ipad-mac",
-   "excerpt": "Craig Federighi es uno de los rostros más visibles y reconocidos de Apple . En cada uno de los eventos, y sobre todo en las WWDC, es quien introduce las novedades en software de la compañía. Es un tipo divertido y se nota por cómo sus presentaciones van siempre acompañadas de…",
-   "image": "https://i.blogs.es/53811e/craig-federighi/1024_2000.jpeg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
    "og_checked": false
@@ -1461,6 +1449,18 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1700379-scaled.jpg",
    "day": "2026-10-14",
    "first_seen": "2026-10-17",
+   "og_checked": true
+  },
+  {
+   "id": "https://www.theverge.com/?p=1009862",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Google finally releases Gemini 4 Argon",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+   "excerpt": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-13",
+   "first_seen": "2026-10-18",
    "og_checked": true
   },
   {
