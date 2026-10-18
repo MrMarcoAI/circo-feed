@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-18T18:12-03:00",
+ "updated": "2026-10-18T20:50-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -154,6 +154,42 @@ window.CIRCO = {
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
    "og_checked": true
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/cancer-de-mama-en-argentina-mas-de-20-000-casos-al-ano-y-la-importancia-de-la-deteccion-temprana",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Cáncer de mama en Argentina: más de 20.000 casos al año y la importancia de la detección temprana",
+   "link": "https://www.filo.news/noticia/2026/10/18/cancer-de-mama-en-argentina-mas-de-20-000-casos-al-ano-y-la-importancia-de-la-deteccion-temprana",
+   "excerpt": "La mortalidad por esta enfermedad registra una tendencia descendente, mientras que los avances médicos permiten ofrecer tratamientos personalizados. Especialistas explicaron cuándo realizarse una mamografía y qué síntomas requieren atención.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/sasunbughdaryanfs3nkkgq69c-unsplash2308_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/canada-al-menos-cuatro-militares-murieron-y-decenas-resultaron-heridos-por-un-incendio-en-una-base-militar",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Canadá: al menos cuatro militares murieron y decenas resultaron heridos por un incendio en una base militar",
+   "link": "https://www.filo.news/noticia/2026/10/18/canada-al-menos-cuatro-militares-murieron-y-decenas-resultaron-heridos-por-un-incendio-en-una-base-militar",
+   "excerpt": "El fuego se desató en una zona de entrenamiento de las Fuerzas Armadas, en la provincia de Alberta. El primer ministro Mark Carney confirmó las víctimas y las autoridades investigan las causas del siniestro.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/20261018t190209z_2059396955_rc2u5oa1pp6f_rtrmadp_3_canada-alberta-wainwright_(1)7336_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/el-seguro-por-desempleo-aumento-casi-un-30-en-argentina",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El seguro por desempleo aumentó casi un 30% en Argentina",
+   "link": "https://www.filo.news/noticia/2026/10/18/el-seguro-por-desempleo-aumento-casi-un-30-en-argentina",
+   "excerpt": "Entre enero y septiembre de 2026, un total de 145.004 trabajadores comenzaron a cobrar la prestación tras perder su empleo. La industria, el comercio y la construcción fueron los sectores más afectados.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/af0df4f212914686-a181-ce66863e69122836_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/18/racing-e-independiente-empataron-1-1-en-el-clasico-de-avellaneda",
@@ -559,42 +595,6 @@ window.CIRCO = {
    "link": "https://www.filo.news/noticia/2026/10/17/kicillof-encabezo-el-acto-por-el-dia-de-la-lealtad-y-sostuvo-que-sin-justicia-social-no-hay-libertad-verdadera",
    "excerpt": "El gobernador bonaerense lideró un masivo encuentro peronista en La Matanza, donde criticó al Gobierno nacional y vaticinó el retorno del espacio al poder.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/17/xcoetctvk1200x0_22666_re.jpg",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/17/babasonicos-en-buenos-aires-la-reinvencion-constante-de-una-banda-que-no-envejece",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Babasónicos en Buenos Aires: la reinvención constante de una banda que no envejece",
-   "link": "https://www.filo.news/noticia/2026/10/17/babasonicos-en-buenos-aires-la-reinvencion-constante-de-una-banda-que-no-envejece",
-   "excerpt": "Del sonido de Jessico a las canciones de Cuerpos Vol. 1, el grupo recorrió distintas etapas de su discografía en el estadio de Villa Crespo, donde volverá a presentarse este sábado 17 de octubre.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/babasonicosmovistar16_oct_bonetto_0633995_re.jpeg",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/17/resumen-pj-compara-a-cfk-con-peron-papa-leon-xvi-de-alta-preocupacion-por-el-dibu-martinez",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Resumen:  PJ compara a CFK con Peron - Papa Leon XVI de alta - Preocupación por el Dibu Martinez",
-   "link": "https://www.filo.news/noticia/2026/10/17/resumen-pj-compara-a-cfk-con-peron-papa-leon-xvi-de-alta-preocupacion-por-el-dibu-martinez",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/capturadepantalla_2026-10-17_1127498375_re.png",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/17/maxima-preocupacion-por-el-dibu-tras-sufrir-un-fuerte-golpe-en-el-triunfo-de-chelsea-ante-everton",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Máxima preocupación por el Dibu tras sufrir un fuerte golpe en el triunfo de Chelsea ante Everton",
-   "link": "https://www.filo.news/noticia/2026/10/17/maxima-preocupacion-por-el-dibu-tras-sufrir-un-fuerte-golpe-en-el-triunfo-de-chelsea-ante-everton",
-   "excerpt": "El arquero argentino debió ser retirado inmovilizado en camilla tras chocar la cabeza contra un rival durante la séptima fecha de la Premier League.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/capturadepantalla_2026-10-17_1135205128_re.png",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
    "og_checked": false
