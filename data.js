@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-17T20:41-03:00",
+ "updated": "2026-10-18T02:18-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -20,11 +20,6 @@ window.CIRCO = {
    "name": "The Verge · IA",
    "category": "Tech + la IA",
    "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
-  },
-  {
-   "name": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
   },
   {
    "name": "The Inspiration",
@@ -57,7 +52,12 @@ window.CIRCO = {
    "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
- "errors": [],
+ "errors": [
+  {
+   "url": "https://www.youtube.com/@GregIsenberg",
+   "error": "HTTP Error 404: Not Found"
+  }
+ ],
  "items": [
   {
    "id": "https://www.theverge.com/?p=1013025",
@@ -1068,18 +1068,6 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "yt:video:jEOUUAPC1sc",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
-   "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
    "id": "https://musebyclios.com/?p=133743",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1752,18 +1740,6 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "yt:video:rkK8ZyzYyEA",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "8 GitHub Repos To Go Viral and Make Money",
-   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
-   "excerpt": "In this solo episode, I walk through eight GitHub repos and AI skills that I test at night and on weekends. The list covers launch videos, social research, local voice and dubbing, editable decks, agent teams, lead-magnet tools, idea stress-testing, and design guidance. For each…",
-   "image": "https://i3.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
-   "day": "2026-10-08",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
    "id": "https://theinspiration.com/?p=54708",
    "source": "The Inspiration",
    "category": "Publi",
@@ -1920,18 +1896,6 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "yt:video:bQPU6UJ4iCw",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "13 Businesses for the Age of AI",
-   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
-   "excerpt": "In this solo episode, I walk through the 13 businesses I think are left to build in the agentic era. I believe that in a world of agents and abundance, owning the right assets puts you in a better position. For each business, I explain what it is, why it holds up in a world of…",
-   "image": "https://i3.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
-   "day": "2026-10-06",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
    "id": "https://musebyclios.com/?p=133380",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -2072,18 +2036,6 @@ window.CIRCO = {
    "excerpt": "The NFL Shop returns for its second year with a fresh campaign called “Fan Like a Pro.” The work stars players, fans and influencers, stressing personal style above all. It aims to hype NFL fandom beyond the playing field through representations of everyday life. These include…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/04125716/Competitive-Looks-NFL-Shop.jpg",
    "day": "2026-10-04",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://musebyclios.com/?p=133281",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Lauren Greenfield Chronicles Teens’ Complex Lives in ‘Social Studies’ Exhibition, an Extension of the FX Docuseries",
-   "link": "https://musebyclios.com/2-minutes-with/lauren-greenfield-chronicles-teens-complex-lives-in-social-studies-exhibition-an-extension-of-her-fx-docuseries/?utm_source=rss&utm_medium=rss&utm_campaign=lauren-greenfield-chronicles-teens-complex-lives-in-social-studies-exhibition-an-extension-of-her-fx-docuseries",
-   "excerpt": "“The exhibition lets me deconstruct the media itself. We take what normally lives on a 6-inch screen and blow it up to the scale of the human body, slowing down the scroll so you can actually see it.” That’s how filmmaker and photographer Lauren Greenfield describes “Social…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/14093832/LAU.jpg",
-   "day": "2026-10-03",
    "first_seen": "2026-10-17",
    "og_checked": true
   }
