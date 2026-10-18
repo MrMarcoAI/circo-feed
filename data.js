@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-18T13:17-03:00",
+ "updated": "2026-10-18T18:12-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -108,6 +108,42 @@ window.CIRCO = {
    "og_checked": false
   },
   {
+   "id": "https://www.theverge.com/?p=1013485",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Trump says Google kisses his ass",
+   "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+   "excerpt": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": true
+  },
+  {
+   "id": "https://www.theverge.com/?p=1013541",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "A woman was arrested in Philly for blocking a delivery robot",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+   "excerpt": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": true
+  },
+  {
+   "id": "https://musebyclios.com/?p=133784",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Even Realities Asks: What If Smart Glasses Exposed Your Private Life to the World?",
+   "link": "https://musebyclios.com/advertising/even-realities-asks-what-if-smart-glasses-exposed-your-private-life-to-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=even-realities-asks-what-if-smart-glasses-exposed-your-private-life-to-the-world",
+   "excerpt": "During a posh hotel holiday, you decide to take in a movie. But recent scenes from your life—moments you assumed were private—flash across the screen as the crowd bursts into laughter. Maybe next time try a staycation instead? There’s no escape and a creepy twist at the end of…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/18160825/dolla.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": true
+  },
+  {
    "id": "https://musebyclios.com/?p=133779",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -118,6 +154,78 @@ window.CIRCO = {
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
    "og_checked": true
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/racing-e-independiente-empataron-1-1-en-el-clasico-de-avellaneda",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Racing e Independiente empataron 1-1 en el clásico de Avellaneda",
+   "link": "https://www.filo.news/noticia/2026/10/18/racing-e-independiente-empataron-1-1-en-el-clasico-de-avellaneda",
+   "excerpt": "La Academia comenzó ganando en el Cilindro, pero el Rojo reaccionó en el segundo tiempo y consiguió la igualdad de penal. El encuentro terminó con un punto para cada equipo.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/202610261018815-scaled_(1)6429.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/brasil-busca-implementar-el-transporte-publico-gratuito-los-fines-de-semana-como-funcionaria-la-medida",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Brasil busca implementar el transporte público gratuito los fines de semana: cómo funcionaría la medida",
+   "link": "https://www.filo.news/noticia/2026/10/18/brasil-busca-implementar-el-transporte-publico-gratuito-los-fines-de-semana-como-funcionaria-la-medida",
+   "excerpt": "El presidente Lula da Silva anunció que enviará un proyecto al Congreso para eliminar el costo del boleto los sábados, domingos y feriados. La iniciativa podría reducir la inflación y aumentar el consumo.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/5409__(1)5436_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/dos-de-cada-tres-argentinos-se-quedan-sin-dinero-antes-del-dia-20-y-mas-de-la-mitad-se-endeudo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Dos de cada tres argentinos se quedan sin dinero antes del día 20 y más de la mitad se endeudó",
+   "link": "https://www.filo.news/noticia/2026/10/18/dos-de-cada-tres-argentinos-se-quedan-sin-dinero-antes-del-dia-20-y-mas-de-la-mitad-se-endeudo",
+   "excerpt": "Un informe de Zentrix Consultora reveló que el 56,2% de los encuestados tomó deuda en los últimos seis meses, principalmente para cubrir alimentos, salud y servicios. Solo el 9,8% logra ahorrar.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/towfiqubarbhuiyajhevwhcbvyw-unsplash_(1)2898_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/arba-lanzo-un-plan-de-pagos-con-descuentos-de-hasta-el-40-como-acceder-y-que-impuestos-incluye",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "ARBA lanzó un plan de pagos con descuentos de hasta el 40%: cómo acceder y qué impuestos incluye",
+   "link": "https://www.filo.news/noticia/2026/10/18/arba-lanzo-un-plan-de-pagos-con-descuentos-de-hasta-el-40-como-acceder-y-que-impuestos-incluye",
+   "excerpt": "El programa comenzará el 26 de octubre en la provincia de Buenos Aires y permitirá cancelar obligaciones impositivas con bonificaciones y financiación de hasta seis cuotas. Los beneficios variarán según la fecha de adhesión.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/rupixenq59hmzk38equnsplash1404_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/francia-vivio-una-jornada-de-disturbios-con-1-800-detenidos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Francia vivió una jornada de disturbios con 1.800 detenidos",
+   "link": "https://www.filo.news/noticia/2026/10/18/francia-vivio-una-jornada-de-disturbios-con-1-800-detenidos",
+   "excerpt": "Las protestas por el costo de vida derivaron en saqueos, incendios y duros enfrentamientos con la policía.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/gettyimages2300183301202610180218224486837_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/18/que-se-sabe-de-las-denuncias-contra-hernan-casciari-por-presunta-estafa-y-que-respondio-el-escritor",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Qué se sabe de las denuncias contra Hernán Casciari por presunta estafa y qué respondió el escritor",
+   "link": "https://www.filo.news/noticia/2026/10/18/que-se-sabe-de-las-denuncias-contra-hernan-casciari-por-presunta-estafa-y-que-respondio-el-escritor",
+   "excerpt": "El fundador de Orsai fue denunciado por 18 inversores que reclaman por los resultados económicos de proyectos audiovisuales, entre ellos la película La muerte de un comediante. Casciari reconoció que hubo errores en la gestión, pero negó una intención de fraude.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/diputados5)1733_re.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": false
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/16/maxi-pachecoy-la-musica-como-herramienta-para-sanar-sus-raices-chaquenas-y-las-historias-detras-de-el-artesano",
@@ -214,6 +322,30 @@ window.CIRCO = {
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
    "og_checked": false
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201184",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "«La tumba de los libres: Las muertes del estallido social»: extracto del libro de Edgar de la Vega y Paula Rivera",
+   "link": "https://www.ciperchile.cl/2026/10/18/la-tumba-de-los-libres-las-muertes-del-estallido-social-extracto-del-libro-de-edgar-de-la-vega-y-paula-rivera/?utm_source=rss&utm_medium=rss&utm_campaign=la-tumba-de-los-libres-las-muertes-del-estallido-social-extracto-del-libro-de-edgar-de-la-vega-y-paula-rivera",
+   "excerpt": "La entrada «La tumba de los libres: Las muertes del estallido social»: extracto del libro de Edgar de la Vega y Paula Rivera se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/estallido-2.jpeg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": true
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201192",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "¿Cómo hacer más atractiva la carrera docente? La pregunta de siempre desde una mirada OCDE",
+   "link": "https://www.ciperchile.cl/2026/10/18/como-hacer-mas-atractiva-la-carrera-docente-la-pregunta-de-siempre-desde-una-mirada-ocde/?utm_source=rss&utm_medium=rss&utm_campaign=como-hacer-mas-atractiva-la-carrera-docente-la-pregunta-de-siempre-desde-una-mirada-ocde",
+   "excerpt": "La entrada ¿Cómo hacer más atractiva la carrera docente? La pregunta de siempre desde una mirada OCDE se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_910024-scaled.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "og_checked": true
   },
   {
    "id": "https://www.theverge.com/?p=1013025",
@@ -463,54 +595,6 @@ window.CIRCO = {
    "link": "https://www.filo.news/noticia/2026/10/17/maxima-preocupacion-por-el-dibu-tras-sufrir-un-fuerte-golpe-en-el-triunfo-de-chelsea-ante-everton",
    "excerpt": "El arquero argentino debió ser retirado inmovilizado en camilla tras chocar la cabeza contra un rival durante la séptima fecha de la Premier League.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/17/capturadepantalla_2026-10-17_1135205128_re.png",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/17/el-partido-justicialista-comparo-la-situacion-de-cfk-con-la-proscripcion-de-peron-y-exigio-su-libertad",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Partido Justicialista comparó la situación de CFK con la proscripción de Perón y exigió su libertad",
-   "link": "https://www.filo.news/noticia/2026/10/17/el-partido-justicialista-comparo-la-situacion-de-cfk-con-la-proscripcion-de-peron-y-exigio-su-libertad",
-   "excerpt": "En el marco del Día de la Lealtad, el PJ emitió un documento institucional denunciando persecución judicial e inhabilitación política.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/capturadepantalla_2026-10-17_1127498649_re.png",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/17/donald-trump-suspendio-el-nuevo-paquete-de-sanciones-contra-rusia-por-razones-de-interes-nacional",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Donald Trump suspendió el nuevo paquete de sanciones contra rusia por razones de interés nacional",
-   "link": "https://www.filo.news/noticia/2026/10/17/donald-trump-suspendio-el-nuevo-paquete-de-sanciones-contra-rusia-por-razones-de-interes-nacional",
-   "excerpt": "El mandatario estadounidense paralizó la aplicación de la Ley Graham a semanas de las elecciones de medio término.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/20260424t134609z-1950836466-rc2r7ga497rz-rtrmadp-3-usa-trump-g20-russia4952_re.jpg",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/17/productores-ganaderos-evacuan-de-urgencia-miles-de-animales-de-las-islas-del-rio-parana-por-una-crecida-historica",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Productores ganaderos evacúan de urgencia miles de animales de las islas del río Paraná por una crecida histórica",
-   "link": "https://www.filo.news/noticia/2026/10/17/productores-ganaderos-evacuan-de-urgencia-miles-de-animales-de-las-islas-del-rio-parana-por-una-crecida-historica",
-   "excerpt": "El rápido incremento del caudal obliga a trasladar rodeos hacia tierras altas en los departamentos santafesinos de General Obligado y San Javier",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/parana9295_re.png",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/17/el-papa-leon-xiv-recibio-el-alta-medica-y-retomara-sus-actividades-publicas-en-el-vaticano",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Papa León XIV recibió el alta médica y retomará sus actividades públicas en el vaticano",
-   "link": "https://www.filo.news/noticia/2026/10/17/el-papa-leon-xiv-recibio-el-alta-medica-y-retomara-sus-actividades-publicas-en-el-vaticano",
-   "excerpt": "El pontífice abandonó el Policlínico Gemelli tras recuperarse de una cirugía pulmonar y este domingo rezará el habitual Ángelus",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/17/capturadepantalla_2026-10-17_0848027636_re.png",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
    "og_checked": false
@@ -888,30 +972,6 @@ window.CIRCO = {
    "og_checked": false
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/16/visita-diplomatica-dos-altos-funcionarios-de-trump-viajaran-a-la-argentina-la-semana-proxima",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Visita diplomática: dos altos funcionarios de Trump viajarán a la Argentina la semana próxima",
-   "link": "https://www.filo.news/noticia/2026/10/16/visita-diplomatica-dos-altos-funcionarios-de-trump-viajaran-a-la-argentina-la-semana-proxima",
-   "excerpt": "El Departamento de Estado confirmó la comitiva tras un diálogo entre Milei y Rubio enfocado en comercio bilateral e inversiones.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/filo1-_2026-10-16t193404.8892668_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/polemica-en-la-onu-el-gobierno-de-milei-se-abstuvo-de-votar-contra-el-colonialismo",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Polémica en la ONU: el Gobierno de Milei se abstuvo de votar contra el colonialismo",
-   "link": "https://www.filo.news/noticia/2026/10/16/polemica-en-la-onu-el-gobierno-de-milei-se-abstuvo-de-votar-contra-el-colonialismo",
-   "excerpt": "La representación argentina no acompañó la ratificación de la resolución que sirve de base al reclamo soberano por Malvinas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/16/filo1-_2026-10-16t192303.5185412_re.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201158",
    "source": "CIPER",
    "category": "Notis",
@@ -973,8 +1033,8 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1012293",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
    "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
    "excerpt": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX…",
@@ -1452,18 +1512,6 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "https://www.theverge.com/?p=1009862",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Google finally releases Gemini 4 Argon",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-   "excerpt": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-18",
-   "og_checked": true
-  },
-  {
    "id": "https://www.theverge.com/?p=1009066",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1591,30 +1639,6 @@ window.CIRCO = {
    "link": "https://www.ciperchile.cl/2026/10/13/fmi-baja-proyeccion-de-crecimiento-para-chile-a-06-migueles-admite-que-le-pidio-a-vivanco-apurar-fallo-de-fundamenta-y-postergan-para-2027-preparacion-del-juicio-oral-contra-luis-hermosilla/?utm_source=rss&utm_medium=rss&utm_campaign=fmi-baja-proyeccion-de-crecimiento-para-chile-a-06-migueles-admite-que-le-pidio-a-vivanco-apurar-fallo-de-fundamenta-y-postergan-para-2027-preparacion-del-juicio-oral-contra-luis-hermosilla",
    "excerpt": "La entrada FMI baja proyección de crecimiento para Chile a 0,6%; Migueles admite que le pidió a Vivanco apurar fallo de Fundamenta, y postergan para 2027 preparación del juicio oral contra Luis Hermosilla se publicó primero en CIPER Chile .",
    "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201036",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "La diplomacia entre Chile y Estados Unidos. Lecciones de Gabriel Valdés Subercaseaux",
-   "link": "https://www.ciperchile.cl/2026/10/13/la-diplomacia-entre-chile-y-estados-unidos-lecciones-de-gabriel-valdes-subercaseaux/?utm_source=rss&utm_medium=rss&utm_campaign=la-diplomacia-entre-chile-y-estados-unidos-lecciones-de-gabriel-valdes-subercaseaux",
-   "excerpt": "La entrada La diplomacia entre Chile y Estados Unidos. Lecciones de Gabriel Valdés Subercaseaux se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/cancilleres-1.jpg",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201017",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Presupuesto e infancia: las prioridades reales del Estado",
-   "link": "https://www.ciperchile.cl/2026/10/13/presupuesto-e-infancia-las-prioridades-reales-del-estado/?utm_source=rss&utm_medium=rss&utm_campaign=presupuesto-e-infancia-las-prioridades-reales-del-estado",
-   "excerpt": "La entrada Presupuesto e infancia: las prioridades reales del Estado se publicó primero en CIPER Chile .",
-   "image": "",
    "day": "2026-10-13",
    "first_seen": "2026-10-17",
    "og_checked": true
