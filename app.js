@@ -7,6 +7,12 @@ const read = new Set(store.get('read', []));
 // las guardadas se copian enteras, para que sobrevivan cuando salen de data.js (14 días)
 let saved = store.get('saved', []);
 const isSaved = id => saved.some(i => i.id === id);
+// momento del último cambio de cada noticia (r: leída, s: guardada); sync.js lo usa para mezclar dispositivos
+const stamps = store.get('stamps', { r: {}, s: {} });
+function setRead(id, value) {
+  value ? read.add(id) : read.delete(id);
+  stamps.r[id] = Date.now();
+}
 let view = store.get('view', { type: 'today' });
 if (view.type === 'all') view = { type: 'today' }; // la vista "Todo" ya no existe
 const markRead = document.getElementById('mark-read');
@@ -36,10 +42,20 @@ function dayLabel(iso) {
   return d.toLocaleDateString('es-CL', { weekday: 'long', day: 'numeric', month: 'long' });
 }
 
-function saveRead() {
+function persist() {
   // solo guarda ids que siguen existiendo, para que no crezca para siempre
   const ids = new Set([...data.items, ...saved].map(i => i.id));
-  store.set('read', [...read].filter(id => ids.has(id)));
+  for (const id of read) if (!ids.has(id)) read.delete(id);
+  for (const id in stamps.r) if (!ids.has(id)) delete stamps.r[id];
+  const old = Date.now() - 60 * 864e5;
+  for (const id in stamps.s) if (!isSaved(id) && stamps.s[id] < old) delete stamps.s[id];
+  store.set('read', [...read]);
+  store.set('saved', saved);
+  store.set('stamps', stamps);
+}
+function saveRead() {
+  persist();
+  if (typeof scheduleSync === 'function') scheduleSync();
 }
 
 function navButton(v, label, cls) {
@@ -61,19 +77,42 @@ function renderNav() {
   document.getElementById('nav').innerHTML = html;
 }
 
-function render() {
-  document.getElementById('updated').textContent = data.updated
-    ? 'Actualizado ' + new Date(data.updated).toLocaleString('es-CL', { dateStyle: 'medium', timeStyle: 'short' })
-    : 'Sin datos todavía';
+function renderHead() {
   renderNav();
-
-  const all = pool().filter(i => inView(i));
   const n = unread(view);
-  markRead.checked = all.length > 0 && n === 0;
+  markRead.checked = pool().some(i => inView(i)) && n === 0;
   const title = view.type === 'saved' ? 'Guardadas' : view.type === 'today' ? 'Hoy' : view.name;
   const kicker = view.type === 'src' ? (data.sources.find(s => s.name === view.name) || {}).category : 'CIRCO FEED';
   document.getElementById('view-head').innerHTML =
     `<small>${esc(kicker || '')} · ${n ? `${n} por leer` : 'todo leído'}</small><h1>${esc(title)}</h1>`;
+}
+
+// marca como leída la noticia que sale por arriba de la pantalla al hacer scroll, como Feedly.
+// No vuelve a dibujar el feed (saltaría la página): solo atenúa la tarjeta y actualiza contadores.
+let ticking = false;
+function checkScrolled() {
+  ticking = false;
+  const top = matchMedia('(max-width: 1024px)').matches ? menu.offsetHeight : 0; // la barra fija tapa el borde
+  let changed = false;
+  for (const a of document.querySelectorAll('#feed article:not(.read)')) {
+    if (a.getBoundingClientRect().bottom > top) continue;
+    setRead(a.dataset.id, true);
+    a.classList.add('read');
+    changed = true;
+  }
+  if (changed) { saveRead(); renderHead(); }
+}
+window.addEventListener('scroll', () => {
+  if (!ticking) { ticking = true; requestAnimationFrame(checkScrolled); }
+}, { passive: true });
+
+function render() {
+  document.getElementById('updated').textContent = data.updated
+    ? 'Actualizado ' + new Date(data.updated).toLocaleString('es-CL', { dateStyle: 'medium', timeStyle: 'short' })
+    : 'Sin datos todavía';
+  renderHead();
+
+  const all = pool().filter(i => inView(i));
 
   const items = all.filter(i => !(hideRead.checked && read.has(i.id)));
   const feed = document.getElementById('feed');
@@ -111,8 +150,8 @@ function setView(v) {
   view = v;
   store.set('view', view);
   setMenu(false);
+  window.scrollTo(0, 0); // antes de dibujar, para que el scroll no marque como leído lo de arriba
   render();
-  window.scrollTo(0, 0);
 }
 
 document.getElementById('nav').addEventListener('click', e => {
@@ -151,18 +190,19 @@ document.getElementById('feed').addEventListener('click', e => {
     const id = save.closest('article').dataset.id;
     const item = pool().find(i => i.id === id);
     saved = isSaved(id) ? saved.filter(i => i.id !== id) : [item, ...saved];
-    store.set('saved', saved);
+    stamps.s[id] = Date.now();
+    saveRead();
     render();
     return;
   }
   const a = e.target.closest('a');
   if (!a) return;
-  read.add(a.closest('article').dataset.id);
+  setRead(a.closest('article').dataset.id, true);
   saveRead();
   setTimeout(render, 300);
 });
 markRead.onchange = () => {
-  pool().filter(i => inView(i)).forEach(i => markRead.checked ? read.add(i.id) : read.delete(i.id));
+  pool().filter(i => inView(i)).forEach(i => setRead(i.id, markRead.checked));
   saveRead();
   render();
 };
