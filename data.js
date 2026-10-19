@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-18T20:50-03:00",
+ "updated": "2026-10-19T02:34-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -20,11 +20,6 @@ window.CIRCO = {
    "name": "The Verge · IA",
    "category": "Tech + la IA",
    "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
-  },
-  {
-   "name": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
   },
   {
    "name": "The Inspiration",
@@ -57,8 +52,37 @@ window.CIRCO = {
    "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
- "errors": [],
+ "errors": [
+  {
+   "url": "https://www.youtube.com/@GregIsenberg",
+   "error": "HTTP Error 404: Not Found"
+  }
+ ],
  "items": [
+  {
+   "id": "https://www.reasonwhy.es/actualidad/eventos-marcas-experiencia-humana-informe-aevea-pulse",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "El 92% de las marcas apuestan por los eventos: cuanto más avanza la IA, más valor adquiere la experiencia humana",
+   "link": "https://www.reasonwhy.es/actualidad/eventos-marcas-experiencia-humana-informe-aevea-pulse",
+   "excerpt": "Consideran los eventos estratégicos o relevantes y el 45% ya los sitúan en el núcleo de su estrategia, según AEVEA Pulse.",
+   "image": "https://www.reasonwhy.es/media/library/networking-evento-negocios.jpg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/generacion-z-redes-sociales-informacion-confianza-fake-news",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "La paradoja de la Generación Z: se informan en redes sociales, pero confían más en medios tradicionales",
+   "link": "https://www.reasonwhy.es/actualidad/generacion-z-redes-sociales-informacion-confianza-fake-news",
+   "excerpt": "Un estudio con universitarios de España, Estados Unidos y Portugal revela que el 75% se informan en redes sociales, pese a otorgarles poca credibilidad.",
+   "image": "https://www.reasonwhy.es/media/library/redes-sociales-jovenes.jpg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
   {
    "id": "https://www.applesfera.com/curiosidades/steve-jobs-encargo-avion-privado-identico-al-otro-multimillonario-solo-diferenciaba-boton",
    "source": "Applesfera",
@@ -1020,18 +1044,6 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "yt:video:jEOUUAPC1sc",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
-   "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-18",
-   "og_checked": false
-  },
-  {
    "id": "https://www.theverge.com/?p=1012293",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -1608,30 +1620,6 @@ window.CIRCO = {
    "og_checked": false
   },
   {
-   "id": "https://www.reasonwhy.es/actualidad/ing-nueva-flagship-madrid-estrategia-comunicacion",
-   "source": "Reason Why",
-   "category": "Publi",
-   "title": "Así comunica ING su nueva flagship en Madrid: referencias a Colón y un concierto Candlelight",
-   "link": "https://www.reasonwhy.es/actualidad/ing-nueva-flagship-madrid-estrategia-comunicacion",
-   "excerpt": "El banco ha generado notoriedad sobre la inauguración de su oficina recurriendo al humor y un despliegue de publicidad exterior.",
-   "image": "https://www.reasonwhy.es/media/library/ing-oficina-colon.jpg",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.reasonwhy.es/luzyluces-laia-prunera-santalucia-entrevista",
-   "source": "Reason Why",
-   "category": "Publi",
-   "title": "“En Marketing debemos fomentar una cultura de riesgo. No hay otra manera para averiguar cómo podemos hacerlo mejor”",
-   "link": "https://www.reasonwhy.es/luzyluces-laia-prunera-santalucia-entrevista",
-   "excerpt": "Laia Prunera, Directora de Marketing en Santalucía, es la invitada del episodio 008 de Luz & Luces.",
-   "image": "https://www.reasonwhy.es/media/library/laia-prunera-luz-luces-foto-portada-optim.jpg",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201021",
    "source": "CIPER",
    "category": "Notis",
@@ -1786,18 +1774,6 @@ window.CIRCO = {
    "day": "2026-10-09",
    "first_seen": "2026-10-17",
    "og_checked": true
-  },
-  {
-   "id": "yt:video:rkK8ZyzYyEA",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "8 GitHub Repos To Go Viral and Make Money",
-   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
-   "excerpt": "In this solo episode, I walk through eight GitHub repos and AI skills that I test at night and on weekends. The list covers launch videos, social research, local voice and dubbing, editable decks, agent teams, lead-magnet tools, idea stress-testing, and design guidance. For each…",
-   "image": "https://i3.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
-   "day": "2026-10-08",
-   "first_seen": "2026-10-18",
-   "og_checked": false
   },
   {
    "id": "https://theinspiration.com/?p=54708",
@@ -1956,18 +1932,6 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "yt:video:bQPU6UJ4iCw",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "13 Businesses for the Age of AI",
-   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
-   "excerpt": "In this solo episode, I walk through the 13 businesses I think are left to build in the agentic era. I believe that in a world of agents and abundance, owning the right assets puts you in a better position. For each business, I explain what it is, why it holds up in a world of…",
-   "image": "https://i3.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
-   "day": "2026-10-06",
-   "first_seen": "2026-10-18",
-   "og_checked": false
-  },
-  {
    "id": "https://musebyclios.com/?p=133380",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -2096,18 +2060,6 @@ window.CIRCO = {
    "excerpt": "Ruth Mortimer, global president of Advertising Week New York, says this year’s conference, beginning today and running through Oct. 8, will focus on creators like never before. “Last year, we had a creator lounge where we had some creator competitions,” she tells Muse. “And this…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/04191156/Ruth-Mortimer.jpg",
    "day": "2026-10-05",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://musebyclios.com/?p=133288",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "The NFL Shop Enlists Fans and Influencers, Putting Personal Style Front and Center",
-   "link": "https://musebyclios.com/sports/the-nfl-shop-enlists-fans-and-influencers-putting-personal-style-front-and-center/?utm_source=rss&utm_medium=rss&utm_campaign=the-nfl-shop-enlists-fans-and-influencers-putting-personal-style-front-and-center",
-   "excerpt": "The NFL Shop returns for its second year with a fresh campaign called “Fan Like a Pro.” The work stars players, fans and influencers, stressing personal style above all. It aims to hype NFL fandom beyond the playing field through representations of everyday life. These include…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/04125716/Competitive-Looks-NFL-Shop.jpg",
-   "day": "2026-10-04",
    "first_seen": "2026-10-17",
    "og_checked": true
   }
