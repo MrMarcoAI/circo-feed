@@ -1,6 +1,6 @@
-"""Manda por Gmail un resumen con los artículos nuevos de hoy (según circo-feed/data.js).
+"""Manda por Gmail un resumen con los artículos nuevos de hoy (según data.js).
 
-Uso: python3 circo-feed/tools/send_digest.py [--dry-run]
+Uso: python3 tools/send_digest.py [--dry-run]
 Variables de entorno: GMAIL_USER, GMAIL_APP_PASSWORD, DIGEST_TO (opcional, por defecto GMAIL_USER),
 CIRCO_URL (link a la webapp). Sin credenciales, no envía y termina sin error.
 """
@@ -15,7 +15,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 DATA = Path(__file__).resolve().parent.parent / "data.js"
-URL = os.environ.get("CIRCO_URL") or "https://mrmarcoai.github.io/baul-de-cosas/circo-feed/"
+URL = os.environ.get("CIRCO_URL") or "https://mrmarcoai.github.io/circo-feed/"
 PER_SOURCE = 5
 
 

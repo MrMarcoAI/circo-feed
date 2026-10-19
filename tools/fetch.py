@@ -1,6 +1,6 @@
-"""CIRCO FEED: lee circo-feed/feeds.txt, descarga cada feed y actualiza circo-feed/data.js.
+"""CIRCO FEED: lee feeds.txt, descarga cada feed y actualiza data.js.
 
-Uso: python3 circo-feed/tools/fetch.py
+Uso: python3 tools/fetch.py
 Solo usa la biblioteca estándar. Conserva los artículos de los últimos KEEP_DAYS días.
 """
 import html
@@ -22,7 +22,7 @@ DATA = ROOT / "data.js"
 TZ = ZoneInfo("America/Santiago")
 KEEP_DAYS = 14
 EXCERPT = 280
-UA = "Mozilla/5.0 (CIRCO FEED; +https://github.com/MrMarcoAI/baul-de-cosas)"
+UA = "Mozilla/5.0 (CIRCO FEED; +https://github.com/MrMarcoAI/circo-feed)"
 
 
 def get(url, limit=None, timeout=20):
