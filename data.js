@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-19T15:56-03:00",
+ "updated": "2026-10-19T16:52-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -396,6 +396,18 @@ window.CIRCO = {
    "og_checked": false
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/19/el-centro-cultural-san-martin-se-prepara-para-una-transformacion-historica",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Centro Cultural San Martín se prepara para una transformación histórica",
+   "link": "https://www.filo.news/noticia/2026/10/19/el-centro-cultural-san-martin-se-prepara-para-una-transformacion-historica",
+   "excerpt": "El plan de intervención busca devolverle el brillo y el esplendor histórico a uno de los espacios culturales más emblemáticos y referenciales de la Argentina.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/whatsappimage2026-10-13_at_12.17.54_pm_(1)4366_re.jpeg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/19/el-gobernador-de-corrientes-sobre-la-docente-desaparecida-en-corrientes-hay-hipotesis",
    "source": "Filo.News",
    "category": "Notis",
@@ -787,18 +799,6 @@ window.CIRCO = {
    "link": "https://www.filo.news/noticia/2026/10/18/francia-vivio-una-jornada-de-disturbios-con-1-800-detenidos",
    "excerpt": "Las protestas por el costo de vida derivaron en saqueos, incendios y duros enfrentamientos con la policía.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/18/gettyimages2300183301202610180218224486837_re.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/18/que-se-sabe-de-las-denuncias-contra-hernan-casciari-por-presunta-estafa-y-que-respondio-el-escritor",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Qué se sabe de las denuncias contra Hernán Casciari por presunta estafa y qué respondió el escritor",
-   "link": "https://www.filo.news/noticia/2026/10/18/que-se-sabe-de-las-denuncias-contra-hernan-casciari-por-presunta-estafa-y-que-respondio-el-escritor",
-   "excerpt": "El fundador de Orsai fue denunciado por 18 inversores que reclaman por los resultados económicos de proyectos audiovisuales, entre ellos la película La muerte de un comediante. Casciari reconoció que hubo errores en la gestión, pero negó una intención de fraude.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/diputados5)1733_re.jpg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
    "og_checked": false
