@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-19T13:53-03:00",
+ "updated": "2026-10-19T15:56-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -70,6 +70,18 @@ window.CIRCO = {
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
    "og_checked": true
+  },
+  {
+   "id": "https://www.applesfera.com/apple-tv/precio-apple-tv-ha-dado-que-hablar-primero-steve-jobs-costo",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "El precio del Apple TV ha dado de qué hablar, pero el primero de Steve Jobs ya costó lo mismo",
+   "link": "https://www.applesfera.com/apple-tv/precio-apple-tv-ha-dado-que-hablar-primero-steve-jobs-costo",
+   "excerpt": "Se ha liado. El precio del nuevo Apple TV ha desatado la polémica: para muchos es injustificable y para otros es un precio alto, pero que puede llegar a merecer la pena . Yo soy de los que viaja incluso con un Apple TV y, aun así, tengo que reconocer que el precio actual duele,…",
+   "image": "https://i.blogs.es/c2a98f/steve-jobs-apple-tv/1024_2000.jpeg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
   },
   {
    "id": "https://www.applesfera.com/apple-1/oficial-apple-anuncia-nuevo-evento-para-proxima-semana",
@@ -211,6 +223,30 @@ window.CIRCO = {
    "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
    "excerpt": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which…",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": true
+  },
+  {
+   "id": "yt:video:tpZOU1ugODQ",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Meta Muse Will Create 1,000 Millionaires",
+   "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
+   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
+   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
+  {
+   "id": "https://musebyclios.com/?p=133811",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Michelob Ultra Goes All In for NBA Champion Knicks",
+   "link": "https://musebyclios.com/sports/michelob-ultra-goes-all-in-on-nba-champion-knicks/?utm_source=rss&utm_medium=rss&utm_campaign=michelob-ultra-goes-all-in-on-nba-champion-knicks",
+   "excerpt": "If a single soul in NYC’s five boroughs didn’t know the Knicks start defending their NBA Championship tomorrow, they will now, courtesy of Michelob Ultra. In this instance, “full court press” hyperbole might truly apply, as the brewer unveils a deep roster of promos ahead of…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/19133634/bottle-1.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
    "og_checked": true
@@ -360,6 +396,30 @@ window.CIRCO = {
    "og_checked": false
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/19/el-gobernador-de-corrientes-sobre-la-docente-desaparecida-en-corrientes-hay-hipotesis",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El gobernador de Corrientes sobre la docente desaparecida en Corrientes: \"Hay hipótesis\"",
+   "link": "https://www.filo.news/noticia/2026/10/19/el-gobernador-de-corrientes-sobre-la-docente-desaparecida-en-corrientes-hay-hipotesis",
+   "excerpt": "Nanci Godoy es buscada desde el 6 de octubre en la localidad de Esquina. La docente desapareció de la Escuela Rural Nº 626 en el paraje El Malezal.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/nanciestelagodoy-fue-vista-por-ultima-vez-el-6-de-octubre-foto-la-voz-y374nerrcncexantnahvh4bwe4_(1)3400.avif",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/19/un-nuevo-local-tecnologico-abrio-sus-puertas-en-unicenter-shopping",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Un nuevo local tecnológico abrió sus puertas en Unicenter Shopping",
+   "link": "https://www.filo.news/noticia/2026/10/19/un-nuevo-local-tecnologico-abrio-sus-puertas-en-unicenter-shopping",
+   "excerpt": "",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/unnamed6136_re.jpg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/19/el-descargo-de-juan-alberto-mateyko-en-apoyo-a-emanuel-ortega-vos-no-te-mereces-esto",
    "source": "Filo.News",
    "category": "Notis",
@@ -420,11 +480,11 @@ window.CIRCO = {
    "og_checked": false
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/19/karina-milei",
+   "id": "https://www.filo.news/noticia/2026/10/19/karina-milei-encabezo-el-acto-por-el-traslado-de-los-presos-de-devoto-a-marcos-paz",
    "source": "Filo.News",
    "category": "Notis",
    "title": "Karina Milei encabezó el acto por el traslado de los presos de Devoto a Marcos Paz",
-   "link": "https://www.filo.news/noticia/2026/10/19/karina-milei",
+   "link": "https://www.filo.news/noticia/2026/10/19/karina-milei-encabezo-el-acto-por-el-traslado-de-los-presos-de-devoto-a-marcos-paz",
    "excerpt": "La secretaria general de la Presidencia destacó los avances del proceso. \"Es un día de celebración\", dijo. Ya fueron mudados más del 90% de los reclusos.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname5976_re.png",
    "day": "2026-10-19",
@@ -516,11 +576,11 @@ window.CIRCO = {
    "og_checked": false
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/19/braisl",
+   "id": "https://www.filo.news/noticia/2026/10/19/de-la-motosierra-de-milei-a-amigo-de-dictadores-las-acusaciones-entre-lula-y-bolsonaro-en-el-primer-debate-antes-del-balotaje",
    "source": "Filo.News",
    "category": "Notis",
    "title": "De la \"motosierra de Milei\" a \"amigo de dictadores\": las acusaciones entre Lula y Bolsonaro en el primer debate antes del balotaje",
-   "link": "https://www.filo.news/noticia/2026/10/19/braisl",
+   "link": "https://www.filo.news/noticia/2026/10/19/de-la-motosierra-de-milei-a-amigo-de-dictadores-las-acusaciones-entre-lula-y-bolsonaro-en-el-primer-debate-antes-del-balotaje",
    "excerpt": "Los candidatos a la presidencia de Brasil se cruzaron en el primer intercambio antes de la segunda vuelta. El próximo viernes, el último debate.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname5847_re.png",
    "day": "2026-10-19",
@@ -739,30 +799,6 @@ window.CIRCO = {
    "link": "https://www.filo.news/noticia/2026/10/18/que-se-sabe-de-las-denuncias-contra-hernan-casciari-por-presunta-estafa-y-que-respondio-el-escritor",
    "excerpt": "El fundador de Orsai fue denunciado por 18 inversores que reclaman por los resultados económicos de proyectos audiovisuales, entre ellos la película La muerte de un comediante. Casciari reconoció que hubo errores en la gestión, pero negó una intención de fraude.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/18/diputados5)1733_re.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/16/maxi-pachecoy-la-musica-como-herramienta-para-sanar-sus-raices-chaquenas-y-las-historias-detras-de-el-artesano",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Maxi Pachecoy: la música como herramienta para sanar, sus raíces chaqueñas y las historias detrás de El Artesano",
-   "link": "https://www.filo.news/noticia/2026/10/16/maxi-pachecoy-la-musica-como-herramienta-para-sanar-sus-raices-chaquenas-y-las-historias-detras-de-el-artesano",
-   "excerpt": "El músico presenta su nuevo álbum, un trabajo que cruza folclore, pop, rock nacional y canción de autor. En diálogo con Filo.news, repasó las influencias que marcaron su recorrido y contó cómo surgieron las colaboraciones con Raúl Rufino, Rubén Goldín, Sol Mianovich, Pablo Dacal…",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/diputados4)7751.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/18/resumen-leon-xiv-retoma-sus-actividades-colectivos-del-amba-reducen-frecuencias-hoy-el-clasico-de-avellaneda",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Resumen: León XIV retoma sus actividades - Colectivos del AMBA reducen frecuencias - Hoy el clásico de Avellaneda",
-   "link": "https://www.filo.news/noticia/2026/10/18/resumen-leon-xiv-retoma-sus-actividades-colectivos-del-amba-reducen-frecuencias-hoy-el-clasico-de-avellaneda",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/okpzpz3364_re.jpg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
    "og_checked": false
@@ -1015,18 +1051,6 @@ window.CIRCO = {
    "link": "https://www.applesfera.com/iphone/incongruencias-siri-ai-sus-nuevos-requisitos-ponen-duda-que-no-pueda-llegar-a-iphone-antiguos",
    "excerpt": "Que buena parte de la nueva Siri AI se ejecute en local es el argumento utilizado por Apple para que únicamente sea compatible con iPhone 15 Pro y modelos posteriores, los cuales tienen al menos un chip A17 Pro y 8 GB de memoria. Que se tengan tantos modelos de IA ejecutándose…",
    "image": "https://i.blogs.es/595ddf/siri-ai/1024_2000.jpeg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.applesfera.com/curiosidades/chico-ladrando-haciendo-volteretas-a-john-ternus-le-temblaban-manos-que-parecia-que-se-le-iba-a-caer-iphone-duo",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "\"Un chico ladrando y haciendo volteretas.\" A John Ternus le temblaban tanto las manos que parecía que se le iba a caer el iPhone Duo",
-   "link": "https://www.applesfera.com/curiosidades/chico-ladrando-haciendo-volteretas-a-john-ternus-le-temblaban-manos-que-parecia-que-se-le-iba-a-caer-iphone-duo",
-   "excerpt": "El día que se presentó el iPhone Duo , John Ternus tenía un montón de cámaras encima. Era su primera gran aparición como CEO , con Apple Park lleno de periodistas, influencers y empleados a rebosar para verle a él y al nuevo iPhone Duo. Una situación así ocurre una vez en la…",
-   "image": "https://i.blogs.es/c9622b/iphone-duo/1024_2000.jpeg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
    "og_checked": false
