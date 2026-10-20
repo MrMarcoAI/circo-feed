@@ -82,9 +82,7 @@ function renderHead() {
   const n = unread(view);
   markRead.checked = pool().some(i => inView(i)) && n === 0;
   const title = view.type === 'saved' ? 'Guardadas' : view.type === 'today' ? 'Hoy' : view.name;
-  const kicker = view.type === 'src' ? (data.sources.find(s => s.name === view.name) || {}).category : 'CIRCO FEED';
-  document.getElementById('view-head').innerHTML =
-    `<small>${esc(kicker || '')} · ${n ? `${n} por leer` : 'todo leído'}</small><h1>${esc(title)}</h1>`;
+  document.getElementById('view-head').innerHTML = `<h1>${esc(title)}</h1>`;
 }
 
 // marca como leída la noticia que sale por arriba de la pantalla al hacer scroll, como Feedly.

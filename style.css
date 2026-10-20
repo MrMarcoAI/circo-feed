@@ -97,7 +97,7 @@ main { max-width: 1080px; width: 100%; margin: 0 auto; padding: 40px 40px 80px; 
 #view-head { margin-bottom: 32px; padding-bottom: 14px; border-bottom: 1px solid var(--accent); }
 #feed > h2:first-child { margin-top: 0; }
 #view-head small { display: block; font-size: 11px; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.1em; }
-#view-head h1 { margin: 6px 0 0; font-size: clamp(32px, 4vw, 48px); font-weight: 900; line-height: 1; letter-spacing: -0.03em; }
+#view-head h1 { margin: 0; font-size: clamp(32px, 4vw, 48px); font-weight: 900; line-height: 1; letter-spacing: -0.03em; }
 
 #feed { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px 24px; }
 h2 {
