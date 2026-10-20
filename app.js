@@ -106,6 +106,22 @@ window.addEventListener('scroll', () => {
   if (!ticking) { ticking = true; requestAnimationFrame(checkScrolled); }
 }, { passive: true });
 
+const ENDINGS = [
+  'Ya leíste todo. Ahora ponte un disco de Fito.',
+  'Ya leíste todo. Ahora ponle play a "Mariposa Tecknicolor".',
+  'Ya leíste todo. Ahora ponle play a "Circo Beat".',
+  'Ya leíste todo. Ahora ponle play a "11 y 6".',
+  'Ya leíste todo. Ahora ponle play a "Al lado del camino".',
+  'Ya leíste todo. Ahora ponle play a "El amor después del amor".',
+  'Ya leíste todo. Ahora ponle play a "Ciudad de pobres corazones".',
+  'Ya leíste todo. Ahora ponle play a "Dar es dar".',
+  'Ya leíste todo. Ahora ponle play a "Brillante sobre el mic".',
+  'Ya leíste todo. Ahora ponle play a "Tumbas de la gloria".',
+  'Ya leíste todo. Ahora ponle play a "Yo vengo a ofrecer mi corazón".',
+  'Ya leíste todo. Ahora ponle play a "A rodar mi vida".',
+  'Ya leíste todo. Ahora ponle play a "Un vestido y un amor".',
+];
+
 function render() {
   document.getElementById('updated').textContent = data.updated
     ? 'Actualizado ' + new Date(data.updated).toLocaleString('es-CL', { dateStyle: 'medium', timeStyle: 'short' })
@@ -140,6 +156,10 @@ function render() {
     }
     feed.innerHTML = html;
   }
+
+  // espacio final de una pantalla de alto, para que la última fila también pueda salir por arriba
+  document.getElementById('end').innerHTML = items.length
+    ? `<p>${ENDINGS[Math.floor(Math.random() * ENDINGS.length)]}</p>` : '';
 
   document.getElementById('errors').textContent = data.errors.length
     ? 'No se pudo leer: ' + data.errors.map(e => e.url).join(', ')
