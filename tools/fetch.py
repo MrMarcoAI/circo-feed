@@ -3,6 +3,7 @@
 Uso: python3 tools/fetch.py
 Solo usa la biblioteca estándar. Conserva los artículos de los últimos KEEP_DAYS días.
 """
+import hashlib
 import html
 import json
 import re
@@ -12,13 +13,17 @@ import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
 
+sys.setrecursionlimit(20000)  # algunas páginas anidan cientos de etiquetas
 ROOT = Path(__file__).resolve().parent.parent
 FEEDS = ROOT / "feeds.txt"
 DATA = ROOT / "data.js"
+ARTICLES = ROOT / "articles"  # texto completo de cada nota, un .json por noticia, para el lightbox
+FULL_MIN = 1200  # caracteres desde los que el contenido del feed cuenta como nota completa
 TZ = ZoneInfo("America/Santiago")
 KEEP_DAYS = 14
 EXCERPT = 280
@@ -123,6 +128,164 @@ def og_image(link):
     return ""
 
 
+ALLOWED = {"p", "h2", "h3", "h4", "blockquote", "ul", "ol", "li", "strong", "em", "b", "i", "a", "img",
+           "figure", "figcaption", "br"}
+VOID = {"img", "br"}
+SKIP = {"script", "style", "nav", "footer", "aside", "form", "header", "noscript", "iframe", "svg", "button",
+        "template", "select"}
+
+
+class Cleaner(HTMLParser):
+    """Deja solo etiquetas de texto seguras, sin atributos salvo href e src."""
+
+    def __init__(self, base):
+        super().__init__(convert_charrefs=True)
+        self.base, self.out, self.skip = base, [], 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in SKIP:
+            self.skip += 1
+            return
+        if self.skip or tag not in ALLOWED:
+            return
+        a = dict(attrs)
+        if tag == "a":
+            href = urljoin(self.base, a.get("href") or "")
+            self.out.append(f'<a href="{html.escape(href)}" target="_blank" rel="noopener">'
+                            if href.startswith("http") else "<a>")
+        elif tag == "img":
+            src = urljoin(self.base, a.get("data-src") or a.get("src") or "")
+            if src.startswith("http"):
+                self.out.append(f'<img src="{html.escape(src)}" alt="" loading="lazy">')
+        else:
+            self.out.append(f"<{tag}>")
+
+    def handle_endtag(self, tag):
+        if tag in SKIP:
+            self.skip = max(0, self.skip - 1)
+        elif not self.skip and tag in ALLOWED and tag not in VOID:
+            self.out.append(f"</{tag}>")
+
+    def handle_data(self, d):
+        if not self.skip:
+            self.out.append(html.escape(d))
+
+
+def clean(raw, base):
+    c = Cleaner(base)
+    c.feed(raw)
+    return "".join(c.out)
+
+
+def plain(h):
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", h))).strip()
+
+
+HTML_VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "source", "track", "wbr"}
+BLOCK = {"p", "div", "section", "article", "h1", "h2", "h3", "h4", "ul", "ol", "li", "blockquote", "figure", "table"}
+
+
+class Tree(HTMLParser):
+    """Árbol mínimo de la página: cada nodo es [tag, attrs, hijos, padre]; los textos son str."""
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.root = ["root", {}, [], None]
+        self.cur = self.root
+
+    def handle_starttag(self, tag, attrs):
+        if tag in BLOCK and self.cur[0] == "p":  # un bloque nuevo cierra el <p> abierto
+            self.cur = self.cur[3]
+        node = [tag, dict(attrs), [], self.cur]
+        self.cur[2].append(node)
+        if tag not in HTML_VOID:
+            self.cur = node
+
+    def handle_endtag(self, tag):
+        n = self.cur
+        while n is not self.root and n[0] != tag:
+            n = n[3]
+        if n is not self.root:
+            self.cur = n[3]
+
+    def handle_data(self, d):
+        self.cur[2].append(d)
+
+
+def node_text(n):
+    return "".join(k if isinstance(k, str) else node_text(k) for k in n[2] if isinstance(k, str) or k[0] not in SKIP)
+
+
+def serialize(n, base, out):
+    for k in n[2]:
+        if isinstance(k, str):
+            out.append(html.escape(k))
+            continue
+        tag, attrs = k[0], k[1]
+        if tag in SKIP:
+            continue
+        if tag == "a":
+            href = urljoin(base, attrs.get("href") or "")
+            out.append(f'<a href="{html.escape(href)}" target="_blank" rel="noopener">' if href.startswith("http") else "<a>")
+        elif tag == "img":
+            src = urljoin(base, attrs.get("data-src") or attrs.get("src") or "")
+            if src.startswith("http"):
+                out.append(f'<img src="{html.escape(src)}" alt="" loading="lazy">')
+            continue
+        elif tag in ALLOWED:
+            out.append(f"<{tag}>")
+        serialize(k, base, out)
+        if tag in ALLOWED and tag not in VOID:
+            out.append(f"</{tag}>")
+
+
+def page_text(link):
+    """Texto de la nota desde su página, al estilo Readability: el contenedor con más texto en párrafos."""
+    page, final = get(link, limit=2_000_000, timeout=15)
+    t = Tree()
+    t.feed(page.decode("utf-8", "ignore"))
+    score, stack = {}, [t.root]
+    while stack:
+        n = stack.pop()
+        for k in n[2]:
+            if isinstance(k, str) or k[0] in SKIP:
+                continue
+            if k[0] == "p":
+                size = len(node_text(k).strip())
+                if size >= 25:
+                    for up, w in ((n, 1), (n[3], 0.75)):
+                        if up is not None:
+                            score[id(up)] = (score.get(id(up), (0, up))[0] + size * w, up)
+            stack.append(k)
+    if not score:
+        return ""
+    best = max(score.values(), key=lambda s: s[0])[1]
+    out = []
+    serialize(best, final, out)
+    blocks = re.findall(r"<(p|h2|h3|h4|blockquote|ul|ol|figure)>(.*?)</\1>", "".join(out), re.S)
+    keep, last = [], None
+    for tag, b in blocks:
+        txt = plain(b)
+        if txt == last or (not txt and "<img" not in b):
+            continue
+        keep.append(f"<{tag}>{b}</{tag}>")
+        last = txt
+    return "\n".join(keep)
+
+
+def full_text(item):
+    """HTML limpio de la nota completa: el del feed si viene entero, si no el de la página."""
+    feed_html = clean(item["content"], item["link"])
+    if len(plain(feed_html)) >= FULL_MIN:
+        return feed_html
+    try:
+        page_html = page_text(item["link"])
+    except Exception:
+        page_html = ""
+    best = max(page_html, feed_html, key=lambda h: len(plain(h)))
+    return best if len(plain(best)) >= 200 else ""
+
+
 def parse_feed(body, url):
     root = ET.fromstring(body)
     chan = child(root, "channel") if local(root.tag) == "rss" else root
@@ -141,6 +304,7 @@ def parse_feed(body, url):
             "link": link,
             "date": parse_date(text(el, "pubDate", "published", "updated", "date", "issued")),
             "excerpt": excerpt(summary),
+            "content": summary,
             "image": urljoin(url, item_image(el, summary)) if item_image(el, summary) else "",
         })
     return name, items
@@ -174,6 +338,7 @@ def youtube_page(url):
             "link": "https://www.youtube.com/watch?v=" + vid.group(1),
             "date": date,
             "excerpt": "",
+            "content": "",
             "image": f"https://i.ytimg.com/vi/{vid.group(1)}/hqdefault.jpg",
         })
     if not items:
@@ -248,6 +413,8 @@ def main():
                 "day": old.get("day", day.isoformat()),
                 "first_seen": old.get("first_seen", today.isoformat()),
                 "og_checked": old.get("og_checked", False),
+                "article": old.get("article"),  # None: todavía no se busca el texto completo
+                "content": e["content"],
             }
         print(f"{name}: {len(entries)} artículos")
 
@@ -257,6 +424,25 @@ def main():
         for i, img in zip(missing, pool.map(lambda i: og_image(i["link"]), missing)):
             i["image"], i["og_checked"] = img, True
     print(f"og:image buscada en {len(missing)} artículos")
+
+    # Texto completo para el lightbox: se busca una sola vez por noticia y queda en articles/<clave>.json
+    ARTICLES.mkdir(exist_ok=True)
+    todo = [i for i in items.values() if i["article"] is None and "youtube.com/watch" not in i["link"]]
+    with ThreadPoolExecutor(8) as pool:
+        for i, text_html in zip(todo, pool.map(full_text, todo)):
+            i["article"] = ""
+            if text_html:
+                i["article"] = hashlib.sha1(i["id"].encode()).hexdigest()[:16]
+                (ARTICLES / f"{i['article']}.json").write_text(
+                    json.dumps({"html": text_html}, ensure_ascii=False), encoding="utf-8")
+    for i in items.values():
+        i.pop("content")
+        i["article"] = i["article"] or ""
+    keep = {i["article"] for i in items.values()}
+    for f in ARTICLES.glob("*.json"):
+        if f.stem not in keep:
+            f.unlink()
+    print(f"texto completo buscado en {len(todo)} artículos, {sum(1 for i in todo if i['article'])} con texto")
 
     out = {
         "updated": now.isoformat(timespec="minutes"),

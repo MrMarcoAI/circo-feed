@@ -215,10 +215,70 @@ document.getElementById('feed').addEventListener('click', e => {
   }
   const a = e.target.closest('a');
   if (!a) return;
-  setRead(a.closest('article').dataset.id, true);
-  saveRead();
-  setTimeout(render, 300);
+  const id = a.closest('article').dataset.id;
+  if (e.metaKey || e.ctrlKey || e.shiftKey) { // cmd/ctrl-clic sigue abriendo la nota original
+    setRead(id, true);
+    saveRead();
+    setTimeout(render, 300);
+    return;
+  }
+  e.preventDefault();
+  openReader(pool().find(i => i.id === id));
 });
+
+// Lightbox de lectura: muestra el texto completo guardado en articles/<clave>.json (o el video de YouTube)
+const reader = document.getElementById('reader');
+const readerBody = document.getElementById('reader-body');
+let readingId = null;
+async function openReader(i) {
+  readingId = i.id;
+  setRead(i.id, true);
+  saveRead();
+  const card = document.querySelector(`#feed article[data-id="${CSS.escape(i.id)}"]`);
+  if (card) card.classList.add('read');
+  renderHead();
+
+  const yt = i.link.match(/youtube\.com\/watch\?v=([\w-]{11})/);
+  const media = yt
+    ? `<div class="reader-video"><iframe src="https://www.youtube-nocookie.com/embed/${yt[1]}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>`
+    : i.image ? `<img class="reader-img" src="${esc(i.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : '';
+  const fallback = i.excerpt ? `<p>${esc(i.excerpt)}</p>` : '';
+  readerBody.innerHTML = `<p class="reader-meta"><b>${esc(i.source)}</b> · ${esc(i.category)}</p>
+    <h1>${esc(i.title)}</h1>${media}
+    <div class="reader-text">${i.article ? '<p class="reader-loading">Cargando…</p>' : fallback}</div>
+    <a class="reader-link" href="${esc(i.link)}" target="_blank" rel="noopener">${yt ? 'Ver en YouTube' : 'Leer en ' + esc(i.source)} →</a>`;
+  if (reader.hidden) history.pushState({ reader: true }, '');
+  reader.hidden = false;
+  reader.scrollTop = 0;
+  document.body.classList.add('reading');
+
+  if (!i.article) return;
+  let text;
+  try {
+    const res = await fetch('articles/' + i.article + '.json');
+    if (!res.ok) throw new Error(res.status);
+    text = (await res.json()).html;
+  } catch { text = fallback; }
+  if (readingId !== i.id) return;
+  const box = readerBody.querySelector('.reader-text');
+  box.innerHTML = text;
+  // la foto principal ya va arriba
+  box.querySelectorAll('img').forEach(img => { if (img.src === i.image) (img.closest('figure') || img).remove(); });
+  box.querySelectorAll('img').forEach(img => { img.referrerPolicy = 'no-referrer'; img.onerror = () => img.remove(); });
+}
+function closeReader() {
+  if (reader.hidden) return;
+  reader.hidden = true;
+  readerBody.innerHTML = ''; // corta el video si estaba sonando
+  readingId = null;
+  document.body.classList.remove('reading');
+  if (hideRead.checked) render();
+}
+// cerrar con la X, tocando fuera del recuadro, con Esc o con el botón "atrás"
+document.getElementById('reader-close').onclick = () => history.back();
+reader.addEventListener('click', e => { if (e.target === reader) history.back(); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && !reader.hidden) history.back(); });
+window.addEventListener('popstate', closeReader);
 markRead.onchange = () => {
   pool().filter(i => inView(i)).forEach(i => setRead(i.id, markRead.checked));
   saveRead();

@@ -11,7 +11,7 @@
 <title>CIRCO FEED</title>
 <link rel="icon" type="image/png" href="circofeed-favicon.png">
 <link rel="apple-touch-icon" href="circofeed-logo-app.png">
-<link rel="stylesheet" href="style.css?v=5">
+<link rel="stylesheet" href="style.css?v=6">
 </head>
 <body>
 <aside id="menu">
@@ -37,8 +37,14 @@
   <footer id="errors"></footer>
   <div id="end"></div>
 </main>
+<div id="reader" hidden>
+  <button id="reader-close" aria-label="Cerrar">
+    <svg viewBox="0 0 24 24" width="22" height="22"><path d="M6 6l12 12M18 6L6 18"/></svg>
+  </button>
+  <div class="reader-box" role="dialog" aria-modal="true" id="reader-body"></div>
+</div>
 <script src="data.js"></script>
-<script src="app.js?v=5"></script>
-<script src="sync.js?v=5"></script>
+<script src="app.js?v=6"></script>
+<script src="sync.js?v=6"></script>
 </body>
 </html>

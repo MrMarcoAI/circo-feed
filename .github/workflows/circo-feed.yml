@@ -24,7 +24,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.js
+          git add data.js articles
           git diff --cached --quiet && exit 0
           git commit -m "CIRCO FEED: artículos del día"
           git push

@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-20T00:17-03:00",
+ "updated": "2026-10-20T00:34-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -74,7 +74,8 @@ window.CIRCO = {
    "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
-   "og_checked": false
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://www.ciperchile.cl/?p=201224",
@@ -86,7 +87,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1016614-scaled.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
-   "og_checked": true
+   "og_checked": true,
+   "article": "0754466179cada68"
   },
   {
    "id": "https://www.theverge.com/?p=1013028",
@@ -98,7 +100,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&strip=all&crop=0%2C10.719587153751%2C100%2C78.560825692498&w=1200",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "b00a54cdfe5c2e67"
   },
   {
    "id": "https://www.applesfera.com/apple-tv/precio-apple-tv-ha-dado-que-hablar-primero-steve-jobs-costo",
@@ -110,7 +113,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/c2a98f/steve-jobs-apple-tv/1024_2000.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "d5ca010021830cfc"
   },
   {
    "id": "https://www.applesfera.com/apple-1/oficial-apple-anuncia-nuevo-evento-para-proxima-semana",
@@ -122,7 +126,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/a52cce/evento-apple/1024_2000.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "cee7f11775a3cf84"
   },
   {
    "id": "https://www.applesfera.com/aplicaciones-os-x-1/hay-app-para-mac-que-permite-convertir-archivos-solo-arrastrarlos-pulsar-tecla",
@@ -134,7 +139,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/92c761/app-tangerine/1024_2000.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "18c3a3241070d918"
   },
   {
    "id": "https://www.applesfera.com/aplicaciones-ios/app-gratis-se-adelanta-a-apple-te-chiva-cuando-toca-actualizar-tus-dispositivos",
@@ -146,7 +152,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/a56971/app-apple/1024_2000.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "bce8ad5b9b8c77b0"
   },
   {
    "id": "https://www.applesfera.com/iphone/todo-tu-vida-esta-tu-telefono-reflexion-john-ternus-que-queda-claro-futuro-apple",
@@ -158,7 +165,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/68f010/john-ternus-iphone-duo/1024_2000.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "6f9b2b3ef172c33f"
   },
   {
    "id": "https://www.applesfera.com/iphone/apple-ha-cometido-gran-error-iphone-duo-mark-gurman",
@@ -170,7 +178,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/52d8cf/iphone-duo/1024_2000.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "02b0b0478603e606"
   },
   {
    "id": "https://www.applesfera.com/seleccion/iphone-duo-76-50-euros-al-mes-asi-nueva-promo-movistar-configuracion-2-tb",
@@ -182,7 +191,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/0b244a/movistar/1024_2000.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "7e0864c01b403cf8"
   },
   {
    "id": "https://www.applesfera.com/rumores/homeview-solo-era-pistoletazo-salida-siguiente-tendra-brazo-robotico",
@@ -194,7 +204,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/63339b/homwview/1024_2000.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "cd38f0963db3fd6e"
   },
   {
    "id": "https://www.applesfera.com/rumores/apple-no-ha-dicho-basta-ocho-productos-que-se-esperan-sus-posibles-fechas-lanzamiento",
@@ -206,7 +217,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/a4315d/apple/1024_2000.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "466f79f01de80e63"
   },
   {
    "id": "https://www.applesfera.com/iphone/fin-sabemos-bateria-exacta-iphone-duo-asi-como-queda-frente-a-su-competencia",
@@ -218,7 +230,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/303592/bateria-iphone-duo/1024_2000.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "8b6a0c54ed5d8547"
   },
   {
    "id": "https://www.theverge.com/?p=1013954",
@@ -230,7 +243,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "19c5285a86515c32"
   },
   {
    "id": "https://www.theverge.com/?p=1014045",
@@ -242,7 +256,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "ccaab34e80938919"
   },
   {
    "id": "https://www.theverge.com/?p=1012839",
@@ -254,7 +269,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "2daee49bb2cf43d3"
   },
   {
    "id": "https://www.theverge.com/?p=1013643",
@@ -266,7 +282,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "35b9b2d37a31b57a"
   },
   {
    "id": "https://www.theverge.com/?p=1013113",
@@ -278,7 +295,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "901f3639ec61a58a"
   },
   {
    "id": "https://musebyclios.com/?p=133811",
@@ -290,7 +308,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/19133634/bottle-1.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "c2700c5e18cc57dc"
   },
   {
    "id": "https://musebyclios.com/?p=133809",
@@ -302,7 +321,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/19111958/car.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "09969d8cadc84a60"
   },
   {
    "id": "https://musebyclios.com/?p=133803",
@@ -314,7 +334,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/19094026/elf.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "0fef43ae665b5f6f"
   },
   {
    "id": "https://musebyclios.com/?p=133795",
@@ -326,7 +347,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/18174623/Meredith_Diehn.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "4ac96f067cb5228e"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/netflix-derechos-retransmision-velada-del-ano-ibai-llanos",
@@ -338,7 +360,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/netflix-velada-del-ano.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "bef38a0878988ec6"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/campana-autonomos-generali-juega-noes-soluciones-negocios",
@@ -350,7 +373,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/campana-generali-autonomos.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "f1c0cc11a0933cde"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/campana-cancer-mama-send-nudes-agencia-yard",
@@ -362,7 +386,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/campana-send-nudes.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "5a622e8b908531a6"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/elon-musk-estandares-esteticos-publicidad-x",
@@ -374,7 +399,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/anunicos-feos-x.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "33d38b12c3a9660b"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/clear-channel-ahora-es-amvia-publicidad-exterior-atresmedia",
@@ -386,7 +412,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/amvia-lona-calle.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "60ee1ef29c907f3f"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/dennys-japon-innovacion-vaso-partido-reducir-desperdicio-alimentario",
@@ -398,7 +425,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/denny-s-japon-parfait.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "548bef659f10288d"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/seguros-aegon-campana-vivmos-salud-como-vives-tu-inteligencia-artificial",
@@ -410,7 +438,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/aegon-vivimos-la-salud-como-la-vives-tu.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "90a67739cc2f748e"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/eventos-marcas-experiencia-humana-informe-aevea-pulse",
@@ -422,7 +451,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/networking-evento-negocios.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "67e44dc4ea8e9523"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/generacion-z-redes-sociales-informacion-confianza-fake-news",
@@ -434,7 +464,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/redes-sociales-jovenes.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "bef702937afcdc2f"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/juntos-construimos-futuro-reunio-a-960-jovenes-en-palermo",
@@ -446,7 +477,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/05.jpg7966_re.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "2eb094cb4349faab"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/pamela-david-desmintio-a-laura-ubfal-lo-que-dice-no-condice-con-la-realidad",
@@ -458,7 +490,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/ubfal4197_re.png",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "3543f8d76833c8ff"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/milei-sobre-las-elecciones-2027-me-niego-a-creer-que-los-argentinos-voten-hacia-atras",
@@ -470,7 +503,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/72010)5573.avif",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "f98d7cdd3fe76d9d"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/juan-martin-del-potro-fue-nominado-para-entrar-al-salon-de-la-fama-del-tenis",
@@ -482,7 +516,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/delpotrosalon5967_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "fd8a6b2cdc3aa707"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/bridgerton-tendra-una-precuela-dedicada-a-lady-violet",
@@ -494,7 +529,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/657204346183068898342773603072754853482278908_n7442_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "cec0c20a1a78aae6"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/el-centro-cultural-san-martin-se-prepara-para-una-transformacion-historica",
@@ -506,7 +542,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/whatsappimage2026-10-13_at_12.17.54_pm_(1)4366_re.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "8a60a49480d37225"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/la-provincia-de-buenos-aires-denunciara-penalmente-a-javier-milei-y-luis-caputo",
@@ -518,7 +555,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/hvaipx6x0aa17gm9784_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "45d43792fbf65a8a"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/el-gobernador-de-corrientes-sobre-la-docente-desaparecida-en-corrientes-hay-hipotesis",
@@ -530,7 +568,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/nanciestelagodoy-fue-vista-por-ultima-vez-el-6-de-octubre-foto-la-voz-y374nerrcncexantnahvh4bwe4_(1)3400.avif",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "a29e94ba77338afe"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/un-nuevo-local-tecnologico-abrio-sus-puertas-en-unicenter-shopping",
@@ -542,7 +581,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/unnamed6136_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "9a685a4c632beb3b"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/el-descargo-de-juan-alberto-mateyko-en-apoyo-a-emanuel-ortega-vos-no-te-mereces-esto",
@@ -554,7 +594,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/mateyko228468_re.png",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "e4a95fef370102e6"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/camionero-cierra-el-ano-con-un-show-en-el-microestadio-de-ferro",
@@ -566,7 +607,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/retratoscamionero2026197077_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "f07659f0ecfabed3"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/riesgo-pais-toca-su-maximo-nivel-en-el-ano-protestas-en-francia-gobierno-autorizo-una-compra-militar-bajo-secreto-y-mas",
@@ -578,7 +620,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname3359_re.png",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "2664a99c6284a1c1"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/tini-sobre-su-show-cancelado-hay-muchas-circunstancias-sobre-esta-gira-que-hoy-elijo-no-profundizar",
@@ -590,7 +633,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/tini8909_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "9c369bcb33e362dc"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/el-riesgo-pais-vuelve-a-subir-este-lunes-y-toca-su-maximo-nivel-en-2026",
@@ -602,7 +646,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname5118_re.png",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "144444574958f1f6"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/karina-milei-encabezo-el-acto-por-el-traslado-de-los-presos-de-devoto-a-marcos-paz",
@@ -614,7 +659,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname5976_re.png",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "0cb85dd6466d7be6"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/crewrod-presenta-zorro-blanco-manto-negro-su-nuevo-disco-de-neo-soul-y-funk-rock",
@@ -626,7 +672,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/diputados7)9416_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/el-gobierno-publico-un-nuevo-regimen-de-retiro-voluntario-para-empleados-estatales",
@@ -638,7 +685,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname1772_re.png",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "804b78f23d5c05ad"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/el-gobierno-autorizo-una-compra-militar-bajo-secreto-en-plena-tension-por-malvinas",
@@ -650,7 +698,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/diputados6)5432_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "ec9d1fe9e39aa0e5"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/max-carra-presento-porfa-no-te-vayas-su-nuevo-tema-junto-a-emanero-que-anticipa-su-proximo-ep",
@@ -662,7 +711,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/porfano_te_vayas__max_carra_ft_emanero___@lucia.deramo_1707476_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "604182d428f7933d"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/milei-viaja-a-espana-para-respaldar-a-la-derecha-en-la-previa-de-las-elecciones-generales",
@@ -674,7 +724,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname6162_re.png",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "4fada1b8d6b148fe"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/protestas-en-francia-estudiantes-bloquearon-el-louvre-y-los-agricultores-cortaron-una-autopista",
@@ -686,7 +737,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/20261019t084106z_1304620100_rc286oaww29h_rtrmadp_3_france-protest7355_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "1a3d55e2ed78928e"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/river-goleo-a-belgrano-y-ponzio-dejo-una-frase-sobre-su-continuidad",
@@ -698,7 +750,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/river3249_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "24d17b6af71b6ee8"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/19/de-la-motosierra-de-milei-a-amigo-de-dictadores-las-acusaciones-entre-lula-y-bolsonaro-en-el-primer-debate-antes-del-balotaje",
@@ -710,7 +763,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname5847_re.png",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": false
+   "og_checked": false,
+   "article": "225514e4d6fc468d"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201208",
@@ -722,7 +776,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "2c61fd3f898b49cb"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201210",
@@ -734,7 +789,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/vivianco-web.png",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "73cb28ebc30c8805"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201201",
@@ -746,7 +802,8 @@ window.CIRCO = {
    "image": "",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": "0aac9cc6f9e45ec6"
   },
   {
    "id": "https://www.theverge.com/?p=1013485",
@@ -758,7 +815,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-18",
    "first_seen": "2026-10-20",
-   "og_checked": true
+   "og_checked": true,
+   "article": "a6f960a21176df62"
   },
   {
    "id": "https://bencorde.com/blog/curso-meta-ads-claude-code/",
@@ -770,7 +828,8 @@ window.CIRCO = {
    "image": "https://bencorde.com/blog/curso-meta-ads-claude-code/imagenes/portada.jpg",
    "day": "2026-10-18",
    "first_seen": "2026-10-20",
-   "og_checked": true
+   "og_checked": true,
+   "article": "77a2b649e6746ba3"
   },
   {
    "id": "https://www.applesfera.com/curiosidades/steve-jobs-encargo-avion-privado-identico-al-otro-multimillonario-solo-diferenciaba-boton",
@@ -782,7 +841,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/f079ac/jobs-avion/1024_2000.jpeg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
-   "og_checked": false
+   "og_checked": false,
+   "article": "2e82254952cf897d"
   },
   {
    "id": "https://www.applesfera.com/trucos/ocho-consejos-ajustes-para-usar-iphone-sola-mano-incluso-iphone-max",
@@ -794,7 +854,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/bbd063/iphone-en-una-mano/1024_2000.jpeg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
-   "og_checked": false
+   "og_checked": false,
+   "article": "9648a59a3d7c5346"
   },
   {
    "id": "https://www.applesfera.com/seleccion/este-cargador-inalambrico-anker-carga-tres-dispositivos-a-vez-esta-casi-a-mitad-precio-mejor-que-te-bolsillo",
@@ -806,7 +867,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/b731e8/cargador-anker-maggo/1024_2000.jpeg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
-   "og_checked": false
+   "og_checked": false,
+   "article": "2f25d61ff9e28429"
   },
   {
    "id": "https://www.applesfera.com/apple-watch/30-dias-apple-watch-series-12-que-me-ha-gustado-que-me-ha-chirriado",
@@ -818,7 +880,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/7268d3/series-12/1024_2000.jpeg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
-   "og_checked": false
+   "og_checked": false,
+   "article": "f36ee04062d36074"
   },
   {
    "id": "https://www.theverge.com/?p=1013541",
@@ -830,7 +893,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
-   "og_checked": true
+   "og_checked": true,
+   "article": "97027eaf00f77dce"
   },
   {
    "id": "https://musebyclios.com/?p=133784",
@@ -842,7 +906,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/18160825/dolla.jpg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
-   "og_checked": true
+   "og_checked": true,
+   "article": "f5af435bb7024382"
   },
   {
    "id": "https://musebyclios.com/?p=133779",
@@ -854,7 +919,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/17155021/AOTA-j.jpg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
-   "og_checked": true
+   "og_checked": true,
+   "article": "cff57b0a81151ae7"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/18/cancer-de-mama-en-argentina-mas-de-20-000-casos-al-ano-y-la-importancia-de-la-deteccion-temprana",
@@ -866,7 +932,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/18/sasunbughdaryanfs3nkkgq69c-unsplash2308_re.jpg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
-   "og_checked": false
+   "og_checked": false,
+   "article": "3d3d904ead491646"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/18/canada-al-menos-cuatro-militares-murieron-y-decenas-resultaron-heridos-por-un-incendio-en-una-base-militar",
@@ -878,7 +945,8 @@ window.CIRCO = {
    "image": "https://assets.dev-filo.dift.io/img/2026/10/18/20261018t190209z_2059396955_rc2u5oa1pp6f_rtrmadp_3_canada-alberta-wainwright_(1)7336_re.jpg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
-   "og_checked": false
+   "og_checked": false,
+   "article": "06c95449de2e10a5"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201184",
@@ -890,7 +958,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/estallido-2.jpeg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
-   "og_checked": true
+   "og_checked": true,
+   "article": "8e50e8558e93a484"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201192",
@@ -902,7 +971,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_910024-scaled.jpg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
-   "og_checked": true
+   "og_checked": true,
+   "article": "b59378fc6593831c"
   },
   {
    "id": "https://www.theverge.com/?p=1013025",
@@ -914,7 +984,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&strip=all&crop=0%2C4.2208293718613%2C100%2C46.727917872554&w=1200",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "61075cc46d578d1d"
   },
   {
    "id": "https://www.applesfera.com/ipad/ciencia-dicta-sentencia-imanes-nevera-peligrosos-que-se-piensa-yo-estuve-anos-ipad-viejo-pegado-al-frigorifico",
@@ -926,7 +997,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/056ee3/ipad-nevera/1024_2000.jpeg",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "7175dde02bad8670"
   },
   {
    "id": "https://www.applesfera.com/curiosidades/steve-jobs-le-propuso-cambio-ordenador-dueno-dijo-que-no-ahora-se-ha-vendido-millon",
@@ -938,7 +1010,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/4b822b/carta/1024_2000.jpeg",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "a5db532bb76e44a9"
   },
   {
    "id": "https://www.applesfera.com/seleccion/mediamarkt-tiene-este-ipad-pro-su-outlet-doble-descuento-su-configuracion-2-tb",
@@ -950,7 +1023,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/ed24dc/ipad-pro-m5-outlet-de-mediamarkt/1024_2000.jpeg",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "528a6c174155066c"
   },
   {
    "id": "https://www.applesfera.com/apple-tv/apple-tv-trae-peliculas-iconicas-cada-mes-estas-11-que-puedes-ver-octubre",
@@ -962,7 +1036,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/e26a83/apple-tv/1024_2000.jpeg",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "f5cf1e7215a57e02"
   },
   {
    "id": "https://www.applesfera.com/iphone/estamos-trabajando-duro-llegue-antes-posible-apple-habla-agotarse-iphone-duo-minutos",
@@ -974,7 +1049,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/49913e/iphone-duo-apple/1024_2000.jpeg",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "af355f0382437756"
   },
   {
    "id": "https://www.theverge.com/?p=1013409",
@@ -986,7 +1062,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "a1a40acf1119d775"
   },
   {
    "id": "https://theinspiration.com/?p=54739",
@@ -998,7 +1075,8 @@ window.CIRCO = {
    "image": "https://theinspiration.com/wp-content/uploads/Call-of-Duty-Builds-a-Korean-Alley-in-London-750x536.webp",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "f81467d7b9348ad0"
   },
   {
    "id": "https://theinspiration.com/?p=54734",
@@ -1010,7 +1088,8 @@ window.CIRCO = {
    "image": "https://theinspiration.com/wp-content/uploads/1792038838425-750x536.webp",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "5ff1bf53f249526f"
   },
   {
    "id": "https://musebyclios.com/?p=133776",
@@ -1022,7 +1101,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/17093251/H3.jpg",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "9e62017c16d2d0c8"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201169",
@@ -1034,7 +1114,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/allende-1-1.jpg",
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "f6e6713864b41c68"
   },
   {
    "id": "yt:video:jEOUUAPC1sc",
@@ -1046,7 +1127,8 @@ window.CIRCO = {
    "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
-   "og_checked": false
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://www.ciperchile.cl/?p=201206",
@@ -1058,7 +1140,8 @@ window.CIRCO = {
    "image": "",
    "day": "2026-10-16",
    "first_seen": "2026-10-19",
-   "og_checked": true
+   "og_checked": true,
+   "article": ""
   },
   {
    "id": "https://www.theverge.com/?p=1012820",
@@ -1070,7 +1153,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&strip=all&crop=0%2C17.277486910995%2C100%2C65.44502617801&w=1200",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "5f888af836db8068"
   },
   {
    "id": "https://www.theverge.com/?post_type=vm_stream&p=1010131",
@@ -1082,7 +1166,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "178927c7636acb59"
   },
   {
    "id": "https://www.theverge.com/?p=1013314",
@@ -1094,7 +1179,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "d896a6804b9a7729"
   },
   {
    "id": "https://www.theverge.com/?p=1012911",
@@ -1106,7 +1192,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "4c76edfc5f3e85a9"
   },
   {
    "id": "https://www.theverge.com/?p=1012805",
@@ -1118,7 +1205,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-452-10-57-30.jpg?quality=90&strip=all&crop=0%2C3.159993948987%2C100%2C93.680012102026&w=1200",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "97b9390c1d447f72"
   },
   {
    "id": "https://www.theverge.com/?p=988582",
@@ -1130,7 +1218,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "630764f272fa3ed7"
   },
   {
    "id": "https://www.applesfera.com/iphone/incongruencias-siri-ai-sus-nuevos-requisitos-ponen-duda-que-no-pueda-llegar-a-iphone-antiguos",
@@ -1142,7 +1231,8 @@ window.CIRCO = {
    "image": "https://i.blogs.es/595ddf/siri-ai/1024_2000.jpeg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "7c4b71a51f05f244"
   },
   {
    "id": "https://www.theverge.com/?p=1012918",
@@ -1154,7 +1244,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "4cc231028a12c2c3"
   },
   {
    "id": "https://www.theverge.com/?p=1013195",
@@ -1166,7 +1257,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "4888c937d986a244"
   },
   {
    "id": "https://www.theverge.com/?p=1012748",
@@ -1178,7 +1270,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "5f261f8d09101946"
   },
   {
    "id": "https://www.theverge.com/?p=1012846",
@@ -1190,7 +1283,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "f574d6b69979a309"
   },
   {
    "id": "https://musebyclios.com/?p=133765",
@@ -1202,7 +1296,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/16153759/RYVAL-.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "43990b1014d1c95f"
   },
   {
    "id": "https://musebyclios.com/?p=133760",
@@ -1214,7 +1309,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/16130031/herb8.jpeg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "b3b0ef1d92709701"
   },
   {
    "id": "https://musebyclios.com/?p=133755",
@@ -1226,7 +1322,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/16095154/ronn.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "1ab0afb3689db148"
   },
   {
    "id": "https://musebyclios.com/?p=133740",
@@ -1238,7 +1335,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/15180219/BALLET.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "a7bc8885e5b6f210"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/evolucion-inversion-publicidad-ingresos-grandes-marcas-warc",
@@ -1250,7 +1348,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/relacion-ingresos-publicidad-warc.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "0921ed6238a81a1c"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/mitsubishi-lluvia-sobre-coche-para-demostrar-conduccion-carreteras-mojadas",
@@ -1262,7 +1361,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/mitsubishi-nube-lluvoa.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "f26bc954746c14ee"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/dior-medallion-accesorio-movil-generacion-z",
@@ -1274,7 +1374,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/dior-medallion.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "3664113fa743bab9"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/estudio-atencion-acumulada-frecuencia-publicidad-resultados-marca-2026",
@@ -1286,7 +1387,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/pantallas-translucidas-frecuencia-publicidad.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "51020231d2e1209d"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/apple-safari-comparacion-chrome-nueva-campana",
@@ -1298,7 +1400,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/apple-safari-navegador-chrome.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "b488a82969ffbb93"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201158",
@@ -1310,7 +1413,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/studio_v1mweb.png",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "7cd288c7ec931f29"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201144",
@@ -1322,7 +1426,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1408836-1.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "90432791285bf340"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201145",
@@ -1334,7 +1439,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/serna_web.png",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "1bcf01338a9d7a0c"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201142",
@@ -1346,7 +1452,8 @@ window.CIRCO = {
    "image": "",
    "day": "2026-10-16",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "8c68c7687cecde5b"
   },
   {
    "id": "https://www.theverge.com/?p=1012293",
@@ -1358,7 +1465,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "08904088078da22e"
   },
   {
    "id": "https://www.theverge.com/?p=1012047",
@@ -1370,7 +1478,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "d80ca9c7e03334a9"
   },
   {
    "id": "https://www.theverge.com/?p=1012510",
@@ -1382,7 +1491,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "d6c98090942a268e"
   },
   {
    "id": "https://www.theverge.com/?p=1012206",
@@ -1394,7 +1504,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "9a3c945c5bd94d23"
   },
   {
    "id": "https://www.theverge.com/?p=1011797",
@@ -1406,7 +1517,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "ae1523953536d273"
   },
   {
    "id": "https://musebyclios.com/?p=133743",
@@ -1418,7 +1530,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/15160031/CIN5.jpg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "4bacb2aa6e83b4b6"
   },
   {
    "id": "https://musebyclios.com/?p=133710",
@@ -1430,7 +1543,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/15125516/10_FromGoundtoSound_Corn_Graphics-scaled.png",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "c74e8bde0c39c915"
   },
   {
    "id": "https://musebyclios.com/?p=133701",
@@ -1442,7 +1556,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/15092520/PEP1.jpg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "e9133901f6cacf1a"
   },
   {
    "id": "https://musebyclios.com/?p=133671",
@@ -1454,7 +1569,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/14102505/Graham-Douglas.jpg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "bdf996e387419001"
   },
   {
    "id": "https://musebyclios.com/?p=133691",
@@ -1466,7 +1582,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/15000759/Main-KPop.jpeg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "03be10db1304932a"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/iniciativa-soy-yo-adigital-llamadas-comerciales-empresas-telefono-prefijo-400",
@@ -1478,7 +1595,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/llamada-centralita.jpg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "c787b1177d3bd851"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/aseguradora-aviva-menopausia-monopoly-promover-conversacion",
@@ -1490,7 +1608,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/aviva-monopoly-menopausia.jpg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "4a6f85347f93ec96"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/virgin-busca-head-of-yes-experiencias-viajes-mundo-richard-branson-2026",
@@ -1502,7 +1621,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/head-of-yes-virgin.jpg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "eb102122e1cfc2b7"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/yatekomo-campana-cambio-receta-protagonismo-ceo",
@@ -1514,7 +1634,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/yatekomo-ceo-nueva-receta.jpg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "272f50ac176cfff9"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/kantar-estudio-colaboraciones-marcas-influencers-2026",
@@ -1526,7 +1647,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/influencer-belleza.jpg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "fe7e0ed49353a78e"
   },
   {
    "id": "https://www.reasonwhy.es/actualidad/agencia-you-first-completa-integracion-gersh-marca-global",
@@ -1538,7 +1660,8 @@ window.CIRCO = {
    "image": "https://www.reasonwhy.es/media/library/gersh-completa-integracion-you-first.jpg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "6db46c4ff93a56e2"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201140",
@@ -1550,7 +1673,8 @@ window.CIRCO = {
    "image": "",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": ""
   },
   {
    "id": "https://www.ciperchile.cl/?p=201131",
@@ -1562,7 +1686,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "48d392678c3d2497"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201120",
@@ -1574,7 +1699,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/defensoria_v1_web.png",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "01a92dc44c359de5"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201115",
@@ -1586,7 +1712,8 @@ window.CIRCO = {
    "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1772107.jpg",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "673a77a972517ca9"
   },
   {
    "id": "https://www.theverge.com/?p=1011133",
@@ -1598,7 +1725,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-14",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "9762c89a18ef0833"
   },
   {
    "id": "https://www.theverge.com/?p=1010928",
@@ -1610,7 +1738,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-14",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "c0963fc413b49036"
   },
   {
    "id": "https://musebyclios.com/?p=133687",
@@ -1622,7 +1751,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/14163321/py.jpeg",
    "day": "2026-10-14",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "1fcc1de1656ce192"
   },
   {
    "id": "https://musebyclios.com/?p=133673",
@@ -1634,7 +1764,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/14122243/phone.jpg",
    "day": "2026-10-14",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "5e10b647cd6cdc79"
   },
   {
    "id": "https://musebyclios.com/?p=133651",
@@ -1646,7 +1777,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/13193733/Jenny-Stojkovic.jpg",
    "day": "2026-10-14",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "ae53047763010bc6"
   },
   {
    "id": "https://www.theverge.com/?p=1009066",
@@ -1658,7 +1790,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-13",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "febdd8eed659a733"
   },
   {
    "id": "https://www.theverge.com/?p=1010086",
@@ -1670,7 +1803,8 @@ window.CIRCO = {
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GoogleAuto_Blogpost_Play_HorizontalUI_final-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
    "day": "2026-10-13",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "6f318ff9fa7786c2"
   },
   {
    "id": "https://musebyclios.com/?p=133639",
@@ -1682,7 +1816,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/13144536/kim7.jpg",
    "day": "2026-10-13",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "ceb2dd9dc267b40a"
   },
   {
    "id": "https://musebyclios.com/?p=133613",
@@ -1694,7 +1829,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/13122617/MCBGap4-1.jpg",
    "day": "2026-10-13",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "644fdafcc05b007c"
   },
   {
    "id": "https://musebyclios.com/?p=133617",
@@ -1706,7 +1842,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/14093426/Vaughn-Misail.png",
    "day": "2026-10-13",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "704782a63530fd86"
   },
   {
    "id": "https://musebyclios.com/?p=133612",
@@ -1718,7 +1855,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/13093934/scam-3.jpg",
    "day": "2026-10-13",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "ceb3958fefa2832d"
   },
   {
    "id": "https://musebyclios.com/?p=133603",
@@ -1730,7 +1868,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/12143109/self-1.jpg",
    "day": "2026-10-13",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "0752f7322dfbf79b"
   },
   {
    "id": "https://bencorde.com/blog/rea-ingenieria-inversa-claude-code/",
@@ -1742,7 +1881,8 @@ window.CIRCO = {
    "image": "https://bencorde.com/blog/rea-ingenieria-inversa-claude-code/imagenes/portada.jpg",
    "day": "2026-10-12",
    "first_seen": "2026-10-20",
-   "og_checked": true
+   "og_checked": true,
+   "article": "28dd9a06074ad9fe"
   },
   {
    "id": "https://musebyclios.com/?p=133587",
@@ -1754,7 +1894,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/12135008/DEER.jpg",
    "day": "2026-10-12",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "c757981b2f26033e"
   },
   {
    "id": "https://musebyclios.com/?p=133570",
@@ -1766,7 +1907,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/11170720/BC.jpg",
    "day": "2026-10-12",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "e4eb27d8ea24f1ba"
   },
   {
    "id": "https://musebyclios.com/?p=133595",
@@ -1778,7 +1920,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/12113826/EV.jpg",
    "day": "2026-10-12",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "964d2c08765507a5"
   },
   {
    "id": "https://musebyclios.com/?p=133563",
@@ -1790,7 +1933,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/11093605/ALBUM-1.jpg",
    "day": "2026-10-11",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "f2b494d375f6f16c"
   },
   {
    "id": "https://musebyclios.com/?p=133541",
@@ -1802,7 +1946,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/12090944/MATT1.jpg",
    "day": "2026-10-10",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "f96a574c6360de1a"
   },
   {
    "id": "yt:video:rkK8ZyzYyEA",
@@ -1814,7 +1959,8 @@ window.CIRCO = {
    "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
    "day": "2026-10-09",
    "first_seen": "2026-10-20",
-   "og_checked": false
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://bencorde.com/blog/como-crear-influencers-ia-higgsfield-genjutsu/",
@@ -1826,7 +1972,8 @@ window.CIRCO = {
    "image": "https://bencorde.com/blog/como-crear-influencers-ia-higgsfield-genjutsu/imagenes/portada.jpg",
    "day": "2026-10-09",
    "first_seen": "2026-10-20",
-   "og_checked": true
+   "og_checked": true,
+   "article": "905487f6dbf37ba9"
   },
   {
    "id": "https://theinspiration.com/?p=54730",
@@ -1838,7 +1985,8 @@ window.CIRCO = {
    "image": "https://theinspiration.com/wp-content/uploads/Skaermbillede-2026-10-09-kl.-07.52.29-750x536.webp",
    "day": "2026-10-09",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "c54bd50479590611"
   },
   {
    "id": "https://theinspiration.com/?p=54721",
@@ -1850,7 +1998,8 @@ window.CIRCO = {
    "image": "https://theinspiration.com/wp-content/uploads/oura-bts-7-750x536.webp",
    "day": "2026-10-09",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "45d06ae8f7e822bc"
   },
   {
    "id": "https://musebyclios.com/?p=133528",
@@ -1862,7 +2011,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/09135215/FF1-2.jpeg",
    "day": "2026-10-09",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "fbefb5635eecfeaf"
   },
   {
    "id": "https://musebyclios.com/?p=133512",
@@ -1874,7 +2024,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/09113305/GETTY3.jpg",
    "day": "2026-10-09",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "2fa7e26efc287e8e"
   },
   {
    "id": "https://musebyclios.com/?p=133504",
@@ -1886,7 +2037,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/09090835/ME2.jpg",
    "day": "2026-10-09",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "e6356c6900ebc5fd"
   },
   {
    "id": "https://musebyclios.com/?p=133495",
@@ -1898,7 +2050,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/09085953/If-I-May-Ad-Main-scaled.jpg",
    "day": "2026-10-09",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "9d13ec0f8627de44"
   },
   {
    "id": "https://musebyclios.com/?p=133487",
@@ -1910,7 +2063,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/09085706/NYON-26-Sesame-Street-Lifestyle-look-1-6_RT-e1791491701812.jpg",
    "day": "2026-10-09",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "03441e48b0fa8ca8"
   },
   {
    "id": "https://theinspiration.com/?p=54708",
@@ -1922,7 +2076,8 @@ window.CIRCO = {
    "image": "https://theinspiration.com/wp-content/uploads/Skaermbillede-2026-10-08-kl.-08.57.29-750x536.webp",
    "day": "2026-10-08",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "6a58a75b7bf79482"
   },
   {
    "id": "https://musebyclios.com/?p=133480",
@@ -1934,7 +2089,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/08152309/DUDE-new.jpg",
    "day": "2026-10-08",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "f09183038a8c12bb"
   },
   {
    "id": "https://musebyclios.com/?p=133473",
@@ -1946,7 +2102,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/08105400/CONE.jpeg",
    "day": "2026-10-08",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "beb21983205ea3cf"
   },
   {
    "id": "https://musebyclios.com/?p=133467",
@@ -1958,7 +2115,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/08102410/smyths2-1.jpg",
    "day": "2026-10-08",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "734e7eadad5135ab"
   },
   {
    "id": "https://musebyclios.com/?p=133439",
@@ -1970,7 +2128,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/07234542/AWNY-Main-WHAT-IT-TAKES-TO-BUILD-A-SPORTS-BRAND-FANS-NEVER-LEAVE_1488.jpeg",
    "day": "2026-10-08",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "b326ceb05221d6b5"
   },
   {
    "id": "yt:video:bQPU6UJ4iCw",
@@ -1982,7 +2141,8 @@ window.CIRCO = {
    "image": "https://i.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
    "day": "2026-10-07",
    "first_seen": "2026-10-20",
-   "og_checked": false
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://bencorde.com/blog/claude-haiku-5-5-vs-gpt-6-luna/",
@@ -1994,7 +2154,8 @@ window.CIRCO = {
    "image": "https://bencorde.com/blog/claude-haiku-5-5-vs-gpt-6-luna/imagenes/portada.jpg",
    "day": "2026-10-07",
    "first_seen": "2026-10-20",
-   "og_checked": true
+   "og_checked": true,
+   "article": "5a5f95dd228ed8a8"
   },
   {
    "id": "https://theinspiration.com/?p=54705",
@@ -2006,7 +2167,8 @@ window.CIRCO = {
    "image": "https://theinspiration.com/wp-content/uploads/visit-sweden-introvert-travel-agency-1-750x536.webp",
    "day": "2026-10-07",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "52a800a9c4337e47"
   },
   {
    "id": "https://theinspiration.com/?p=54680",
@@ -2018,7 +2180,8 @@ window.CIRCO = {
    "image": "https://theinspiration.com/wp-content/uploads/valeria-duque-apa-1-1-750x536.webp",
    "day": "2026-10-07",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "32afefe8694e101c"
   },
   {
    "id": "https://theinspiration.com/?p=54675",
@@ -2030,7 +2193,8 @@ window.CIRCO = {
    "image": "https://theinspiration.com/wp-content/uploads/hulu-disney-plus-hu-dis-1-1-750x536.webp",
    "day": "2026-10-07",
    "first_seen": "2026-10-17",
-   "og_checked": false
+   "og_checked": false,
+   "article": "201f71c79d352759"
   },
   {
    "id": "https://musebyclios.com/?p=133394",
@@ -2042,7 +2206,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/06200542/Matthew-Low.jpg",
    "day": "2026-10-07",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "734ad5ab13e8d612"
   },
   {
    "id": "https://musebyclios.com/?p=133415",
@@ -2054,7 +2219,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/07110015/frank.jpg",
    "day": "2026-10-07",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "13ebadfe52163372"
   },
   {
    "id": "https://musebyclios.com/?p=133382",
@@ -2066,7 +2232,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/06133726/03_Cannes_960x540.jpg",
    "day": "2026-10-07",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "7720de94b4009573"
   },
   {
    "id": "https://musebyclios.com/?p=133396",
@@ -2078,7 +2245,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/07082917/FRI2.jpg",
    "day": "2026-10-07",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "91a2c96373f515eb"
   },
   {
    "id": "https://revistalibero.com/blogs/contenidos/libero-58-por-que-los-espanoles-jugamos-tan-bien-al-futbol",
@@ -2090,7 +2258,8 @@ window.CIRCO = {
    "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-09-23_a_las_12.36.01_d3e67894-5742-4d36-8afd-ca2c09cfe78f_1024x1024.png?v=1790875525",
    "day": "2026-10-07",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "0858bd61d77fa35e"
   },
   {
    "id": "yt:video:1a5HxU52vCQ",
@@ -2102,7 +2271,8 @@ window.CIRCO = {
    "image": "https://i.ytimg.com/vi/1a5HxU52vCQ/hqdefault.jpg",
    "day": "2026-10-06",
    "first_seen": "2026-10-20",
-   "og_checked": false
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "yt:video:Y_RevX5yMq8",
@@ -2114,7 +2284,8 @@ window.CIRCO = {
    "image": "https://i.ytimg.com/vi/Y_RevX5yMq8/hqdefault.jpg",
    "day": "2026-10-06",
    "first_seen": "2026-10-20",
-   "og_checked": false
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://musebyclios.com/?p=133380",
@@ -2126,7 +2297,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/06132342/fans2.jpg",
    "day": "2026-10-06",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "52d3b8395bec00e0"
   },
   {
    "id": "https://musebyclios.com/?p=133377",
@@ -2138,7 +2310,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/05104526/soap3.jpg",
    "day": "2026-10-06",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "cda6d12899a3dfb3"
   },
   {
    "id": "https://musebyclios.com/?p=133376",
@@ -2150,7 +2323,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/05160904/ver7.jpeg",
    "day": "2026-10-06",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "cabce1fe4ee9d5f3"
   },
   {
    "id": "https://musebyclios.com/?p=133368",
@@ -2162,7 +2336,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/06084642/plex2.jpg",
    "day": "2026-10-06",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "fc5d8af83113ee32"
   },
   {
    "id": "https://musebyclios.com/?p=133363",
@@ -2174,7 +2349,8 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/05201423/Liz-Vance.jpg",
    "day": "2026-10-06",
    "first_seen": "2026-10-17",
-   "og_checked": true
+   "og_checked": true,
+   "article": "695fe7605f9f10d1"
   }
  ]
 };
