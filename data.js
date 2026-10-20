@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-20T14:35-03:00",
+ "updated": "2026-10-20T18:56-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -182,6 +182,45 @@ window.CIRCO = {
    "article": "18d85de6afe0bfd6"
   },
   {
+   "id": "https://www.theverge.com/?p=1014446",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Chrome will now show a warning before you visit ‘suspicious’ sites",
+   "link": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning",
+   "excerpt": "Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The new suspicious site warnings, available when Chrome's Enhanced Protection is on, build on a similar two-stage system…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Chrome-suspicious-website-warning-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": "baa5b5d6a1eea541"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1014209",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+   "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+   "excerpt": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": "56a8d9e39d31816e"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1014627",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+   "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+   "excerpt": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": "f4b9cd0765da8c30"
+  },
+  {
    "id": "https://www.theverge.com/?p=1014284",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -206,6 +245,19 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": true,
    "article": "f3d2a41ac15dbe2b"
+  },
+  {
+   "id": "https://musebyclios.com/?p=133860",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "This Handy Device From Kalshi Lets NBA Viewers Block All Mentions of LeBron James. Who’s the King Now?!",
+   "link": "https://musebyclios.com/sports/this-handy-device-from-kalshi-lets-nba-viewers-block-all-mentions-of-lebron-james/?utm_source=rss&utm_medium=rss&utm_campaign=this-handy-device-from-kalshi-lets-nba-viewers-block-all-mentions-of-lebron-james",
+   "excerpt": "LeBron this! LeBron that! Bronny! Bronny! Bronny! Are you sick to death of hearing the man’s name—and his tiresome nicknames, too? (“The Chosen.” Shesh.) Dillon Brooks sure is. And he’s doing something about it, thanks to Kalshi, the prediction markets platform. In an…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/20161341/BRON1.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": "c8bd3e9004e6a7b3"
   },
   {
    "id": "https://musebyclios.com/?p=133848",
@@ -325,6 +377,71 @@ window.CIRCO = {
    "article": "38000e8dcaa4f2a4"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/20/kicillof-sobre-los-dichos-de-milei-se-burlo-de-la-gente-que-no-llega-a-fin-de-mes-con-un-cinismo-desconocido",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Kicillof sobre los dichos de Milei: “Se burló de la gente que no llega a fin de mes con un cinismo desconocido”",
+   "link": "https://www.filo.news/noticia/2026/10/20/kicillof-sobre-los-dichos-de-milei-se-burlo-de-la-gente-que-no-llega-a-fin-de-mes-con-un-cinismo-desconocido",
+   "excerpt": "El gobernador bonaerense sostuvo que el presidente \"desconoce e ignora\" la situación del país.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/202610261017436-scaled9059_re.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "e9f863917dde5f93"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/llega-juego-de-villanos-el-reality-donde-18-famosos-compiten-por-quien-es-mas-malo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Llega \"Juego de Villanos\", el reality donde 18 famosos compiten por quien es mas malo",
+   "link": "https://www.filo.news/noticia/2026/10/20/llega-juego-de-villanos-el-reality-donde-18-famosos-compiten-por-quien-es-mas-malo",
+   "excerpt": "El formato contará con la participación de Alex Caniggia y se estrenará este 20 de octubre por la pantalla de Universal+.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/villanos3484_re.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "467c8b8a20fc4f75"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/se-normalizaron-todas-las-lineas-de-subte-tras-el-paro-y-las-detenciones-de-delegados",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Se normalizaron todas las líneas de Subte tras el paro y las detenciones de delegados",
+   "link": "https://www.filo.news/noticia/2026/10/20/se-normalizaron-todas-las-lineas-de-subte-tras-el-paro-y-las-detenciones-de-delegados",
+   "excerpt": "Desde las 15:30, Emova confirmó la reanudación del servicio en las líneas A, B, C, D, E y H, además del Premetro.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/202610261020005-scaled6590_re.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "8b2141d5ef080cf1"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/maximo-placer-garantizado-fue-renovada-para-una-segunda-temporada",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "\"Máximo placer garantizado\" fue renovada para una segunda temporada",
+   "link": "https://www.filo.news/noticia/2026/10/20/maximo-placer-garantizado-fue-renovada-para-una-segunda-temporada",
+   "excerpt": "La historia sigue a Paula, una madre recién divorciada que cae en una peligrosa maraña de chantaje, asesinato y futbol juvenil. Conocé más detalles acá.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/maximumpleasureguaranteed_photo_0110065929_re.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "2a353843effb5494"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/javier-milei-acusa-a-los-periodistas-de-repetir-como-loros-una-frase-sin-sentido",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Javier Milei acusa a los periodistas de repetir \"como loros una frase sin sentido\"",
+   "link": "https://www.filo.news/noticia/2026/10/20/javier-milei-acusa-a-los-periodistas-de-repetir-como-loros-una-frase-sin-sentido",
+   "excerpt": "Durante su discurso en Argentina Oil & Gas Expo 2026 en Neuquén, el jefe de Estado calificó como \"una pelotudez del tamaño de una casa\" las afirmaciones de que dos tercios de los argentinos no llegan a fin de mes.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/2026102610010033976_re.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "ccb436cc87b28721"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/20/pedro-capo-llega-al-teatro-gran-rex-para-presentar-su-nuevo-album-fulanito",
    "source": "Filo.News",
    "category": "Notis",
@@ -336,6 +453,19 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": false,
    "article": "f1b592bf86939619"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/jorge-macri-sobre-el-conflicto-en-los-subtes-el-que-bloquea-un-servicio-esencial-va-preso",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Jorge Macri sobre el conflicto en los subtes: \"El que bloquea un servicio esencial va preso\"",
+   "link": "https://www.filo.news/noticia/2026/10/20/jorge-macri-sobre-el-conflicto-en-los-subtes-el-que-bloquea-un-servicio-esencial-va-preso",
+   "excerpt": "La medida de fuerza gremial comenzó alrededor de las 10 de la mañana y afectó a las líneas A, B, C, D, E y H, además del Premetro.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/17489859072506037084025_re.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "2f4808506dd007e0"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/20/semana-garcia-la-agenda-de-conciertos-muestras-y-homenajes-por-los-75-anos-de-charly",
@@ -416,17 +546,17 @@ window.CIRCO = {
    "article": "ea5867cfbed8c9d5"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/20/paro-total-de-subtes-detuvieron-a-dos-dirigentes-de-metrodelegados-y-el-gremio-advirtio-que-no-habra-servicio-hasta-que-sean-liberados",
+   "id": "https://www.filo.news/noticia/2026/10/20/paro-total-de-subtes-por-la-detencion-de-dos-dirigentes-de-metrodelegados",
    "source": "Filo.News",
    "category": "Notis",
    "title": "Paro total de subtes por la detención de dos dirigentes de Metrodelegados",
-   "link": "https://www.filo.news/noticia/2026/10/20/paro-total-de-subtes-detuvieron-a-dos-dirigentes-de-metrodelegados-y-el-gremio-advirtio-que-no-habra-servicio-hasta-que-sean-liberados",
+   "link": "https://www.filo.news/noticia/2026/10/20/paro-total-de-subtes-por-la-detencion-de-dos-dirigentes-de-metrodelegados",
    "excerpt": "Los arrestos se produjeron esta mañana cuando intentaban liberar los molinetes de la estación Juan Manuel de Rosas. El sindicato advirtió que el servicio seguirá interrumpido hasta que sean liberados.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/20/noname1984_re.png",
    "day": "2026-10-20",
    "first_seen": "2026-10-20",
    "og_checked": false,
-   "article": "cba0ef75c7abcf8a"
+   "article": "9cb51e16bf8d3940"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/20/el-gobierno-posterga-el-debate-de-la-ley-de-malvinas-y-negocia-cambios-por-las-criticas-de-la-oposicion-y-eeuu",
@@ -492,6 +622,32 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": false,
    "article": "28aa2f029e900f5c"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201245",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Expediente Mónica | El estallido social desde el interior de La Moneda",
+   "link": "https://www.ciperchile.cl/2026/10/20/expediente-monica-el-estallido-social-desde-el-interior-de-la-moneda/?utm_source=rss&utm_medium=rss&utm_campaign=expediente-monica-el-estallido-social-desde-el-interior-de-la-moneda",
+   "excerpt": "La entrada Expediente Mónica | El estallido social desde el interior de La Moneda se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": ""
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201241",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "El estallido social desde el interior de La Moneda",
+   "link": "https://www.ciperchile.cl/2026/10/20/el-estallido-social-desde-el-interior-de-la-moneda/?utm_source=rss&utm_medium=rss&utm_campaign=el-estallido-social-desde-el-interior-de-la-moneda",
+   "excerpt": "La entrada El estallido social desde el interior de La Moneda se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": ""
   },
   {
    "id": "https://www.theverge.com/?p=1013028",
@@ -975,84 +1131,6 @@ window.CIRCO = {
    "article": "8a60a49480d37225"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/19/la-provincia-de-buenos-aires-denunciara-penalmente-a-javier-milei-y-luis-caputo",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La Provincia de Buenos Aires denunciará penalmente a Javier Milei y Luis Caputo",
-   "link": "https://www.filo.news/noticia/2026/10/19/la-provincia-de-buenos-aires-denunciara-penalmente-a-javier-milei-y-luis-caputo",
-   "excerpt": "Gabriel Katopodis señala que el Gobierno nacional le niega los avales para financiar obras.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/hvaipx6x0aa17gm9784_re.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "45d43792fbf65a8a"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/19/el-gobernador-de-corrientes-sobre-la-docente-desaparecida-en-corrientes-hay-hipotesis",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El gobernador de Corrientes sobre la docente desaparecida en Corrientes: \"Hay hipótesis\"",
-   "link": "https://www.filo.news/noticia/2026/10/19/el-gobernador-de-corrientes-sobre-la-docente-desaparecida-en-corrientes-hay-hipotesis",
-   "excerpt": "Nanci Godoy es buscada desde el 6 de octubre en la localidad de Esquina. La docente desapareció de la Escuela Rural Nº 626 en el paraje El Malezal.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/nanciestelagodoy-fue-vista-por-ultima-vez-el-6-de-octubre-foto-la-voz-y374nerrcncexantnahvh4bwe4_(1)3400.avif",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "a29e94ba77338afe"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/19/un-nuevo-local-tecnologico-abrio-sus-puertas-en-unicenter-shopping",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Un nuevo local tecnológico abrió sus puertas en Unicenter Shopping",
-   "link": "https://www.filo.news/noticia/2026/10/19/un-nuevo-local-tecnologico-abrio-sus-puertas-en-unicenter-shopping",
-   "excerpt": "",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/unnamed6136_re.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "9a685a4c632beb3b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/19/el-descargo-de-juan-alberto-mateyko-en-apoyo-a-emanuel-ortega-vos-no-te-mereces-esto",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El descargo de Juan Alberto Mateyko en apoyo a Emanuel Ortega: \"Vos no te mereces esto\"",
-   "link": "https://www.filo.news/noticia/2026/10/19/el-descargo-de-juan-alberto-mateyko-en-apoyo-a-emanuel-ortega-vos-no-te-mereces-esto",
-   "excerpt": "El presentador, y amigo de la familia Ortega, se volcó a las redes para saludar al artista por su cumpleaños y apuntó fuertemente contra la ex esposa del cantante.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/mateyko228468_re.png",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "e4a95fef370102e6"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/19/camionero-cierra-el-ano-con-un-show-en-el-microestadio-de-ferro",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Camionero cierra el año con un show en el Microestadio de Ferro",
-   "link": "https://www.filo.news/noticia/2026/10/19/camionero-cierra-el-ano-con-un-show-en-el-microestadio-de-ferro",
-   "excerpt": "El dúo de rock se presentará el sábado 19 de diciembre en Caballito, después de un año marcado por el lanzamiento de Pruebas de contacto, dos funciones agotadas en Teatro Flores y una gira nacional de más de 40 recitales.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/retratoscamionero2026197077_re.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "f07659f0ecfabed3"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/19/riesgo-pais-toca-su-maximo-nivel-en-el-ano-protestas-en-francia-gobierno-autorizo-una-compra-militar-bajo-secreto-y-mas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Riesgo país toca su máximo nivel en el año; Protestas en Francia; Gobierno autorizó una compra militar bajo secreto; y más...",
-   "link": "https://www.filo.news/noticia/2026/10/19/riesgo-pais-toca-su-maximo-nivel-en-el-ano-protestas-en-francia-gobierno-autorizo-una-compra-militar-bajo-secreto-y-mas",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname3359_re.png",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "2664a99c6284a1c1"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201208",
    "source": "CIPER",
    "category": "Notis",
@@ -1404,19 +1482,6 @@ window.CIRCO = {
    "article": "4cc231028a12c2c3"
   },
   {
-   "id": "https://www.theverge.com/?p=1013195",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Websites are closing their doors to AI agents",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "excerpt": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "4888c937d986a244"
-  },
-  {
    "id": "https://musebyclios.com/?p=133765",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1729,32 +1794,6 @@ window.CIRCO = {
    "article": ""
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201131",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Fiscalía detecta otros dos pagos de inmobiliarias a Migueles; se reabren consulados de Chile en Puerto Ordaz y Caracas, y cuentas de luz bajarán en promedio 4,3% desde enero",
-   "link": "https://www.ciperchile.cl/2026/10/15/fiscalia-detecta-otros-dos-pagos-de-inmobiliarias-a-migueles-se-reabren-consulados-de-chile-en-puerto-ordaz-y-caracas-y-cuentas-de-luz-bajaran-en-promedio-47-desde-enero/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalia-detecta-otros-dos-pagos-de-inmobiliarias-a-migueles-se-reabren-consulados-de-chile-en-puerto-ordaz-y-caracas-y-cuentas-de-luz-bajaran-en-promedio-47-desde-enero",
-   "excerpt": "La entrada Fiscalía detecta otros dos pagos de inmobiliarias a Migueles; se reabren consulados de Chile en Puerto Ordaz y Caracas, y cuentas de luz bajarán en promedio 4,3% desde enero se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "48d392678c3d2497"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201120",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Corte Suprema ratificó legalidad de la incautación de celular y computador del defensor público de reo fugado en Copiapó",
-   "link": "https://www.ciperchile.cl/2026/10/15/corte-suprema-ratifico-legalidad-de-la-incautacion-de-celular-y-computador-del-defensor-publico-de-reo-fugado-en-copiapo/?utm_source=rss&utm_medium=rss&utm_campaign=corte-suprema-ratifico-legalidad-de-la-incautacion-de-celular-y-computador-del-defensor-publico-de-reo-fugado-en-copiapo",
-   "excerpt": "La entrada Corte Suprema ratificó legalidad de la incautación de celular y computador del defensor público de reo fugado en Copiapó se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/defensoria_v1_web.png",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "01a92dc44c359de5"
-  },
-  {
    "id": "https://www.theverge.com/?p=1011133",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1818,32 +1857,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "ae53047763010bc6"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1010086",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "A redesigned Play Store is coming to cars with Google built-in",
-   "link": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store",
-   "excerpt": "The Google Play Store is getting a big update for cars with Google built-in. On Tuesday, the company announced that the Play Store's layout will now automatically adapt to the size and layout of your car's screen while making it easier to find and download new apps. The update,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GoogleAuto_Blogpost_Play_HorizontalUI_final-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "6f318ff9fa7786c2"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1009066",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Google makes it easier to launch your vibe-coded apps",
-   "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-   "excerpt": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "febdd8eed659a733"
   },
   {
    "id": "https://musebyclios.com/?p=133639",
