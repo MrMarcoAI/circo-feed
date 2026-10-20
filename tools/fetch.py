@@ -26,7 +26,7 @@ UA = "Mozilla/5.0 (CIRCO FEED; +https://github.com/MrMarcoAI/circo-feed)"
 
 
 def get(url, limit=None, timeout=20):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "en"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read(limit) if limit else r.read(), r.geturl()
 
@@ -146,6 +146,41 @@ def parse_feed(body, url):
     return name, items
 
 
+AGO = {"m": "minutes", "h": "hours", "d": "days", "w": "weeks", "mo": "days", "y": "days"}
+
+
+def youtube_page(url):
+    """Plan B cuando YouTube no entrega el RSS del canal: lee los videos desde la página /videos."""
+    page, _ = get(url.split("?")[0].rstrip("/") + "/videos")
+    page = page.decode("utf-8", "ignore")
+    m = re.search(r'<meta property="og:title" content="([^"]+)"', page)
+    name = html.unescape(m.group(1)) if m else url
+    now, items = datetime.now(timezone.utc), []
+    for m in re.finditer(r'"lockupViewModel":\{"contentImage"', page):
+        seg = page[m.start(): m.start() + 12000]
+        vid = re.search(r'"contentId":"([\w-]{11})"', seg)
+        title = re.search(r'"lockupMetadataViewModel":\{"title":\{"content":"((?:[^"\\]|\\.)*)"', seg)
+        if not (vid and title):
+            continue
+        date = None
+        ago = re.search(r'"content":"(\d+)\s*(mo|[mhdwy])[a-z]* ago"', seg)
+        if ago:  # "9h ago", "4d ago", "2mo ago"…
+            n, unit = int(ago.group(1)), ago.group(2)
+            n *= 30 if unit == "mo" else 365 if unit == "y" else 1
+            date = now - timedelta(**{AGO[unit]: n})
+        items.append({
+            "id": "yt:video:" + vid.group(1),
+            "title": json.loads('"' + title.group(1) + '"'),
+            "link": "https://www.youtube.com/watch?v=" + vid.group(1),
+            "date": date,
+            "excerpt": "",
+            "image": f"https://i.ytimg.com/vi/{vid.group(1)}/hqdefault.jpg",
+        })
+    if not items:
+        raise ValueError("YouTube no entregó el RSS ni la lista de videos")
+    return name, items
+
+
 def read_sources():
     """Devuelve [(categoría, url, nombre o None)] según feeds.txt."""
     out, category = [], "Sin categoría"
@@ -183,8 +218,13 @@ def main():
                 feed_url = discover(body, final)
                 if not feed_url:
                     raise ValueError("no encontré un feed RSS en la página")
-                body, final = get(feed_url)
-            title, entries = parse_feed(body, final)
+                try:
+                    body, final = get(feed_url)
+                except Exception:
+                    if "youtube.com" not in url:
+                        raise
+                    body = None
+            title, entries = parse_feed(body, final) if body else youtube_page(url)
         except Exception as e:  # una fuente caída no detiene las demás
             errors.append({"url": url, "error": str(e)[:200]})
             print(f"ERROR {url}: {e}", file=sys.stderr)

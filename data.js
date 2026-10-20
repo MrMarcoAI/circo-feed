@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-19T21:45-03:00",
+ "updated": "2026-10-20T00:17-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -20,6 +20,16 @@ window.CIRCO = {
    "name": "The Verge · IA",
    "category": "Tech + la IA",
    "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+   "name": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "feed": "https://www.youtube.com/@GregIsenberg"
+  },
+  {
+   "name": "Benjamín Cordero",
+   "category": "Tech + la IA",
+   "feed": "https://bencorde.com/feed.xml"
   },
   {
    "name": "The Inspiration",
@@ -52,13 +62,32 @@ window.CIRCO = {
    "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
- "errors": [
-  {
-   "url": "https://www.youtube.com/@GregIsenberg",
-   "error": "HTTP Error 404: Not Found"
-  }
- ],
+ "errors": [],
  "items": [
+  {
+   "id": "yt:video:tpZOU1ugODQ",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Meta Muse Will Create 1,000 Millionaires",
+   "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201224",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Cuando la cárcel cruza fronteras: el PCC y su expansión criminal",
+   "link": "https://www.ciperchile.cl/2026/10/19/cuando-la-carcel-cruza-fronteras-el-pcc-y-su-expansion-criminal/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-la-carcel-cruza-fronteras-el-pcc-y-su-expansion-criminal",
+   "excerpt": "La entrada Cuando la cárcel cruza fronteras: el PCC y su expansión criminal se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1016614-scaled.jpg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "og_checked": true
+  },
   {
    "id": "https://www.theverge.com/?p=1013028",
    "source": "The Verge · Apple",
@@ -720,6 +749,18 @@ window.CIRCO = {
    "og_checked": true
   },
   {
+   "id": "https://bencorde.com/blog/curso-meta-ads-claude-code/",
+   "source": "Benjamín Cordero",
+   "category": "Tech + la IA",
+   "title": "Meta Ads con Claude Code: cómo construir tu Marketing Machine",
+   "link": "https://bencorde.com/blog/curso-meta-ads-claude-code/",
+   "excerpt": "Construye tu Marketing Machine con Claude Code y Meta Ads: campañas, anuncios modulares, gráficos con Higgsfield y un juez que revisa resultados.",
+   "image": "https://bencorde.com/blog/curso-meta-ads-claude-code/imagenes/portada.jpg",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-20",
+   "og_checked": true
+  },
+  {
    "id": "https://www.applesfera.com/curiosidades/steve-jobs-encargo-avion-privado-identico-al-otro-multimillonario-solo-diferenciaba-boton",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -766,18 +807,6 @@ window.CIRCO = {
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
    "og_checked": false
-  },
-  {
-   "id": "https://www.theverge.com/?p=1013485",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Trump says Google kisses his ass",
-   "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
-   "excerpt": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": true
   },
   {
    "id": "https://www.theverge.com/?p=1013541",
@@ -994,6 +1023,18 @@ window.CIRCO = {
    "day": "2026-10-17",
    "first_seen": "2026-10-17",
    "og_checked": true
+  },
+  {
+   "id": "yt:video:jEOUUAPC1sc",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
+   "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "day": "2026-10-16",
+   "first_seen": "2026-10-20",
+   "og_checked": false
   },
   {
    "id": "https://www.ciperchile.cl/?p=201206",
@@ -1536,18 +1577,6 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201076",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Actual superintendente de Medio Ambiente representó a seis empresas infractoras de normas ambientales por faltas “gravísimas”",
-   "link": "https://www.ciperchile.cl/2026/10/15/actual-superintendente-de-medio-ambiente-represento-a-seis-empresas-infractoras-de-normas-ambientales-por-faltas-gravisimas/?utm_source=rss&utm_medium=rss&utm_campaign=actual-superintendente-de-medio-ambiente-represento-a-seis-empresas-infractoras-de-normas-ambientales-por-faltas-gravisimas",
-   "excerpt": "La entrada Actual superintendente de Medio Ambiente representó a seis empresas infractoras de normas ambientales por faltas “gravísimas” se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/sma_web.png",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
    "id": "https://www.theverge.com/?p=1011133",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1605,6 +1634,18 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/13193733/Jenny-Stojkovic.jpg",
    "day": "2026-10-14",
    "first_seen": "2026-10-17",
+   "og_checked": true
+  },
+  {
+   "id": "https://www.theverge.com/?p=1009862",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Google finally releases Gemini 4 Argon",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+   "excerpt": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-13",
+   "first_seen": "2026-10-20",
    "og_checked": true
   },
   {
@@ -1692,6 +1733,18 @@ window.CIRCO = {
    "og_checked": true
   },
   {
+   "id": "https://bencorde.com/blog/rea-ingenieria-inversa-claude-code/",
+   "source": "Benjamín Cordero",
+   "category": "Tech + la IA",
+   "title": "Probé REA: el repo viral de ingeniería inversa con IA",
+   "link": "https://bencorde.com/blog/rea-ingenieria-inversa-claude-code/",
+   "excerpt": "Probé REA con Claude Code para recrear una app de pantallazos y otra de dictado. Comparo con y sin REA, explico la instalación y los límites de la prueba.",
+   "image": "https://bencorde.com/blog/rea-ingenieria-inversa-claude-code/imagenes/portada.jpg",
+   "day": "2026-10-12",
+   "first_seen": "2026-10-20",
+   "og_checked": true
+  },
+  {
    "id": "https://musebyclios.com/?p=133587",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1749,6 +1802,30 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/12090944/MATT1.jpg",
    "day": "2026-10-10",
    "first_seen": "2026-10-17",
+   "og_checked": true
+  },
+  {
+   "id": "yt:video:rkK8ZyzYyEA",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "8 GitHub Repos To Go Viral and Make Money",
+   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
+   "day": "2026-10-09",
+   "first_seen": "2026-10-20",
+   "og_checked": false
+  },
+  {
+   "id": "https://bencorde.com/blog/como-crear-influencers-ia-higgsfield-genjutsu/",
+   "source": "Benjamín Cordero",
+   "category": "Tech + la IA",
+   "title": "Cómo crear influencers con IA en Higgsfield: personaje, movimiento y anuncios",
+   "link": "https://bencorde.com/blog/como-crear-influencers-ia-higgsfield-genjutsu/",
+   "excerpt": "Crea un personaje consistente con AI Influencer de Higgsfield, dale movimiento con Genjutsu y descubre cómo lo uso para producir variaciones de anuncios.",
+   "image": "https://bencorde.com/blog/como-crear-influencers-ia-higgsfield-genjutsu/imagenes/portada.jpg",
+   "day": "2026-10-09",
+   "first_seen": "2026-10-20",
    "og_checked": true
   },
   {
@@ -1896,6 +1973,30 @@ window.CIRCO = {
    "og_checked": true
   },
   {
+   "id": "yt:video:bQPU6UJ4iCw",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "13 Businesses for the Age of AI",
+   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
+   "day": "2026-10-07",
+   "first_seen": "2026-10-20",
+   "og_checked": false
+  },
+  {
+   "id": "https://bencorde.com/blog/claude-haiku-5-5-vs-gpt-6-luna/",
+   "source": "Benjamín Cordero",
+   "category": "Tech + la IA",
+   "title": "Claude Haiku 5.5: lanzamiento y prueba frente a GPT-6 Luna",
+   "link": "https://bencorde.com/blog/claude-haiku-5-5-vs-gpt-6-luna/",
+   "excerpt": "Probé Claude Haiku 5.5 contra GPT-6 Luna en 20 partidas de buscaminas. Resultados, precios, contexto largo y lo que cambia para tus agentes.",
+   "image": "https://bencorde.com/blog/claude-haiku-5-5-vs-gpt-6-luna/imagenes/portada.jpg",
+   "day": "2026-10-07",
+   "first_seen": "2026-10-20",
+   "og_checked": true
+  },
+  {
    "id": "https://theinspiration.com/?p=54705",
    "source": "The Inspiration",
    "category": "Publi",
@@ -1992,6 +2093,30 @@ window.CIRCO = {
    "og_checked": true
   },
   {
+   "id": "yt:video:1a5HxU52vCQ",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Masterclass: How FDEs make $1M/yr deploying AI agents",
+   "link": "https://www.youtube.com/watch?v=1a5HxU52vCQ",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/1a5HxU52vCQ/hqdefault.jpg",
+   "day": "2026-10-06",
+   "first_seen": "2026-10-20",
+   "og_checked": false
+  },
+  {
+   "id": "yt:video:Y_RevX5yMq8",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "OpenAI DevDay: Dots, Agents & $100B Opportunities",
+   "link": "https://www.youtube.com/watch?v=Y_RevX5yMq8",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/Y_RevX5yMq8/hqdefault.jpg",
+   "day": "2026-10-06",
+   "first_seen": "2026-10-20",
+   "og_checked": false
+  },
+  {
    "id": "https://musebyclios.com/?p=133380",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -2048,78 +2173,6 @@ window.CIRCO = {
    "excerpt": "As president at iProspect, Liz Vance has helped transform the company “from a collection of great capabilities into a more connected, client-centric organization,” she says. “It’s building the systems talent and culture that let great work happen at scale.” Liz has been with the…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/05201423/Liz-Vance.jpg",
    "day": "2026-10-06",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://theinspiration.com/?p=54668",
-   "source": "The Inspiration",
-   "category": "Publi",
-   "title": "Urban Pixel By Scoobafish",
-   "link": "https://theinspiration.com/2026/10/urban-pixel-by-scoobafish/",
-   "excerpt": "Italian artist Maurizio Sergiusti, aka Scoobafish, turns decommissioned road signs collected in Sardinia into monumental artworks that only reveal themselves from the sky. Called Urban Pixel, the project uses each dented, scratched or rusted sign as a physical pixel – never…",
-   "image": "https://theinspiration.com/wp-content/uploads/urban-pixel-scoobafish-1-1-750x536.webp",
-   "day": "2026-10-05",
-   "first_seen": "2026-10-17",
-   "og_checked": false
-  },
-  {
-   "id": "https://musebyclios.com/?p=133351",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Inside Liquid Death’s Wild Collabs With BARK and Goodwipes",
-   "link": "https://musebyclios.com/advertising/inside-liquid-deaths-unexpected-collabs-with-bark-and-goodwipes/?utm_source=rss&utm_medium=rss&utm_campaign=inside-liquid-deaths-unexpected-collabs-with-bark-and-goodwipes",
-   "excerpt": "Is there no brand collaboration that Liquid Death can’t positively slay? Of late, the beverage company’s brand partnerships with subscription dog product vendor BARK and Goodwipes, which makes plant-based flushable wipes, are going so well that both have been extended, yielding…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/05161920/260721-LiquidDeath-Wipes-9-2.png",
-   "day": "2026-10-05",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://musebyclios.com/?p=133340",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "NBA on Prime Stages a Superstar Game in Somebody’s Living Room",
-   "link": "https://musebyclios.com/sports/be-it-never-so-humble-nba-on-prime-stages-a-superstar-game-in-somebodys-living-room/?utm_source=rss&utm_medium=rss&utm_campaign=be-it-never-so-humble-nba-on-prime-stages-a-superstar-game-in-somebodys-living-room",
-   "excerpt": "Hey, Jayson Tatum and Jalen Brunson, don’t play ball in the house! Those superstars just won’t listen. Neither will their fellow elites LaMelo Ball, Cade Cunningham, Paolo Banchero and Tyrese Maxey in the :45 below hyping the 2nd season of NBA on Prime. Created by Prime Video,…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/02152021/BB-3.jpeg",
-   "day": "2026-10-05",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://musebyclios.com/?p=133334",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Is This the Cutest Cat Adoption Spot of All Time?",
-   "link": "https://musebyclios.com/worldviews/is-this-the-cutest-cat-adoption-spot-of-all-time/?utm_source=rss&utm_medium=rss&utm_campaign=is-this-the-cutest-cat-adoption-spot-of-all-time",
-   "excerpt": "Here are some great campaigns that broke far and wide in recent weeks, selected by Muse sibling Ads of the World. Ricocat, ‘Adoption Catsting’Agency: Valor Socios de Marcas What if the best way to cast an ad was to let the stars choose their co-stars? Instead of a traditional…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/05090109/cat.jpg",
-   "day": "2026-10-05",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://musebyclios.com/?p=133314",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Cerebral Palsy Appeal Aims to Teach Adland an Important Lesson",
-   "link": "https://musebyclios.com/health/cerebral-palsy-campaign-aims-to-teach-adland-an-important-lesson/?utm_source=rss&utm_medium=rss&utm_campaign=cerebral-palsy-campaign-aims-to-teach-adland-an-important-lesson",
-   "excerpt": "Memo to comms professionals: Cerebral palsy isn’t one size fits all. The CP community requests that you keep that in mind as you craft awareness campaigns. Though the neurological disorder can severely limit range of movement, some people with the condition play sports and…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/04103043/CP6.jpg",
-   "day": "2026-10-05",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://musebyclios.com/?p=133318",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Ruth Mortimer of Advertising Week Hopes to Facilitate $100 Million in Deals Between Creators and Brands",
-   "link": "https://musebyclios.com/2-minutes-with/ruth-mortimer-of-advertising-week-hopes-to-facilitate-100-million-in-deals-between-creators-and-brands/?utm_source=rss&utm_medium=rss&utm_campaign=ruth-mortimer-of-advertising-week-hopes-to-facilitate-100-million-in-deals-between-creators-and-brands",
-   "excerpt": "Ruth Mortimer, global president of Advertising Week New York, says this year’s conference, beginning today and running through Oct. 8, will focus on creators like never before. “Last year, we had a creator lounge where we had some creator competitions,” she tells Muse. “And this…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/04191156/Ruth-Mortimer.jpg",
-   "day": "2026-10-05",
    "first_seen": "2026-10-17",
    "og_checked": true
   }

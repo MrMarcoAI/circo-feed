@@ -11,6 +11,7 @@ https://www.applesfera.com/index.xml | Applesfera
 https://www.theverge.com/rss/google/index.xml | The Verge · Google
 https://www.theverge.com/rss/ai-artificial-intelligence/index.xml | The Verge · IA
 https://www.youtube.com/@GregIsenberg | Greg Isenberg
+https://bencorde.com/blog/ | Benjamín Cordero
 
 [Publi]
 https://theinspiration.com/ | The Inspiration
