@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-20T00:36-03:00",
+ "updated": "2026-10-20T02:27-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,19 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.reasonwhy.es/actualidad/repsol-musica-gasolinera-casettes-descubrimiento-estaciones-servicio",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Repsol recupera los cassettes y la música de gasolinera para convertir sus estaciones en punto de encuentro y descubrimiento",
+   "link": "https://www.reasonwhy.es/actualidad/repsol-musica-gasolinera-casettes-descubrimiento-estaciones-servicio",
+   "excerpt": "La compañía está colaborando con artistas y discográficas para ofrecer nueva música en formato cinta.",
+   "image": "https://www.reasonwhy.es/media/library/repsol-musica-de-gasolinera.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "38000e8dcaa4f2a4"
+  },
+  {
    "id": "yt:video:tpZOU1ugODQ",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
@@ -89,19 +102,6 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": true,
    "article": "0754466179cada68"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1013028",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple teases MacBook Pro event next week",
-   "link": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
-   "excerpt": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&strip=all&crop=0%2C10.719587153751%2C100%2C78.560825692498&w=1200",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": true,
-   "article": "b00a54cdfe5c2e67"
   },
   {
    "id": "https://www.applesfera.com/apple-tv/precio-apple-tv-ha-dado-que-hablar-primero-steve-jobs-costo",
@@ -1456,6 +1456,19 @@ window.CIRCO = {
    "article": "8c68c7687cecde5b"
   },
   {
+   "id": "https://www.theverge.com/?p=1011902",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Prep your cart before iPhone Duo preorders open tomorrow",
+   "link": "https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder",
+   "excerpt": "Apple's iPhone Duo foldable phone opens for preorder tomorrow, October 16th, at 8am ET / 5am PT, but you don't have to wait until then to get your order mostly sorted. The company's product page for the phone now lets you select the color you want, along with storage capacity,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-15",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": "4528c2252938823c"
+  },
+  {
    "id": "https://www.theverge.com/?p=1012293",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -1649,19 +1662,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": false,
    "article": "fe7e0ed49353a78e"
-  },
-  {
-   "id": "https://www.reasonwhy.es/actualidad/agencia-you-first-completa-integracion-gersh-marca-global",
-   "source": "Reason Why",
-   "category": "Publi",
-   "title": "La agencia You First completa su integración en Gersh y operará bajo una misma identidad global",
-   "link": "https://www.reasonwhy.es/actualidad/agencia-you-first-completa-integracion-gersh-marca-global",
-   "excerpt": "La agencia española de deporte y entretenimiento fue adquirida por el grupo de representación de talento a finales de 2024.",
-   "image": "https://www.reasonwhy.es/media/library/gersh-completa-integracion-you-first.jpg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": false,
-   "article": "6db46c4ff93a56e2"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201140",
