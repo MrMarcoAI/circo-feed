@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-20T11:42-03:00",
+ "updated": "2026-10-20T14:35-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,45 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.applesfera.com/homepod/que-soundglow-novedad-visual-que-llega-incluso-a-homepod-antiguos",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Qué es SoundGlow, la novedad visual que llega incluso a los HomePod mini antiguos",
+   "link": "https://www.applesfera.com/homepod/que-soundglow-novedad-visual-que-llega-incluso-a-homepod-antiguos",
+   "excerpt": "Sound Glow es una de las novedades que Apple ha preparado para el HomePo d. Es una luz que se enciende en la parte superior del altavoz y late al ritmo de la música, con los colores de la portada del álbum que suena. Nació con el HomePod mini 2 y todo apuntaba a que sería…",
+   "image": "https://i.blogs.es/4151e8/homepod-mini-soundglow/1024_2000.jpeg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "467661ea35588022"
+  },
+  {
+   "id": "https://www.applesfera.com/curiosidades/steve-jobs-fue-invitado-para-inspirar-a-estudiantes-acabo-criticando-profesion-que-muchos-querian-ejercer",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Steve Jobs fue invitado para inspirar a estudiantes. Acabó criticando la profesión que muchos querían ejercer",
+   "link": "https://www.applesfera.com/curiosidades/steve-jobs-fue-invitado-para-inspirar-a-estudiantes-acabo-criticando-profesion-que-muchos-querian-ejercer",
+   "excerpt": "Steve Jobs, más allá de inventar el iPhone, era una persona con declaraciones bastante polémicas. Por ejemplo, le dijo al CEO de Starbucks que despidiera a toda la junta directiva . La anécdota que te vamos a contar hoy va por la misma línea. El cofundador de Apple tenía…",
+   "image": "https://i.blogs.es/6b98d9/steve-jobs-mit/1024_2000.jpeg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "905d8eb8b2251ef3"
+  },
+  {
+   "id": "https://www.applesfera.com/rumores/adios-al-macbook-ultra-invitacion-apple-apunta-a-otro-nombre",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Adiós al MacBook Ultra: la invitación de Apple apunta a otro nombre",
+   "link": "https://www.applesfera.com/rumores/adios-al-macbook-ultra-invitacion-apple-apunta-a-otro-nombre",
+   "excerpt": "Desde que llegó el Apple Watch Ultra o los chips Ultra para el Mac, siempre ha circulado el rumor de que Apple querría seguir potenciando este apellido . Ultra significa lo máximo, lo mejor que se puede ofrecer dentro de una gama. Ya sea en el Apple Watch o en los procesadores.…",
+   "image": "https://i.blogs.es/eeaf84/macbook-pro-oled/1024_2000.jpeg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "80d849683a06bbf0"
+  },
   {
    "id": "https://www.applesfera.com/curiosidades/cuando-disenamos-calculadora-estabamos-disenando-primer-ipod-herencia-visual-susan-kare-apple",
    "source": "Applesfera",
@@ -143,25 +182,12 @@ window.CIRCO = {
    "article": "18d85de6afe0bfd6"
   },
   {
-   "id": "https://www.theverge.com/?p=1014209",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
-   "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
-   "excerpt": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "56a8d9e39d31816e"
-  },
-  {
    "id": "https://www.theverge.com/?p=1014284",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
    "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-   "excerpt": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday, which says Spotify has also made changes to its recommendation system to highlight more music…",
+   "excerpt": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music…",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-20",
    "first_seen": "2026-10-20",
@@ -182,12 +208,25 @@ window.CIRCO = {
    "article": "f3d2a41ac15dbe2b"
   },
   {
+   "id": "https://musebyclios.com/?p=133848",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Dollar Tree’s First National Campaign Takes Place High Up in the Branches",
+   "link": "https://musebyclios.com/advertising/dollar-trees-first-national-campaign-takes-place-high-up-in-the-branches/?utm_source=rss&utm_medium=rss&utm_campaign=dollar-trees-first-national-campaign-takes-place-high-up-in-the-branches",
+   "excerpt": "A ginormous, fantastical tree serves as the setting for Dollar Tree’s first spots from Tombras. Gee, wonder where they got that idea? Huge leafy branches—big enough to accommodate shopping carts—become aisles filled with products in a pair of adverts directed by Anonymous…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/20124917/tree7.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": "667273624255ee86"
+  },
+  {
    "id": "https://musebyclios.com/?p=133832",
    "source": "Muse by Clio",
    "category": "Publi",
    "title": "From Crime Scenes to Spaceshots, OTP Bank’s Got You Covered",
    "link": "https://musebyclios.com/advertising/from-crime-scenes-to-spaceshots-otp-banks-got-you-covered/?utm_source=rss&utm_medium=rss&utm_campaign=from-crime-scenes-to-spaceshots-otp-banks-got-you-covered",
-   "excerpt": "You’re on a mission to the rings of Saturn, and your credit card floats away across the firmament into the vastness of infinity. Thankfully, Euro bank OTP’s got you covered. Its app lets you freeze spending on that lost plastic and order a replacement immediately. Bump up your…",
+   "excerpt": "You’re on a mission to the rings of Saturn, and your credit card floats away across the firmament into the vastness of infinity. Thankfully, OTP’s app lets you freeze spending on that lost plastic and order a replacement immediately. (Maybe bump up your credit limit, too. You’re…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/20095433/bank-b.jpeg",
    "day": "2026-10-20",
    "first_seen": "2026-10-20",
@@ -284,6 +323,84 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": false,
    "article": "38000e8dcaa4f2a4"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/pedro-capo-llega-al-teatro-gran-rex-para-presentar-su-nuevo-album-fulanito",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Pedro Capó llega al Teatro Gran Rex para presentar su nuevo álbum, \"Fulanito\"",
+   "link": "https://www.filo.news/noticia/2026/10/20/pedro-capo-llega-al-teatro-gran-rex-para-presentar-su-nuevo-album-fulanito",
+   "excerpt": "El cantautor puertorriqueño se presentará el 17 de marzo de 2027 en Buenos Aires, en el marco de una gira que también pasará por Córdoba y Mendoza. El show combinará sus grandes éxitos con las canciones de su más reciente disco, estrenado en octubre de 2026.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/capo5923_re.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "f1b592bf86939619"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/semana-garcia-la-agenda-de-conciertos-muestras-y-homenajes-por-los-75-anos-de-charly",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Semana García: la agenda de conciertos, muestras y homenajes por los 75 años de Charly",
+   "link": "https://www.filo.news/noticia/2026/10/20/semana-garcia-la-agenda-de-conciertos-muestras-y-homenajes-por-los-75-anos-de-charly",
+   "excerpt": "Charly García cumple 75 años el viernes 23 de octubre y Buenos Aires prepara una semana de actividades para celebrar su música y su legado. Habrá conciertos gratuitos, muestras fotográficas, presentaciones de libros y escuchas de discos, además del lanzamiento de la edición…",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/diputados10)4206_re.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "4628b009c1d5648c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/gobierno-posterga-el-debate-de-ley-de-malvinas-y-negocia-cambios-boca-va-por-la-final-paro-total-de-subtes-y-mas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Gobierno posterga el debate de Ley de Malvinas y negocia cambios; Boca va por la final; Paro total de subtes; y más...",
+   "link": "https://www.filo.news/noticia/2026/10/20/gobierno-posterga-el-debate-de-ley-de-malvinas-y-negocia-cambios-boca-va-por-la-final-paro-total-de-subtes-y-mas",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/noname6926_re.png",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "10490ced13104695"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/el-riesgo-pais-llego-a-superar-los-700-puntos-y-alcanza-un-nuevo-maximo-en-el-ano",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El riesgo país llegó a superar los 700 puntos y alcanza un nuevo máximo en el año",
+   "link": "https://www.filo.news/noticia/2026/10/20/el-riesgo-pais-llego-a-superar-los-700-puntos-y-alcanza-un-nuevo-maximo-en-el-ano",
+   "excerpt": "El indicador se ubica en 684 puntos tras recortar una suba inicial que lo llevó al nivel más alto en un año.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/noname8984_re.png",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "a6d1669c54e22241"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/mercedes-sosa-busca-un-lugar-en-los-latin-grammy-con-suiza-1980-un-album-grabado-en-el-exilio",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Mercedes Sosa busca un lugar en los Latin GRAMMY con Suiza 1980, un álbum grabado en el exilio",
+   "link": "https://www.filo.news/noticia/2026/10/20/mercedes-sosa-busca-un-lugar-en-los-latin-grammy-con-suiza-1980-un-album-grabado-en-el-exilio",
+   "excerpt": "El álbum Suiza 1980 (Remastering 2025), que recupera una presentación de la cantante argentina junto al guitarrista Nicolás Brizuela, fue presentado para consideración en la categoría Best Historical Album de los premios de la Recording Academy. El trabajo se centra en la…",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/fycforyour_consideration_mercedes_sosa_suiza_1980_remastering_2025_best_historical_album7165_re.png",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "b4f2ba584434019a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/boca-va-por-la-remontada-ante-vasco-da-gama-en-la-semifinal-de-la-copa-sudamericana-horario-y-tv-del-partido",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Boca va por la remontada ante Vasco da Gama en la semifinal de la Copa Sudamericana: horario y TV del partido",
+   "link": "https://www.filo.news/noticia/2026/10/20/boca-va-por-la-remontada-ante-vasco-da-gama-en-la-semifinal-de-la-copa-sudamericana-horario-y-tv-del-partido",
+   "excerpt": "El Xeneize buscará un triunfo que le permita meterse en la final del torneo continental.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/bocavs.vasco_da_gama,_copa_sudamericana_2026_(reuters)6050_re.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "4cc06e5e8ca7dc36"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/20/maxi-pachecoy-la-musica-como-herramienta-para-sanar-sus-raices-chaquenas-y-las-historias-detras-de-arte-sano",
@@ -629,7 +746,7 @@ window.CIRCO = {
    "category": "Publi",
    "title": "Elon Musk’s Flying Car Gives Creatives a New Brief",
    "link": "https://musebyclios.com/musings/elon-musks-flying-car-gives-creatives-a-new-brief/?utm_source=rss&utm_medium=rss&utm_campaign=elon-musks-flying-car-gives-creatives-a-new-brief",
-   "excerpt": "Elon shows us a car leaving the ground, and people immediately start imagining what they would do with it. Their commute. Their traffic. Their first day owning one. All the things that could go wrong. That’s the part I’m most interested in. How quickly someone else’s product…",
+   "excerpt": "Elon shows us a car leaving the ground, and people immediately start imagining what they would do with it Their commute. Their traffic. Their first day owning one. All the things that could go wrong. That’s the part I’m most interested in. How quickly someone else’s product…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/19111958/car.jpeg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
@@ -936,84 +1053,6 @@ window.CIRCO = {
    "article": "2664a99c6284a1c1"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/19/tini-sobre-su-show-cancelado-hay-muchas-circunstancias-sobre-esta-gira-que-hoy-elijo-no-profundizar",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Tini sobre su show cancelado: \"Hay muchas circunstancias sobre esta gira que hoy elijo no profundizar\"",
-   "link": "https://www.filo.news/noticia/2026/10/19/tini-sobre-su-show-cancelado-hay-muchas-circunstancias-sobre-esta-gira-que-hoy-elijo-no-profundizar",
-   "excerpt": "",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/tini8909_re.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "9c369bcb33e362dc"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/19/el-riesgo-pais-vuelve-a-subir-este-lunes-y-toca-su-maximo-nivel-en-2026",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El riesgo país vuelve a subir este lunes y toca su máximo nivel en 2026",
-   "link": "https://www.filo.news/noticia/2026/10/19/el-riesgo-pais-vuelve-a-subir-este-lunes-y-toca-su-maximo-nivel-en-2026",
-   "excerpt": "El índice de JP Morgan se acerca a los 700 puntos básicos. En lo que va de octubre, acumula un incremento del 11,2%.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname5118_re.png",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "144444574958f1f6"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/19/karina-milei-encabezo-el-acto-por-el-traslado-de-los-presos-de-devoto-a-marcos-paz",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Karina Milei encabezó el acto por el traslado de los presos de Devoto a Marcos Paz",
-   "link": "https://www.filo.news/noticia/2026/10/19/karina-milei-encabezo-el-acto-por-el-traslado-de-los-presos-de-devoto-a-marcos-paz",
-   "excerpt": "La secretaria general de la Presidencia destacó los avances del proceso. \"Es un día de celebración\", dijo. Ya fueron mudados más del 90% de los reclusos.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname5976_re.png",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "0cb85dd6466d7be6"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/19/crewrod-presenta-zorro-blanco-manto-negro-su-nuevo-disco-de-neo-soul-y-funk-rock",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "CrewRod lanzó \"Zorro Blanco Manto Negro\", su nuevo disco de neo-soul y funk rock",
-   "link": "https://www.filo.news/noticia/2026/10/19/crewrod-presenta-zorro-blanco-manto-negro-su-nuevo-disco-de-neo-soul-y-funk-rock",
-   "excerpt": "El quinteto argentino lanzó un álbum de nueve canciones que cruza neo-soul, hip hop y rock progresivo. La presentación oficial será el 20 de noviembre en ArtLab, en la Ciudad de Buenos Aires.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/diputados7)9416_re.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": ""
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/19/el-gobierno-publico-un-nuevo-regimen-de-retiro-voluntario-para-empleados-estatales",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Gobierno publicó un nuevo régimen de retiro voluntario para empleados estatales",
-   "link": "https://www.filo.news/noticia/2026/10/19/el-gobierno-publico-un-nuevo-regimen-de-retiro-voluntario-para-empleados-estatales",
-   "excerpt": "La inscripción estará abierta del 1° al 30 de noviembre y alcanza a tres grupos de posibles beneficiarios.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/noname1772_re.png",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "804b78f23d5c05ad"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/19/el-gobierno-autorizo-una-compra-militar-bajo-secreto-en-plena-tension-por-malvinas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Gobierno autorizó una compra militar bajo secreto en plena tensión por Malvinas",
-   "link": "https://www.filo.news/noticia/2026/10/19/el-gobierno-autorizo-una-compra-militar-bajo-secreto-en-plena-tension-por-malvinas",
-   "excerpt": "La medida quedó establecida en el Decreto 1205/2026, publicado en el Boletín Oficial. La norma impide conocer qué equipamiento se adquirirá, cuánto costará y quién será el proveedor, en el marco del plan de reequipamiento de las Fuerzas Armadas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/diputados6)5432_re.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "ec9d1fe9e39aa0e5"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201208",
    "source": "CIPER",
    "category": "Notis",
@@ -1090,45 +1129,6 @@ window.CIRCO = {
    "first_seen": "2026-10-18",
    "og_checked": false,
    "article": "2e82254952cf897d"
-  },
-  {
-   "id": "https://www.applesfera.com/trucos/ocho-consejos-ajustes-para-usar-iphone-sola-mano-incluso-iphone-max",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Ocho consejos y ajustes para usar el iPhone con una sola mano (incluso si es un iPhone Max)",
-   "link": "https://www.applesfera.com/trucos/ocho-consejos-ajustes-para-usar-iphone-sola-mano-incluso-iphone-max",
-   "excerpt": "Me pase años defendiendo la comodidad de los iPhone pequeños hasta que la batería y la necesidad puntual de una mayor pantalla me hizo pasarme al bando de los 'Plus' y 'Max'. Sin embargo, no he renunciado a usar el iPhone con una sola mano . No de forma continua, pero sí…",
-   "image": "https://i.blogs.es/bbd063/iphone-en-una-mano/1024_2000.jpeg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false,
-   "article": "9648a59a3d7c5346"
-  },
-  {
-   "id": "https://www.applesfera.com/seleccion/este-cargador-inalambrico-anker-carga-tres-dispositivos-a-vez-esta-casi-a-mitad-precio-mejor-que-te-bolsillo",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Este cargador inalámbrico Anker carga tres dispositivos a la vez y está casi a mitad de precio. Pero lo mejor es que te cabe en el bolsillo",
-   "link": "https://www.applesfera.com/seleccion/este-cargador-inalambrico-anker-carga-tres-dispositivos-a-vez-esta-casi-a-mitad-precio-mejor-que-te-bolsillo",
-   "excerpt": "Me gustan los cargadores que permiten cargar varios dispositivos a la vez. Hay muchos tipos diferentes para elegir, pero la mayoría suelen ser bastante voluminosos. Esto no es lo ideal en casa porque ocupa más espacio, pero también cuando uno va de viaje. Por eso mismo, el Anker…",
-   "image": "https://i.blogs.es/b731e8/cargador-anker-maggo/1024_2000.jpeg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false,
-   "article": "2f25d61ff9e28429"
-  },
-  {
-   "id": "https://www.applesfera.com/apple-watch/30-dias-apple-watch-series-12-que-me-ha-gustado-que-me-ha-chirriado",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "30 días con el Apple Watch Series 12: lo que me ha gustado y lo que me ha chirriado",
-   "link": "https://www.applesfera.com/apple-watch/30-dias-apple-watch-series-12-que-me-ha-gustado-que-me-ha-chirriado",
-   "excerpt": "He pasado por casi todas las generaciones del Apple Watch y sé que un reloj se juzga cuando se acaba la novedad. Por eso quería esperar a llevar un mes con el Series 12 en la muñeca, el tiempo necesario para dejar de mirarlo como un juguete nuevo y empezar a verlo como un…",
-   "image": "https://i.blogs.es/7268d3/series-12/1024_2000.jpeg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false,
-   "article": "f36ee04062d36074"
   },
   {
    "id": "https://www.theverge.com/?p=1013541",
@@ -1284,6 +1284,19 @@ window.CIRCO = {
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201231",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Podcast | Vivanco delatada por su expareja",
+   "link": "https://www.ciperchile.cl/2026/10/16/podcast-vivanco-delatada-por-su-expareja/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-vivanco-delatada-por-su-expareja",
+   "excerpt": "﻿ La entrada Podcast | Vivanco delatada por su expareja se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-10-16",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
    "article": ""
   },
   {
@@ -1742,19 +1755,6 @@ window.CIRCO = {
    "article": "01a92dc44c359de5"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201115",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "¿Dónde estaba la grasa? El Presupuesto 2027 y un diagnóstico por revisar",
-   "link": "https://www.ciperchile.cl/2026/10/15/donde-estaba-la-grasa-el-presupuesto-2027-y-un-diagnostico-por-revisar/?utm_source=rss&utm_medium=rss&utm_campaign=donde-estaba-la-grasa-el-presupuesto-2027-y-un-diagnostico-por-revisar",
-   "excerpt": "La entrada ¿Dónde estaba la grasa? El Presupuesto 2027 y un diagnóstico por revisar se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1772107.jpg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "673a77a972517ca9"
-  },
-  {
    "id": "https://www.theverge.com/?p=1011133",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1818,6 +1818,19 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "ae53047763010bc6"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1010086",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "A redesigned Play Store is coming to cars with Google built-in",
+   "link": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store",
+   "excerpt": "The Google Play Store is getting a big update for cars with Google built-in. On Tuesday, the company announced that the Play Store's layout will now automatically adapt to the size and layout of your car's screen while making it easier to find and download new apps. The update,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GoogleAuto_Blogpost_Play_HorizontalUI_final-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+   "day": "2026-10-13",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": "6f318ff9fa7786c2"
   },
   {
    "id": "https://www.theverge.com/?p=1009066",
