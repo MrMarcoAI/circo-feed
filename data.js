@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-20T00:34-03:00",
+ "updated": "2026-10-20T00:36-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
