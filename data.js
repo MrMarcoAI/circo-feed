@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-19T16:52-03:00",
+ "updated": "2026-10-19T21:45-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -20,11 +20,6 @@ window.CIRCO = {
    "name": "The Verge · IA",
    "category": "Tech + la IA",
    "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
-  },
-  {
-   "name": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
   },
   {
    "name": "The Inspiration",
@@ -57,7 +52,12 @@ window.CIRCO = {
    "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
- "errors": [],
+ "errors": [
+  {
+   "url": "https://www.youtube.com/@GregIsenberg",
+   "error": "HTTP Error 404: Not Found"
+  }
+ ],
  "items": [
   {
    "id": "https://www.theverge.com/?p=1013028",
@@ -192,6 +192,30 @@ window.CIRCO = {
    "og_checked": false
   },
   {
+   "id": "https://www.theverge.com/?p=1013954",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "The fossil fuel comeback is here",
+   "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+   "excerpt": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": true
+  },
+  {
+   "id": "https://www.theverge.com/?p=1014045",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+   "excerpt": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": true
+  },
+  {
    "id": "https://www.theverge.com/?p=1012839",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -228,24 +252,12 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "yt:video:tpZOU1ugODQ",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Meta Muse Will Create 1,000 Millionaires",
-   "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false
-  },
-  {
    "id": "https://musebyclios.com/?p=133811",
    "source": "Muse by Clio",
    "category": "Publi",
    "title": "Michelob Ultra Goes All In for NBA Champion Knicks",
    "link": "https://musebyclios.com/sports/michelob-ultra-goes-all-in-on-nba-champion-knicks/?utm_source=rss&utm_medium=rss&utm_campaign=michelob-ultra-goes-all-in-on-nba-champion-knicks",
-   "excerpt": "If a single soul in NYC’s five boroughs didn’t know the Knicks start defending their NBA Championship tomorrow, they will now, courtesy of Michelob Ultra. In this instance, “full court press” hyperbole might truly apply, as the brewer unveils a deep roster of promos ahead of…",
+   "excerpt": "If a single soul in NYC’s five boroughs didn’t know the Knicks start defending their NBA Championship tomorrow, they sure will now, courtesy of Michelob Ultra. In this instance, “full court press” hyperbole might accurately apply, as the brewer unveils a deep roster of promos…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/19133634/bottle-1.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
@@ -396,6 +408,66 @@ window.CIRCO = {
    "og_checked": false
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/19/juntos-construimos-futuro-reunio-a-960-jovenes-en-palermo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Juntos Construimos Futuro reunió a 960 jóvenes en Palermo",
+   "link": "https://www.filo.news/noticia/2026/10/19/juntos-construimos-futuro-reunio-a-960-jovenes-en-palermo",
+   "excerpt": "El encuentro de Fundación BisBlick convocó a 26 organizaciones, 14 empresas y más de 200 voluntarios para acercar oportunidades educativas y laborales a jóvenes.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/05.jpg7966_re.jpeg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/19/pamela-david-desmintio-a-laura-ubfal-lo-que-dice-no-condice-con-la-realidad",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Pamela David desmintió a Laura Ubfal: \"Lo que dice no condice con la realidad\"",
+   "link": "https://www.filo.news/noticia/2026/10/19/pamela-david-desmintio-a-laura-ubfal-lo-que-dice-no-condice-con-la-realidad",
+   "excerpt": "La conductora se refirió a los dichos de la colega que aseguró que la habían despedido del ciclo \"Desayuno Americano\" por no ser hegemónica, y desmintió las versiones.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/ubfal4197_re.png",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/19/milei-sobre-las-elecciones-2027-me-niego-a-creer-que-los-argentinos-voten-hacia-atras",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Milei sobre las elecciones 2027: “Me niego a creer que los argentinos voten hacia atrás”",
+   "link": "https://www.filo.news/noticia/2026/10/19/milei-sobre-las-elecciones-2027-me-niego-a-creer-que-los-argentinos-voten-hacia-atras",
+   "excerpt": "El presidente defendió su plan económico durante la exposición Argentina Oil & Gas Expo, en Neuquén, cuestionó las críticas al RIGI y apuntó contra el kirchnerismo y los periodistas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/72010)5573.avif",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/19/juan-martin-del-potro-fue-nominado-para-entrar-al-salon-de-la-fama-del-tenis",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Juan Martín Del Potro fue nominado para entrar al Salón de la Fama del Tenis",
+   "link": "https://www.filo.news/noticia/2026/10/19/juan-martin-del-potro-fue-nominado-para-entrar-al-salon-de-la-fama-del-tenis",
+   "excerpt": "El argentino figura entre los candidatos para ingresar a este selecto grupo por su consagrada carrera como profesional.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/delpotrosalon5967_re.jpg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/19/bridgerton-tendra-una-precuela-dedicada-a-lady-violet",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "\"Bridgerton\" tendrá una precuela dedicada a Lady Violet",
+   "link": "https://www.filo.news/noticia/2026/10/19/bridgerton-tendra-una-precuela-dedicada-a-lady-violet",
+   "excerpt": "El proyecto, que aún no tiene fecha de lanzamiento ni título oficial, expandirá el universo de la serie luego de \"Queen Charlotte\". Conocé más detalles en la nota.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/657204346183068898342773603072754853482278908_n7442_re.jpg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/19/el-centro-cultural-san-martin-se-prepara-para-una-transformacion-historica",
    "source": "Filo.News",
    "category": "Notis",
@@ -403,6 +475,18 @@ window.CIRCO = {
    "link": "https://www.filo.news/noticia/2026/10/19/el-centro-cultural-san-martin-se-prepara-para-una-transformacion-historica",
    "excerpt": "El plan de intervención busca devolverle el brillo y el esplendor histórico a uno de los espacios culturales más emblemáticos y referenciales de la Argentina.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/19/whatsappimage2026-10-13_at_12.17.54_pm_(1)4366_re.jpeg",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": false
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/19/la-provincia-de-buenos-aires-denunciara-penalmente-a-javier-milei-y-luis-caputo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Provincia de Buenos Aires denunciará penalmente a Javier Milei y Luis Caputo",
+   "link": "https://www.filo.news/noticia/2026/10/19/la-provincia-de-buenos-aires-denunciara-penalmente-a-javier-milei-y-luis-caputo",
+   "excerpt": "Gabriel Katopodis señala que el Gobierno nacional le niega los avales para financiar obras.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/hvaipx6x0aa17gm9784_re.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
    "og_checked": false
@@ -600,6 +684,30 @@ window.CIRCO = {
    "og_checked": false
   },
   {
+   "id": "https://www.ciperchile.cl/?p=201208",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Tramitan expulsiones de extranjeros detenidos en aniversario del estallido; Suprema da la razón a aseguradoras por rentas vitalicias del tercer retiro, y alcalde de Chillán queda con arraigo nacional por eventual fraude al fisco",
+   "link": "https://www.ciperchile.cl/2026/10/19/radar-19-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-19-10-26",
+   "excerpt": "La entrada Tramitan expulsiones de extranjeros detenidos en aniversario del estallido; Suprema da la razón a aseguradoras por rentas vitalicias del tercer retiro, y alcalde de Chillán queda con arraigo nacional por eventual fraude al fisco se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": true
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201210",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Caso Fundamenta: tras confesión de Migueles, fiscalía solicita audiencia para formalizarlo junto a Vivanco y Lagos por cohecho",
+   "link": "https://www.ciperchile.cl/2026/10/19/caso-fundamenta-tras-confesion-de-migueles-fiscalia-solicita-audiencia-para-formalizarlo-junto-a-vivanco-y-lagos-por-cohecho/?utm_source=rss&utm_medium=rss&utm_campaign=caso-fundamenta-tras-confesion-de-migueles-fiscalia-solicita-audiencia-para-formalizarlo-junto-a-vivanco-y-lagos-por-cohecho",
+   "excerpt": "La entrada Caso Fundamenta: tras confesión de Migueles, fiscalía solicita audiencia para formalizarlo junto a Vivanco y Lagos por cohecho se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/vivianco-web.png",
+   "day": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "og_checked": true
+  },
+  {
    "id": "https://www.ciperchile.cl/?p=201201",
    "source": "CIPER",
    "category": "Notis",
@@ -727,78 +835,6 @@ window.CIRCO = {
    "link": "https://www.filo.news/noticia/2026/10/18/canada-al-menos-cuatro-militares-murieron-y-decenas-resultaron-heridos-por-un-incendio-en-una-base-militar",
    "excerpt": "El fuego se desató en una zona de entrenamiento de las Fuerzas Armadas, en la provincia de Alberta. El primer ministro Mark Carney confirmó las víctimas y las autoridades investigan las causas del siniestro.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/18/20261018t190209z_2059396955_rc2u5oa1pp6f_rtrmadp_3_canada-alberta-wainwright_(1)7336_re.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/18/el-seguro-por-desempleo-aumento-casi-un-30-en-argentina",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El seguro por desempleo aumentó casi un 30% en Argentina",
-   "link": "https://www.filo.news/noticia/2026/10/18/el-seguro-por-desempleo-aumento-casi-un-30-en-argentina",
-   "excerpt": "Entre enero y septiembre de 2026, un total de 145.004 trabajadores comenzaron a cobrar la prestación tras perder su empleo. La industria, el comercio y la construcción fueron los sectores más afectados.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/af0df4f212914686-a181-ce66863e69122836_re.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/18/racing-e-independiente-empataron-1-1-en-el-clasico-de-avellaneda",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Racing e Independiente empataron 1-1 en el clásico de Avellaneda",
-   "link": "https://www.filo.news/noticia/2026/10/18/racing-e-independiente-empataron-1-1-en-el-clasico-de-avellaneda",
-   "excerpt": "La Academia comenzó ganando en el Cilindro, pero el Rojo reaccionó en el segundo tiempo y consiguió la igualdad de penal. El encuentro terminó con un punto para cada equipo.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/202610261018815-scaled_(1)6429.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/18/brasil-busca-implementar-el-transporte-publico-gratuito-los-fines-de-semana-como-funcionaria-la-medida",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Brasil busca implementar el transporte público gratuito los fines de semana: cómo funcionaría la medida",
-   "link": "https://www.filo.news/noticia/2026/10/18/brasil-busca-implementar-el-transporte-publico-gratuito-los-fines-de-semana-como-funcionaria-la-medida",
-   "excerpt": "El presidente Lula da Silva anunció que enviará un proyecto al Congreso para eliminar el costo del boleto los sábados, domingos y feriados. La iniciativa podría reducir la inflación y aumentar el consumo.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/5409__(1)5436_re.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/18/dos-de-cada-tres-argentinos-se-quedan-sin-dinero-antes-del-dia-20-y-mas-de-la-mitad-se-endeudo",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Dos de cada tres argentinos se quedan sin dinero antes del día 20 y más de la mitad se endeudó",
-   "link": "https://www.filo.news/noticia/2026/10/18/dos-de-cada-tres-argentinos-se-quedan-sin-dinero-antes-del-dia-20-y-mas-de-la-mitad-se-endeudo",
-   "excerpt": "Un informe de Zentrix Consultora reveló que el 56,2% de los encuestados tomó deuda en los últimos seis meses, principalmente para cubrir alimentos, salud y servicios. Solo el 9,8% logra ahorrar.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/towfiqubarbhuiyajhevwhcbvyw-unsplash_(1)2898_re.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/18/arba-lanzo-un-plan-de-pagos-con-descuentos-de-hasta-el-40-como-acceder-y-que-impuestos-incluye",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "ARBA lanzó un plan de pagos con descuentos de hasta el 40%: cómo acceder y qué impuestos incluye",
-   "link": "https://www.filo.news/noticia/2026/10/18/arba-lanzo-un-plan-de-pagos-con-descuentos-de-hasta-el-40-como-acceder-y-que-impuestos-incluye",
-   "excerpt": "El programa comenzará el 26 de octubre en la provincia de Buenos Aires y permitirá cancelar obligaciones impositivas con bonificaciones y financiación de hasta seis cuotas. Los beneficios variarán según la fecha de adhesión.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/rupixenq59hmzk38equnsplash1404_re.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": false
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/18/francia-vivio-una-jornada-de-disturbios-con-1-800-detenidos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Francia vivió una jornada de disturbios con 1.800 detenidos",
-   "link": "https://www.filo.news/noticia/2026/10/18/francia-vivio-una-jornada-de-disturbios-con-1-800-detenidos",
-   "excerpt": "Las protestas por el costo de vida derivaron en saqueos, incendios y duros enfrentamientos con la policía.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/18/gettyimages2300183301202610180218224486837_re.jpg",
    "day": "2026-10-18",
    "first_seen": "2026-10-18",
    "og_checked": false
@@ -1260,18 +1296,6 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "yt:video:jEOUUAPC1sc",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
-   "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-19",
-   "og_checked": false
-  },
-  {
    "id": "https://www.theverge.com/?p=1012293",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -1297,7 +1321,7 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1012510",
-   "source": "The Verge · IA",
+   "source": "The Verge · Google",
    "category": "Tech + la IA",
    "title": "ChatGPT can peek at your Chrome tabs now",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
@@ -1327,18 +1351,6 @@ window.CIRCO = {
    "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
    "excerpt": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the…",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://www.theverge.com/?p=1012512",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-   "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-   "excerpt": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
    "day": "2026-10-15",
    "first_seen": "2026-10-17",
    "og_checked": true
@@ -1596,30 +1608,6 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201068",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Declaración de Migueles: expertos señalan que es “un golpe” para Vivanco, un “divorcio” de estrategias y que “echa por tierra” argumentos de inocencia",
-   "link": "https://www.ciperchile.cl/2026/10/14/declaracion-de-migueles-expertos-senalan-que-es-un-golpe-para-vivanco-un-divorcio-de-estrategias-y-que-echa-por-tierra-argumentos-de-inocencia/?utm_source=rss&utm_medium=rss&utm_campaign=declaracion-de-migueles-expertos-senalan-que-es-un-golpe-para-vivanco-un-divorcio-de-estrategias-y-que-echa-por-tierra-argumentos-de-inocencia",
-   "excerpt": "La entrada Declaración de Migueles: expertos señalan que es “un golpe” para Vivanco, un “divorcio” de estrategias y que “echa por tierra” argumentos de inocencia se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/v_WEB.png",
-   "day": "2026-10-14",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201059",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "CDE incluye a exgobernador Luciano Rivas en querella por fraude al fisco; fiscalía acusa de cohecho a alcalde de Coronel y pide ocho años de cárcel, y balance del GES en 20 años: 62 millones de casos",
-   "link": "https://www.ciperchile.cl/2026/10/14/radar-14-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-14-10-26",
-   "excerpt": "La entrada CDE incluye a exgobernador Luciano Rivas en querella por fraude al fisco; fiscalía acusa de cohecho a alcalde de Coronel y pide ocho años de cárcel, y balance del GES en 20 años: 62 millones de casos se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-14",
-   "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
    "id": "https://www.theverge.com/?p=1009066",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1848,18 +1836,6 @@ window.CIRCO = {
    "og_checked": true
   },
   {
-   "id": "yt:video:rkK8ZyzYyEA",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "8 GitHub Repos To Go Viral and Make Money",
-   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
-   "excerpt": "In this solo episode, I walk through eight GitHub repos and AI skills that I test at night and on weekends. The list covers launch videos, social research, local voice and dubbing, editable decks, agent teams, lead-magnet tools, idea stress-testing, and design guidance. For each…",
-   "image": "https://i3.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
-   "day": "2026-10-08",
-   "first_seen": "2026-10-19",
-   "og_checked": false
-  },
-  {
    "id": "https://theinspiration.com/?p=54708",
    "source": "The Inspiration",
    "category": "Publi",
@@ -2014,18 +1990,6 @@ window.CIRCO = {
    "day": "2026-10-07",
    "first_seen": "2026-10-17",
    "og_checked": true
-  },
-  {
-   "id": "yt:video:bQPU6UJ4iCw",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "13 Businesses for the Age of AI",
-   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
-   "excerpt": "In this solo episode, I walk through the 13 businesses I think are left to build in the agentic era. I believe that in a world of agents and abundance, owning the right assets puts you in a better position. For each business, I explain what it is, why it holds up in a world of…",
-   "image": "https://i3.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
-   "day": "2026-10-06",
-   "first_seen": "2026-10-19",
-   "og_checked": false
   },
   {
    "id": "https://musebyclios.com/?p=133380",
