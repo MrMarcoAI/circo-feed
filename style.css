@@ -164,7 +164,7 @@ body.reading { overflow: hidden; }
 #reader-close { position: fixed; top: 14px; right: 14px; z-index: 1; display: grid; place-items: center; width: 40px; height: 40px; padding: 0; border: 0; border-radius: 50%; background: #262626; cursor: pointer; }
 #reader-close svg { stroke: var(--fg); stroke-width: 2; stroke-linecap: round; fill: none; }
 #reader-close:hover { background: #333333; }
-.reader-box { max-width: 720px; margin: 0 auto; padding: 40px 48px 48px; border-radius: 8px; background: var(--bg); }
+.reader-box { max-width: 720px; margin: 0 auto; padding: 40px 48px 48px; border-radius: 20px; background: var(--bg); }
 .reader-meta { margin: 0; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
 .reader-meta b { color: var(--accent); }
 .reader-box h1 { margin: 10px 0 24px; padding-bottom: 20px; border-bottom: 0.5px solid var(--accent); font-size: clamp(26px, 3.4vw, 36px); font-weight: 900; line-height: 1.1; letter-spacing: -0.02em; }
@@ -179,8 +179,10 @@ body.reading { overflow: hidden; }
 .reader-text img { display: block; max-width: 100%; height: auto; margin: 0 auto; border-radius: 4px; }
 .reader-text figcaption { margin-top: 6px; font: 13px/1.4 var(--head); color: var(--muted); }
 .reader-loading { color: var(--muted); font-style: italic; }
-.reader-link { display: inline-block; margin-top: 16px; padding: 10px 16px; border-radius: 4px; background: var(--accent); color: #000; font-size: 13px; font-weight: 700; text-decoration: none; }
-.reader-link:hover { background: #ff5ce0; }
+.reader-box h1 a { text-decoration: none; }
+.reader-box h1 a:hover { text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+.reader-link { display: inline-block; margin-top: 8px; color: var(--accent); font-size: 14px; font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
+.reader-link:hover { color: var(--fg); }
 @media (max-width: 640px) {
   #reader { padding: 0; background: var(--bg); }
   .reader-box { min-height: 100%; padding: 64px 20px 48px; border-radius: 0; }

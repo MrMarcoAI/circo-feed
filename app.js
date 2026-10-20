@@ -244,7 +244,7 @@ async function openReader(i) {
     : i.image ? `<img class="reader-img" src="${esc(i.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : '';
   const fallback = i.excerpt ? `<p>${esc(i.excerpt)}</p>` : '';
   readerBody.innerHTML = `<p class="reader-meta"><b>${esc(i.source)}</b> · ${esc(i.category)}</p>
-    <h1>${esc(i.title)}</h1>${media}
+    <h1><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h1>${media}
     <div class="reader-text">${i.article ? '<p class="reader-loading">Cargando…</p>' : fallback}</div>
     <a class="reader-link" href="${esc(i.link)}" target="_blank" rel="noopener">${yt ? 'Ver en YouTube' : 'Leer en ' + esc(i.source)} →</a>`;
   if (reader.hidden) history.pushState({ reader: true }, '');
