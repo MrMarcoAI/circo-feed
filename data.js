@@ -749,6 +749,18 @@ window.CIRCO = {
    "og_checked": true
   },
   {
+   "id": "https://www.theverge.com/?p=1013485",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Trump says Google kisses his ass",
+   "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+   "excerpt": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-18",
+   "first_seen": "2026-10-20",
+   "og_checked": true
+  },
+  {
    "id": "https://bencorde.com/blog/curso-meta-ads-claude-code/",
    "source": "Benjamín Cordero",
    "category": "Tech + la IA",
@@ -1634,18 +1646,6 @@ window.CIRCO = {
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/13193733/Jenny-Stojkovic.jpg",
    "day": "2026-10-14",
    "first_seen": "2026-10-17",
-   "og_checked": true
-  },
-  {
-   "id": "https://www.theverge.com/?p=1009862",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Google finally releases Gemini 4 Argon",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-   "excerpt": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-20",
    "og_checked": true
   },
   {
