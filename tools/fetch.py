@@ -239,6 +239,10 @@ def serialize(n, base, out):
             out.append(f"</{tag}>")
 
 
+RELATED = re.compile(r"relacionad|related|lo más leído|más leídas|most popular|te puede interesar|"
+                     r"lee también|leer también|sigue leyendo|more from|recomendad|últimas noticias", re.I)
+
+
 def page_text(link):
     """Texto de la nota desde su página, al estilo Readability: el contenedor con más texto en párrafos."""
     page, final = get(link, limit=2_000_000, timeout=15)
@@ -266,6 +270,8 @@ def page_text(link):
     keep, last = [], None
     for tag, b in blocks:
         txt = plain(b)
+        if tag in ("h2", "h3", "h4") and RELATED.search(txt):
+            break  # desde "Noticias relacionadas", "Most Popular", etc. ya no es parte de la nota
         if txt == last or (not txt and "<img" not in b):
             continue
         keep.append(f"<{tag}>{b}</{tag}>")

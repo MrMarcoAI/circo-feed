@@ -51,9 +51,9 @@ a { color: inherit; }
   justify-content: space-between;
   align-items: center;
   gap: 8px;
-  padding: 6px 8px;
+  padding: 4px 8px;
   border: 0;
-  border-radius: 4px;
+  border-radius: 6px;
   background: none;
   color: var(--fg);
   font: inherit;
@@ -63,8 +63,11 @@ a { color: inherit; }
 }
 #nav button:hover { background: #262626; }
 #nav button.on { background: #333333; }
-#nav .all { font-weight: 700; margin-bottom: 6px; }
-#nav details { border-top: 1px solid var(--soft); padding: 4px 0; }
+#nav .all { padding: 4px 8px; font-size: 14px; line-height: 18px; }
+#nav .all > span:first-child { display: flex; align-items: center; gap: 10px; }
+#nav .all svg { flex: none; width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linejoin: round; stroke-linecap: round; }
+#nav .all + details { margin-top: 14px; }
+#nav details { border-top: 1px solid var(--soft); padding: 2px 0; }
 #nav summary { list-style: none; display: flex; align-items: center; }
 #nav summary::-webkit-details-marker { display: none; }
 /* chevron fino: dos bordes de un cuadrado rotado */
