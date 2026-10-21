@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-20T18:56-03:00",
+ "updated": "2026-10-20T21:15-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -182,6 +182,19 @@ window.CIRCO = {
    "article": "18d85de6afe0bfd6"
   },
   {
+   "id": "https://www.theverge.com/?p=1014999",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Google’s more personalized Gemini AI is heading to your car",
+   "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+   "excerpt": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=1.0809792843691%2C0%2C97.838041431262%2C100&w=1200",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": "a727f381ea5644c0"
+  },
+  {
    "id": "https://www.theverge.com/?p=1014446",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -206,6 +219,19 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": true,
    "article": "56a8d9e39d31816e"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1014976",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+   "excerpt": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": "375572a3e90a4c70"
   },
   {
    "id": "https://www.theverge.com/?p=1014627",
@@ -375,6 +401,19 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": false,
    "article": "38000e8dcaa4f2a4"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/20/la-justicia-puso-en-revision-la-cautelar-sobre-financiamiento-universitario",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Justicia puso en revisión la cautelar sobre Financiamiento Universitario",
+   "link": "https://www.filo.news/noticia/2026/10/20/la-justicia-puso-en-revision-la-cautelar-sobre-financiamiento-universitario",
+   "excerpt": "La Cámara Contencioso Administrativo Federal hizo lugar al pedido del Ministerio de Capital Humano.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/202605260526008-scaled_(1)3171_re.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": false,
+   "article": "b7a631f078c76c83"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/20/kicillof-sobre-los-dichos-de-milei-se-burlo-de-la-gente-que-no-llega-a-fin-de-mes-con-un-cinismo-desconocido",
@@ -622,6 +661,19 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": false,
    "article": "28aa2f029e900f5c"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201250",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Inician proceso sancionatorio a las AFP por caída en los fondos D y E; Cámara aprueba proyecto que moderniza e incentiva a Carabineros, y SII rebajará contribuciones a afectados por catástrofes naturales de 2026",
+   "link": "https://www.ciperchile.cl/2026/10/20/radar-20-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-20-10-26",
+   "excerpt": "La entrada Inician proceso sancionatorio a las AFP por caída en los fondos D y E; Cámara aprueba proyecto que moderniza e incentiva a Carabineros, y SII rebajará contribuciones a afectados por catástrofes naturales de 2026 se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "og_checked": true,
+   "article": "3c4de6ab2539ef70"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201245",
@@ -1118,19 +1170,6 @@ window.CIRCO = {
    "article": "cec0c20a1a78aae6"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/19/el-centro-cultural-san-martin-se-prepara-para-una-transformacion-historica",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Centro Cultural San Martín se prepara para una transformación histórica",
-   "link": "https://www.filo.news/noticia/2026/10/19/el-centro-cultural-san-martin-se-prepara-para-una-transformacion-historica",
-   "excerpt": "El plan de intervención busca devolverle el brillo y el esplendor histórico a uno de los espacios culturales más emblemáticos y referenciales de la Argentina.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/whatsappimage2026-10-13_at_12.17.54_pm_(1)4366_re.jpeg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "8a60a49480d37225"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201208",
    "source": "CIPER",
    "category": "Notis",
@@ -1209,19 +1248,6 @@ window.CIRCO = {
    "article": "2e82254952cf897d"
   },
   {
-   "id": "https://www.theverge.com/?p=1013541",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "A woman was arrested in Philly for blocking a delivery robot",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-   "excerpt": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": true,
-   "article": "97027eaf00f77dce"
-  },
-  {
    "id": "https://musebyclios.com/?p=133784",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1285,19 +1311,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "61075cc46d578d1d"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1013409",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Meta removes language that may have allowed it to scrape news sites",
-   "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-   "excerpt": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "a1a40acf1119d775"
   },
   {
    "id": "https://theinspiration.com/?p=54739",
@@ -1781,19 +1794,6 @@ window.CIRCO = {
    "article": "03be10db1304932a"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201140",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Gustavo Gatica: «No creo haber tenido sentimientos de venganza, ahora ni antes»",
-   "link": "https://www.ciperchile.cl/2026/10/15/gustavo-gatica-no-creo-haber-tenido-sentimientos-de-venganza-ahora-ni-antes/?utm_source=rss&utm_medium=rss&utm_campaign=gustavo-gatica-no-creo-haber-tenido-sentimientos-de-venganza-ahora-ni-antes",
-   "excerpt": "﻿﻿﻿﻿ La entrada Gustavo Gatica: «No creo haber tenido sentimientos de venganza, ahora ni antes» se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": ""
-  },
-  {
    "id": "https://www.theverge.com/?p=1011133",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1805,19 +1805,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "9762c89a18ef0833"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1010928",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Android is using AI to suss out scammers in Google Messages",
-   "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-   "excerpt": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-14",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "c0963fc413b49036"
   },
   {
    "id": "https://musebyclios.com/?p=133687",
