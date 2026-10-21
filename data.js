@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-20T21:15-03:00",
+ "updated": "2026-10-21T02:24-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -64,6 +64,19 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.ciperchile.cl/?p=201264",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Testimonio de Gonzalo Migueles confirma reunión de senadora Carvajal y Najle cuando este postulaba a conservador",
+   "link": "https://www.ciperchile.cl/2026/10/20/testimonio-de-gonzalo-migueles-confirma-reunion-de-senadora-carvajal-y-najle-cuando-este-postulaba-a-conservador/?utm_source=rss&utm_medium=rss&utm_campaign=testimonio-de-gonzalo-migueles-confirma-reunion-de-senadora-carvajal-y-najle-cuando-este-postulaba-a-conservador",
+   "excerpt": "La entrada Testimonio de Gonzalo Migueles confirma reunión de senadora Carvajal y Najle cuando este postulaba a conservador se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/najle-web.png",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-21",
+   "og_checked": true,
+   "article": "92c05d3efdfbfd5a"
+  },
   {
    "id": "https://www.applesfera.com/homepod/que-soundglow-novedad-visual-que-llega-incluso-a-homepod-antiguos",
    "source": "Applesfera",
@@ -278,7 +291,7 @@ window.CIRCO = {
    "category": "Publi",
    "title": "This Handy Device From Kalshi Lets NBA Viewers Block All Mentions of LeBron James. Who’s the King Now?!",
    "link": "https://musebyclios.com/sports/this-handy-device-from-kalshi-lets-nba-viewers-block-all-mentions-of-lebron-james/?utm_source=rss&utm_medium=rss&utm_campaign=this-handy-device-from-kalshi-lets-nba-viewers-block-all-mentions-of-lebron-james",
-   "excerpt": "LeBron this! LeBron that! Bronny! Bronny! Bronny! Are you sick to death of hearing the man’s name—and his tiresome nicknames, too? (“The Chosen.” Shesh.) Dillon Brooks sure is. And he’s doing something about it, thanks to Kalshi, the prediction markets platform. In an…",
+   "excerpt": "LeBron this! LeBron that! Bronny! Bronny! Bronny! Are you sick to death of hearing the man’s name—and his tiresome nicknames, too? (“The Chosen One.” Shesh.) Dillon Brooks sure is. And he’s doing something about it, thanks to Kalshi, the prediction markets platform. In an…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/20161341/BRON1.jpg",
    "day": "2026-10-20",
    "first_seen": "2026-10-20",
@@ -720,8 +733,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -1370,8 +1383,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
    "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -1649,19 +1662,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "1bcf01338a9d7a0c"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201142",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Hilda y Carlos",
-   "link": "https://www.ciperchile.cl/2026/10/16/hilda-y-carlos/?utm_source=rss&utm_medium=rss&utm_campaign=hilda-y-carlos",
-   "excerpt": "La entrada Hilda y Carlos se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "8c68c7687cecde5b"
   },
   {
    "id": "https://www.theverge.com/?p=1012293",
@@ -1994,8 +1994,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "8 GitHub Repos To Go Viral and Make Money",
    "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
-   "excerpt": "In this solo episode, I walk through eight GitHub repos and AI skills that I test at night and on weekends. The list covers launch videos, social research, local voice and dubbing, editable decks, agent teams, lead-magnet tools, idea stress-testing, and design guidance. For each…",
-   "image": "https://i3.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
    "day": "2026-10-09",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2171,13 +2171,26 @@ window.CIRCO = {
    "article": "b326ceb05221d6b5"
   },
   {
+   "id": "yt:video:1a5HxU52vCQ",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Masterclass: How FDEs make $1M/yr deploying AI agents",
+   "link": "https://www.youtube.com/watch?v=1a5HxU52vCQ",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/1a5HxU52vCQ/hqdefault.jpg",
+   "day": "2026-10-07",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "yt:video:bQPU6UJ4iCw",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
    "title": "13 Businesses for the Age of AI",
    "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
-   "excerpt": "In this solo episode, I walk through the 13 businesses I think are left to build in the agentic era. I believe that in a world of agents and abundance, owning the right assets puts you in a better position. For each business, I explain what it is, why it holds up in a world of…",
-   "image": "https://i3.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
    "day": "2026-10-07",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2299,71 +2312,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "0858bd61d77fa35e"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133380",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "To Charm Fandoms, Brands Must Expand Each Community’s Universe",
-   "link": "https://musebyclios.com/musings/to-win-over-fandoms-brands-must-expand-each-communitys-universe/?utm_source=rss&utm_medium=rss&utm_campaign=to-win-over-fandoms-brands-must-expand-each-communitys-universe",
-   "excerpt": "Fandoms have never been more powerful, or harder to impress. These aren’t the ones you can win over with media money and a logo slap. They know the lore. They’ve got the receipts. And they can sense the sticky hands of a brand from a mile away. Increasingly, brands like Spotify,…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/06132342/fans2.jpg",
-   "day": "2026-10-06",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "52d3b8395bec00e0"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133377",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "If You Bet Against Your Fave NFL Team, These Soapy Footballs Might Help Cleanse Your Conscience",
-   "link": "https://musebyclios.com/sports/bet-against-your-fave-nfl-team-these-soapy-footballs-might-help-clean-your-conscience/?utm_source=rss&utm_medium=rss&utm_campaign=bet-against-your-fave-nfl-team-these-soapy-footballs-might-help-clean-your-conscience",
-   "excerpt": "Let’s say you grew up in Miami with Dolphins posters on your walls—but bet against the team every week so you don’t lose the mortgage money. Who can blame you? The Fish hyper-suck. Still, you might feel a tad … dirty. That’s where Hard Rock Bet’s “Rival Rinse” football-shaped…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/05104526/soap3.jpg",
-   "day": "2026-10-06",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "cda6d12899a3dfb3"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133376",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Verizon Casts Chris Briney in Moody Retro Love Story—With a Twist at the End",
-   "link": "https://musebyclios.com/film-tv/verizon-casts-chris-briney-in-moody-retro-love-story/?utm_source=rss&utm_medium=rss&utm_campaign=verizon-casts-chris-briney-in-moody-retro-love-story",
-   "excerpt": "Why so pouty, Chris Briney? The Verizon Shine commercial below is a very slow burn. It opens as The Summer I Turned Pretty heartthrob bids farewell to his paramour and promises, “I’ll be waiting.” Then he hits the long, lonely road in a vintage Ford Mustang convertible as…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/05160904/ver7.jpeg",
-   "day": "2026-10-06",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "cabce1fe4ee9d5f3"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133368",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "In the Cultural Spotlight: Brands, Fans and Stylemakers Converge at ComplexCon",
-   "link": "https://musebyclios.com/music/in-the-cultural-spotlight-brands-fans-and-stylemakers-converge-at-complexcon/?utm_source=rss&utm_medium=rss&utm_campaign=in-the-cultural-spotlight-brands-fans-and-stylemakers-converge-at-complexcon",
-   "excerpt": "The streetwear, art, music and food fest ComplexCon is “the Big Game,” with a dash of Met Gala thrown in, according to its organizer, style and culture publisher Complex. It’s also been called the World’s Fair for trend-setting, fashionista, hip hop-loving Gen Z. Pick any…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/06084642/plex2.jpg",
-   "day": "2026-10-06",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "fc5d8af83113ee32"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133363",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "iProspect’s Liz Vance Believes in Asking the Right Questions to Determine What’s Possible",
-   "link": "https://musebyclios.com/2-minutes-with/iprospects-liz-vance-believes-in-asking-the-right-questions-to-determine-whats-possible/?utm_source=rss&utm_medium=rss&utm_campaign=iprospects-liz-vance-believes-in-asking-the-right-questions-to-determine-whats-possible",
-   "excerpt": "As president at iProspect, Liz Vance has helped transform the company “from a collection of great capabilities into a more connected, client-centric organization,” she says. “It’s building the systems talent and culture that let great work happen at scale.” Liz has been with the…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/05201423/Liz-Vance.jpg",
-   "day": "2026-10-06",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "695fe7605f9f10d1"
   }
  ]
 };
