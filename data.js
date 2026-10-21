@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-21T11:52-03:00",
+ "updated": "2026-10-21T14:42-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -55,15 +55,41 @@ window.CIRCO = {
    "name": "Filo.News",
    "category": "Notis",
    "feed": "https://www.filo.news/rss/rss.xml"
-  },
-  {
-   "name": "CIPER",
-   "category": "Notis",
-   "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
- "errors": [],
+ "errors": [
+  {
+   "url": "https://www.ciperchile.cl/",
+   "error": "The read operation timed out"
+  }
+ ],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1015533",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple Music has a new logo",
+   "link": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
+   "excerpt": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music today. There's a new logo, the updated wordmark, and a new sound…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_70284.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": true,
+   "article": "82a14ad94f40d4bc"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1015281",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Conversational Gemini navigation comes to Apple CarPlay",
+   "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+   "excerpt": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": true,
+   "article": "5b3d649b2a24ec13"
+  },
   {
    "id": "https://www.theverge.com/?p=1015372",
    "source": "The Verge · Apple",
@@ -102,6 +128,58 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": true,
    "article": "35b12b3e44cbcc10"
+  },
+  {
+   "id": "https://www.applesfera.com/apple-tv/ted-lasso-quiere-ted-lasso-da-hecho-que-apple-tv-tambien",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Ted Lasso quiere más \"Ted Lasso\" y da por hecho que Apple TV también",
+   "link": "https://www.applesfera.com/apple-tv/ted-lasso-quiere-ted-lasso-da-hecho-que-apple-tv-tambien",
+   "excerpt": "Ted Lasso nos hizo muy felices. Tanto que no paramos de pedir una temporada más y al final llegó la cuarta. Tres años después de la tercera, eso sí. Pero ver otra vez a Ted y a toda su gente fue un gustazo. Y ahora que ya ha terminado , nos ronda a muchos la misma pregunta:…",
+   "image": "https://i.blogs.es/13009f/super-resolucion/1024_2000.jpeg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": "a8ca3a124db6ba61"
+  },
+  {
+   "id": "https://www.applesfera.com/iphone/iphone-duo-opiniones-toma-contacto-video-fotos",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "iPhone Duo, primeras impresiones: una forma espectacular de entender el iPhone que llevamos casi veinte años utilizando",
+   "link": "https://www.applesfera.com/iphone/iphone-duo-opiniones-toma-contacto-video-fotos",
+   "excerpt": "Llevamos tantos años utilizando el iPhone que habíamos terminado por acostumbrarnos a su forma . Hemos visto cómo sus pantallas crecían, cómo desaparecía el botón de inicio y cómo las cámaras adquirían un protagonismo que jamás habríamos imaginado cuando Steve Jobs presentó…",
+   "image": "https://i.blogs.es/eb314f/iphone-duo-primeras-impresiones-applesfera-53/1024_2000.jpeg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": "4baec2d922351a51"
+  },
+  {
+   "id": "https://www.applesfera.com/seguridad/iphone-tiene-ajuste-suplantaciones-identidad-hay-que-activarlo-a-mano",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "El iPhone tiene un ajuste contra las suplantaciones de identidad. Pero hay que activarlo a mano",
+   "link": "https://www.applesfera.com/seguridad/iphone-tiene-ajuste-suplantaciones-identidad-hay-que-activarlo-a-mano",
+   "excerpt": "Las estafas por suplantación de identidad llegan por llamada, por mensaje o por correo, y todas buscan lo mismo: que piquemos . Alguien se hace pasar por nuestro banco, por un organismo como la DGT o por un amigo que te mete prisa para que pagues. Lo hacen tan bien que…",
+   "image": "https://i.blogs.es/3d0a8a/apple-seguridad/1024_2000.jpeg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": "cbde45d79ec3d493"
+  },
+  {
+   "id": "https://www.applesfera.com/curiosidades/fomo-no-haber-tenido-iphone-original-acaban-recrearlo-se-puede-acceder-navegador",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "¿FOMO de no haber tenido el iPhone original? Acaban de recrearlo y se puede acceder desde el navegador",
+   "link": "https://www.applesfera.com/curiosidades/fomo-no-haber-tenido-iphone-original-acaban-recrearlo-se-puede-acceder-navegador",
+   "excerpt": "Cuando el 9 de enero de 2007 Steve Jobs presentó el primer iPhone, servidor tenía apenas 12 años y medio. Con esta edad y en una era en la que los smartphones no eran un reclamo de niños, veía aquello muy lejano. Ha sido años después cuando me ha venido el FOMO (lo que viene a…",
+   "image": "https://i.blogs.es/fd30b9/recreacion-iphone-original/1024_2000.jpeg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": "773e7c6cf7410ba8"
   },
   {
    "id": "https://www.applesfera.com/accesorios/a-siri-se-le-acumulan-culpas-ahora-suma-retraso-homeview",
@@ -193,6 +271,32 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": true,
    "article": "916ee47a1bc9439c"
+  },
+  {
+   "id": "https://musebyclios.com/?p=133895",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "The 2026 Clio Sports Awards Announces Host and Honorees",
+   "link": "https://musebyclios.com/clio-sports/the-2026-clio-sports-awards-announces-host-and-honorees/?utm_source=rss&utm_medium=rss&utm_campaign=the-2026-clio-sports-awards-announces-host-and-honorees",
+   "excerpt": "New York, NY—October 21, 2026 — Clio Sports, the competition that honors creative excellence in sports marketing and advertising on a global scale, today announced that Michael Strahan, Flavor Flav and Kelley O’Hara will be honored at the 2026 Clio Sports Awards Show on Dec. 8.…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/21124223/clio-sports-1.jpg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": true,
+   "article": "8c2d3c6fb238afba"
+  },
+  {
+   "id": "https://musebyclios.com/?p=133884",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Cerveza Victoria Created a Touching Tribute, With Hummingbirds, for  Mexico’s Day of the Dead",
+   "link": "https://musebyclios.com/advertising/cerveza-victoria-created-touching-tribute-with-hummingbirds-for-mexicos-day-of-the-dead/?utm_source=rss&utm_medium=rss&utm_campaign=cerveza-victoria-created-touching-tribute-with-hummingbirds-for-mexicos-day-of-the-dead",
+   "excerpt": "To commemorate Mexico’s Day of the Dead, Cerveza Victoria wished to capture the traditional belief that loved ones who have passed take the form of hummingbirds to visit those they’ve left behind. So, the maker of the first Mexican lager beer created “Love is Eternal.” It…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/21113138/05DM.jpg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": true,
+   "article": "56c42d2475e59349"
   },
   {
    "id": "https://musebyclios.com/?p=133881",
@@ -312,6 +416,84 @@ window.CIRCO = {
    "article": "7c08c95ecfb622d6"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/21/la-prensa-espanola-cuestiono-a-milei-por-sus-ataques-a-los-periodistas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La prensa española cuestionó a Milei por sus ataques a los periodistas",
+   "link": "https://www.filo.news/noticia/2026/10/21/la-prensa-espanola-cuestiono-a-milei-por-sus-ataques-a-los-periodistas",
+   "excerpt": "El presidente llamó \"corta intelectualmente\" y \"miserable política\" a una cronista de Cadena SER. También insultó a los enviados de Clarín. El análisis de la prensa local.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/noname7609_re.png",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": "7cdec1841a5b5838"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/21/resumen",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Milei volvió a descalificar a Sánchez y atacó a la prensa en España; La reacción del presidente español; Boca a la final; y más...",
+   "link": "https://www.filo.news/noticia/2026/10/21/resumen",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/collage8531_re.png",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/21/mercedes-sosa-busca-un-lugar-en-los-grammy-con-suiza-1980-un-album-grabado-en-el-exilio",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Mercedes Sosa busca un lugar en los GRAMMY con Suiza 1980, un álbum grabado en el exilio",
+   "link": "https://www.filo.news/noticia/2026/10/21/mercedes-sosa-busca-un-lugar-en-los-grammy-con-suiza-1980-un-album-grabado-en-el-exilio",
+   "excerpt": "El álbum Suiza 1980 (Remastering 2025), que recupera una presentación de la cantante argentina junto al guitarrista Nicolás Brizuela, fue presentado para consideración en la categoría Best Historical Album de los premios de la Recording Academy. El trabajo se centra en la…",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/mercedessosasuiza_1980_remastering_20254689.jpg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": "a9575e411f6eb8a7"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/21/con-marcos-rojo-habilitado-estudiantes-va-por-el-pase-a-la-final-de-la-copa-libertadores-ante-flamengo-horario-y-tv-del-partido",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Con Marcos Rojo habilitado, Estudiantes va por el pase a la final de la Copa Libertadores ante Flamengo: horario y TV del partido",
+   "link": "https://www.filo.news/noticia/2026/10/21/con-marcos-rojo-habilitado-estudiantes-va-por-el-pase-a-la-final-de-la-copa-libertadores-ante-flamengo-horario-y-tv-del-partido",
+   "excerpt": "El Tribunal Arbitral del Deporte dio luz verde a la apelación del Pincha y el defensor podrá jugar ante el conjunto brasileño.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/marcosrojo2437_re.jpg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": "c5c92fcf913c6a88"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/21/diez-emprendimientos-argentinos-competiran-por-usd-30-000-en-capital-semilla",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Diez emprendimientos argentinos competirán por USD 30.000 en capital semilla",
+   "link": "https://www.filo.news/noticia/2026/10/21/diez-emprendimientos-argentinos-competiran-por-usd-30-000-en-capital-semilla",
+   "excerpt": "Los proyectos seleccionados provienen de nueve ciudades y participan de un programa de formación para impulsar el desarrollo de sus negocios.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/eventoemprendetiktok5561_re.jpg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": "b2b618f689c13f46"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/21/u2-vuelve-a-la-argentina-en-2027-cuando-salen-a-la-venta-las-entradas-y-cuanto-cuestan",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "U2 vuelve a la Argentina en 2027: cuándo salen a la venta las entradas y cuánto cuestan",
+   "link": "https://www.filo.news/noticia/2026/10/21/u2-vuelve-a-la-argentina-en-2027-cuando-salen-a-la-venta-las-entradas-y-cuanto-cuestan",
+   "excerpt": "Después de casi diez años, la banda irlandesa se presentará el 23 y el 25 de marzo en el Estadio River Plate. La preventa exclusiva comenzó este miércoles y ya está agotada. La venta general se habilitará el jueves.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/img96034076_re.jpg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": "904ec304365a83fc"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/21/una-cancion-de-lali-y-zurdo-y-orgulloso-asi-reacciono-pedro-sanchez-a-la-visita-de-milei-a-espana",
    "source": "Filo.News",
    "category": "Notis",
@@ -323,6 +505,19 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": false,
    "article": "8cd8224aca2b3c92"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/19/espartanos-el-deporte-transforma-vidas-dentro-de-la-carcel",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Espartanos: el deporte transforma vidas dentro de la cárcel",
+   "link": "https://www.filo.news/noticia/2026/10/19/espartanos-el-deporte-transforma-vidas-dentro-de-la-carcel",
+   "excerpt": "Después de una infancia difícil que la llevó a estar diez años detenida, Tatiana Ruiz Díaz cuenta en primera persona cómo el rugby la ayudó a reencausar su vida cuando recuperó la libertad.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/espartanosportada8874_re.jpg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "og_checked": false,
+   "article": "1a6a006abcb686eb"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/21/rocio-portillo-un-recorrido-internacional-en-expansion-y-una-propuesta-cada-vez-mas-autoral",
@@ -377,19 +572,6 @@ window.CIRCO = {
    "article": "bbd6473d9e0508d8"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201275",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Gobierno propone que las AFP puedan administrar nuevo ahorro para la vivienda y Comisión de Hacienda de diputados lo aprobó",
-   "link": "https://www.ciperchile.cl/2026/10/21/gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo",
-   "excerpt": "La entrada Gobierno propone que las AFP puedan administrar nuevo ahorro para la vivienda y Comisión de Hacienda de diputados lo aprobó se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/Vivienda_AFP_Web.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "4ceaab459b5e7a44"
-  },
-  {
    "id": "https://www.theverge.com/?p=1014709",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -401,32 +583,6 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": true,
    "article": "3d9d83bd9c0d3b00"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1014261",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
-   "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
-   "excerpt": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on the vehicle's infotainment hardware -…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-x-Audi-Image-2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "9b6b227aa523de81"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201264",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Testimonio de Gonzalo Migueles confirma reunión de senadora Carvajal y Najle cuando este postulaba a conservador",
-   "link": "https://www.ciperchile.cl/2026/10/20/testimonio-de-gonzalo-migueles-confirma-reunion-de-senadora-carvajal-y-najle-cuando-este-postulaba-a-conservador/?utm_source=rss&utm_medium=rss&utm_campaign=testimonio-de-gonzalo-migueles-confirma-reunion-de-senadora-carvajal-y-najle-cuando-este-postulaba-a-conservador",
-   "excerpt": "La entrada Testimonio de Gonzalo Migueles confirma reunión de senadora Carvajal y Najle cuando este postulaba a conservador se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/najle-web.png",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "92c05d3efdfbfd5a"
   },
   {
    "id": "https://www.applesfera.com/homepod/que-soundglow-novedad-visual-que-llega-incluso-a-homepod-antiguos",
@@ -910,19 +1066,6 @@ window.CIRCO = {
    "article": "a6d1669c54e22241"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/20/mercedes-sosa-busca-un-lugar-en-los-latin-grammy-con-suiza-1980-un-album-grabado-en-el-exilio",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Mercedes Sosa busca un lugar en los Latin GRAMMY con Suiza 1980, un álbum grabado en el exilio",
-   "link": "https://www.filo.news/noticia/2026/10/20/mercedes-sosa-busca-un-lugar-en-los-latin-grammy-con-suiza-1980-un-album-grabado-en-el-exilio",
-   "excerpt": "El álbum Suiza 1980 (Remastering 2025), que recupera una presentación de la cantante argentina junto al guitarrista Nicolás Brizuela, fue presentado para consideración en la categoría Best Historical Album de los premios de la Recording Academy. El trabajo se centra en la…",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/fycforyour_consideration_mercedes_sosa_suiza_1980_remastering_2025_best_historical_album7165_re.png",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": false,
-   "article": "b4f2ba584434019a"
-  },
-  {
    "id": "https://www.filo.news/noticia/2026/10/20/boca-va-por-la-remontada-ante-vasco-da-gama-en-la-semifinal-de-la-copa-sudamericana-horario-y-tv-del-partido",
    "source": "Filo.News",
    "category": "Notis",
@@ -947,123 +1090,6 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": false,
    "article": "ea5867cfbed8c9d5"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/20/paro-total-de-subtes-por-la-detencion-de-dos-dirigentes-de-metrodelegados",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Paro total de subtes por la detención de dos dirigentes de Metrodelegados",
-   "link": "https://www.filo.news/noticia/2026/10/20/paro-total-de-subtes-por-la-detencion-de-dos-dirigentes-de-metrodelegados",
-   "excerpt": "Los arrestos se produjeron esta mañana cuando intentaban liberar los molinetes de la estación Juan Manuel de Rosas. El sindicato advirtió que el servicio seguirá interrumpido hasta que sean liberados.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/noname1984_re.png",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": false,
-   "article": "9cb51e16bf8d3940"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/20/el-gobierno-posterga-el-debate-de-la-ley-de-malvinas-y-negocia-cambios-por-las-criticas-de-la-oposicion-y-eeuu",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Gobierno posterga el debate de la Ley de Malvinas y negocia cambios por las críticas de la oposición y EEUU",
-   "link": "https://www.filo.news/noticia/2026/10/20/el-gobierno-posterga-el-debate-de-la-ley-de-malvinas-y-negocia-cambios-por-las-criticas-de-la-oposicion-y-eeuu",
-   "excerpt": "La iniciativa, que incluye reformas en defensa, inteligencia y financiamiento político, pasó al 27 de octubre. El oficialismo busca sumar respaldos en el Congreso y revisar artículos cuestionados por su posible impacto en la libertad de expresión.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/diputados8)6801_re.jpg",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": false,
-   "article": "5c1e8e3abfd04a7f"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/20/milei-sugirio-que-lula-podria-robarse-la-segunda-vuelta-en-brasil",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Milei sugirió que Lula podría \"robarse\" la segunda vuelta en Brasil",
-   "link": "https://www.filo.news/noticia/2026/10/20/milei-sugirio-que-lula-podria-robarse-la-segunda-vuelta-en-brasil",
-   "excerpt": "El presidente argentino volvió a llamar \"ladrón\" a su par brasileño y planteó dudas acerca del resultado del balotaje del domingo entre el líder del PT y Flávio Bolsonaro.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/noname3652_re.png",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": false,
-   "article": "8d3a4714be3bc80d"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/20/alumnos-tomaron-el-colegio-carlos-pellegrini-reclaman-el-cumplimiento-de-la-ley-de-financiamiento-universitario",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Alumnos tomaron el Colegio Carlos Pellegrini: reclaman el cumplimiento de la Ley de Financiamiento Universitario",
-   "link": "https://www.filo.news/noticia/2026/10/20/alumnos-tomaron-el-colegio-carlos-pellegrini-reclaman-el-cumplimiento-de-la-ley-de-financiamiento-universitario",
-   "excerpt": "La medida de fuerza fue aprobada por los estudiantes reunidos en asamblea. Por la tarde volverán a reunirse para definir cómo sigue la protesta.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/noname8988_re.png",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": false,
-   "article": "e25ec667ddda2491"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/20/ultima-semana-del-juicio-por-la-muerte-de-maradona-comienzan-los-alegatos-de-las-defensas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Última semana del juicio por la muerte de Maradona: comienzan los alegatos de las defensas",
-   "link": "https://www.filo.news/noticia/2026/10/20/ultima-semana-del-juicio-por-la-muerte-de-maradona-comienzan-los-alegatos-de-las-defensas",
-   "excerpt": "Este martes, darán sus argumentos los abogados de la psiquiatra Agustina Cosachov y del psicólogo Carlos Díaz, dos de los acusados por homicidio simple con dolo eventual del ídolo argentino. Mañana y el jueves, expondrán los representantes de los otros imputados.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/diegomaradona(na)1137_re.jpg",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": false,
-   "article": "510b4eaf9f0f9968"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/20/juicio-por-ypf-la-jueza-preska-dejo-sin-efecto-la-condena-contra-argentina-y-ahora-define-la-corte-de-eeuu",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Juicio por YPF: La jueza Preska dejó sin efecto la condena contra Argentina y ahora define la Corte de EEUU",
-   "link": "https://www.filo.news/noticia/2026/10/20/juicio-por-ypf-la-jueza-preska-dejo-sin-efecto-la-condena-contra-argentina-y-ahora-define-la-corte-de-eeuu",
-   "excerpt": "La magistrada dio por la etapa de primera instancia en la causa por la estatización de la compañía. El máximo tribunal debe determinar ahora si asume el caso tras el reclamo de Burford Capital.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/noname7085_re.png",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": false,
-   "article": "28aa2f029e900f5c"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201250",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Inician proceso sancionatorio a las AFP por caída en los fondos D y E; Cámara aprueba proyecto que moderniza e incentiva a Carabineros, y SII rebajará contribuciones a afectados por catástrofes naturales de 2026",
-   "link": "https://www.ciperchile.cl/2026/10/20/radar-20-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-20-10-26",
-   "excerpt": "La entrada Inician proceso sancionatorio a las AFP por caída en los fondos D y E; Cámara aprueba proyecto que moderniza e incentiva a Carabineros, y SII rebajará contribuciones a afectados por catástrofes naturales de 2026 se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "3c4de6ab2539ef70"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201245",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Expediente Mónica | El estallido social desde el interior de La Moneda",
-   "link": "https://www.ciperchile.cl/2026/10/20/expediente-monica-el-estallido-social-desde-el-interior-de-la-moneda/?utm_source=rss&utm_medium=rss&utm_campaign=expediente-monica-el-estallido-social-desde-el-interior-de-la-moneda",
-   "excerpt": "La entrada Expediente Mónica | El estallido social desde el interior de La Moneda se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": ""
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201241",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "El estallido social desde el interior de La Moneda",
-   "link": "https://www.ciperchile.cl/2026/10/20/el-estallido-social-desde-el-interior-de-la-moneda/?utm_source=rss&utm_medium=rss&utm_campaign=el-estallido-social-desde-el-interior-de-la-moneda",
-   "excerpt": "La entrada El estallido social desde el interior de La Moneda se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": ""
   },
   {
    "id": "https://www.theverge.com/?p=1013028",
@@ -1092,19 +1118,6 @@ window.CIRCO = {
    "article": ""
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201224",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Cuando la cárcel cruza fronteras: el PCC y su expansión criminal",
-   "link": "https://www.ciperchile.cl/2026/10/19/cuando-la-carcel-cruza-fronteras-el-pcc-y-su-expansion-criminal/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-la-carcel-cruza-fronteras-el-pcc-y-su-expansion-criminal",
-   "excerpt": "La entrada Cuando la cárcel cruza fronteras: el PCC y su expansión criminal se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1016614-scaled.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "0754466179cada68"
-  },
-  {
    "id": "https://www.applesfera.com/apple-tv/precio-apple-tv-ha-dado-que-hablar-primero-steve-jobs-costo",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -1116,58 +1129,6 @@ window.CIRCO = {
    "first_seen": "2026-10-19",
    "og_checked": false,
    "article": "d5ca010021830cfc"
-  },
-  {
-   "id": "https://www.applesfera.com/apple-1/oficial-apple-anuncia-nuevo-evento-para-proxima-semana",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Ya es oficial: Apple anuncia un nuevo evento para la próxima semana",
-   "link": "https://www.applesfera.com/apple-1/oficial-apple-anuncia-nuevo-evento-para-proxima-semana",
-   "excerpt": "Lleva tiempo filtrándose que, tras los anuncios de la pasada semana , Apple tenía aún pendiente anunciar algo a finales de octubre . Ahora ya es oficial: Apple anunciará nuevos productos el próximo miércoles 28 . Eso sí, no celebrará un evento que se pueda seguir en streaming,…",
-   "image": "https://i.blogs.es/a52cce/evento-apple/1024_2000.jpeg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "cee7f11775a3cf84"
-  },
-  {
-   "id": "https://www.applesfera.com/aplicaciones-os-x-1/hay-app-para-mac-que-permite-convertir-archivos-solo-arrastrarlos-pulsar-tecla",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Hay una app para Mac que permite convertir archivos con solo arrastrarlos y pulsar una tecla",
-   "link": "https://www.applesfera.com/aplicaciones-os-x-1/hay-app-para-mac-que-permite-convertir-archivos-solo-arrastrarlos-pulsar-tecla",
-   "excerpt": "Son muchas las imágenes y documentos con los que trato a diario y buena parte de ellos los tengo que reconvertir a otro formato . Y aunque hay varias formas de hacerlo de forma nativa, he encontrado una aplicación que lo hace aún más sencillo. Se llama Tangerine y es una…",
-   "image": "https://i.blogs.es/92c761/app-tangerine/1024_2000.jpeg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "18c3a3241070d918"
-  },
-  {
-   "id": "https://www.applesfera.com/aplicaciones-ios/app-gratis-se-adelanta-a-apple-te-chiva-cuando-toca-actualizar-tus-dispositivos",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Esta app gratis  es \"el pasaporte\" de todos tus productos Apple y te avisa de sus actualizaciones",
-   "link": "https://www.applesfera.com/aplicaciones-ios/app-gratis-se-adelanta-a-apple-te-chiva-cuando-toca-actualizar-tus-dispositivos",
-   "excerpt": "A los fanboys de Apple nos gusta coleccionar. Es lo que explica que guardemos las cajas de todo lo que compramos , aunque ocupen sitio en el armario e incluso haga años que vendimos el dispositivo que había dentro. Hoardware hace lo mismo, pero en formato digital. Es una app…",
-   "image": "https://i.blogs.es/a56971/app-apple/1024_2000.jpeg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "bce8ad5b9b8c77b0"
-  },
-  {
-   "id": "https://www.applesfera.com/iphone/todo-tu-vida-esta-tu-telefono-reflexion-john-ternus-que-queda-claro-futuro-apple",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "\"Todo en tu vida está en tu teléfono\", la reflexión de John Ternus con la que queda claro el futuro de Apple",
-   "link": "https://www.applesfera.com/iphone/todo-tu-vida-esta-tu-telefono-reflexion-john-ternus-que-queda-claro-futuro-apple",
-   "excerpt": "Cuando el CEO de una compañía habla, bien sea en un evento o en una entrevista, todas sus palabras están perfectamente estudiadas . Y las de John Ternus en torno al iPhone solamente tienen una interpretación posible: tendremos iPhone para rato. Hace años que muchas compañías…",
-   "image": "https://i.blogs.es/68f010/john-ternus-iphone-duo/1024_2000.jpeg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": false,
-   "article": "6f9b2b3ef172c33f"
   },
   {
    "id": "https://www.theverge.com/?p=1013954",
@@ -1209,17 +1170,17 @@ window.CIRCO = {
    "article": "2daee49bb2cf43d3"
   },
   {
-   "id": "https://www.theverge.com/?p=1013643",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-   "excerpt": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "id": "https://musebyclios.com/?p=133803",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "e.l.f.’s ‘Magical Sisters,’ Bill Murray’s ‘Ghostbusters’ Riff and More Halloween Highlights",
+   "link": "https://musebyclios.com/advertising/e-l-f-s-magical-sisters-bill-murrays-ghostbusters-riff-and-more-halloween-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=e-l-f-s-magical-sisters-bill-murrays-ghostbusters-riff-and-more-halloween-highlights",
+   "excerpt": "Here, we look at some notable All Hallows spots from near and far. Thanks to Muse sibling Ads of the World for scaring up this fine selection. e.l.f. ‘The e.l.f.ing Magical Sisters’Agency: Hungry Man Who needs a wand when you’ve got a blush stick? e.l.f. Cosmetics conjures up…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/19094026/elf.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-19",
    "og_checked": true,
-   "article": "35b9b2d37a31b57a"
+   "article": "0fef43ae665b5f6f"
   },
   {
    "id": "https://musebyclios.com/?p=133811",
@@ -1246,19 +1207,6 @@ window.CIRCO = {
    "first_seen": "2026-10-19",
    "og_checked": true,
    "article": "09969d8cadc84a60"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133803",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "e.l.f.’s ‘Magical Sisters,’ Bill Murray’s ‘Ghostbusters’ Riff and More Halloween Highlights",
-   "link": "https://musebyclios.com/advertising/e-l-f-s-magical-sisters-bill-murrays-ghostbusters-riff-and-more-halloween-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=e-l-f-s-magical-sisters-bill-murrays-ghostbusters-riff-and-more-halloween-highlights",
-   "excerpt": "Here, we look at some notable All Hallows spots from near and far. Thanks to Muse sibling Ads of the World for scaring up this fine selection. e.l.f. ‘The e.l.f.ing Magical Sisters’Agency: Hungry Man Who needs a wand when you’ve got a blush stick? e.l.f. Cosmetics conjures up…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/19094026/elf.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": true,
-   "article": "0fef43ae665b5f6f"
   },
   {
    "id": "https://musebyclios.com/?p=133795",
@@ -1378,45 +1326,6 @@ window.CIRCO = {
    "article": "67e44dc4ea8e9523"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201208",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Tramitan expulsiones de extranjeros detenidos en aniversario del estallido; Suprema da la razón a aseguradoras por rentas vitalicias del tercer retiro, y alcalde de Chillán queda con arraigo nacional por eventual fraude al fisco",
-   "link": "https://www.ciperchile.cl/2026/10/19/radar-19-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-19-10-26",
-   "excerpt": "La entrada Tramitan expulsiones de extranjeros detenidos en aniversario del estallido; Suprema da la razón a aseguradoras por rentas vitalicias del tercer retiro, y alcalde de Chillán queda con arraigo nacional por eventual fraude al fisco se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": true,
-   "article": "2c61fd3f898b49cb"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201210",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Caso Fundamenta: tras confesión de Migueles, fiscalía solicita audiencia para formalizarlo junto a Vivanco y Lagos por cohecho",
-   "link": "https://www.ciperchile.cl/2026/10/19/caso-fundamenta-tras-confesion-de-migueles-fiscalia-solicita-audiencia-para-formalizarlo-junto-a-vivanco-y-lagos-por-cohecho/?utm_source=rss&utm_medium=rss&utm_campaign=caso-fundamenta-tras-confesion-de-migueles-fiscalia-solicita-audiencia-para-formalizarlo-junto-a-vivanco-y-lagos-por-cohecho",
-   "excerpt": "La entrada Caso Fundamenta: tras confesión de Migueles, fiscalía solicita audiencia para formalizarlo junto a Vivanco y Lagos por cohecho se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/vivianco-web.png",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": true,
-   "article": "73cb28ebc30c8805"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201201",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "El teleférico llega, la tarifa no",
-   "link": "https://www.ciperchile.cl/2026/10/19/el-teleferico-llega-la-tarifa-no/?utm_source=rss&utm_medium=rss&utm_campaign=el-teleferico-llega-la-tarifa-no",
-   "excerpt": "La entrada El teleférico llega, la tarifa no se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": true,
-   "article": "0aac9cc6f9e45ec6"
-  },
-  {
    "id": "https://www.theverge.com/?p=1013485",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1469,45 +1378,6 @@ window.CIRCO = {
    "article": "cff57b0a81151ae7"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201184",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "«La tumba de los libres: Las muertes del estallido social»: extracto del libro de Edgar de la Vega y Paula Rivera",
-   "link": "https://www.ciperchile.cl/2026/10/18/la-tumba-de-los-libres-las-muertes-del-estallido-social-extracto-del-libro-de-edgar-de-la-vega-y-paula-rivera/?utm_source=rss&utm_medium=rss&utm_campaign=la-tumba-de-los-libres-las-muertes-del-estallido-social-extracto-del-libro-de-edgar-de-la-vega-y-paula-rivera",
-   "excerpt": "La entrada «La tumba de los libres: Las muertes del estallido social»: extracto del libro de Edgar de la Vega y Paula Rivera se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/estallido-2.jpeg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": true,
-   "article": "8e50e8558e93a484"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201192",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "¿Cómo hacer más atractiva la carrera docente? La pregunta de siempre desde una mirada OCDE",
-   "link": "https://www.ciperchile.cl/2026/10/18/como-hacer-mas-atractiva-la-carrera-docente-la-pregunta-de-siempre-desde-una-mirada-ocde/?utm_source=rss&utm_medium=rss&utm_campaign=como-hacer-mas-atractiva-la-carrera-docente-la-pregunta-de-siempre-desde-una-mirada-ocde",
-   "excerpt": "La entrada ¿Cómo hacer más atractiva la carrera docente? La pregunta de siempre desde una mirada OCDE se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_910024-scaled.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": true,
-   "article": "b59378fc6593831c"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1013025",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Why Apple is finally making its own smart home devices",
-   "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-   "excerpt": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&strip=all&crop=0%2C4.2208293718613%2C100%2C46.727917872554&w=1200",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "61075cc46d578d1d"
-  },
-  {
    "id": "https://theinspiration.com/?p=54739",
    "source": "The Inspiration",
    "category": "Publi",
@@ -1547,19 +1417,6 @@ window.CIRCO = {
    "article": "9e62017c16d2d0c8"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201169",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Los huacos de la familia Allende",
-   "link": "https://www.ciperchile.cl/2026/10/17/los-huacos-de-la-familia-allende/?utm_source=rss&utm_medium=rss&utm_campaign=los-huacos-de-la-familia-allende",
-   "excerpt": "La entrada Los huacos de la familia Allende se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/allende-1-1.jpg",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "f6e6713864b41c68"
-  },
-  {
    "id": "yt:video:jEOUUAPC1sc",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
@@ -1570,32 +1427,6 @@ window.CIRCO = {
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
-   "article": ""
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201231",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Podcast | Vivanco delatada por su expareja",
-   "link": "https://www.ciperchile.cl/2026/10/16/podcast-vivanco-delatada-por-su-expareja/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-vivanco-delatada-por-su-expareja",
-   "excerpt": "﻿ La entrada Podcast | Vivanco delatada por su expareja se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": ""
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201206",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Vivanco delatada por su expareja",
-   "link": "https://www.ciperchile.cl/2026/10/16/vivanco-delatada-por-su-expareja/?utm_source=rss&utm_medium=rss&utm_campaign=vivanco-delatada-por-su-expareja",
-   "excerpt": "﻿ La entrada Vivanco delatada por su expareja se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-19",
-   "og_checked": true,
    "article": ""
   },
   {
@@ -1636,19 +1467,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "d896a6804b9a7729"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1012911",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple’s HomeView has an app problem",
-   "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
-   "excerpt": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "4c76edfc5f3e85a9"
   },
   {
    "id": "https://www.theverge.com/?p=1012918",
@@ -1714,32 +1532,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "a7bc8885e5b6f210"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201158",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Estudio de Horizonte Ciudadano: proyecto de presupuesto del gobierno propone recortar $325 mil millones en 48 programas sociales",
-   "link": "https://www.ciperchile.cl/2026/10/16/estudio-de-horizonte-ciudadano-proyecto-de-presupuesto-del-gobierno-propone-recortar-325-mil-millones-en-48-programas-sociales/?utm_source=rss&utm_medium=rss&utm_campaign=estudio-de-horizonte-ciudadano-proyecto-de-presupuesto-del-gobierno-propone-recortar-325-mil-millones-en-48-programas-sociales",
-   "excerpt": "La entrada Estudio de Horizonte Ciudadano: proyecto de presupuesto del gobierno propone recortar $325 mil millones en 48 programas sociales se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/studio_v1mweb.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "7cd288c7ec931f29"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201144",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "El Fondo D también cayó y otros problemas que las AFP no te cuentan",
-   "link": "https://www.ciperchile.cl/2026/10/16/el-fondo-d-tambien-cayo-y-otros-problemas-que-las-afp-no-te-cuentan/?utm_source=rss&utm_medium=rss&utm_campaign=el-fondo-d-tambien-cayo-y-otros-problemas-que-las-afp-no-te-cuentan",
-   "excerpt": "La entrada El Fondo D también cayó y otros problemas que las AFP no te cuentan se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1408836-1.jpg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "90432791285bf340"
   },
   {
    "id": "https://www.theverge.com/?p=1012510",
@@ -1857,6 +1649,19 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "03be10db1304932a"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1011133",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Ledger’s new hardware wallet is an Android phone without the phone",
+   "link": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+   "excerpt": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of some of its hardware across…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-14",
+   "first_seen": "2026-10-21",
+   "og_checked": true,
+   "article": "9762c89a18ef0833"
   },
   {
    "id": "https://musebyclios.com/?p=133687",
