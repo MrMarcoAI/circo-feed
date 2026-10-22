@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-22T11:53-03:00",
+ "updated": "2026-10-22T14:40-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,32 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1016585",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+   "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+   "excerpt": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "a3dcdd5d50617b79"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1016640",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
+   "link": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
+   "excerpt": "You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I won’t bury the catch I teased in the headline; These cases have a 90-day warranty via Woot, and aren’t eligible for AppleCare.…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25446222/247111_iPad_Pro_2024_AKrales_0615.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "40544ae524f7b294"
+  },
+  {
    "id": "https://www.theverge.com/?p=1016526",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -76,6 +102,45 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": true,
    "article": "8efa287ce98d1256"
+  },
+  {
+   "id": "https://www.applesfera.com/ios/primer-rastro-ios-28-esta-codigo-iphone",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "El primer rastro de iOS 28 ya está en el código del iPhone",
+   "link": "https://www.applesfera.com/ios/primer-rastro-ios-28-esta-codigo-iphone",
+   "excerpt": "iOS 27 apenas está empezando a caminar. De hecho, su primera gran actualización, iOS 27.2 , llegará el lunes 26 de octubre. Y precisamente en esa versión ya se ha encontrado el primer código de iOS 28 . Sí, iOS 28, que se presentará en el verano de 2027. No suele ser hasta…",
+   "image": "https://i.blogs.es/02df5d/ios-28/1024_2000.jpeg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "33910cddb7063e2a"
+  },
+  {
+   "id": "https://www.applesfera.com/seguridad/razon-apple-desconfia-fbi-su-propia-app-destapo-mayores-tramas-ciberseguridad-historia",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Con razón Apple desconfía del FBI: su propia app destapó una de las mayores tramas de ciberseguridad de la historia",
+   "link": "https://www.applesfera.com/seguridad/razon-apple-desconfia-fbi-su-propia-app-destapo-mayores-tramas-ciberseguridad-historia",
+   "excerpt": "Tener un teléfono que sólo sirva para enviar mensajes cifrados y cuyos servidores estén alojados en países sin restricciones a la comunicación no es sólo el deseo de los más preocupados por la privacidad, sino que es el sueño húmedo de las organizaciones criminales de ventas de…",
+   "image": "https://i.blogs.es/6c8786/encrochat/1024_2000.jpeg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "769cb85d59185b08"
+  },
+  {
+   "id": "https://www.applesfera.com/iphone/han-doblado-iphone-duo-32-000-veces-como-ha-quedado-bisagra",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Ya han doblado el iPhone Duo 32.000 veces. ¿Cómo ha quedado la bisagra?",
+   "link": "https://www.applesfera.com/iphone/han-doblado-iphone-duo-32-000-veces-como-ha-quedado-bisagra",
+   "excerpt": "La bisagra es la gran duda de cualquier plegable. Es la pieza que más se mueve y la que más miedo da, porque de ella depende que la pantalla de dentro siga viva con el paso del tiempo. Apple ha tardado siete años en tener un iPhone plegable desde que Samsung lanzó el primero en…",
+   "image": "https://i.blogs.es/3baeb5/iphone-duo/1024_2000.jpeg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "346a142c310c70ac"
   },
   {
    "id": "https://www.applesfera.com/curiosidades/apple-tiene-sistema-para-detectar-caja-iphone-falsa-necesitaras-linterna-especial",
@@ -156,6 +221,19 @@ window.CIRCO = {
    "article": "16b0d9801cb8646a"
   },
   {
+   "id": "https://www.theverge.com/?p=1016751",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
+   "link": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
+   "excerpt": "After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "a803425cd72e4029"
+  },
+  {
    "id": "https://www.theverge.com/?p=1016544",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -174,25 +252,12 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Googlebooks just aren’t ready",
    "link": "https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review",
-   "excerpt": "EEvery Googlebook laptop we've tested so far has great hardware. The problem is the software. While Googlebook OS has exciting ideas for how a laptop and phone can work together, right now it's mostly a frustrating experience filled with annoying bugs and lackluster app support.…",
+   "excerpt": "Every Googlebook laptop we've tested so far has great hardware. The problem is the software. While Googlebook OS has exciting ideas for how a laptop and phone can work together, right now it's mostly a frustrating experience filled with annoying bugs and lackluster app support.…",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebooks_Lenovo_HP_Acer_laptop_review_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-22",
    "first_seen": "2026-10-22",
    "og_checked": true,
    "article": "2c62a472be6abbf3"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1015408",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-   "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-   "excerpt": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "b3a27462e4400c19"
   },
   {
    "id": "https://www.theverge.com/?p=1016399",
@@ -260,10 +325,23 @@ window.CIRCO = {
    "article": "3447dc8d52417960"
   },
   {
+   "id": "https://musebyclios.com/?p=133923",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Scary Good! Yahoo’s Horror Hijinks Lead the Week’s Best Work",
+   "link": "https://musebyclios.com/advertising/scary-good-yahoos-horror-hijinks-ranks-as-the-weeks-best-work/?utm_source=rss&utm_medium=rss&utm_campaign=scary-good-yahoos-horror-hijinks-ranks-as-the-weeks-best-work",
+   "excerpt": "Here’s our roundup of the 5 best campaigns, chosen by the Clios’ staff. Bestie: Yahoo Scares Up Email Horror Stories for Halloween Conscious Minds spoofs scary fare like Psycho and Sinners with “TS;DR: Too Scary; Didn’t Read.” There’s plenty of silly screaming and vexed vampires…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/22113429/AOTW2.jpg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "f1c005413b1aba3d"
+  },
+  {
    "id": "https://musebyclios.com/?p=133920",
    "source": "Muse by Clio",
    "category": "Publi",
-   "title": "Banana Republic’s Madcap Microseries Presents a Travel Agency Living in the Past",
+   "title": "Banana Republic’s Madcap Microseries Presents a Modern Travel Agency Living in the Analog Past",
    "link": "https://musebyclios.com/advertising/banana-republics-madcap-microseries-presents-a-travel-agency-that-still-loves-faxes/?utm_source=rss&utm_medium=rss&utm_campaign=banana-republics-madcap-microseries-presents-a-travel-agency-that-still-loves-faxes",
    "excerpt": "Gap Inc.’s Banana Republic takes a trip back in time with a micro-mockumentary series chronicling a travel agency where staffers rely on analog tech to get the job done. Is it faxtastic? Let’s just say an amusing improv vibe drives the first two installments, stoking nostalgia…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/21134610/BR1-b.jpg",
@@ -416,17 +494,56 @@ window.CIRCO = {
    "article": "19774f251674e0c5"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/22/la-salud-publica-se-defiende-residentes-y-concurrentes-de-la-ciudad-convocan-a-una-marcha-de-las-velas",
+   "id": "https://www.filo.news/noticia/2026/10/22/u2-furor-por-la-vuelta-de-la-banda-irlandesa",
    "source": "Filo.News",
    "category": "Notis",
-   "title": "La salud pública se defiende: residentes y concurrentes de la Ciudad convocan a una Marcha de las Velas",
-   "link": "https://www.filo.news/noticia/2026/10/22/la-salud-publica-se-defiende-residentes-y-concurrentes-de-la-ciudad-convocan-a-una-marcha-de-las-velas",
-   "excerpt": "La movilización está convocada para esta tarde en Parque Las Heras. Piden una recomposición salarial del 30% y mejoras en las condiciones de trabajo.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/noname7424_re.png",
+   "title": "U2: Furor por la vuelta de la banda irlandesa",
+   "link": "https://www.filo.news/noticia/2026/10/22/u2-furor-por-la-vuelta-de-la-banda-irlandesa",
+   "excerpt": "Más de un millón de personas hicieron fila virtual en la instancia de venta general y las entradas para los dos shows en el Estadio River Plate se agotaron por completo en tiempo récord.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/u26736_re.jpg",
    "day": "2026-10-22",
    "first_seen": "2026-10-22",
    "og_checked": false,
-   "article": "b92c9b7119f1a4c8"
+   "article": "e9b62a8a1413f141"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/asi-fue-el-paso-de-milei-por-espana-gobierno-adjudico-la-privatizacion-de-aysa-estudiantes-va-por-la-final-de-la-libertadores-y-mas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Así fue el paso de Milei por España; Gobierno adjudicó la privatización de AySA; Estudiantes va por la final de la Libertadores; y más...",
+   "link": "https://www.filo.news/noticia/2026/10/22/asi-fue-el-paso-de-milei-por-espana-gobierno-adjudico-la-privatizacion-de-aysa-estudiantes-va-por-la-final-de-la-libertadores-y-mas",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/noname6657_re.png",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "1cdecce51dbfaba0"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/cruces-con-pedro-sanchez-e-insultos-a-la-prensa-asi-fue-el-paso-de-milei-por-espana",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Cruces con Pedro Sánchez e insultos a la prensa: así fue el paso de Milei por España",
+   "link": "https://www.filo.news/noticia/2026/10/22/cruces-con-pedro-sanchez-e-insultos-a-la-prensa-asi-fue-el-paso-de-milei-por-espana",
+   "excerpt": "El presidente viajó por séptima vez al país ibérico. Nunca se reunió con autoridades nacionales ni visitó la Moncloa.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/noname5562_re.png",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "5c1ac075cb571b1c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/la-carne-es-cara-en-argentina-cuanto-cuesta-el-kilo-frente-a-brasil-uruguay-y-estados-unidos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "¿La carne es cara en Argentina? Cuánto cuesta el kilo frente a Brasil, Uruguay y Estados Unidos",
+   "link": "https://www.filo.news/noticia/2026/10/22/la-carne-es-cara-en-argentina-cuanto-cuesta-el-kilo-frente-a-brasil-uruguay-y-estados-unidos",
+   "excerpt": "Argentina registra un precio promedio de u$s13,13 por kilo de carne vacuna, por debajo de seis mercados, pero por encima de Brasil y Paraguay. Las diferencias cambian según el corte y también se reflejan en el precio del pollo.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/carne1)3008_re.jpg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "d791188e5eae8e56"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/22/el-gobierno-adjudico-la-privatizacion-de-aysa-por-uusds340-millones-y-fijo-una-fecha-limite-para-la-firma",
@@ -531,6 +648,19 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": true,
    "article": "b3a05664ea16c0d0"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1015316",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+   "excerpt": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "916ee47a1bc9439c"
   },
   {
    "id": "https://musebyclios.com/?p=133914",
@@ -1121,7 +1251,7 @@ window.CIRCO = {
    "id": "https://www.filo.news/noticia/2026/10/21/con-marcos-rojo-habilitado-estudiantes-va-por-el-pase-a-la-final-de-la-copa-libertadores-ante-flamengo-horario-y-tv-del-partido",
    "source": "Filo.News",
    "category": "Notis",
-   "title": "Con Marcos Rojo habilitado, Estudiantes va por el pase a la final de la Copa Libertadores ante Flamengo: horario y TV del partido",
+   "title": "Con Marcos Rojo habilitado, Estudiantes sueña con el pase a la final de la Copa Libertadores ante Flamengo: horario y TV del partido",
    "link": "https://www.filo.news/noticia/2026/10/21/con-marcos-rojo-habilitado-estudiantes-va-por-el-pase-a-la-final-de-la-copa-libertadores-ante-flamengo-horario-y-tv-del-partido",
    "excerpt": "El Tribunal Arbitral del Deporte dio luz verde a la apelación del Pincha y el defensor podrá jugar ante el conjunto brasileño.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/21/marcosrojo2437_re.jpg",
@@ -1155,45 +1285,6 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": false,
    "article": "904ec304365a83fc"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/una-cancion-de-lali-y-zurdo-y-orgulloso-asi-reacciono-pedro-sanchez-a-la-visita-de-milei-a-espana",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Una canción de Lali y \"zurdo y orgulloso\": así reaccionó Pedro Sánchez a la visita de Milei a España",
-   "link": "https://www.filo.news/noticia/2026/10/21/una-cancion-de-lali-y-zurdo-y-orgulloso-asi-reacciono-pedro-sanchez-a-la-visita-de-milei-a-espana",
-   "excerpt": "El presidente argentino viajó al viejo continente y volvió a descalificar a su par español. El líder del Partido Socialista respondió con un spot y una irónica publicación en redes.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/collage6715_re.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "8cd8224aca2b3c92"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/19/espartanos-el-deporte-transforma-vidas-dentro-de-la-carcel",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Espartanos: el deporte transforma vidas dentro de la cárcel",
-   "link": "https://www.filo.news/noticia/2026/10/19/espartanos-el-deporte-transforma-vidas-dentro-de-la-carcel",
-   "excerpt": "Después de una infancia difícil que la llevó a estar diez años detenida, Tatiana Ruiz Díaz cuenta en primera persona cómo el rugby la ayudó a reencausar su vida cuando recuperó la libertad.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/19/espartanosportada8874_re.jpg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "1a6a006abcb686eb"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/rocio-portillo-un-recorrido-internacional-en-expansion-y-una-propuesta-cada-vez-mas-autoral",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Rocío Portillo: un recorrido internacional en expansión y una propuesta cada vez más autoral",
-   "link": "https://www.filo.news/noticia/2026/10/21/rocio-portillo-un-recorrido-internacional-en-expansion-y-una-propuesta-cada-vez-mas-autoral",
-   "excerpt": "La DJ y productora argentina atraviesa una etapa de consolidación dentro de la escena electrónica, con una propuesta que combina producción propia, sets híbridos y nuevos formatos audiovisuales.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/disenosin_título5059_re.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "fb0f9e260116ae34"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201284",
@@ -1324,45 +1415,6 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": false,
    "article": "467661ea35588022"
-  },
-  {
-   "id": "https://www.applesfera.com/curiosidades/steve-jobs-fue-invitado-para-inspirar-a-estudiantes-acabo-criticando-profesion-que-muchos-querian-ejercer",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Steve Jobs fue invitado para inspirar a estudiantes. Acabó criticando la profesión que muchos querían ejercer",
-   "link": "https://www.applesfera.com/curiosidades/steve-jobs-fue-invitado-para-inspirar-a-estudiantes-acabo-criticando-profesion-que-muchos-querian-ejercer",
-   "excerpt": "Steve Jobs, más allá de inventar el iPhone, era una persona con declaraciones bastante polémicas. Por ejemplo, le dijo al CEO de Starbucks que despidiera a toda la junta directiva . La anécdota que te vamos a contar hoy va por la misma línea. El cofundador de Apple tenía…",
-   "image": "https://i.blogs.es/6b98d9/steve-jobs-mit/1024_2000.jpeg",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": false,
-   "article": "905d8eb8b2251ef3"
-  },
-  {
-   "id": "https://www.applesfera.com/rumores/adios-al-macbook-ultra-invitacion-apple-apunta-a-otro-nombre",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Adiós al MacBook Ultra: la invitación de Apple apunta a otro nombre",
-   "link": "https://www.applesfera.com/rumores/adios-al-macbook-ultra-invitacion-apple-apunta-a-otro-nombre",
-   "excerpt": "Desde que llegó el Apple Watch Ultra o los chips Ultra para el Mac, siempre ha circulado el rumor de que Apple querría seguir potenciando este apellido . Ultra significa lo máximo, lo mejor que se puede ofrecer dentro de una gama. Ya sea en el Apple Watch o en los procesadores.…",
-   "image": "https://i.blogs.es/eeaf84/macbook-pro-oled/1024_2000.jpeg",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": false,
-   "article": "80d849683a06bbf0"
-  },
-  {
-   "id": "https://www.applesfera.com/curiosidades/cuando-disenamos-calculadora-estabamos-disenando-primer-ipod-herencia-visual-susan-kare-apple",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "\"Cuando diseñamos la calculadora, estábamos diseñando el primer iPod\". La herencia visual de Susan Kare en Apple",
-   "link": "https://www.applesfera.com/curiosidades/cuando-disenamos-calculadora-estabamos-disenando-primer-ipod-herencia-visual-susan-kare-apple",
-   "excerpt": "Buena parte de lo que es hoy el diseño de Apple se debe a la herencia de Susan Kare , mítica diseñadora de la compañía a inicios de los 80. Pese a estar apenas tres años, dejó una huella que décadas después sigue presente y que en cierto modo dio origen a que uno de los…",
-   "image": "https://i.blogs.es/25c641/ipod-susan-kare/1024_2000.jpeg",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": false,
-   "article": "f095b6ce2146a98d"
   },
   {
    "id": "https://www.theverge.com/?p=1014999",
@@ -1781,32 +1833,6 @@ window.CIRCO = {
    "article": ""
   },
   {
-   "id": "https://www.theverge.com/?p=1012820",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple’s HomeView is just the latest threat to online recipe writers",
-   "link": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
-   "excerpt": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&strip=all&crop=0%2C17.277486910995%2C100%2C65.44502617801&w=1200",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "5f888af836db8068"
-  },
-  {
-   "id": "https://www.theverge.com/?post_type=vm_stream&p=1010131",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "All the news about the iPhone Duo",
-   "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-   "excerpt": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button.…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "178927c7636acb59"
-  },
-  {
    "id": "https://www.theverge.com/?p=1012918",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1870,19 +1896,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "a7bc8885e5b6f210"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1012510",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "ChatGPT can peek at your Chrome tabs now",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-   "excerpt": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "d6c98090942a268e"
   },
   {
    "id": "https://musebyclios.com/?p=133743",
