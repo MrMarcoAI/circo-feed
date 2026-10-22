@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-21T19:01-03:00",
+ "updated": "2026-10-22T02:30-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -64,6 +64,45 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1015958",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Data centers could erase decades of air quality gains",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+   "excerpt": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "b3a05664ea16c0d0"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/21/frozen-el-musical-llega-por-primera-vez-a-buenos-aires-y-busca-a-su-elsa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "\"Frozen, el musical\" llega por primera vez a Buenos Aires y busca a su Elsa",
+   "link": "https://www.filo.news/noticia/2026/10/21/frozen-el-musical-llega-por-primera-vez-a-buenos-aires-y-busca-a-su-elsa",
+   "excerpt": "De los productores de \"La Sirenita\", \"Matilda, el musical\", \"Charlie y la fábrica de chocolate\" y \"School of rock\", llega el espectáculo de Disney y anuncia que comienzan sus audiciones.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/frozenportada9979_re.jpg",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "ed9bb988cd53605c"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201319",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal",
+   "link": "https://www.ciperchile.cl/2026/10/21/radar-21-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-21-10-26",
+   "excerpt": "La entrada SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-10-21",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "c535e31a10af8c2b"
+  },
   {
    "id": "https://www.theverge.com/?p=1015533",
    "source": "The Verge · Apple",
@@ -317,8 +356,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -780,6 +819,19 @@ window.CIRCO = {
    "article": "4ceaab459b5e7a44"
   },
   {
+   "id": "https://www.theverge.com/?p=1014261",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
+   "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+   "excerpt": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on the vehicle's infotainment hardware -…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-x-Audi-Image-2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+   "day": "2026-10-20",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "9b6b227aa523de81"
+  },
+  {
    "id": "https://www.theverge.com/?p=1014709",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -1040,19 +1092,6 @@ window.CIRCO = {
    "article": "b5691971a4456542"
   },
   {
-   "id": "https://www.theverge.com/?p=1014246",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-   "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-   "excerpt": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "f3d2a41ac15dbe2b"
-  },
-  {
    "id": "https://musebyclios.com/?p=133860",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1222,19 +1261,6 @@ window.CIRCO = {
    "article": "467c8b8a20fc4f75"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/20/se-normalizaron-todas-las-lineas-de-subte-tras-el-paro-y-las-detenciones-de-delegados",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Se normalizaron todas las líneas de Subte tras el paro y las detenciones de delegados",
-   "link": "https://www.filo.news/noticia/2026/10/20/se-normalizaron-todas-las-lineas-de-subte-tras-el-paro-y-las-detenciones-de-delegados",
-   "excerpt": "Desde las 15:30, Emova confirmó la reanudación del servicio en las líneas A, B, C, D, E y H, además del Premetro.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/20/202610261020005-scaled6590_re.jpg",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": false,
-   "article": "8b2141d5ef080cf1"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201224",
    "source": "CIPER",
    "category": "Notis",
@@ -1305,8 +1331,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -1625,26 +1651,13 @@ window.CIRCO = {
    "article": ""
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201158",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Estudio de Horizonte Ciudadano: proyecto de presupuesto del gobierno propone recortar $325 mil millones en 48 programas sociales",
-   "link": "https://www.ciperchile.cl/2026/10/16/estudio-de-horizonte-ciudadano-proyecto-de-presupuesto-del-gobierno-propone-recortar-325-mil-millones-en-48-programas-sociales/?utm_source=rss&utm_medium=rss&utm_campaign=estudio-de-horizonte-ciudadano-proyecto-de-presupuesto-del-gobierno-propone-recortar-325-mil-millones-en-48-programas-sociales",
-   "excerpt": "La entrada Estudio de Horizonte Ciudadano: proyecto de presupuesto del gobierno propone recortar $325 mil millones en 48 programas sociales se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/studio_v1mweb.png",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "7cd288c7ec931f29"
-  },
-  {
    "id": "yt:video:jEOUUAPC1sc",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
    "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -1794,19 +1807,6 @@ window.CIRCO = {
    "article": "d80ca9c7e03334a9"
   },
   {
-   "id": "https://www.theverge.com/?p=1011797",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-   "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-   "excerpt": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "ae1523953536d273"
-  },
-  {
    "id": "https://musebyclios.com/?p=133743",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1870,19 +1870,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "03be10db1304932a"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1011133",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Ledger’s new hardware wallet is an Android phone without the phone",
-   "link": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
-   "excerpt": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of some of its hardware across…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-14",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "9762c89a18ef0833"
   },
   {
    "id": "https://musebyclios.com/?p=133687",
@@ -2072,8 +2059,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "8 GitHub Repos To Go Viral and Make Money",
    "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
-   "excerpt": "In this solo episode, I walk through eight GitHub repos and AI skills that I test at night and on weekends. The list covers launch videos, social research, local voice and dubbing, editable decks, agent teams, lead-magnet tools, idea stress-testing, and design guidance. For each…",
-   "image": "https://i3.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
    "day": "2026-10-09",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2184,6 +2171,32 @@ window.CIRCO = {
    "article": "03441e48b0fa8ca8"
   },
   {
+   "id": "yt:video:bQPU6UJ4iCw",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "13 Businesses for the Age of AI",
+   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
+   "day": "2026-10-08",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "yt:video:1a5HxU52vCQ",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Masterclass: How FDEs make $1M/yr deploying AI agents",
+   "link": "https://www.youtube.com/watch?v=1a5HxU52vCQ",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/1a5HxU52vCQ/hqdefault.jpg",
+   "day": "2026-10-08",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "https://theinspiration.com/?p=54708",
    "source": "The Inspiration",
    "category": "Publi",
@@ -2247,123 +2260,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "b326ceb05221d6b5"
-  },
-  {
-   "id": "https://bencorde.com/blog/claude-haiku-5-5-vs-gpt-6-luna/",
-   "source": "Benjamín Cordero",
-   "category": "Tech + la IA",
-   "title": "Claude Haiku 5.5: lanzamiento y prueba frente a GPT-6 Luna",
-   "link": "https://bencorde.com/blog/claude-haiku-5-5-vs-gpt-6-luna/",
-   "excerpt": "Probé Claude Haiku 5.5 contra GPT-6 Luna en 20 partidas de buscaminas. Resultados, precios, contexto largo y lo que cambia para tus agentes.",
-   "image": "https://bencorde.com/blog/claude-haiku-5-5-vs-gpt-6-luna/imagenes/portada.jpg",
-   "day": "2026-10-07",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "5a5f95dd228ed8a8"
-  },
-  {
-   "id": "https://theinspiration.com/?p=54705",
-   "source": "The Inspiration",
-   "category": "Publi",
-   "title": "Visit Sweden — The Introvert Travel Agency",
-   "link": "https://theinspiration.com/2026/10/visit-sweden-the-introvert-travel-agency/",
-   "excerpt": "Visit Sweden has opened The Introvert Travel Agency – a travel agency for people who would rather skip the small talk. The idea builds on research showing that 67% of travelers prefer destinations where social interaction is optional, and that 53% would pay extra for peace,…",
-   "image": "https://theinspiration.com/wp-content/uploads/visit-sweden-introvert-travel-agency-1-750x536.webp",
-   "day": "2026-10-07",
-   "first_seen": "2026-10-17",
-   "og_checked": false,
-   "article": "52a800a9c4337e47"
-  },
-  {
-   "id": "https://theinspiration.com/?p=54680",
-   "source": "The Inspiration",
-   "category": "Publi",
-   "title": "Apa By Valeria Duque",
-   "link": "https://theinspiration.com/2026/10/apa-by-valeria-duque/",
-   "excerpt": "",
-   "image": "https://theinspiration.com/wp-content/uploads/valeria-duque-apa-1-1-750x536.webp",
-   "day": "2026-10-07",
-   "first_seen": "2026-10-17",
-   "og_checked": false,
-   "article": "32afefe8694e101c"
-  },
-  {
-   "id": "https://theinspiration.com/?p=54675",
-   "source": "The Inspiration",
-   "category": "Publi",
-   "title": "Hulu + Disney+ — hu Dis?",
-   "link": "https://theinspiration.com/2026/10/hulu-disney-hu-dis/",
-   "excerpt": "To tease Hulu landing on Disney+, a new outdoor campaign merges the two brands into one deliberately unfinished question: “hu Dis?” – “hu” set in Hulu’s signature green, “Dis?” in Disney’s classic script. Instead of titles, release dates or full logos, the billboards pair the…",
-   "image": "https://theinspiration.com/wp-content/uploads/hulu-disney-plus-hu-dis-1-1-750x536.webp",
-   "day": "2026-10-07",
-   "first_seen": "2026-10-17",
-   "og_checked": false,
-   "article": "201f71c79d352759"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133394",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "For Fanatics’ Matthew Low, Live Events Provide the Ultimate Inspo",
-   "link": "https://musebyclios.com/2-minutes-with/fanatics-matthew-low-live-events-provide-the-ultimate-inspo/?utm_source=rss&utm_medium=rss&utm_campaign=fanatics-matthew-low-live-events-provide-the-ultimate-inspo",
-   "excerpt": "Matthew Low serves as a creative director at Fanatics. He recently led efforts for Fanatics Fest, developing the show’s look and feel and shaping its content strategy. He helped create more than 400 pieces of content that extended the event far beyond the show floor. “We…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/06200542/Matthew-Low.jpg",
-   "day": "2026-10-07",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "734ad5ab13e8d612"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133415",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "THC Beverage Herb Light Wants Your ‘Cannabis Horror Stories’ for Halloween",
-   "link": "https://musebyclios.com/cannabis/thc-beverage-herb-light-wants-your-cannabis-horror-stories-for-halloween/?utm_source=rss&utm_medium=rss&utm_campaign=thc-beverage-herb-light-wants-your-cannabis-horror-stories-for-halloween",
-   "excerpt": "Here’s a real chiller for Halloween. Low-THC, non-alcoholic beverage brand Herb Light just launched a contest that asks users to recount their “cannabis horror stories” for a chance to spend All Hallows’ weekend at a “ScareBnB” in Illinois. That refers to a pair of haunted…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/07110015/frank.jpg",
-   "day": "2026-10-07",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "13ebadfe52163372"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133382",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "The Story Behind Agency Matchmaking Docuseries ‘The Golden Era of the Unusual Suspects’",
-   "link": "https://musebyclios.com/culture-creators/how-agency-matchmaking-docuseries-the-golden-era-of-the-unusual-suspects-sprang-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=how-agency-matchmaking-docuseries-the-golden-era-of-the-unusual-suspects-sprang-to-life",
-   "excerpt": "We’ve seen shows about matchmakers before but never one quite like The Golden Era of the Unusual Suspects. The docuseries—created by its stars, Rachel Segall and Simone Mandel—finds the pair helping marketers find the right agency partners. Co-founders of the search consultancy…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/06133726/03_Cannes_960x540.jpg",
-   "day": "2026-10-07",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "7720de94b4009573"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133396",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Friskies Builds an All-Star Roster of College Cat Mascots",
-   "link": "https://musebyclios.com/sports/friskies-drafts-6-cat-mascots-from-college-football-in-pet-shelter-play/?utm_source=rss&utm_medium=rss&utm_campaign=friskies-drafts-6-cat-mascots-from-college-football-in-pet-shelter-play",
-   "excerpt": "Friskies has enlisted six College Football mascots via NIL deals, part of an effort to transform scores on the field into meals for shelter cats. Essentially, the first score in every game will trigger a 10,000 meal donation to Greater Good Charities to help hungry cats both…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/07082917/FRI2.jpg",
-   "day": "2026-10-07",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "91a2c96373f515eb"
-  },
-  {
-   "id": "https://revistalibero.com/blogs/contenidos/libero-58-por-que-los-espanoles-jugamos-tan-bien-al-futbol",
-   "source": "Revista Líbero",
-   "category": "La pelotita",
-   "title": "Líbero 58. ¿Por qué los españoles jugamos tan bien al fútbol?",
-   "link": "https://revistalibero.com/blogs/contenidos/libero-58-por-que-los-espanoles-jugamos-tan-bien-al-futbol",
-   "excerpt": "La paradoja nacional del fútbol nacional • 'La leche, el voto y la bola' por Antoni Damiel • Entrevista a Pedro Rodríguez 'pedrito' • Relato de Marta San Miguel • Villoro & Caparrós • El 11+6 de Ángel Stanich • Recuerdos del balón de Corona • Leyla Hamed en Ceuta Más",
-   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-09-23_a_las_12.36.01_d3e67894-5742-4d36-8afd-ca2c09cfe78f_1024x1024.png?v=1790875525",
-   "day": "2026-10-07",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "0858bd61d77fa35e"
   }
  ]
 };
