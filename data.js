@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-22T14:40-03:00",
+ "updated": "2026-10-22T18:57-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,9 +65,22 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
-   "id": "https://www.theverge.com/?p=1016585",
+   "id": "https://www.theverge.com/?p=1016524",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
+   "title": "Delta can turn the iPhone Duo into your favorite folding handheld",
+   "link": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
+   "excerpt": "The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which include optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins, custom Pokémon DLC experiences, and a new UI that was…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Delta-2.0-lineup-update.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "cdbc273b17319363"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1016585",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
    "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
    "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
    "excerpt": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5…",
@@ -221,6 +234,19 @@ window.CIRCO = {
    "article": "16b0d9801cb8646a"
   },
   {
+   "id": "https://www.theverge.com/?p=1016977",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+   "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+   "excerpt": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24642397/google_pixel_fold_hands_on_5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "e629f8ed97f700c9"
+  },
+  {
    "id": "https://www.theverge.com/?p=1016751",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -260,43 +286,121 @@ window.CIRCO = {
    "article": "2c62a472be6abbf3"
   },
   {
-   "id": "https://www.theverge.com/?p=1016399",
+   "id": "https://www.theverge.com/?p=1017151",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
-   "title": "1Password lets AI agents use your passwords without seeing them",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-   "excerpt": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK442_Password_Manager_A_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "excerpt": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
    "day": "2026-10-22",
    "first_seen": "2026-10-22",
    "og_checked": true,
-   "article": "11b2de96858011df"
+   "article": "5742238c656ea75f"
   },
   {
-   "id": "https://www.theverge.com/?p=1016443",
+   "id": "https://www.theverge.com/?p=1017082",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
-   "title": "Claude did not invent scorpion antivenom",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-   "excerpt": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GettyImages-2202529068_415155.jpg?quality=90&strip=all&crop=0%2C10.476337131711%2C100%2C79.047325736577&w=1200",
+   "title": "Meta’s AI could still scrape news sites, legal experts say",
+   "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+   "excerpt": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-22",
    "first_seen": "2026-10-22",
    "og_checked": true,
-   "article": "aa27990bd5e74685"
+   "article": "1ac89674c9fb5b13"
   },
   {
-   "id": "https://www.theverge.com/?p=1015824",
+   "id": "https://www.theverge.com/?p=1017066",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
-   "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-   "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-   "excerpt": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
+   "title": "Meta turns Muse sharing back on",
+   "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+   "excerpt": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
    "day": "2026-10-22",
    "first_seen": "2026-10-22",
    "og_checked": true,
-   "article": "14434873aac15234"
+   "article": "7e16fd732643694d"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1016879",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+   "excerpt": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "3233b67e067a2422"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017012",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Discord now formats Markdown previews right",
+   "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+   "excerpt": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "1d4350a753c34d2a"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1016905",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+   "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+   "excerpt": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "72b443cefd2d9c4b"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1016690",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+   "excerpt": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "b4eb703edaef9fab"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1016862",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Someone hacked the Switch 2 by using an old game and AI",
+   "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+   "excerpt": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "309c275269f91e21"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1016647",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+   "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+   "excerpt": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&strip=all&crop=0%2C3.4699843686197%2C100%2C93.060031262761&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "00c6b18cabd793a3"
   },
   {
    "id": "https://theinspiration.com/?p=54752",
@@ -323,6 +427,19 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": false,
    "article": "3447dc8d52417960"
+  },
+  {
+   "id": "https://musebyclios.com/?p=133921",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "How Power Digital Marketing Transformed LoveShackFancy  With Generative AI Tools",
+   "link": "https://musebyclios.com/partner-content/how-power-digital-marketing-transformed-loveshackfancy-with-generative-ai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=how-power-digital-marketing-transformed-loveshackfancy-with-generative-ai-tools",
+   "excerpt": "LoveShackFancy is known to be a romantic, whimsical and lifestyle brand famous for its dreamy, vintage-inspired femininity (think endless florals, tulle, lace, and lots of pink) that now spans apparel, beauty, home and high-profile collaborations. Founded by Rebecca Hessel…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/22140959/LSF1-Main.jpg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "4a850f1aa904acff"
   },
   {
    "id": "https://musebyclios.com/?p=133923",
@@ -494,6 +611,97 @@ window.CIRCO = {
    "article": "19774f251674e0c5"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/22/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-estados-unidos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Corre Franco Colapinto en la Fórmula 1: días y horarios del GP de Estados Unidos",
+   "link": "https://www.filo.news/noticia/2026/10/22/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-estados-unidos",
+   "excerpt": "Tras dos semanas de descanso, el piloto argentino volverá a la acción este fin de semana en el Circuito de las Américas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/20261009t102058z_1033871389_up1ema90sqx9p_rtrmadp_3_motor-f1-singapore8969_re.jpg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "4bfbe44e1d0994e9"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/la-ciudad-anuncio-cortes-de-transito-por-la-llegada-del-papa-leon-xiv",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Ciudad anunció cortes de tránsito por la llegada del papa León XIV",
+   "link": "https://www.filo.news/noticia/2026/10/22/la-ciudad-anuncio-cortes-de-transito-por-la-llegada-del-papa-leon-xiv",
+   "excerpt": "Los trabajos previos a la llegada del sumo pontífice comenzarán este sábado 24 de octubre, donde habrá un corte total en Av. del Libertador, entre Colombia y Sarmiento, por el armado de estructuras.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/2025082508105089340_re.jpg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "41ae807bd8ed053b"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/biografia-de-jorge-luis-borges-la-pelicula-de-mariano-llinas-y-laura-citarella-revelo-cuando-se-estrena-y-su-trailer",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "\"Biografía de Jorge Luis Borges\": la película de Mariano Llinás y Laura Citarella reveló cuándo se estrena y su trailer",
+   "link": "https://www.filo.news/noticia/2026/10/22/biografia-de-jorge-luis-borges-la-pelicula-de-mariano-llinas-y-laura-citarella-revelo-cuando-se-estrena-y-su-trailer",
+   "excerpt": "Tras su paso por festivales internacionales de cine como Venecia, Toronto y Nueva York, el film que compila un recorrido de archivo por la vida del célebre autor, anunció su llegada a las salas compartiendo su primer adelanto.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/03borgesxml.01_07_34_23.imagen_fija0481453_re.jpg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "2b18293dac3b9365"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/el-festival-de-folklore-la-portena-revela-su-line-up-quienes-son-los-confirmados",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Festival de Folklore \"La Porteña\" revela su line up ¿Quiénes son los confirmados?",
+   "link": "https://www.filo.news/noticia/2026/10/22/el-festival-de-folklore-la-portena-revela-su-line-up-quienes-son-los-confirmados",
+   "excerpt": "El evento anuncia a los primeros artistas de su segunda edición, que se realizará el sábado 12 de diciembre, desde las 16 horas, en el Hipódromo de Palermo.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/portea2653_re.png",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "60286681b72c4dde"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/agenda-filo-los-espectaculos-que-no-te-podes-perder",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Agenda Filo: los espectáculos que no te podes perder",
+   "link": "https://www.filo.news/noticia/2026/10/22/agenda-filo-los-espectaculos-que-no-te-podes-perder",
+   "excerpt": "Te dejamos las mejores recomendaciones para que elijas cuál de todas se ajusta más a tus gustos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/agenda104046_re.png",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "d17f175497248b68"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/procesaron-a-jose-luis-espert-en-la-causa-por-presunto-lavado-de-dinero",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Procesaron a José Luis Espert en la causa por presunto lavado de dinero",
+   "link": "https://www.filo.news/noticia/2026/10/22/procesaron-a-jose-luis-espert-en-la-causa-por-presunto-lavado-de-dinero",
+   "excerpt": "Además, la Justicia le impuso un embargo de $1.000 millones y una prohibición para salir del país.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/d1ae610993a74af5-926d-fe0acf76fa096978_re.jpeg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "51ea7da00cc48128"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/manu-hattom-celebra-sus-10-anos-de-carrera-con-un-disco-en-vivo-y-un-show",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Manu Hattom celebra sus 10 años de carrera con un disco en vivo y un show",
+   "link": "https://www.filo.news/noticia/2026/10/22/manu-hattom-celebra-sus-10-anos-de-carrera-con-un-disco-en-vivo-y-un-show",
+   "excerpt": "El músico y compositor lanzó un álbum registrado en el Teatro Astros, donde repasó las canciones más representativas de su recorrido solista. El 18 de noviembre se presentará en Buenos Aires junto a Los Nuevos Monstruos, Gero y Nico Martin.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/20220224-cck-sala-argentina-musica-argentina-para-el-mundo-manu-hattom-foto-manuel-pose-varela-01_(1)8899_re.jpg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "835ba3b1b0b2f60b"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/22/u2-furor-por-la-vuelta-de-la-banda-irlandesa",
    "source": "Filo.News",
    "category": "Notis",
@@ -611,6 +819,19 @@ window.CIRCO = {
    "article": "a644fec7042b8c09"
   },
   {
+   "id": "https://www.ciperchile.cl/?p=201334",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos”",
+   "link": "https://www.ciperchile.cl/2026/10/22/exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos/?utm_source=rss&utm_medium=rss&utm_campaign=exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos",
+   "excerpt": "La entrada Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos” se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/Simpertigue_web.png",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "45faea42f747b8d4"
+  },
+  {
    "id": "https://www.ciperchile.cl/?p=201305",
    "source": "CIPER",
    "category": "Notis",
@@ -622,45 +843,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": true,
    "article": "cbf4f94d68f731d7"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1015811",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "AI agents are ready to shop. Some retailers are wary.",
-   "link": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-   "excerpt": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "964c6f231431ea4a"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1015958",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Data centers could erase decades of air quality gains",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-   "excerpt": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "b3a05664ea16c0d0"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1015316",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-   "excerpt": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "916ee47a1bc9439c"
   },
   {
    "id": "https://musebyclios.com/?p=133914",
@@ -716,7 +898,7 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1015281",
-   "source": "The Verge · IA",
+   "source": "The Verge · Google",
    "category": "Tech + la IA",
    "title": "Conversational Gemini navigation comes to Apple CarPlay",
    "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
@@ -895,45 +1077,6 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": false,
    "article": "ce817eca3cf3b4af"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1015799",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Meta to create a new class of shares to fund AI push",
-   "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-   "excerpt": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "f17b4be6a247a923"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1015843",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-   "excerpt": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "d0044142c60a3f07"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1015715",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Walmart is inviting AI agents to shop for you",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-   "excerpt": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "bd4af7cb3c22c7d8"
   },
   {
    "id": "yt:video:nRl-7Yhmbog",
@@ -1194,97 +1337,6 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": false,
    "article": "cedd7503a1d58227"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/el-enojo-de-romi-scalora-contra-mar-tarres-es-una-estafadora-y-una-escrachadora-serial",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El enojo de Romi Scalora contra Mar Tarrés: \"Es una estafadora y una escrachadora serial\"",
-   "link": "https://www.filo.news/noticia/2026/10/21/el-enojo-de-romi-scalora-contra-mar-tarres-es-una-estafadora-y-una-escrachadora-serial",
-   "excerpt": "La humorista recordó una situación personal con la influencer quien impulsó que le bajaran la cuenta en su momento por un contenido de redes.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/martarres2052_re.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "f96e41111c6a68f3"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/la-prensa-espanola-cuestiono-a-milei-por-sus-ataques-a-los-periodistas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La prensa española cuestionó a Milei por sus ataques a los periodistas",
-   "link": "https://www.filo.news/noticia/2026/10/21/la-prensa-espanola-cuestiono-a-milei-por-sus-ataques-a-los-periodistas",
-   "excerpt": "El presidente llamó \"corta intelectualmente\" y \"miserable política\" a una cronista de Cadena SER. También insultó a los enviados de Clarín. El análisis de la prensa local.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/noname7609_re.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "7cdec1841a5b5838"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/resumen",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Milei volvió a descalificar a Sánchez y atacó a la prensa en España; La reacción del presidente español; Boca a la final; y más...",
-   "link": "https://www.filo.news/noticia/2026/10/21/resumen",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/collage8531_re.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": ""
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/mercedes-sosa-busca-un-lugar-en-los-grammy-con-suiza-1980-un-album-grabado-en-el-exilio",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Mercedes Sosa busca un lugar en los GRAMMY con Suiza 1980, un álbum grabado en el exilio",
-   "link": "https://www.filo.news/noticia/2026/10/21/mercedes-sosa-busca-un-lugar-en-los-grammy-con-suiza-1980-un-album-grabado-en-el-exilio",
-   "excerpt": "El álbum Suiza 1980 (Remastering 2025), que recupera una presentación de la cantante argentina junto al guitarrista Nicolás Brizuela, fue presentado para consideración en la categoría Best Historical Album de los premios de la Recording Academy. El trabajo se centra en la…",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/mercedessosasuiza_1980_remastering_20254689.jpg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "a9575e411f6eb8a7"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/con-marcos-rojo-habilitado-estudiantes-va-por-el-pase-a-la-final-de-la-copa-libertadores-ante-flamengo-horario-y-tv-del-partido",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Con Marcos Rojo habilitado, Estudiantes sueña con el pase a la final de la Copa Libertadores ante Flamengo: horario y TV del partido",
-   "link": "https://www.filo.news/noticia/2026/10/21/con-marcos-rojo-habilitado-estudiantes-va-por-el-pase-a-la-final-de-la-copa-libertadores-ante-flamengo-horario-y-tv-del-partido",
-   "excerpt": "El Tribunal Arbitral del Deporte dio luz verde a la apelación del Pincha y el defensor podrá jugar ante el conjunto brasileño.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/marcosrojo2437_re.jpg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "c5c92fcf913c6a88"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/diez-emprendimientos-argentinos-competiran-por-usd-30-000-en-capital-semilla",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Diez emprendimientos argentinos competirán por USD 30.000 en capital semilla",
-   "link": "https://www.filo.news/noticia/2026/10/21/diez-emprendimientos-argentinos-competiran-por-usd-30-000-en-capital-semilla",
-   "excerpt": "Los proyectos seleccionados provienen de nueve ciudades y participan de un programa de formación para impulsar el desarrollo de sus negocios.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/eventoemprendetiktok5561_re.jpg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "b2b618f689c13f46"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/u2-vuelve-a-la-argentina-en-2027-cuando-salen-a-la-venta-las-entradas-y-cuanto-cuestan",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "U2 vuelve a la Argentina en 2027: cuándo salen a la venta las entradas y cuánto cuestan",
-   "link": "https://www.filo.news/noticia/2026/10/21/u2-vuelve-a-la-argentina-en-2027-cuando-salen-a-la-venta-las-entradas-y-cuanto-cuestan",
-   "excerpt": "Después de casi diez años, la banda irlandesa se presentará el 23 y el 25 de marzo en el Estadio River Plate. La preventa exclusiva comenzó este miércoles y ya está agotada. La venta general se habilitará el jueves.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/img96034076_re.jpg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "904ec304365a83fc"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201284",
@@ -1612,19 +1664,6 @@ window.CIRCO = {
    "article": "0aac9cc6f9e45ec6"
   },
   {
-   "id": "https://www.theverge.com/?p=1013028",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple teases MacBook Pro event next week",
-   "link": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
-   "excerpt": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&strip=all&crop=0%2C10.719587153751%2C100%2C78.560825692498&w=1200",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "b00a54cdfe5c2e67"
-  },
-  {
    "id": "yt:video:tpZOU1ugODQ",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
@@ -1768,19 +1807,6 @@ window.CIRCO = {
    "article": "cff57b0a81151ae7"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201169",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Los huacos de la familia Allende",
-   "link": "https://www.ciperchile.cl/2026/10/17/los-huacos-de-la-familia-allende/?utm_source=rss&utm_medium=rss&utm_campaign=los-huacos-de-la-familia-allende",
-   "excerpt": "La entrada Los huacos de la familia Allende se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/allende-1-1.jpg",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "f6e6713864b41c68"
-  },
-  {
    "id": "https://theinspiration.com/?p=54739",
    "source": "The Inspiration",
    "category": "Publi",
@@ -1831,19 +1857,6 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": false,
    "article": ""
-  },
-  {
-   "id": "https://www.theverge.com/?p=1012918",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
-   "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
-   "excerpt": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "4cc231028a12c2c3"
   },
   {
    "id": "https://musebyclios.com/?p=133765",
