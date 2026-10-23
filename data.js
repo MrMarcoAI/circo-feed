@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-22T21:18-03:00",
+ "updated": "2026-10-23T02:29-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -2286,71 +2286,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": false,
    "article": ""
-  },
-  {
-   "id": "https://theinspiration.com/?p=54708",
-   "source": "The Inspiration",
-   "category": "Publi",
-   "title": "Aritzia — Super Giant Puff",
-   "link": "https://theinspiration.com/2026/10/aritzia-super-giant-puff/",
-   "excerpt": "Aritzia turned its cult Super Puff jacket into a giant New York installation to launch an upgrade to the iconic product. By making the jacket enormous, the brand transformed a technical product benefit — more warmth with less weight — into something impossible to miss. The…",
-   "image": "https://theinspiration.com/wp-content/uploads/Skaermbillede-2026-10-08-kl.-08.57.29-750x536.webp",
-   "day": "2026-10-08",
-   "first_seen": "2026-10-17",
-   "og_checked": false,
-   "article": "6a58a75b7bf79482"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133480",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Cerebral Palsy Spot With an Agency Twist Tops Our List of the Week’s Best Ads",
-   "link": "https://musebyclios.com/advertising/cerebral-palsy-spot-with-an-agency-twist-tops-our-list-of-the-weeks-best-ads/?utm_source=rss&utm_medium=rss&utm_campaign=cerebral-palsy-spot-with-an-agency-twist-tops-our-list-of-the-weeks-best-ads",
-   "excerpt": "Here’s our roundup of the week’s best work, selected by the Clios staff. 1. Cerebral Palsy Appeal Aims to Teach Creative Pros an Important Lesson The ad biz lampoons itself all the time, but this one hits different. FightTheStroke Foundation and Dude Milan turn agency tropes on…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/08152309/DUDE-new.jpg",
-   "day": "2026-10-08",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "f09183038a8c12bb"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133473",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "The Summer of the Ice-Cream Pop-up: What Brands Should Know About Seasonal Activations",
-   "link": "https://musebyclios.com/musings/the-summer-of-the-ice-cream-pop-up-what-brands-should-know-about-seasonal-activations/?utm_source=rss&utm_medium=rss&utm_campaign=the-summer-of-the-ice-cream-pop-up-what-brands-should-know-about-seasonal-activations",
-   "excerpt": "This summer, ice-cream seemed to become the default seasonal activation. Loewe opened a pistachio pop-up in the U.K., Laneige joined with Sephora for an NYC ice-cream cart and Pepsi took its ice-cream-inspired flavors to London’s Soho. Ice-cream already means summer, fun,…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/08105400/CONE.jpeg",
-   "day": "2026-10-08",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "beb21983205ea3cf"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133467",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Smyths’ Famous Catalog Springs to Life as a Creature Made of Toys",
-   "link": "https://musebyclios.com/advertising/smyths-catalog-comes-to-life-as-a-creature-made-of-toys/?utm_source=rss&utm_medium=rss&utm_campaign=smyths-catalog-comes-to-life-as-a-creature-made-of-toys",
-   "excerpt": "What kid wouldn’t want a playful monster made of toys as their new best friend? And if it vomits slime and Pikachu, all the better. In Ireland, Smyths Toy Superstores brings this benevolent, barfing beastie to life, repping its catalog in a style designed to subvert traditional…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/08102410/smyths2-1.jpg",
-   "day": "2026-10-08",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "734e7eadad5135ab"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133439",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Building Sports Brands That Fans Will Love Forever",
-   "link": "https://musebyclios.com/sports/building-sports-brands-fans-will-love-forever/?utm_source=rss&utm_medium=rss&utm_campaign=building-sports-brands-fans-will-love-forever",
-   "excerpt": "Creating and sustaining fandom for teams, leagues and beyond was a hot topic at Advertising Week New York. On Wednesday, Gupta Media founder Gogi Gupta hosted a panel, “What It Takes to Build a Sports Brand Fans Never Leave,” featuring executives repping tennis, soccer,…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/07234542/AWNY-Main-WHAT-IT-TAKES-TO-BUILD-A-SPORTS-BRAND-FANS-NEVER-LEAVE_1488.jpeg",
-   "day": "2026-10-08",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "b326ceb05221d6b5"
   }
  ]
 };
