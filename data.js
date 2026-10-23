@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-23T14:31-03:00",
+ "updated": "2026-10-23T18:44-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -247,6 +247,32 @@ window.CIRCO = {
    "article": "dd390d9e8ff66368"
   },
   {
+   "id": "https://www.theverge.com/?p=1018021",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "OpenAI now trains its frontier AI models with no internet access",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+   "excerpt": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "b72669c84c64b68d"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017906",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+   "excerpt": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "740465d534ba2a35"
+  },
+  {
    "id": "https://www.theverge.com/?p=1017450",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -377,6 +403,123 @@ window.CIRCO = {
    "article": "9366eb8272d20c86"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/23/las-universidades-le-entregaron-al-papa-leon-xiv-un-informe-sobre-la-situacion-de-las-universidades-publicas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Las universidades le entregaron al papa León XIV un informe sobre la situación de las universidades públicas",
+   "link": "https://www.filo.news/noticia/2026/10/23/las-universidades-le-entregaron-al-papa-leon-xiv-un-informe-sobre-la-situacion-de-las-universidades-publicas",
+   "excerpt": "El presidente del Consejo Interuniversitario Nacional (CIN) le entregó al Sumo Pontífice un documento de tres páginas que contiene un apartado crítico sobre el accionar de la gestión de Milei en lo que refiere al financiamiento.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/disenosin_título_-_2026-10-23t183957.5172354_re.png",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "c8d3b9b142528aa8"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/iron-maiden-en-huracan-distintas-vidas-varias-generaciones-la-misma-bestia",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Iron Maiden en Huracán: distintas vidas, varias generaciones, la misma Bestia",
+   "link": "https://www.filo.news/noticia/2026/10/23/iron-maiden-en-huracan-distintas-vidas-varias-generaciones-la-misma-bestia",
+   "excerpt": "La Doncella de Hierro celebró cinco décadas con dos noches de heavy metal en Parque Patricios. Dickinson al frente, Harris al galope y tres guitarras que se repartieron la gloria ante un público que sigue transmitiendo la pasión.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/proyectonuevo-_2026-10-23t174640.3946421_re.png",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "ce2d0ed2a2468a51"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/la-justicia-sobreseyo-a-javier-milei-y-a-karina-milei-en-la-causa-usdlibra",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Justicia sobreseyó a Javier Milei y a Karina Milei en la causa $LIBRA",
+   "link": "https://www.filo.news/noticia/2026/10/23/la-justicia-sobreseyo-a-javier-milei-y-a-karina-milei-en-la-causa-usdlibra",
+   "excerpt": "El juez aceptó el pedido del fiscal Taiano y consideró que los hechos investigados no constituyen delito. El caso se originó tras la publicación del Presidente sobre la criptomoneda en X.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/capturadepantalla_2026-10-23_a_la(s)_4.24.13 p. m.6277_re.png",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "e9863a9208cb0800"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/desaparicion-de-nancy-godoy-dictaron-prision-preventiva-para-dos-vecinos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Desaparición de Nancy Godoy: dictaron prisión preventiva para dos vecinos",
+   "link": "https://www.filo.news/noticia/2026/10/23/desaparicion-de-nancy-godoy-dictaron-prision-preventiva-para-dos-vecinos",
+   "excerpt": "La Justicia hizo lugar al pedido de la fiscalía y dictó la prisión preventiva de Rosa Leguizamón y su pareja, Nahuel Rojas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/capturadepantalla_2026-10-23_a_la(s)_4.19.27 p. m.8026_re.png",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "c607fffdd9a72915"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/facundo-moyano-hablo-sobre-su-aparicion-en-el-programa-de-moria-fui-con-una-botella-de-whisky-encima",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Facundo Moyano habló sobre su aparición en el programa de Moria: \"Fui con una botella de whisky encima\"",
+   "link": "https://www.filo.news/noticia/2026/10/23/facundo-moyano-hablo-sobre-su-aparicion-en-el-programa-de-moria-fui-con-una-botella-de-whisky-encima",
+   "excerpt": "El ex sindicalista le envió un audio a la conductora para explicar su polémica aparición en su programa, antes de irse a Madrid a encontrarse con Candela Arizaga.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/facundo3709_re.jpg",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "cdbb080664aa7026"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/noche-inmortal-en-el-gran-rex-los-pericos-presentaron-su-ultimo-album",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Noche Inmortal en el Gran Rex: Los Pericos presentaron su último álbum en Buenos Aires",
+   "link": "https://www.filo.news/noticia/2026/10/23/noche-inmortal-en-el-gran-rex-los-pericos-presentaron-su-ultimo-album",
+   "excerpt": "La banda recorrió distintas etapas de su historia junto a Néstor Ramljak, de Nonpalidece, y El Plan de la Mariposa en un show atravesado por el reggae, nuevas canciones y los clásicos de siempre.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/lgk29289746_re.jpg",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "d3f036f57b3d17eb"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/el-equipo-de-antropologia-forense-identifico-los-restos-de-ocho-victimas-de-la-dictadura-en-cordoba",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Equipo de Antropología Forense identificó los restos de ocho víctimas de la dictadura en Córdoba",
+   "link": "https://www.filo.news/noticia/2026/10/23/el-equipo-de-antropologia-forense-identifico-los-restos-de-ocho-victimas-de-la-dictadura-en-cordoba",
+   "excerpt": "Los expertos forenses recuperaron los cuerpos en el año 2025 en el sector denominado \"Loma del Torito\". El equipo científico cruzó los datos genéticos con las muestras de los familiares de las víctimas del terrorismo de Estado.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/disenosin_título_-_2026-10-23t150035.4647931.png",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "51976c9dbca10a40"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/estrenos-filo-cinco-series-que-llegan-esta-semana-al-streaming",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Estrenos Filo: cinco series que llegan esta semana al streaming",
+   "link": "https://www.filo.news/noticia/2026/10/23/estrenos-filo-cinco-series-que-llegan-esta-semana-al-streaming",
+   "excerpt": "Repasamos los estrenos más destacados para que puedas maratonear el fin de semana. Lanzamientos, nuevos episodios y más en esta nota.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/nwt308unit_00410rc21263_re.jpg",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "a4d59008bf13fa0e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/julieta-prandi-hablo-de-su-separacion-con-emanuel-ortega-tras-su-regreso-de-brasil",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Julieta Prandi habló de su separación con Emanuel Ortega, tras su regreso de Brasil",
+   "link": "https://www.filo.news/noticia/2026/10/23/julieta-prandi-hablo-de-su-separacion-con-emanuel-ortega-tras-su-regreso-de-brasil",
+   "excerpt": "La modelo se tomó unos días lejos de la exposición, luego de comunicar vía redes la disolución del matrimonio con el cantante a solo 27 días de haberse casado.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/julieta1147_re.png",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "baaffec4192c7d94"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/23/comenzo-el-juicio-por-el-caso-hotesur-los-sauces-estudiantes-a-la-final-de-la-libertadores-las-reformas-economicas-de-milei-bajo-presion-y-mas",
    "source": "Filo.News",
    "category": "Notis",
@@ -416,17 +559,17 @@ window.CIRCO = {
    "article": "e6905a69f557655c"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/23/hotesur",
+   "id": "https://www.filo.news/noticia/2026/10/23/comenzo-el-juicio-por-el-caso-hotesur-los-sauces-con-fuertes-acusaciones-contra-cristina-kirchner-y-su-hijo-maximo",
    "source": "Filo.News",
    "category": "Notis",
    "title": "Comenzó el juicio por el caso Hotesur-Los Sauces con fuertes acusaciones contra Cristina Kirchner y su hijo Máximo",
-   "link": "https://www.filo.news/noticia/2026/10/23/hotesur",
+   "link": "https://www.filo.news/noticia/2026/10/23/comenzo-el-juicio-por-el-caso-hotesur-los-sauces-con-fuertes-acusaciones-contra-cristina-kirchner-y-su-hijo-maximo",
    "excerpt": "Para los fiscales, la ex presidenta y su difunto esposo dirigieron una \"organización criminal\" que montó una maniobra de corrupçión desde lo más alto del Poder Ejecutivo. Su hijo, actual diputado nacional, está sindicado como organizador.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/23/noname6248_re.png",
    "day": "2026-10-23",
    "first_seen": "2026-10-23",
    "og_checked": false,
-   "article": "f21ba038d786f225"
+   "article": "342b4dc0aefee2f8"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/23/lula-y-flavio-bolsonaro-abren-sus-secretos-bancarios-fiscales-y-telefonicos-en-la-previa-del-balotaje",
@@ -494,6 +637,19 @@ window.CIRCO = {
    "article": "023469f9370cc83f"
   },
   {
+   "id": "https://www.ciperchile.cl/?p=201380",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones",
+   "link": "https://www.ciperchile.cl/2026/10/23/fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones/?utm_source=rss&utm_medium=rss&utm_campaign=fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones",
+   "excerpt": "La entrada Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/WEB_recortes-1.png",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "ab769dcfb66f52ce"
+  },
+  {
    "id": "https://www.ciperchile.cl/?p=201373",
    "source": "CIPER",
    "category": "Notis",
@@ -544,6 +700,58 @@ window.CIRCO = {
    "first_seen": "2026-10-23",
    "og_checked": true,
    "article": "982dd5770cd2cffe"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1016977",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+   "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+   "excerpt": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24642397/google_pixel_fold_hands_on_5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "e629f8ed97f700c9"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1016751",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
+   "link": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
+   "excerpt": "After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "a803425cd72e4029"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1016544",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
+   "link": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
+   "excerpt": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in China in August, the new Coolpad Cool X Wide has a much…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/coolpad1.jpg?quality=90&strip=all&crop=0,10.667430009877,100,78.665139980246",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "55276fa28a787bdc"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1015749",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Googlebooks just aren’t ready",
+   "link": "https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review",
+   "excerpt": "Every Googlebook laptop we've tested so far has great hardware. The problem is the software. While Googlebook OS has exciting ideas for how a laptop and phone can work together, right now it's mostly a frustrating experience filled with annoying bugs and lackluster app support.…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebooks_Lenovo_HP_Acer_laptop_review_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "2c62a472be6abbf3"
   },
   {
    "id": "https://www.theverge.com/?p=1016524",
@@ -765,32 +973,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": true,
    "article": "3233b67e067a2422"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017012",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Discord now formats Markdown previews right",
-   "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-   "excerpt": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "1d4350a753c34d2a"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1016905",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-   "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-   "excerpt": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "72b443cefd2d9c4b"
   },
   {
    "id": "https://theinspiration.com/?p=54752",
@@ -1090,123 +1272,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": false,
    "article": "2b18293dac3b9365"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/el-festival-de-folklore-la-portena-revela-su-line-up-quienes-son-los-confirmados",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Festival de Folklore \"La Porteña\" revela su line up ¿Quiénes son los confirmados?",
-   "link": "https://www.filo.news/noticia/2026/10/22/el-festival-de-folklore-la-portena-revela-su-line-up-quienes-son-los-confirmados",
-   "excerpt": "El evento anuncia a los primeros artistas de su segunda edición, que se realizará el sábado 12 de diciembre, desde las 16 horas, en el Hipódromo de Palermo.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/portea2653_re.png",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "60286681b72c4dde"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/agenda-filo-los-espectaculos-que-no-te-podes-perder",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Agenda Filo: los espectáculos que no te podes perder",
-   "link": "https://www.filo.news/noticia/2026/10/22/agenda-filo-los-espectaculos-que-no-te-podes-perder",
-   "excerpt": "Te dejamos las mejores recomendaciones para que elijas cuál de todas se ajusta más a tus gustos.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/agenda104046_re.png",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "d17f175497248b68"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/procesaron-a-jose-luis-espert-en-la-causa-por-presunto-lavado-de-dinero",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Procesaron a José Luis Espert en la causa por presunto lavado de dinero",
-   "link": "https://www.filo.news/noticia/2026/10/22/procesaron-a-jose-luis-espert-en-la-causa-por-presunto-lavado-de-dinero",
-   "excerpt": "Además, la Justicia le impuso un embargo de $1.000 millones y una prohibición para salir del país.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/d1ae610993a74af5-926d-fe0acf76fa096978_re.jpeg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "51ea7da00cc48128"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/manu-hattom-celebra-sus-10-anos-de-carrera-con-un-disco-en-vivo-y-un-show",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Manu Hattom celebra sus 10 años de carrera con un disco en vivo y un show",
-   "link": "https://www.filo.news/noticia/2026/10/22/manu-hattom-celebra-sus-10-anos-de-carrera-con-un-disco-en-vivo-y-un-show",
-   "excerpt": "El músico y compositor lanzó un álbum registrado en el Teatro Astros, donde repasó las canciones más representativas de su recorrido solista. El 18 de noviembre se presentará en Buenos Aires junto a Los Nuevos Monstruos, Gero y Nico Martin.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/20220224-cck-sala-argentina-musica-argentina-para-el-mundo-manu-hattom-foto-manuel-pose-varela-01_(1)8899_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "835ba3b1b0b2f60b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/u2-furor-por-la-vuelta-de-la-banda-irlandesa",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "U2: furor por la vuelta de la banda irlandesa",
-   "link": "https://www.filo.news/noticia/2026/10/22/u2-furor-por-la-vuelta-de-la-banda-irlandesa",
-   "excerpt": "Más de un millón de personas hicieron fila virtual en la instancia de venta general y las entradas para los dos shows en el Estadio River Plate se agotaron por completo en tiempo récord.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/u26736_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "e9b62a8a1413f141"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/asi-fue-el-paso-de-milei-por-espana-gobierno-adjudico-la-privatizacion-de-aysa-estudiantes-va-por-la-final-de-la-libertadores-y-mas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Así fue el paso de Milei por España; Gobierno adjudicó la privatización de AySA; Estudiantes va por la final de la Libertadores; y más...",
-   "link": "https://www.filo.news/noticia/2026/10/22/asi-fue-el-paso-de-milei-por-espana-gobierno-adjudico-la-privatizacion-de-aysa-estudiantes-va-por-la-final-de-la-libertadores-y-mas",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/noname6657_re.png",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "1cdecce51dbfaba0"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/cruces-con-pedro-sanchez-e-insultos-a-la-prensa-asi-fue-el-paso-de-milei-por-espana",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Cruces con Pedro Sánchez e insultos a la prensa: así fue el paso de Milei por España",
-   "link": "https://www.filo.news/noticia/2026/10/22/cruces-con-pedro-sanchez-e-insultos-a-la-prensa-asi-fue-el-paso-de-milei-por-espana",
-   "excerpt": "El presidente viajó por séptima vez al país ibérico. Nunca se reunió con autoridades nacionales ni visitó la Moncloa.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/noname5562_re.png",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "5c1ac075cb571b1c"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/la-carne-es-cara-en-argentina-cuanto-cuesta-el-kilo-frente-a-brasil-uruguay-y-estados-unidos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "¿La carne es cara en Argentina? Cuánto cuesta el kilo frente a Brasil, Uruguay y Estados Unidos",
-   "link": "https://www.filo.news/noticia/2026/10/22/la-carne-es-cara-en-argentina-cuanto-cuesta-el-kilo-frente-a-brasil-uruguay-y-estados-unidos",
-   "excerpt": "Argentina registra un precio promedio de u$s13,13 por kilo de carne vacuna, por debajo de seis mercados, pero por encima de Brasil y Paraguay. Las diferencias cambian según el corte y también se reflejan en el precio del pollo.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/carne1)3008_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "d791188e5eae8e56"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/el-gobierno-adjudico-la-privatizacion-de-aysa-por-uusds340-millones-y-fijo-una-fecha-limite-para-la-firma",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Gobierno adjudicó la privatización de AySA por u$s340 millones y fijó una fecha límite para la firma",
-   "link": "https://www.filo.news/noticia/2026/10/22/el-gobierno-adjudico-la-privatizacion-de-aysa-por-uusds340-millones-y-fijo-una-fecha-limite-para-la-firma",
-   "excerpt": "El Ministerio de Economía eligió al consorcio integrado por Rowing, Arcos Saneamento, PHX Aqua y Transclor para quedarse con el 90% de las acciones estatales de la empresa. La operación quedó bajo cuestionamiento por presuntos conflictos de intereses y una denuncia que pide…",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/diputados11)1869_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "1f1c360572ce26e3"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201349",
@@ -1677,19 +1742,6 @@ window.CIRCO = {
    "article": "2c61fd3f898b49cb"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201210",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Caso Fundamenta: tras confesión de Migueles, fiscalía solicita audiencia para formalizarlo junto a Vivanco y Lagos por cohecho",
-   "link": "https://www.ciperchile.cl/2026/10/19/caso-fundamenta-tras-confesion-de-migueles-fiscalia-solicita-audiencia-para-formalizarlo-junto-a-vivanco-y-lagos-por-cohecho/?utm_source=rss&utm_medium=rss&utm_campaign=caso-fundamenta-tras-confesion-de-migueles-fiscalia-solicita-audiencia-para-formalizarlo-junto-a-vivanco-y-lagos-por-cohecho",
-   "excerpt": "La entrada Caso Fundamenta: tras confesión de Migueles, fiscalía solicita audiencia para formalizarlo junto a Vivanco y Lagos por cohecho se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/vivianco-web.png",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "73cb28ebc30c8805"
-  },
-  {
    "id": "yt:video:tpZOU1ugODQ",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
@@ -1753,19 +1805,6 @@ window.CIRCO = {
    "first_seen": "2026-10-19",
    "og_checked": true,
    "article": "4ac96f067cb5228e"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1013485",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Trump says Google kisses his ass",
-   "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
-   "excerpt": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "a6f960a21176df62"
   },
   {
    "id": "https://bencorde.com/blog/curso-meta-ads-claude-code/",
@@ -1846,19 +1885,6 @@ window.CIRCO = {
    "article": "9e62017c16d2d0c8"
   },
   {
-   "id": "https://www.theverge.com/?p=1012918",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
-   "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
-   "excerpt": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "4cc231028a12c2c3"
-  },
-  {
    "id": "yt:video:jEOUUAPC1sc",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
@@ -1922,45 +1948,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "a7bc8885e5b6f210"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1012510",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "ChatGPT can peek at your Chrome tabs now",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-   "excerpt": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "d6c98090942a268e"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1012206",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Google is making inline links more prominent in AI responses",
-   "link": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
-   "excerpt": "Google is updating its AI search results to make inline links appear \"higher up in responses more frequently,\" according to a blog post. The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "9a3c945c5bd94d23"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1012047",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
-   "link": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom",
-   "excerpt": "We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "d80ca9c7e03334a9"
   },
   {
    "id": "https://musebyclios.com/?p=133743",
