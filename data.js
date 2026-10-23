@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-22T18:57-03:00",
+ "updated": "2026-10-22T21:18-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -611,6 +611,58 @@ window.CIRCO = {
    "article": "19774f251674e0c5"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/22/stephen-king-y-mike-flagan-confirman-que-carrie-tendra-segunda-temporada-sin-duda-sera-apasionante",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Stephen King y Mike Flagan confirman que \"Carrie\" tendrá segunda temporada: \"Sin duda, será apasionante\"",
+   "link": "https://www.filo.news/noticia/2026/10/22/stephen-king-y-mike-flagan-confirman-que-carrie-tendra-segunda-temporada-sin-duda-sera-apasionante",
+   "excerpt": "Luego de marcar un gran debut en la plataforma, Prime Video anunció que la historia que cuenta con la producción del Rey del Terror, continuará con nuevos episodios.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/carrie2348_re.jpg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "fc2fa3f3060e5e16"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/martin-fierro-de-radio-2026-todos-los-ganadores-de-la-velada",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Martin Fierro de Radio 2026: Todos los ganadores de la velada",
+   "link": "https://www.filo.news/noticia/2026/10/22/martin-fierro-de-radio-2026-todos-los-ganadores-de-la-velada",
+   "excerpt": "La fiesta contó con 32 categorías, la conducción de Luis Novaresio y Luciana Rubinska y se llevó a cabo en el Goldencenter de Parque Norte.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/odonnell8550_re.jpg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "473bfbdfcf8702c2"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/el-llamado-que-emociono-a-nico-vazquez-no-podia-creerlo-apenas-pude-poner-a-grabar-la-pantalla",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El llamado que emocionó a Nico Vázquez: \"No podía creerlo, apenas pude poner a grabar la pantalla\"",
+   "link": "https://www.filo.news/noticia/2026/10/22/el-llamado-que-emociono-a-nico-vazquez-no-podia-creerlo-apenas-pude-poner-a-grabar-la-pantalla",
+   "excerpt": "",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/vazquez3767_re.png",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "78a439b7f40270c7"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/milei-nadie-niega-que-haya-ninos-pobres-pero-son-muchos-menos-de-los-que-habia-antes",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Milei:  \"Nadie niega que haya niños pobres, pero son muchos menos de los que había antes\"",
+   "link": "https://www.filo.news/noticia/2026/10/22/milei-nadie-niega-que-haya-ninos-pobres-pero-son-muchos-menos-de-los-que-habia-antes",
+   "excerpt": "El presidente habló en declaraciones radiales en el día de su cumpleaños y volvió a referirse a la pobreza en Argentina.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/17088105192402245524559_re.jpeg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": "47648339d931e2c0"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/22/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-estados-unidos",
    "source": "Filo.News",
    "category": "Notis",
@@ -817,6 +869,19 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": false,
    "article": "a644fec7042b8c09"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201349",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Suprema sí tuvo fallos en contra de rebajas a abusadores sexuales; ministro Rau llama a afiliados a postergar jubilación por caída del Fondo E, y TC declara inadmisible requerimiento contra las RUF",
+   "link": "https://www.ciperchile.cl/2026/10/22/radar-22-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-22-10-2026",
+   "excerpt": "La entrada Suprema sí tuvo fallos en contra de rebajas a abusadores sexuales; ministro Rau llama a afiliados a postergar jubilación por caída del Fondo E, y TC declara inadmisible requerimiento contra las RUF se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "og_checked": true,
+   "article": "9159b037d0083c6b"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201334",
@@ -1084,8 +1149,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -1285,58 +1350,6 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": false,
    "article": "af6a68e4ed78af68"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/calamaro-y-una-noche-de-solo-rock",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Calamaro y una noche de solo rock",
-   "link": "https://www.filo.news/noticia/2026/10/21/calamaro-y-una-noche-de-solo-rock",
-   "excerpt": "En un show sin agregados, el Salmón invitó a un recorrido por todo su repertorio donde la voz, la música y el encuentro con el público fueron el centro.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/copiadecopia_de_calamaro_20_oct_bonetto_01946227_re.jpeg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "23a4383768a29826"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/el-papa-leon-xiv-no-necesitara-tratamiento-adicional-tras-la-operacion",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El papa León XIV no necesitará tratamiento adicional tras la operación",
-   "link": "https://www.filo.news/noticia/2026/10/21/el-papa-leon-xiv-no-necesitara-tratamiento-adicional-tras-la-operacion",
-   "excerpt": "Los médicos informaron que el tumor extirpado fue un adenocarcinoma pulmonar y que la enfermedad estaba localizada.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/2025082508105081513_re.jpg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "f83fae9b7f9b414d"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/furor-por-bts-crecen-sus-reproducciones-en-spotify-antes-de-los-shows-en-argentina",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Furor por BTS: crecen sus reproducciones en Spotify antes de los shows en Argentina",
-   "link": "https://www.filo.news/noticia/2026/10/21/furor-por-bts-crecen-sus-reproducciones-en-spotify-antes-de-los-shows-en-argentina",
-   "excerpt": "Las escuchas de la banda en el país crecieron un 193% frente al período anterior. Conocé más detalles en la nota.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/btsthecomebacklivescbts_setup06_000256666_re.jpg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "7da41ab606cd91d1"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/21/expo-cannabis-el-evento-mas-importante-sobre-cannabis-medicinal-industrial-y-de-uso-adulto",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Expo Cannabis: el evento más importante sobre cannabis medicinal, industrial y de uso adulto",
-   "link": "https://www.filo.news/noticia/2026/10/21/expo-cannabis-el-evento-mas-importante-sobre-cannabis-medicinal-industrial-y-de-uso-adulto",
-   "excerpt": "La séptima edición llega con grandes novedades: experiencias inmersivas, gastronomía cannábica, talleres para aprender a cultivar, cocinar y hacer extracciones, lanzamiento de nuevas genéticas y productos, un sector para conocer clubes de cannabis y asociarse en el momento,…",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/21/expocannabis-_toma_aerea_del_pabellon_con_mas_de_300_marcas8774_re.jpg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "cedd7503a1d58227"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201284",
@@ -1669,8 +1682,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -1740,19 +1753,6 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": true,
    "article": "8e50e8558e93a484"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201192",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "¿Cómo hacer más atractiva la carrera docente? La pregunta de siempre desde una mirada OCDE",
-   "link": "https://www.ciperchile.cl/2026/10/18/como-hacer-mas-atractiva-la-carrera-docente-la-pregunta-de-siempre-desde-una-mirada-ocde/?utm_source=rss&utm_medium=rss&utm_campaign=como-hacer-mas-atractiva-la-carrera-docente-la-pregunta-de-siempre-desde-una-mirada-ocde",
-   "excerpt": "La entrada ¿Cómo hacer más atractiva la carrera docente? La pregunta de siempre desde una mirada OCDE se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_910024-scaled.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "b59378fc6593831c"
   },
   {
    "id": "https://www.theverge.com/?p=1013485",
@@ -1851,8 +1851,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
    "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2163,8 +2163,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "8 GitHub Repos To Go Viral and Make Money",
    "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
-   "excerpt": "In this solo episode, I walk through eight GitHub repos and AI skills that I test at night and on weekends. The list covers launch videos, social research, local voice and dubbing, editable decks, agent teams, lead-magnet tools, idea stress-testing, and design guidance. For each…",
-   "image": "https://i3.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
    "day": "2026-10-09",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2273,6 +2273,19 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "03441e48b0fa8ca8"
+  },
+  {
+   "id": "yt:video:bQPU6UJ4iCw",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "13 Businesses for the Age of AI",
+   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
+   "day": "2026-10-08",
+   "first_seen": "2026-10-22",
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://theinspiration.com/?p=54708",
