@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-23T11:41-03:00",
+ "updated": "2026-10-23T14:31-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,58 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1017447",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "The iPhone Duo should have been an iPad",
+   "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+   "excerpt": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "d30681dea7316eb2"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017623",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The first broken iPhone Duos are here",
+   "link": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+   "excerpt": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0%2C29.064535392392%2C100%2C41.870929215215&w=1200",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "29293bcc94618c5d"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017413",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple revives the original iPod as an Apple Music easter egg",
+   "link": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
+   "excerpt": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual re-creation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&strip=all&crop=12.805685249999%2C11.686014773698%2C68.258630720705%2C70.949974447181&w=1200",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "b45e09a7c3f968c2"
+  },
+  {
+   "id": "https://www.applesfera.com/ipod/hay-ipod-virtual-escondido-web-apple-cumple-25-anos-asi-puedes-encontrarlo",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Hay un iPod virtual escondido en la web de Apple. Cumple 25 años y así puedes encontrarlo",
+   "link": "https://www.applesfera.com/ipod/hay-ipod-virtual-escondido-web-apple-cumple-25-anos-asi-puedes-encontrarlo",
+   "excerpt": "El iPod cumple 25 años . Apple lo presentó el 23 de octubre de 2001 y lo celebra con un easter egg escondido en la web de Apple Music . Es un iPod virtual que podemos manejar desde la pantalla táctil de nuestro iPhone. Aquel reproductor con mil canciones en el bolsillo cambió…",
+   "image": "https://i.blogs.es/546b5e/ipod/1024_2000.jpeg",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "06d4ea5d6566ee2a"
+  },
   {
    "id": "https://www.applesfera.com/apple-1/ascendio-gran-rediseno-apple-ahora-uno-maximos-jefazos-este-area-quien-steve-lemay",
    "source": "Applesfera",
@@ -182,6 +234,32 @@ window.CIRCO = {
    "article": "6d5de137fa359242"
   },
   {
+   "id": "https://www.theverge.com/?p=1017600",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "excerpt": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "dd390d9e8ff66368"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017450",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Meta delays new business terms after publisher pushback on AI scraping",
+   "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+   "excerpt": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "e067a4bed9a3fa25"
+  },
+  {
    "id": "https://www.theverge.com/?p=1015430",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -193,6 +271,19 @@ window.CIRCO = {
    "first_seen": "2026-10-23",
    "og_checked": true,
    "article": "7e4e6855385a7d0e"
+  },
+  {
+   "id": "https://musebyclios.com/?p=133954",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Compleat Designed Halloween Costumes for Kids With Feeding Tubes",
+   "link": "https://musebyclios.com/health/compleat-made-halloween-costumes-for-kids-with-feeding-tubes/?utm_source=rss&utm_medium=rss&utm_campaign=compleat-made-halloween-costumes-for-kids-with-feeding-tubes",
+   "excerpt": "Most kids who want to dress as cowgirls, princesses, superheroes or even flower bouquets for Halloween have plenty of options. But youngsters who rely on feeding tubes face special challenges. In many cases, traditional costumes prove impractical or even impossible for them to…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/23094316/costume-tops.jpeg",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "d768814fc1828101"
   },
   {
    "id": "https://musebyclios.com/?p=133945",
@@ -213,7 +304,7 @@ window.CIRCO = {
    "category": "Publi",
    "title": "VCCP’s 8-bit Halloween Game Helps You ‘Kill It’ in the Creative World",
    "link": "https://musebyclios.com/gaming/vccps-halloween-game-helps-you-kill-it-in-the-creative-world/?utm_source=rss&utm_medium=rss&utm_campaign=vccps-halloween-game-helps-you-kill-it-in-the-creative-world",
-   "excerpt": "“You start as a junior creative and see if you can survive and become the boss.” That’s the premise of an 8-bit Halloween-themed game unleashed today by the creative department at VCCP. It’s also an IRL career trajectory for many of you, dear readers. So, the game might help…",
+   "excerpt": "“You start as a junior creative and see if you can survive and become the boss.” That’s the premise of an 8-bit Halloween-themed game unleashed today by the creative department at VCCP. It’s also an IRL career trajectory for many Muse readers. So, the game might help prepare you…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/22143641/game-2.jpg",
    "day": "2026-10-23",
    "first_seen": "2026-10-23",
@@ -286,6 +377,58 @@ window.CIRCO = {
    "article": "9366eb8272d20c86"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/23/comenzo-el-juicio-por-el-caso-hotesur-los-sauces-estudiantes-a-la-final-de-la-libertadores-las-reformas-economicas-de-milei-bajo-presion-y-mas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Comenzó el juicio por el caso Hotesur-Los Sauces; Estudiantes a la final de la Libertadores; Las reformas económicas de Milei bajo presión y más...",
+   "link": "https://www.filo.news/noticia/2026/10/23/comenzo-el-juicio-por-el-caso-hotesur-los-sauces-estudiantes-a-la-final-de-la-libertadores-las-reformas-economicas-de-milei-bajo-presion-y-mas",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/20261021t122127z_491825739_rc2l7oao8aet_rtrmadp_3_spain-argentina3945_re.jpg",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "750cb1ccacaf9d21"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/bullrich-publico-otro-video-que-alimenta-los-rumores-de-una-candidatura-presidencial",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Bullrich publicó otro video que alimenta los rumores de una candidatura presidencial",
+   "link": "https://www.filo.news/noticia/2026/10/23/bullrich-publico-otro-video-que-alimenta-los-rumores-de-una-candidatura-presidencial",
+   "excerpt": "La jefa del bloque de senadores libertario presentó un corto con la canción \"Es un secreto\" de Plan B en medio de la discusión por su lugar en las listas el año próximo.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/noname8069_re.png",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "e44fa467adc3ae82"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/la-sole-tini-bandana-charly-garcia-angela-torres-y-hana-los-estrenos-de-la-semana",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Sole, Tini, Bandana, Charly García, Ángela Torres y Hana, los estrenos de la semana",
+   "link": "https://www.filo.news/noticia/2026/10/23/la-sole-tini-bandana-charly-garcia-angela-torres-y-hana-los-estrenos-de-la-semana",
+   "excerpt": "Todos los estrenos musicales con sus respectivos videoclips, los encontrás acá.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/mcv80303263_re.jpg",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "e6905a69f557655c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/hotesur",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Comenzó el juicio por el caso Hotesur-Los Sauces con fuertes acusaciones contra Cristina Kirchner y su hijo Máximo",
+   "link": "https://www.filo.news/noticia/2026/10/23/hotesur",
+   "excerpt": "Para los fiscales, la ex presidenta y su difunto esposo dirigieron una \"organización criminal\" que montó una maniobra de corrupçión desde lo más alto del Poder Ejecutivo. Su hijo, actual diputado nacional, está sindicado como organizador.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/noname6248_re.png",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "f21ba038d786f225"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/23/lula-y-flavio-bolsonaro-abren-sus-secretos-bancarios-fiscales-y-telefonicos-en-la-previa-del-balotaje",
    "source": "Filo.News",
    "category": "Notis",
@@ -349,6 +492,45 @@ window.CIRCO = {
    "first_seen": "2026-10-23",
    "og_checked": false,
    "article": "023469f9370cc83f"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201373",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños",
+   "link": "https://www.ciperchile.cl/2026/10/23/este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos",
+   "excerpt": "La entrada Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/Condenas_web.png",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "a0014cb7252663a5"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201363",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil",
+   "link": "https://www.ciperchile.cl/2026/10/23/estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil/?utm_source=rss&utm_medium=rss&utm_campaign=estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil",
+   "excerpt": "La entrada Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/bolsonaro_web.png",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "c658a6d5a0783519"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017157",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Our best tips for using the iPhone Duo",
+   "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
+   "excerpt": "The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "4b745ba414bc86e3"
   },
   {
    "id": "https://www.theverge.com/?p=1017090",
@@ -533,58 +715,6 @@ window.CIRCO = {
    "article": "16b0d9801cb8646a"
   },
   {
-   "id": "https://www.theverge.com/?p=1016977",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
-   "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
-   "excerpt": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24642397/google_pixel_fold_hands_on_5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "e629f8ed97f700c9"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1016751",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
-   "link": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
-   "excerpt": "After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "a803425cd72e4029"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1016544",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
-   "link": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
-   "excerpt": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in China in August, the new Coolpad Cool X Wide has a much…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/coolpad1.jpg?quality=90&strip=all&crop=0,10.667430009877,100,78.665139980246",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "55276fa28a787bdc"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1015749",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Googlebooks just aren’t ready",
-   "link": "https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review",
-   "excerpt": "Every Googlebook laptop we've tested so far has great hardware. The problem is the software. While Googlebook OS has exciting ideas for how a laptop and phone can work together, right now it's mostly a frustrating experience filled with annoying bugs and lackluster app support.…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebooks_Lenovo_HP_Acer_laptop_review_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "2c62a472be6abbf3"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017151",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -661,45 +791,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": true,
    "article": "72b443cefd2d9c4b"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1016690",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-   "excerpt": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "b4eb703edaef9fab"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1016862",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Someone hacked the Switch 2 by using an old game and AI",
-   "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-   "excerpt": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "309c275269f91e21"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1016647",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-   "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-   "excerpt": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&strip=all&crop=0%2C3.4699843686197%2C100%2C93.060031262761&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "00c6b18cabd793a3"
   },
   {
    "id": "https://theinspiration.com/?p=54752",
@@ -1056,7 +1147,7 @@ window.CIRCO = {
    "id": "https://www.filo.news/noticia/2026/10/22/u2-furor-por-la-vuelta-de-la-banda-irlandesa",
    "source": "Filo.News",
    "category": "Notis",
-   "title": "U2: Furor por la vuelta de la banda irlandesa",
+   "title": "U2: furor por la vuelta de la banda irlandesa",
    "link": "https://www.filo.news/noticia/2026/10/22/u2-furor-por-la-vuelta-de-la-banda-irlandesa",
    "excerpt": "Más de un millón de personas hicieron fila virtual en la instancia de venta general y las entradas para los dos shows en el Estadio River Plate se agotaron por completo en tiempo récord.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/22/u26736_re.jpg",
@@ -1116,58 +1207,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": false,
    "article": "1f1c360572ce26e3"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/boca-tiene-rival-para-la-copa-sudamericana-atletico-mineiro-perdio-ante-montevideo-city-torque-pero-se-metio-en-la-final",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Boca tiene rival para la Copa Sudamericana: Atlético Mineiro perdió ante Montevideo City Torque pero se metió en la final",
-   "link": "https://www.filo.news/noticia/2026/10/22/boca-tiene-rival-para-la-copa-sudamericana-atletico-mineiro-perdio-ante-montevideo-city-torque-pero-se-metio-en-la-final",
-   "excerpt": "El equipo dirigido por Eduardo Domínguez cayó por 2 a 0 como visitante, pero se quedó con la serie por la goleada en el partido de ida.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/montevideocitytorque_vs._atlético,_semifinal_de_la_copa_sudamericana_2026_mineiro_(reuters)4329_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "078c645139dd89ab"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/el-oficialismo-freno-el-debate-de-morosidad-y-endeudamiento-en-diputados-y-postergo-el-tratamiento",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El oficialismo frenó el debate sobre morosidad y endeudamiento en Diputados y postergó el tratamiento",
-   "link": "https://www.filo.news/noticia/2026/10/22/el-oficialismo-freno-el-debate-de-morosidad-y-endeudamiento-en-diputados-y-postergo-el-tratamiento",
-   "excerpt": "LLA pidió devolver a comisión su propio proyecto para abordar el endeudamiento familiar y consiguió aprobar la moción con 121 votos. Las cinco abstenciones de los diputados cordobeses que responden a Martín Llaryora fueron decisivas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/diputados2729_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "95a2e7529367724b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/estudiantes-va-por-la-final-de-la-copa-libertadores-donde-ya-espera-palmeiras-horario-y-tv-de-la-semifinal-ante-flamengo",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Estudiantes va por la final de la Copa Libertadores, donde ya espera Palmeiras: horario y TV de la semifinal ante Flamengo",
-   "link": "https://www.filo.news/noticia/2026/10/22/estudiantes-va-por-la-final-de-la-copa-libertadores-donde-ya-espera-palmeiras-horario-y-tv-de-la-semifinal-ante-flamengo",
-   "excerpt": "Luego de empatar 0 a 0 en la ida, el Pincha buscará meterse entre los dos mejores del torneo continental en el Maracaná. Palmeiras le ganó a Fluminense por penales y es el primer finalista.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/estudiantes_flamengo,_ida_de_las_semifinales_de_la_copa_libertadores_(reuters)7772_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "d64474600e0c1c7f"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/con-el-respaldo-de-uxp-el-oficialismo-consiguio-aprobar-una-nueva-ley-de-discapacidad",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Con el respaldo de UxP, el oficialismo consiguió aprobar una nueva ley de discapacidad",
-   "link": "https://www.filo.news/noticia/2026/10/22/con-el-respaldo-de-uxp-el-oficialismo-consiguio-aprobar-una-nueva-ley-de-discapacidad",
-   "excerpt": "La iniciativa obtuvo 237 votos afirmativos. El oficialismo descartó el ajuste previsto en el Presupuesto y mantuvo gran parte del sistema vigente.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/noname9344_re.png",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "a644fec7042b8c09"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201349",
@@ -1248,45 +1287,6 @@ window.CIRCO = {
    "article": "82a14ad94f40d4bc"
   },
   {
-   "id": "https://www.theverge.com/?p=1015281",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Conversational Gemini navigation comes to Apple CarPlay",
-   "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-   "excerpt": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "5b3d649b2a24ec13"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1015372",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple says it only has ‘limited’ iPhone Duo units for in-store sales",
-   "link": "https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales",
-   "excerpt": "Apple says it will have \"limited\" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out, with some delivery estimates extending into next year. \"On Friday morning, our…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1499.jpg?quality=90&strip=all&crop=0%2C21.465968586387%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "db02e6ffe4579684"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1014316",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "I reviewed the iPhone Duo, ask me anything",
-   "link": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
-   "excerpt": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief Nilay Patel, and I'm ready to answer your…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "4070096268e30d7c"
-  },
-  {
    "id": "https://www.applesfera.com/apple-tv/ted-lasso-quiere-ted-lasso-da-hecho-que-apple-tv-tambien",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -1300,17 +1300,17 @@ window.CIRCO = {
    "article": "a8ca3a124db6ba61"
   },
   {
-   "id": "https://www.applesfera.com/iphone/iphone-duo-opiniones-toma-contacto-video-fotos",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "iPhone Duo, primeras impresiones: una forma espectacular de entender el iPhone que llevamos casi veinte años utilizando",
-   "link": "https://www.applesfera.com/iphone/iphone-duo-opiniones-toma-contacto-video-fotos",
-   "excerpt": "Llevamos tantos años utilizando el iPhone que habíamos terminado por acostumbrarnos a su forma . Hemos visto cómo sus pantallas crecían, cómo desaparecía el botón de inicio y cómo las cámaras adquirían un protagonismo que jamás habríamos imaginado cuando Steve Jobs presentó…",
-   "image": "https://i.blogs.es/eb314f/iphone-duo-primeras-impresiones-applesfera-53/1024_2000.jpeg",
+   "id": "https://www.theverge.com/?p=1015281",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Conversational Gemini navigation comes to Apple CarPlay",
+   "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+   "excerpt": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "4baec2d922351a51"
+   "og_checked": true,
+   "article": "5b3d649b2a24ec13"
   },
   {
    "id": "yt:video:nRl-7Yhmbog",
@@ -1508,19 +1508,6 @@ window.CIRCO = {
    "article": "9b6b227aa523de81"
   },
   {
-   "id": "https://www.theverge.com/?p=1014709",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "I can’t get enough of the iPhone Duo’s matte inner display",
-   "link": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
-   "excerpt": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been using it for the past week to watch movies on a plane, peruse my…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0055.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "3d9d83bd9c0d3b00"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201264",
    "source": "CIPER",
    "category": "Notis",
@@ -1703,19 +1690,6 @@ window.CIRCO = {
    "article": "73cb28ebc30c8805"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201201",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "El teleférico llega, la tarifa no",
-   "link": "https://www.ciperchile.cl/2026/10/19/el-teleferico-llega-la-tarifa-no/?utm_source=rss&utm_medium=rss&utm_campaign=el-teleferico-llega-la-tarifa-no",
-   "excerpt": "La entrada El teleférico llega, la tarifa no se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "0aac9cc6f9e45ec6"
-  },
-  {
    "id": "yt:video:tpZOU1ugODQ",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
@@ -1779,19 +1753,6 @@ window.CIRCO = {
    "first_seen": "2026-10-19",
    "og_checked": true,
    "article": "4ac96f067cb5228e"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201184",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "«La tumba de los libres: Las muertes del estallido social»: extracto del libro de Edgar de la Vega y Paula Rivera",
-   "link": "https://www.ciperchile.cl/2026/10/18/la-tumba-de-los-libres-las-muertes-del-estallido-social-extracto-del-libro-de-edgar-de-la-vega-y-paula-rivera/?utm_source=rss&utm_medium=rss&utm_campaign=la-tumba-de-los-libres-las-muertes-del-estallido-social-extracto-del-libro-de-edgar-de-la-vega-y-paula-rivera",
-   "excerpt": "La entrada «La tumba de los libres: Las muertes del estallido social»: extracto del libro de Edgar de la Vega y Paula Rivera se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/estallido-2.jpeg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "8e50e8558e93a484"
   },
   {
    "id": "https://www.theverge.com/?p=1013485",
@@ -1885,6 +1846,19 @@ window.CIRCO = {
    "article": "9e62017c16d2d0c8"
   },
   {
+   "id": "https://www.theverge.com/?p=1012918",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+   "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+   "excerpt": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-16",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "4cc231028a12c2c3"
+  },
+  {
    "id": "yt:video:jEOUUAPC1sc",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
@@ -1948,6 +1922,45 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "a7bc8885e5b6f210"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1012510",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "ChatGPT can peek at your Chrome tabs now",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+   "excerpt": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
+   "day": "2026-10-15",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "d6c98090942a268e"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1012206",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Google is making inline links more prominent in AI responses",
+   "link": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
+   "excerpt": "Google is updating its AI search results to make inline links appear \"higher up in responses more frequently,\" according to a blog post. The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-15",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "9a3c945c5bd94d23"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1012047",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
+   "link": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom",
+   "excerpt": "We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "day": "2026-10-15",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "d80ca9c7e03334a9"
   },
   {
    "id": "https://musebyclios.com/?p=133743",
