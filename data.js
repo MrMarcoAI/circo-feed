@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-24T10:50-03:00",
+ "updated": "2026-10-24T13:17-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,58 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1018169",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "What to expect from Apple’s ‘Pro and tell’ event",
+   "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+   "excerpt": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0%2C10.722587942729%2C100%2C78.554824114543&w=1200",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": true,
+   "article": "4ef9eb6ccb1c3e5b"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1018131",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+   "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+   "excerpt": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": true,
+   "article": "745a4185cc3b0aaa"
+  },
+  {
+   "id": "https://www.applesfera.com/tutoriales/boton-bloqueo-iphone-tiene-funcion-que-suele-resultar-molesta-asi-puedes-desactivarla",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "El botón de bloqueo del iPhone tiene una función que suele resultar molesta. Así puedes desactivarla",
+   "link": "https://www.applesfera.com/tutoriales/boton-bloqueo-iphone-tiene-funcion-que-suele-resultar-molesta-asi-puedes-desactivarla",
+   "excerpt": "Es evidente que Apple no añade funciones con mala intención ni busca complicarte la vida cambiando tus hábitos. Sin embargo, cuando utilizamos el iPhone por pura memoria muscular, es muy fácil que una pulsación de más active algo que no queríamos . Y eso acaba resultando…",
+   "image": "https://i.blogs.es/3e3091/boton-iphone/1024_2000.jpeg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "3f4e45a53998a624"
+  },
+  {
+   "id": "https://www.applesfera.com/curiosidades/susan-kare-ex-disenadora-apple-este-unico-mal-consejo-que-recibi-steve-jobs",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Susan Kare, ex-diseñadora de Apple: \"Este es el único mal consejo que recibí de Steve Jobs\"",
+   "link": "https://www.applesfera.com/curiosidades/susan-kare-ex-disenadora-apple-este-unico-mal-consejo-que-recibi-steve-jobs",
+   "excerpt": "Tan estrecha era la relación de Steve Jobs con Susan Kare , mítica diseñadora de la interfaz del Macintosh , que este la fichó para NeXT cuando se marchó de Apple. Ambos compartieron muchas horas y la artista confesó en una charla que hubo un consejo de él que, con el tiempo,…",
+   "image": "https://i.blogs.es/b16763/susan-kare-y-steve-jobs/1024_2000.jpeg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "182e245e222ae198"
+  },
+  {
    "id": "https://www.applesfera.com/seleccion/outlet-mediamarkt-esta-liquidando-este-ipad-air-13-pulgadas-esta-nuevo-barato-que-antes-subida-precios",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -94,7 +146,7 @@ window.CIRCO = {
    "id": "https://musebyclios.com/?p=133972",
    "source": "Muse by Clio",
    "category": "Publi",
-   "title": "From the 1960s to the 2000s, These Album Covers Capture the Spirit of Their Times",
+   "title": "From the 1960s to the 2000s, These Classic Album Covers Reflect the Tenor of Their Times",
    "link": "https://musebyclios.com/art-of-the-album/from-the-1960s-to-the-2000s-these-album-covers-reflect-the-spirit-of-their-times/?utm_source=rss&utm_medium=rss&utm_campaign=from-the-1960s-to-the-2000s-these-album-covers-reflect-the-spirit-of-their-times",
    "excerpt": "These are five of my favorite records, representing each decade from the 1960s to the 2000s. The music is why I bought them, but the artwork is a huge part of why they’ve stayed with me. I can almost hear the tunes when I look at the sleeves. For me, you can’t separate one from…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/24092647/LP-radiohead.jpg",
@@ -102,6 +154,45 @@ window.CIRCO = {
    "first_seen": "2026-10-24",
    "og_checked": true,
    "article": "96883a13a6db8639"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/hallaron-un-pozo-cerca-de-la-casa-de-una-detenida-por-nanci-godoy",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Hallaron un pozo cerca de la casa de una detenida por Nanci Godoy",
+   "link": "https://www.filo.news/noticia/2026/10/24/hallaron-un-pozo-cerca-de-la-casa-de-una-detenida-por-nanci-godoy",
+   "excerpt": "La Justicia dictó la prisión preventiva para dos nuevos sospechosos y profundizó los rastrillajes en parajes rurales de Corrientes.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/nancygodoycon_vida_ya_3591_re.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "c5de2e9c9e8f4101"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/medios-de-britanicos-afirman-que-israel-respaldaria-la-postura-de-argentina-en-el-reclamo-por-las-malvinas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Medios de británicos afirman que Israel respaldaría la postura de Argentina en el reclamo por las Malvinas",
+   "link": "https://www.filo.news/noticia/2026/10/24/medios-de-britanicos-afirman-que-israel-respaldaria-la-postura-de-argentina-en-el-reclamo-por-las-malvinas",
+   "excerpt": "El primer ministro Benjamín Netanyahu habría ordenado a su cuerpo diplomático apoyar el planteo soberano en el Atlántico Sur.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/capturadepantalla_2026-10-24_1101364230_re.png",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "a83f8bc729c05dce"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/la-venta-de-combustible-subio-casi-un-dos-por-ciento",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La venta de combustible subió casi un dos por ciento",
+   "link": "https://www.filo.news/noticia/2026/10/24/la-venta-de-combustible-subio-casi-un-dos-por-ciento",
+   "excerpt": "El despacho en surtidores cortó una racha negativa de siete meses gracias al empuje del sector agropecuario.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/images54)4281_re.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "c1e4b6301f450d0f"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/24/colapinto-mejoro-en-austin-pero-debera-afrontar-una-sancion",
@@ -128,6 +219,19 @@ window.CIRCO = {
    "first_seen": "2026-10-24",
    "og_checked": false,
    "article": "6480bf86931708a3"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201402",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Detención por ofensas a policías: una ley mordaza para la protesta y la prensa",
+   "link": "https://www.ciperchile.cl/2026/10/24/detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa",
+   "excerpt": "La entrada Detención por ofensas a policías: una ley mordaza para la protesta y la prensa se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1744307-scaled.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": true,
+   "article": "7ca88d4c376079fb"
   },
   {
    "id": "https://www.theverge.com/?p=1018021",
@@ -193,6 +297,19 @@ window.CIRCO = {
    "first_seen": "2026-10-24",
    "og_checked": true,
    "article": ""
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201415",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH",
+   "link": "https://www.ciperchile.cl/2026/10/23/fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh/?utm_source=rss&utm_medium=rss&utm_campaign=fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh",
+   "excerpt": "La entrada Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1181406-1-scaled.jpg",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "og_checked": true,
+   "article": "1db4ce18b3a19040"
   },
   {
    "id": "https://www.theverge.com/?p=1017447",
@@ -754,19 +871,6 @@ window.CIRCO = {
    "article": "7611f403b0e90627"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/23/estados-unidos-admitio-su-preocupacion-por-la-ley-malvinas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Estados Unidos admitió su preocupación por la Ley Malvinas",
-   "link": "https://www.filo.news/noticia/2026/10/23/estados-unidos-admitio-su-preocupacion-por-la-ley-malvinas",
-   "excerpt": "Christopher Landau, vicesecretario de Estado de EEUU, dijo que su país \"sigue con interés\" los alcances de las penalidades que prevé el proyecto sobre las empresas que explotan recursos en las Islas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/noname5165_re.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "023469f9370cc83f"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201380",
    "source": "CIPER",
    "category": "Notis",
@@ -923,19 +1027,6 @@ window.CIRCO = {
    "article": "40544ae524f7b294"
   },
   {
-   "id": "https://www.theverge.com/?p=1016526",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple will label apps that are ‘Made for iPhone Duo’",
-   "link": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
-   "excerpt": "Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new \"Made for iPhone Duo\" badge will appear across apps and games that work with the device's extra screen real estate. Though Apple doesn't include an image of…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0239.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "8efa287ce98d1256"
-  },
-  {
    "id": "https://www.applesfera.com/ios/primer-rastro-ios-28-esta-codigo-iphone",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -1012,32 +1103,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": false,
    "article": "470639819c7caeaa"
-  },
-  {
-   "id": "https://www.applesfera.com/seguridad/nueva-tecnologia-guardia-civil-que-permitira-acceder-a-iphone-android-remoto-que-no-debe-preocuparnos",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "La nueva tecnología de la Guardia Civil que permitirá acceder a los iPhone y Android en remoto (y por qué no debe preocuparnos)",
-   "link": "https://www.applesfera.com/seguridad/nueva-tecnologia-guardia-civil-que-permitira-acceder-a-iphone-android-remoto-que-no-debe-preocuparnos",
-   "excerpt": "Esta misma semana se ha anunciado un nuevo software perteneciente a la Guardia Civil y mediante el cual podrán controlar el remoto cualquier móvil. Y sí, también un iPhone, los cuales suelen destacar por tener una mayor seguridad, aunque el asunto no gira en torno a espionaje…",
-   "image": "https://i.blogs.es/1aab35/iphone-guardia-civil/1024_2000.jpeg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "26841d07cc101a52"
-  },
-  {
-   "id": "https://www.applesfera.com/servicios-apple/plena-fiebre-ia-apple-music-apuesta-arte-hacer-cosas-a-mano-puro-liquid-glass",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "En plena fiebre de la IA, Apple Music apuesta por el arte de hacer las cosas a mano. Es puro Liquid Glass",
-   "link": "https://www.applesfera.com/servicios-apple/plena-fiebre-ia-apple-music-apuesta-arte-hacer-cosas-a-mano-puro-liquid-glass",
-   "excerpt": "El nuevo icono de Apple Music ha dado mucho que hablar. Con la beta 4 de iOS 27.2 dijimos adiós al icono rojo y llegó uno en blanco y negro. Sí, otro más entre los muchos de nuestra pantalla de inicio. La aplicación de Música ha pasado por varios colores a lo largo de su…",
-   "image": "https://i.blogs.es/9c90cb/apple-music-made-by-sound/1024_2000.jpeg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "e64ce058a67f7790"
   },
   {
    "id": "https://www.theverge.com/?p=1017151",
@@ -1300,32 +1365,6 @@ window.CIRCO = {
    "article": "19774f251674e0c5"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/22/stephen-king-y-mike-flagan-confirman-que-carrie-tendra-segunda-temporada-sin-duda-sera-apasionante",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Stephen King y Mike Flagan confirman que \"Carrie\" tendrá segunda temporada: \"Sin duda, será apasionante\"",
-   "link": "https://www.filo.news/noticia/2026/10/22/stephen-king-y-mike-flagan-confirman-que-carrie-tendra-segunda-temporada-sin-duda-sera-apasionante",
-   "excerpt": "Luego de marcar un gran debut en la plataforma, Prime Video anunció que la historia que cuenta con la producción del Rey del Terror, continuará con nuevos episodios.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/carrie2348_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "fc2fa3f3060e5e16"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/martin-fierro-de-radio-2026-todos-los-ganadores-de-la-velada",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Martin Fierro de Radio 2026: Todos los ganadores de la velada",
-   "link": "https://www.filo.news/noticia/2026/10/22/martin-fierro-de-radio-2026-todos-los-ganadores-de-la-velada",
-   "excerpt": "La fiesta contó con 32 categorías, la conducción de Luis Novaresio y Luciana Rubinska y se llevó a cabo en el Goldencenter de Parque Norte.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/odonnell8550_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "473bfbdfcf8702c2"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201349",
    "source": "CIPER",
    "category": "Notis",
@@ -1389,19 +1428,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": true,
    "article": "c535e31a10af8c2b"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1015533",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple Music has a new logo",
-   "link": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
-   "excerpt": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music today. There's a new logo, the updated wordmark, and a new sound…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_70284.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "82a14ad94f40d4bc"
   },
   {
    "id": "https://www.theverge.com/?p=1015281",
@@ -1636,32 +1662,6 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": true,
    "article": "3c4de6ab2539ef70"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201245",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Expediente Mónica | El estallido social desde el interior de La Moneda",
-   "link": "https://www.ciperchile.cl/2026/10/20/expediente-monica-el-estallido-social-desde-el-interior-de-la-moneda/?utm_source=rss&utm_medium=rss&utm_campaign=expediente-monica-el-estallido-social-desde-el-interior-de-la-moneda",
-   "excerpt": "La entrada Expediente Mónica | El estallido social desde el interior de La Moneda se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": ""
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201241",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "El estallido social desde el interior de La Moneda",
-   "link": "https://www.ciperchile.cl/2026/10/20/el-estallido-social-desde-el-interior-de-la-moneda/?utm_source=rss&utm_medium=rss&utm_campaign=el-estallido-social-desde-el-interior-de-la-moneda",
-   "excerpt": "La entrada El estallido social desde el interior de La Moneda se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": ""
   },
   {
    "id": "https://www.theverge.com/?p=1014999",
