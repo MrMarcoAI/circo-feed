@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-24T13:17-03:00",
+ "updated": "2026-10-24T18:16-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -143,6 +143,19 @@ window.CIRCO = {
    "article": "dc092e46708dcdf4"
   },
   {
+   "id": "https://www.theverge.com/?p=1018187",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Pennsylvania will require labels on AI-generated ads",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+   "excerpt": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": true,
+   "article": "41e28042f79329d4"
+  },
+  {
    "id": "https://musebyclios.com/?p=133972",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -154,6 +167,97 @@ window.CIRCO = {
    "first_seen": "2026-10-24",
    "og_checked": true,
    "article": "96883a13a6db8639"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/caso-nancy-godoy-dictaron-prision-preventiva-para-dos-acusados-por-el-femicidio-de-la-docente-en-corrientes",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Caso Nancy Godoy: dictaron prisión preventiva para dos acusados por la desaparición de la docente en Corrientes",
+   "link": "https://www.filo.news/noticia/2026/10/24/caso-nancy-godoy-dictaron-prision-preventiva-para-dos-acusados-por-el-femicidio-de-la-docente-en-corrientes",
+   "excerpt": "La Justicia ordenó que los imputados permanezcan detenidos hasta el juicio. La mujer de 52 años continúa desaparecida y siguen los rastrillajes para encontrarla.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/202610261021006-scaled9709_re.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "6edaff30058e52fd"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/franco-colapinto-termino-15-en-la-ultima-practica-libre-del-gp-de-estados-unidos-de-formula-1",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Franco Colapinto terminó 15° en la última práctica libre del GP de Estados Unidos de Fórmula 1",
+   "link": "https://www.filo.news/noticia/2026/10/24/franco-colapinto-termino-15-en-la-ultima-practica-libre-del-gp-de-estados-unidos-de-formula-1",
+   "excerpt": "El piloto argentino mejoró sus tiempos después de comenzar en el último puesto. Lewis Hamilton lideró la sesión y la clasificación se disputará a las 18.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/20261023t230957z_1194667369_up1eman1scjz3_rtrmadp_3_motor-f1-united-states3664_re.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "1ee3d5f4143b2728"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/protestas-en-francia-barricadas-enfrentamientos-con-la-policia-y-decenas-de-detenidos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Protestas en Francia: barricadas, enfrentamientos con la policía y decenas de detenidos",
+   "link": "https://www.filo.news/noticia/2026/10/24/protestas-en-francia-barricadas-enfrentamientos-con-la-policia-y-decenas-de-detenidos",
+   "excerpt": "Las manifestaciones provocaron cortes de calles, interrupciones del transporte público y cierres de comercios. El Gobierno desplegó 70.000 agentes de seguridad.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/20261024t162652z_1600846594_rc2s9oa14f7u_rtrmadp_3_france-protest9589_re.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "834fd8dd62b1557d"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/francisco-cerundolo-cayo-en-semifinales-del-atp-250-de-bruselas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Francisco Cerúndolo cayó en semifinales del ATP 250 de Bruselas",
+   "link": "https://www.filo.news/noticia/2026/10/24/francisco-cerundolo-cayo-en-semifinales-del-atp-250-de-bruselas",
+   "excerpt": "El tenista argentino no pudo cerrar el encuentro a su favor y se despidió ante el neerlandés Griekspoor.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/capturadepantalla_2026-10-24_1430483246_re.png",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "86a7ddf539ff92ea"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/clima-en-buenos-aires-pronostican-lluvias-y-frio-para-el-fin-de-semana",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Clima en Buenos Aires: pronostican lluvias y frío para el fin de semana",
+   "link": "https://www.filo.news/noticia/2026/10/24/clima-en-buenos-aires-pronostican-lluvias-y-frio-para-el-fin-de-semana",
+   "excerpt": "El Servicio Meteorológico Nacional anticipó chaparrones para este sábado y precipitaciones durante las primeras horas del domingo. Las temperaturas máximas no superarán los 19°.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/202511251107011-scaled7001_re.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "cf5da7f6202ecc88"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/chaco-la-crecida-del-rio-parana-inundo-barranqueras-y-obligo-a-evacuar-a-mas-de-mil-familias",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Chaco: La crecida del río Paraná inundó barranqueras y obligó a evacuar a mas de mil familias",
+   "link": "https://www.filo.news/noticia/2026/10/24/chaco-la-crecida-del-rio-parana-inundo-barranqueras-y-obligo-a-evacuar-a-mas-de-mil-familias",
+   "excerpt": "El cauce superó los siete metros en la costa chaqueña obligando a evacuar viviendas hacia las banquinas de la ruta.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/images55)8564_re.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "e8457a5aa7194ac5"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/resumen-israel-respaldaria-a-argentina-universitarios-dan-informe-al-papa-leon-milei-augura-victoria-de-bolsonaro",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Resumen: Israel respaldaría a Argentina - Universitarios dan informe al Papa León - Milei augura victoria de Bolsonaro",
+   "link": "https://www.filo.news/noticia/2026/10/24/resumen-israel-respaldaria-a-argentina-universitarios-dan-informe-al-papa-leon-milei-augura-victoria-de-bolsonaro",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/capturadepantalla_2026-10-24_1101369120_re.png",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "9d8bace750c1321e"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/24/hallaron-un-pozo-cerca-de-la-casa-de-una-detenida-por-nanci-godoy",
@@ -780,97 +884,6 @@ window.CIRCO = {
    "article": "750cb1ccacaf9d21"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/23/bullrich-publico-otro-video-que-alimenta-los-rumores-de-una-candidatura-presidencial",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Bullrich publicó otro video que alimenta los rumores de una candidatura presidencial",
-   "link": "https://www.filo.news/noticia/2026/10/23/bullrich-publico-otro-video-que-alimenta-los-rumores-de-una-candidatura-presidencial",
-   "excerpt": "La jefa del bloque de senadores libertario presentó un corto con la canción \"Es un secreto\" de Plan B en medio de la discusión por su lugar en las listas el año próximo.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/noname8069_re.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "e44fa467adc3ae82"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/la-sole-tini-bandana-charly-garcia-angela-torres-y-hana-los-estrenos-de-la-semana",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La Sole, Tini, Bandana, Charly García, Ángela Torres y Hana, los estrenos de la semana",
-   "link": "https://www.filo.news/noticia/2026/10/23/la-sole-tini-bandana-charly-garcia-angela-torres-y-hana-los-estrenos-de-la-semana",
-   "excerpt": "Todos los estrenos musicales con sus respectivos videoclips, los encontrás acá.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/mcv80303263_re.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "e6905a69f557655c"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/comenzo-el-juicio-por-el-caso-hotesur-los-sauces-con-fuertes-acusaciones-contra-cristina-kirchner-y-su-hijo-maximo",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Comenzó el juicio por el caso Hotesur-Los Sauces con fuertes acusaciones contra Cristina Kirchner y su hijo Máximo",
-   "link": "https://www.filo.news/noticia/2026/10/23/comenzo-el-juicio-por-el-caso-hotesur-los-sauces-con-fuertes-acusaciones-contra-cristina-kirchner-y-su-hijo-maximo",
-   "excerpt": "Para los fiscales, la ex presidenta y su difunto esposo dirigieron una \"organización criminal\" que montó una maniobra de corrupçión desde lo más alto del Poder Ejecutivo. Su hijo, actual diputado nacional, está sindicado como organizador.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/noname6248_re.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "342b4dc0aefee2f8"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/lula-y-flavio-bolsonaro-abren-sus-secretos-bancarios-fiscales-y-telefonicos-en-la-previa-del-balotaje",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Lula y Flávio Bolsonaro abren sus secretos bancarios, fiscales y telefónicos en la previa del balotaje",
-   "link": "https://www.filo.news/noticia/2026/10/23/lula-y-flavio-bolsonaro-abren-sus-secretos-bancarios-fiscales-y-telefonicos-en-la-previa-del-balotaje",
-   "excerpt": "El presidente brasileño y el senador, que competirán en la segunda vuelta electoral, firmaron un compromiso ante el Tribunal Superior Electoral para divulgar información financiera y de comunicaciones propia, de sus familiares y de empresas vinculadas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/diputados12)7333_re.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "d18f7b59f570272d"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/las-reformas-economicas-de-milei-estan-bajo-presion-la-advertencia-del-financial-times-sobre-la-economia-argentina",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Las reformas económicas de Milei están bajo presión: la advertencia del Financial Times sobre la economía argentina",
-   "link": "https://www.filo.news/noticia/2026/10/23/las-reformas-economicas-de-milei-estan-bajo-presion-la-advertencia-del-financial-times-sobre-la-economia-argentina",
-   "excerpt": "El diario británico sostuvo que el orden macroeconómico y la baja de la inflación conviven con el endeudamiento familiar y la destrucción del empleo formal.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/noname8713_re.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "1367ea38caac64e9"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/estudiantes-elimino-a-flamengo-por-penales-y-jugara-la-final-de-la-copa-libertadores",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Estudiantes eliminó a Flamengo por penales y jugará la final de la Copa Libertadores",
-   "link": "https://www.filo.news/noticia/2026/10/23/estudiantes-elimino-a-flamengo-por-penales-y-jugara-la-final-de-la-copa-libertadores",
-   "excerpt": "El Pincha se impuso en la definición desde los doce pasos ante el conjunto brasileño y quedó a un partido de conquistar su quinta Copa Libertadores. El 28 de noviembre se enfrentará a Palmeiras en el Estadio Centenario de Montevideo.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/202610261015852-scaled1782_re.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "c5786ae67e8b96b7"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/el-papa-leon-xiv-cancelo-un-viaje-en-helicoptero-por-la-paz-por-precaucion-tras-su-operacion-de-cancer-de-pulmon",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El papa León XIV canceló un viaje a una reunión por la Paz por precaución tras su operación de cáncer de pulmón",
-   "link": "https://www.filo.news/noticia/2026/10/23/el-papa-leon-xiv-cancelo-un-viaje-en-helicoptero-por-la-paz-por-precaucion-tras-su-operacion-de-cancer-de-pulmon",
-   "excerpt": "El Vaticano confirmó que los médicos le recomendaron evitar el traslado en helicóptero para priorizar su recuperación. El Pontífice se perderá un encuentro interreligioso por la paz, pero aún mantiene en agenda su gira por América Latina, que incluye una visita a la Argentina en…",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/20261018t103842z_175823004_rc2m5oavsp80_rtrmadp_3_pope-health-prayer6993_re.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "7611f403b0e90627"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201380",
    "source": "CIPER",
    "category": "Notis",
@@ -1142,19 +1155,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": true,
    "article": "7e16fd732643694d"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1016879",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-   "excerpt": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "3233b67e067a2422"
   },
   {
    "id": "https://theinspiration.com/?p=54752",
