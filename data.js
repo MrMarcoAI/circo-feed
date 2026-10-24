@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-24T18:16-03:00",
+ "updated": "2026-10-24T20:49-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -55,14 +55,14 @@ window.CIRCO = {
    "name": "Filo.News",
    "category": "Notis",
    "feed": "https://www.filo.news/rss/rss.xml"
-  },
-  {
-   "name": "CIPER",
-   "category": "Notis",
-   "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
- "errors": [],
+ "errors": [
+  {
+   "url": "https://www.ciperchile.cl/",
+   "error": "The read operation timed out"
+  }
+ ],
  "items": [
   {
    "id": "https://www.theverge.com/?p=1018169",
@@ -143,6 +143,19 @@ window.CIRCO = {
    "article": "dc092e46708dcdf4"
   },
   {
+   "id": "https://www.theverge.com/?p=1018205",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Blue Planet III is keeping the rough edges in the age of AI",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+   "excerpt": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": true,
+   "article": "b0e212d8576d03e5"
+  },
+  {
    "id": "https://www.theverge.com/?p=1018187",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -167,6 +180,45 @@ window.CIRCO = {
    "first_seen": "2026-10-24",
    "og_checked": true,
    "article": "96883a13a6db8639"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/javier-milei-apunto-contra-periodistas-por-la-causa-usdlibra-y-anuncio-que-iniciara-acciones-legales",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Javier Milei apuntó contra periodistas por la causa $LIBRA y anunció que iniciará acciones legales",
+   "link": "https://www.filo.news/noticia/2026/10/24/javier-milei-apunto-contra-periodistas-por-la-causa-usdlibra-y-anuncio-que-iniciara-acciones-legales",
+   "excerpt": "Tras su sobreseimiento, el Presidente denunció una operación mediática. También habló de las elecciones en Brasil, la economía argentina y su posible reelección en 2027.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/2026102610239044215_re.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "de5cf9af8bb6737a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/franco-colapinto-termino-14-en-la-clasificacion-del-gp-de-estados-unidos-pero-largara-penultimo-por-una-sancion",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Franco Colapinto terminó 14° en la clasificación del GP de Estados Unidos, pero largará penúltimo por una sanción",
+   "link": "https://www.filo.news/noticia/2026/10/24/franco-colapinto-termino-14-en-la-clasificacion-del-gp-de-estados-unidos-pero-largara-penultimo-por-una-sancion",
+   "excerpt": "El piloto argentino deberá retroceder diez puestos por modificaciones en su Alpine. Pierre Gasly partirá 10°, mientras que Kimi Antonelli consiguió la pole position.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/20261023t230957z_1194667369_up1eman1scjz3_rtrmadp_3_motor-f1-united-states8512_re.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "59fec8cf5d69aeec"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/malvinas-el-gobierno-negocia-con-diputados-para-avanzar-con-la-ley-de-defensa-de-la-soberania-nacional",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Malvinas: el Gobierno negocia con diputados para avanzar con la Ley de Defensa de la Soberanía Nacional",
+   "link": "https://www.filo.news/noticia/2026/10/24/malvinas-el-gobierno-negocia-con-diputados-para-avanzar-con-la-ley-de-defensa-de-la-soberania-nacional",
+   "excerpt": "El oficialismo busca conseguir dictamen el martes 27 de octubre. La iniciativa contempla penas de hasta 20 años de prisión por la explotación ilegal de recursos naturales y nuevas medidas de seguridad nacional.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/72016)1961_re.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "a36af783dc52b3b8"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/24/caso-nancy-godoy-dictaron-prision-preventiva-para-dos-acusados-por-el-femicidio-de-la-docente-en-corrientes",
@@ -325,19 +377,6 @@ window.CIRCO = {
    "article": "6480bf86931708a3"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201402",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Detención por ofensas a policías: una ley mordaza para la protesta y la prensa",
-   "link": "https://www.ciperchile.cl/2026/10/24/detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa",
-   "excerpt": "La entrada Detención por ofensas a policías: una ley mordaza para la protesta y la prensa se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1744307-scaled.jpg",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": true,
-   "article": "7ca88d4c376079fb"
-  },
-  {
    "id": "https://www.theverge.com/?p=1018021",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -375,45 +414,6 @@ window.CIRCO = {
    "first_seen": "2026-10-24",
    "og_checked": false,
    "article": "5ceb2884218a93d5"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201398",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Podcast | Rebaja de condenas: ¿Chile cuida a los niños?",
-   "link": "https://www.ciperchile.cl/2026/10/23/podcast-rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-rebaja-de-condenas-chile-cuida-a-los-ninos",
-   "excerpt": "La entrada Podcast | Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "og_checked": true,
-   "article": ""
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201395",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Rebaja de condenas: ¿Chile cuida a los niños?",
-   "link": "https://www.ciperchile.cl/2026/10/23/rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=rebaja-de-condenas-chile-cuida-a-los-ninos",
-   "excerpt": "La entrada Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "og_checked": true,
-   "article": ""
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201415",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH",
-   "link": "https://www.ciperchile.cl/2026/10/23/fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh/?utm_source=rss&utm_medium=rss&utm_campaign=fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh",
-   "excerpt": "La entrada Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1181406-1-scaled.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "og_checked": true,
-   "article": "1db4ce18b3a19040"
   },
   {
    "id": "https://www.theverge.com/?p=1017447",
@@ -845,84 +845,6 @@ window.CIRCO = {
    "article": "51976c9dbca10a40"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/23/estrenos-filo-cinco-series-que-llegan-esta-semana-al-streaming",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Estrenos Filo: cinco series que llegan esta semana al streaming",
-   "link": "https://www.filo.news/noticia/2026/10/23/estrenos-filo-cinco-series-que-llegan-esta-semana-al-streaming",
-   "excerpt": "Repasamos los estrenos más destacados para que puedas maratonear el fin de semana. Lanzamientos, nuevos episodios y más en esta nota.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/nwt308unit_00410rc21263_re.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "a4d59008bf13fa0e"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/julieta-prandi-hablo-de-su-separacion-con-emanuel-ortega-tras-su-regreso-de-brasil",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Julieta Prandi habló de su separación con Emanuel Ortega, tras su regreso de Brasil",
-   "link": "https://www.filo.news/noticia/2026/10/23/julieta-prandi-hablo-de-su-separacion-con-emanuel-ortega-tras-su-regreso-de-brasil",
-   "excerpt": "La modelo se tomó unos días lejos de la exposición, luego de comunicar vía redes la disolución del matrimonio con el cantante a solo 27 días de haberse casado.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/julieta1147_re.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "baaffec4192c7d94"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/comenzo-el-juicio-por-el-caso-hotesur-los-sauces-estudiantes-a-la-final-de-la-libertadores-las-reformas-economicas-de-milei-bajo-presion-y-mas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Comenzó el juicio por el caso Hotesur-Los Sauces; Estudiantes a la final de la Libertadores; Las reformas económicas de Milei bajo presión y más...",
-   "link": "https://www.filo.news/noticia/2026/10/23/comenzo-el-juicio-por-el-caso-hotesur-los-sauces-estudiantes-a-la-final-de-la-libertadores-las-reformas-economicas-de-milei-bajo-presion-y-mas",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/20261021t122127z_491825739_rc2l7oao8aet_rtrmadp_3_spain-argentina3945_re.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "750cb1ccacaf9d21"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201380",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones",
-   "link": "https://www.ciperchile.cl/2026/10/23/fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones/?utm_source=rss&utm_medium=rss&utm_campaign=fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones",
-   "excerpt": "La entrada Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/WEB_recortes-1.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "ab769dcfb66f52ce"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201373",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños",
-   "link": "https://www.ciperchile.cl/2026/10/23/este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos",
-   "excerpt": "La entrada Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/Condenas_web.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "a0014cb7252663a5"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201363",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil",
-   "link": "https://www.ciperchile.cl/2026/10/23/estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil/?utm_source=rss&utm_medium=rss&utm_campaign=estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil",
-   "excerpt": "La entrada Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/bolsonaro_web.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "c658a6d5a0783519"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017157",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -1144,19 +1066,6 @@ window.CIRCO = {
    "article": "1ac89674c9fb5b13"
   },
   {
-   "id": "https://www.theverge.com/?p=1017066",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Meta turns Muse sharing back on",
-   "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-   "excerpt": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "7e16fd732643694d"
-  },
-  {
    "id": "https://theinspiration.com/?p=54752",
    "source": "The Inspiration",
    "category": "Publi",
@@ -1365,45 +1274,6 @@ window.CIRCO = {
    "article": "19774f251674e0c5"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201349",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Suprema sí tuvo fallos en contra de rebajas a abusadores sexuales; ministro Rau llama a afiliados a postergar jubilación por caída del Fondo E, y TC declara inadmisible requerimiento contra las RUF",
-   "link": "https://www.ciperchile.cl/2026/10/22/radar-22-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-22-10-2026",
-   "excerpt": "La entrada Suprema sí tuvo fallos en contra de rebajas a abusadores sexuales; ministro Rau llama a afiliados a postergar jubilación por caída del Fondo E, y TC declara inadmisible requerimiento contra las RUF se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "9159b037d0083c6b"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201334",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos”",
-   "link": "https://www.ciperchile.cl/2026/10/22/exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos/?utm_source=rss&utm_medium=rss&utm_campaign=exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos",
-   "excerpt": "La entrada Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos” se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/Simpertigue_web.png",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "45faea42f747b8d4"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201305",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Catástrofe en el Fondo E: siguiendo a la manada hacia el precipicio",
-   "link": "https://www.ciperchile.cl/2026/10/22/catastrofe-en-el-fondo-e-siguiendo-a-la-manada-hacia-el-precipicio/?utm_source=rss&utm_medium=rss&utm_campaign=catastrofe-en-el-fondo-e-siguiendo-a-la-manada-hacia-el-precipicio",
-   "excerpt": "La entrada Catástrofe en el Fondo E: siguiendo a la manada hacia el precipicio se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/afps-1023x573-e1544567160723.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "cbf4f94d68f731d7"
-  },
-  {
    "id": "https://musebyclios.com/?p=133914",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1415,19 +1285,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": true,
    "article": "58e0714a25541cb1"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201319",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal",
-   "link": "https://www.ciperchile.cl/2026/10/21/radar-21-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-21-10-26",
-   "excerpt": "La entrada SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "c535e31a10af8c2b"
   },
   {
    "id": "https://www.theverge.com/?p=1015281",
@@ -1586,45 +1443,6 @@ window.CIRCO = {
    "article": "8312408bd2b73a34"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201284",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Las AFP no responden si mantendrán en sus cargos a gerentes responsables de la multimillonaria pérdida del fondo E",
-   "link": "https://www.ciperchile.cl/2026/10/21/las-afp-no-responden-si-mantendran-en-sus-cargos-a-gerentes-responsables-de-la-multimillonaria-perdida-del-fondo-e/?utm_source=rss&utm_medium=rss&utm_campaign=las-afp-no-responden-si-mantendran-en-sus-cargos-a-gerentes-responsables-de-la-multimillonaria-perdida-del-fondo-e",
-   "excerpt": "La entrada Las AFP no responden si mantendrán en sus cargos a gerentes responsables de la multimillonaria pérdida del fondo E se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/AFP_Web-1.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "95256b531750756c"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201292",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "¿Operación Sitio 2.0? El riesgo de volver a la «Operación Tiza» de Frei Montalva",
-   "link": "https://www.ciperchile.cl/2026/10/21/operacion-sitio-2-0-el-riesgo-de-volver-a-la-operacion-tiza-de-frei-montalva/?utm_source=rss&utm_medium=rss&utm_campaign=operacion-sitio-2-0-el-riesgo-de-volver-a-la-operacion-tiza-de-frei-montalva",
-   "excerpt": "La entrada ¿Operación Sitio 2.0? El riesgo de volver a la «Operación Tiza» de Frei Montalva se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1708993-1-scaled.jpg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "33cea0d000d3f1e8"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201275",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Gobierno propone que las AFP puedan administrar nuevo ahorro para la vivienda y Comisión de Hacienda de diputados lo aprobó",
-   "link": "https://www.ciperchile.cl/2026/10/21/gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo",
-   "excerpt": "La entrada Gobierno propone que las AFP puedan administrar nuevo ahorro para la vivienda y Comisión de Hacienda de diputados lo aprobó se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/Vivienda_AFP_Web.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "4ceaab459b5e7a44"
-  },
-  {
    "id": "https://www.theverge.com/?p=1014261",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1636,32 +1454,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": true,
    "article": "9b6b227aa523de81"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201264",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Testimonio de Gonzalo Migueles confirma reunión de senadora Carvajal y Najle cuando este postulaba a conservador",
-   "link": "https://www.ciperchile.cl/2026/10/20/testimonio-de-gonzalo-migueles-confirma-reunion-de-senadora-carvajal-y-najle-cuando-este-postulaba-a-conservador/?utm_source=rss&utm_medium=rss&utm_campaign=testimonio-de-gonzalo-migueles-confirma-reunion-de-senadora-carvajal-y-najle-cuando-este-postulaba-a-conservador",
-   "excerpt": "La entrada Testimonio de Gonzalo Migueles confirma reunión de senadora Carvajal y Najle cuando este postulaba a conservador se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/najle-web.png",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "92c05d3efdfbfd5a"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201250",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Inician proceso sancionatorio a las AFP por caída en los fondos D y E; Cámara aprueba proyecto que moderniza e incentiva a Carabineros, y SII rebajará contribuciones a afectados por catástrofes naturales de 2026",
-   "link": "https://www.ciperchile.cl/2026/10/20/radar-20-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-20-10-26",
-   "excerpt": "La entrada Inician proceso sancionatorio a las AFP por caída en los fondos D y E; Cámara aprueba proyecto que moderniza e incentiva a Carabineros, y SII rebajará contribuciones a afectados por catástrofes naturales de 2026 se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "3c4de6ab2539ef70"
   },
   {
    "id": "https://www.theverge.com/?p=1014999",
