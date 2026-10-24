@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-23T21:05-03:00",
+ "updated": "2026-10-24T02:08-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -64,6 +64,71 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1018021",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "OpenAI now trains its frontier AI models with no internet access",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+   "excerpt": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "og_checked": true,
+   "article": "b72669c84c64b68d"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017906",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+   "excerpt": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "og_checked": true,
+   "article": "740465d534ba2a35"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/estrenos-filo-or-clayface-queres-ser-mi-hijo-que-peliculas-llegan-esta-semana-al-cine-y-plataformas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Estrenos Filo | \"Clayface\", \"¿Querés ser mi hijo?\": ¿qué películas llegan esta semana al cine y plataformas?",
+   "link": "https://www.filo.news/noticia/2026/10/23/estrenos-filo-or-clayface-queres-ser-mi-hijo-que-peliculas-llegan-esta-semana-al-cine-y-plataformas",
+   "excerpt": "Cuando \"¿qué vemos?\", se transforme en la clásica pregunta, ya sabés qué responder. Te acercamos la cartelera con las novedades para comenzar el fin de semana.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/clayface9777_re.jpg",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "5ceb2884218a93d5"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201398",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Podcast | Rebaja de condenas: ¿Chile cuida a los niños?",
+   "link": "https://www.ciperchile.cl/2026/10/23/podcast-rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-rebaja-de-condenas-chile-cuida-a-los-ninos",
+   "excerpt": "La entrada Podcast | Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "og_checked": true,
+   "article": ""
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201395",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Rebaja de condenas: ¿Chile cuida a los niños?",
+   "link": "https://www.ciperchile.cl/2026/10/23/rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=rebaja-de-condenas-chile-cuida-a-los-ninos",
+   "excerpt": "La entrada Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "og_checked": true,
+   "article": ""
+  },
   {
    "id": "https://www.theverge.com/?p=1017447",
    "source": "The Verge · IA",
@@ -754,45 +819,6 @@ window.CIRCO = {
    "article": "2c62a472be6abbf3"
   },
   {
-   "id": "https://www.theverge.com/?p=1017012",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Discord now formats Markdown previews right",
-   "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-   "excerpt": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "1d4350a753c34d2a"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1016905",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-   "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-   "excerpt": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "72b443cefd2d9c4b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/la-espera-termino-bts-se-presento-en-el-estadio-unico-de-la-plata",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La espera terminó: BTS se presentó en el Estadio Único de La Plata",
-   "link": "https://www.filo.news/noticia/2026/10/22/la-espera-termino-bts-se-presento-en-el-estadio-unico-de-la-plata",
-   "excerpt": "El grupo surcoreano se presentó por primera vez en el Estadio Único de La Plata en el marco del \"Arirang Tour\", en lo que fue una noche de emoción compartida entre fans.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/bts16789_re.jpeg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "0c24d65d67f55eee"
-  },
-  {
    "id": "https://www.theverge.com/?p=1016524",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -1383,8 +1409,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -1716,39 +1742,13 @@ window.CIRCO = {
    "article": "82466144c14d54db"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201224",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Cuando la cárcel cruza fronteras: el PCC y su expansión criminal",
-   "link": "https://www.ciperchile.cl/2026/10/19/cuando-la-carcel-cruza-fronteras-el-pcc-y-su-expansion-criminal/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-la-carcel-cruza-fronteras-el-pcc-y-su-expansion-criminal",
-   "excerpt": "La entrada Cuando la cárcel cruza fronteras: el PCC y su expansión criminal se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1016614-scaled.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "0754466179cada68"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201208",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Tramitan expulsiones de extranjeros detenidos en aniversario del estallido; Suprema da la razón a aseguradoras por rentas vitalicias del tercer retiro, y alcalde de Chillán queda con arraigo nacional por eventual fraude al fisco",
-   "link": "https://www.ciperchile.cl/2026/10/19/radar-19-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-19-10-26",
-   "excerpt": "La entrada Tramitan expulsiones de extranjeros detenidos en aniversario del estallido; Suprema da la razón a aseguradoras por rentas vitalicias del tercer retiro, y alcalde de Chillán queda con arraigo nacional por eventual fraude al fisco se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "2c61fd3f898b49cb"
-  },
-  {
    "id": "yt:video:tpZOU1ugODQ",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -1890,8 +1890,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
    "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2184,6 +2184,32 @@ window.CIRCO = {
    "article": "f2b494d375f6f16c"
   },
   {
+   "id": "yt:video:rkK8ZyzYyEA",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "8 GitHub Repos To Go Viral and Make Money",
+   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
+   "day": "2026-10-10",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "yt:video:bQPU6UJ4iCw",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "13 Businesses for the Age of AI",
+   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
+   "day": "2026-10-10",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "https://musebyclios.com/?p=133541",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -2195,110 +2221,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "f96a574c6360de1a"
-  },
-  {
-   "id": "https://bencorde.com/blog/como-crear-influencers-ia-higgsfield-genjutsu/",
-   "source": "Benjamín Cordero",
-   "category": "Tech + la IA",
-   "title": "Cómo crear influencers con IA en Higgsfield: personaje, movimiento y anuncios",
-   "link": "https://bencorde.com/blog/como-crear-influencers-ia-higgsfield-genjutsu/",
-   "excerpt": "Crea un personaje consistente con AI Influencer de Higgsfield, dale movimiento con Genjutsu y descubre cómo lo uso para producir variaciones de anuncios.",
-   "image": "https://bencorde.com/blog/como-crear-influencers-ia-higgsfield-genjutsu/imagenes/portada.jpg",
-   "day": "2026-10-09",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "905487f6dbf37ba9"
-  },
-  {
-   "id": "https://theinspiration.com/?p=54730",
-   "source": "The Inspiration",
-   "category": "Publi",
-   "title": "Ramp — Tony Stock: Pro Trader",
-   "link": "https://theinspiration.com/2026/10/ramp-tony-stock-pro-trader/",
-   "excerpt": "Ramp turned finance software into an unexpected love letter to skateboarding culture. When Tony Hawk finds himself targeted by the skate mafia, he enters witness protection and is hidden in the last place anyone would expect: a Wall Street trading floor, under the name Anthony…",
-   "image": "https://theinspiration.com/wp-content/uploads/Skaermbillede-2026-10-09-kl.-07.52.29-750x536.webp",
-   "day": "2026-10-09",
-   "first_seen": "2026-10-17",
-   "og_checked": false,
-   "article": "c54bd50479590611"
-  },
-  {
-   "id": "https://theinspiration.com/?p=54721",
-   "source": "The Inspiration",
-   "category": "Publi",
-   "title": "Ōura — Wear Your Best Life",
-   "link": "https://theinspiration.com/2026/10/oura-wear-your-best-life/",
-   "excerpt": "Ōura challenges the one-size-fits-all idea of wellness by celebrating the many different ways people live their best lives. Instead of relying on AI-generated visuals, the campaign brings its message to life through a handcrafted miniature city in Prague, where real performers’…",
-   "image": "https://theinspiration.com/wp-content/uploads/oura-bts-7-750x536.webp",
-   "day": "2026-10-09",
-   "first_seen": "2026-10-17",
-   "og_checked": false,
-   "article": "45d06ae8f7e822bc"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133528",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Turning Donations Into Fireflies for the Princess Margaret Cancer Foundation",
-   "link": "https://musebyclios.com/musings/how-we-turned-donations-into-fireflies-for-princess-margaret-cancer-foundation/?utm_source=rss&utm_medium=rss&utm_campaign=how-we-turned-donations-into-fireflies-for-princess-margaret-cancer-foundation",
-   "excerpt": "How do you show the impact of a donation? Not just where it goes, but what happens when it joins thousands of others? You can show the amount. You can show what it helps fund. But neither really captures the emotion, the hope and the impact that happens when one act of…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/09135215/FF1-2.jpeg",
-   "day": "2026-10-09",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "fbefb5635eecfeaf"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133512",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Getty Images, Land O’Lakes Take a Fresh Look at Rural America",
-   "link": "https://musebyclios.com/advertising/getty-images-land-olakes-take-a-fresh-look-at-rural-america/?utm_source=rss&utm_medium=rss&utm_campaign=getty-images-land-olakes-take-a-fresh-look-at-rural-america",
-   "excerpt": "Industry pros attending the 2026 edition of Advertising Week in New York and seeking to savor Time Square’s big-city vibe got an unexpected dose of rural Americana courtesy of Getty Images, Land O’Lakes and Clear Channel Outdoor. Scenes of small-town life flashed across digital…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/09113305/GETTY3.jpg",
-   "day": "2026-10-09",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "2fa7e26efc287e8e"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133504",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "From Creation to Curation: How AI Is Reshaping Hollywood’s Fandom Economy",
-   "link": "https://musebyclios.com/musings/from-creation-to-curation-how-ai-is-reshaping-hollywoods-fandom-economy/?utm_source=rss&utm_medium=rss&utm_campaign=from-creation-to-curation-how-ai-is-reshaping-hollywoods-fandom-economy",
-   "excerpt": "The biggest idea to emerge from a recent gathering of entertainment and technology leaders was also one of the most practical: The next chapter of artificial intelligence in Hollywood may be less about creation than curation. As generative tools make it easier to produce more…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/09090835/ME2.jpg",
-   "day": "2026-10-09",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "e6356c6900ebc5fd"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133495",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "AWNY26: Neuemotion Creates Game Show Based on Ad-Biz Trivia",
-   "link": "https://musebyclios.com/advertising/awny26-neuemotion-creates-game-show-based-on-ad-biz-trivia/?utm_source=rss&utm_medium=rss&utm_campaign=awny26-neuemotion-creates-game-show-based-on-ad-biz-trivia",
-   "excerpt": "This year’s edition of Advertising Week New York hosted a game show from Neuemotion done in the spirit of Jeopardy! and Wheel of Fortune. Winners were awarded $1,000 for donation to an educational charity of their choice. “If I May Ad” gathered three contestants during each day…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/09085953/If-I-May-Ad-Main-scaled.jpg",
-   "day": "2026-10-09",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "9d13ec0f8627de44"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133487",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "NYON Collab With ‘Sesame Street’ Brings a Nostalgic Feel to Fashion",
-   "link": "https://musebyclios.com/film-tv/nyon-collab-with-sesame-street-brings-nostalgic-feel-to-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=nyon-collab-with-sesame-street-brings-nostalgic-feel-to-fashion",
-   "excerpt": "Apparel brand New York or Nowhere has launched a limited-edition collection with Sesame Street celebrating the high energy, humor and nostalgia of the city. Comedian and social media star Jake Shane fronts the campaign. The NYON x Sesame Street collection includes 57…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/09085706/NYON-26-Sesame-Street-Lifestyle-look-1-6_RT-e1791491701812.jpg",
-   "day": "2026-10-09",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "03441e48b0fa8ca8"
   }
  ]
 };
