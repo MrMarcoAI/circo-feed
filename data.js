@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-24T02:08-03:00",
+ "updated": "2026-10-24T10:50-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/@GregIsenberg"
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
   },
   {
    "name": "Benjamín Cordero",
@@ -64,6 +64,71 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.applesfera.com/seleccion/outlet-mediamarkt-esta-liquidando-este-ipad-air-13-pulgadas-esta-nuevo-barato-que-antes-subida-precios",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "El outlet de MediaMarkt está liquidando este iPad Air de 13 pulgadas: está nuevo y es más barato que antes de la subida de precios",
+   "link": "https://www.applesfera.com/seleccion/outlet-mediamarkt-esta-liquidando-este-ipad-air-13-pulgadas-esta-nuevo-barato-que-antes-subida-precios",
+   "excerpt": "Una semana más, volvemos a bichear el outlet que tiene MediaMarkt en busca de algún dispositivo a buen precio. En esta ocasión, hemos encontrado un iPad Air M4 en su versión de 13 pulgadas y lo cierto es que tiene un precio muy interesante: sale por 798,15 euros . Y, al…",
+   "image": "https://i.blogs.es/88d3cb/ipad-air-m4-outlet-de-mediamarkt/1024_2000.jpeg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "c2247c3d4c91ecd5"
+  },
+  {
+   "id": "https://www.applesfera.com/iphone/iphone-17-pro-max-ano-despues-que-creo-que-mejor-ultimos-anos",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "iPhone 17 Pro Max, un año después y por qué creo que es el mejor de los últimos años",
+   "link": "https://www.applesfera.com/iphone/iphone-17-pro-max-ano-despues-que-creo-que-mejor-ultimos-anos",
+   "excerpt": "Han pasado exactamente 400 días desde que estrené el iPhone 17 Pro Max . Y hace poco más de un mes que no es el mejor móvil de Apple, ya que ese honor lo atesora ahora el iPhone 18 Pro Max . Sin embargo, no tengo ni un solo motivo para querer cambiarlo . Y no solo porque no haya…",
+   "image": "https://i.blogs.es/2d24e8/iphone-17-pro-max/1024_2000.jpeg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "dc092e46708dcdf4"
+  },
+  {
+   "id": "https://musebyclios.com/?p=133972",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "From the 1960s to the 2000s, These Album Covers Capture the Spirit of Their Times",
+   "link": "https://musebyclios.com/art-of-the-album/from-the-1960s-to-the-2000s-these-album-covers-reflect-the-spirit-of-their-times/?utm_source=rss&utm_medium=rss&utm_campaign=from-the-1960s-to-the-2000s-these-album-covers-reflect-the-spirit-of-their-times",
+   "excerpt": "These are five of my favorite records, representing each decade from the 1960s to the 2000s. The music is why I bought them, but the artwork is a huge part of why they’ve stayed with me. I can almost hear the tunes when I look at the sleeves. For me, you can’t separate one from…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/24092647/LP-radiohead.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": true,
+   "article": "96883a13a6db8639"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/colapinto-mejoro-en-austin-pero-debera-afrontar-una-sancion",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Colapinto mejoró en Austin pero deberá afrontar una sanción",
+   "link": "https://www.filo.news/noticia/2026/10/24/colapinto-mejoro-en-austin-pero-debera-afrontar-una-sancion",
+   "excerpt": "El piloto argentino finalizó decimoquinto en los ensayos del Gran Premio de Estados Unidos tras recibir una penalización.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/capturadepantalla_2026-10-24_0902234472_re.png",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "8ef424eafcb22a56"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/24/milei-auguro-un-triunfo-de-bolsonaro-y-defendio-su-modelo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Milei auguró un triunfo de Bolsonaro y defendió su modelo",
+   "link": "https://www.filo.news/noticia/2026/10/24/milei-auguro-un-triunfo-de-bolsonaro-y-defendio-su-modelo",
+   "excerpt": "El mandatario disertó en la cena de la Fundación Faro, donde reivindicó el ajuste fiscal y trazó sus metas geopolíticas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/images52)5527_re.jpg",
+   "day": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "og_checked": false,
+   "article": "6480bf86931708a3"
+  },
   {
    "id": "https://www.theverge.com/?p=1018021",
    "source": "The Verge · IA",
@@ -343,7 +408,7 @@ window.CIRCO = {
    "category": "Publi",
    "title": "Compleat Designed Halloween Costumes for Kids With Feeding Tubes",
    "link": "https://musebyclios.com/health/compleat-made-halloween-costumes-for-kids-with-feeding-tubes/?utm_source=rss&utm_medium=rss&utm_campaign=compleat-made-halloween-costumes-for-kids-with-feeding-tubes",
-   "excerpt": "Most kids who want to dress as cowgirls, princesses, superheroes or even flower bouquets for Halloween have plenty of costume options. But youngsters who rely on feeding tubes can face special wardrobe challenges. In many cases, traditional costumes prove impractical or even…",
+   "excerpt": "For Halloween, Wyatt wants to dress up as a superhero. Scarlett dreams of being a cowgirl-princess. And true to her name, Lavender envisions trick-or-treating as a bouquet of flowers. These young people deserve to see their Spooky Season dreams come true. But they rely on…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/23094316/costume-tops.jpeg",
    "day": "2026-10-23",
    "first_seen": "2026-10-23",
@@ -975,19 +1040,6 @@ window.CIRCO = {
    "article": "e64ce058a67f7790"
   },
   {
-   "id": "https://www.applesfera.com/rumores/primer-macbook-tactil-filtrado-se-anuncia-semana-que-viene-esto-que-esperamos-que-no",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "En solo seis días conoceremos el primer MacBook táctil. Y ya se han filtrado más novedades",
-   "link": "https://www.applesfera.com/rumores/primer-macbook-tactil-filtrado-se-anuncia-semana-que-viene-esto-que-esperamos-que-no",
-   "excerpt": "Lo confirmado por Apple es que la próxima semana presentará novedades . Lo no confirmado es qué presentará . Sin embargo, llevamos tiempo asistiendo a filtraciones muy confiables que apuntan a los primeros MacBook táctiles de la compañía. Tanto es así que hasta el propio código…",
-   "image": "https://i.blogs.es/759472/macbook-pro/1024_2000.jpeg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "16b0d9801cb8646a"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017151",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -1274,32 +1326,6 @@ window.CIRCO = {
    "article": "473bfbdfcf8702c2"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/22/el-llamado-que-emociono-a-nico-vazquez-no-podia-creerlo-apenas-pude-poner-a-grabar-la-pantalla",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El llamado que emocionó a Nico Vázquez: \"No podía creerlo, apenas pude poner a grabar la pantalla\"",
-   "link": "https://www.filo.news/noticia/2026/10/22/el-llamado-que-emociono-a-nico-vazquez-no-podia-creerlo-apenas-pude-poner-a-grabar-la-pantalla",
-   "excerpt": "",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/vazquez3767_re.png",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "78a439b7f40270c7"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/milei-nadie-niega-que-haya-ninos-pobres-pero-son-muchos-menos-de-los-que-habia-antes",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Milei:  \"Nadie niega que haya niños pobres, pero son muchos menos de los que había antes\"",
-   "link": "https://www.filo.news/noticia/2026/10/22/milei-nadie-niega-que-haya-ninos-pobres-pero-son-muchos-menos-de-los-que-habia-antes",
-   "excerpt": "El presidente habló en declaraciones radiales en el día de su cumpleaños y volvió a referirse a la pobreza en Argentina.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/17088105192402245524559_re.jpeg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "47648339d931e2c0"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201349",
    "source": "CIPER",
    "category": "Notis",
@@ -1378,19 +1404,6 @@ window.CIRCO = {
    "article": "82a14ad94f40d4bc"
   },
   {
-   "id": "https://www.applesfera.com/apple-tv/ted-lasso-quiere-ted-lasso-da-hecho-que-apple-tv-tambien",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "¿Habrá quinta temporada de Ted Lasso? El mismísimo Ted ya ha contestado",
-   "link": "https://www.applesfera.com/apple-tv/ted-lasso-quiere-ted-lasso-da-hecho-que-apple-tv-tambien",
-   "excerpt": "Ted Lasso nos hizo muy felices. Tanto que no paramos de pedir una temporada más y al final llegó la cuarta. Tres años después de la tercera, eso sí. Pero ver otra vez a Ted y a toda su gente fue un gustazo. Y ahora que ya ha terminado , nos ronda a muchos la misma pregunta:…",
-   "image": "https://i.blogs.es/13009f/super-resolucion/1024_2000.jpeg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": false,
-   "article": "a8ca3a124db6ba61"
-  },
-  {
    "id": "https://www.theverge.com/?p=1015281",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1409,8 +1422,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
+   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -1747,8 +1760,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
+   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -1890,8 +1903,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
    "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
+   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2182,32 +2195,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "f2b494d375f6f16c"
-  },
-  {
-   "id": "yt:video:rkK8ZyzYyEA",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "8 GitHub Repos To Go Viral and Make Money",
-   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
-   "day": "2026-10-10",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": ""
-  },
-  {
-   "id": "yt:video:bQPU6UJ4iCw",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "13 Businesses for the Age of AI",
-   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
-   "day": "2026-10-10",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": ""
   },
   {
    "id": "https://musebyclios.com/?p=133541",
