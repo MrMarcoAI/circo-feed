@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-23T18:44-03:00",
+ "updated": "2026-10-23T21:05-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -247,32 +247,6 @@ window.CIRCO = {
    "article": "dd390d9e8ff66368"
   },
   {
-   "id": "https://www.theverge.com/?p=1018021",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "OpenAI now trains its frontier AI models with no internet access",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-   "excerpt": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "b72669c84c64b68d"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017906",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-   "excerpt": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "740465d534ba2a35"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017450",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -304,7 +278,7 @@ window.CIRCO = {
    "category": "Publi",
    "title": "Compleat Designed Halloween Costumes for Kids With Feeding Tubes",
    "link": "https://musebyclios.com/health/compleat-made-halloween-costumes-for-kids-with-feeding-tubes/?utm_source=rss&utm_medium=rss&utm_campaign=compleat-made-halloween-costumes-for-kids-with-feeding-tubes",
-   "excerpt": "Most kids who want to dress as cowgirls, princesses, superheroes or even flower bouquets for Halloween have plenty of options. But youngsters who rely on feeding tubes face special challenges. In many cases, traditional costumes prove impractical or even impossible for them to…",
+   "excerpt": "Most kids who want to dress as cowgirls, princesses, superheroes or even flower bouquets for Halloween have plenty of costume options. But youngsters who rely on feeding tubes can face special wardrobe challenges. In many cases, traditional costumes prove impractical or even…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/23094316/costume-tops.jpeg",
    "day": "2026-10-23",
    "first_seen": "2026-10-23",
@@ -401,6 +375,32 @@ window.CIRCO = {
    "first_seen": "2026-10-23",
    "og_checked": false,
    "article": "9366eb8272d20c86"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/impronta-y-sentido-de-pertenencia-que-ofrece-la-renovada-escena-gastronomica-rosarina",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Impronta y sentido de pertenencia: qué ofrece la renovada escena gastronómica rosarina",
+   "link": "https://www.filo.news/noticia/2026/10/23/impronta-y-sentido-de-pertenencia-que-ofrece-la-renovada-escena-gastronomica-rosarina",
+   "excerpt": "Cocina de autor, innovación y revalorización de lo tradicional son algunos de los ejes que definen el panorama actual del sector culinario de la ciudad santafesina.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/fotorodrigo_ruiz_ciancia-86074808_re.jpg",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "06b20320193ac7c7"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/23/festival-republica-folklore-como-sera-por-dentro-la-primera-edicion-del-evento-de-musica-mas-federal",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Festival República Folklore: cómo será por dentro la primera edición del evento de música más federal",
+   "link": "https://www.filo.news/noticia/2026/10/23/festival-republica-folklore-como-sera-por-dentro-la-primera-edicion-del-evento-de-musica-mas-federal",
+   "excerpt": "Previsto para el 21 y 22 de noviembre el evento, que reunirá a los grandes exponentes de la música regional, muestra el despliegue gastronómico, actividades y experiencias que se podrán disfrutar en el predio.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/festival8970_re.jpg",
+   "day": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "a071ca9a613dbc54"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/23/las-universidades-le-entregaron-al-papa-leon-xiv-un-informe-sobre-la-situacion-de-las-universidades-publicas",
@@ -752,6 +752,45 @@ window.CIRCO = {
    "first_seen": "2026-10-23",
    "og_checked": true,
    "article": "2c62a472be6abbf3"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017012",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Discord now formats Markdown previews right",
+   "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+   "excerpt": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "1d4350a753c34d2a"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1016905",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+   "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+   "excerpt": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "og_checked": true,
+   "article": "72b443cefd2d9c4b"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/22/la-espera-termino-bts-se-presento-en-el-estadio-unico-de-la-plata",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La espera terminó: BTS se presentó en el Estadio Único de La Plata",
+   "link": "https://www.filo.news/noticia/2026/10/22/la-espera-termino-bts-se-presento-en-el-estadio-unico-de-la-plata",
+   "excerpt": "El grupo surcoreano se presentó por primera vez en el Estadio Único de La Plata en el marco del \"Arirang Tour\", en lo que fue una noche de emoción compartida entre fans.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/bts16789_re.jpeg",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "og_checked": false,
+   "article": "0c24d65d67f55eee"
   },
   {
    "id": "https://www.theverge.com/?p=1016524",
@@ -1233,45 +1272,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": false,
    "article": "47648339d931e2c0"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-estados-unidos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Corre Franco Colapinto en la Fórmula 1: días y horarios del GP de Estados Unidos",
-   "link": "https://www.filo.news/noticia/2026/10/22/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-estados-unidos",
-   "excerpt": "Tras dos semanas de descanso, el piloto argentino volverá a la acción este fin de semana en el Circuito de las Américas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/20261009t102058z_1033871389_up1ema90sqx9p_rtrmadp_3_motor-f1-singapore8969_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "4bfbe44e1d0994e9"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/la-ciudad-anuncio-cortes-de-transito-por-la-llegada-del-papa-leon-xiv",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La Ciudad anunció cortes de tránsito por la llegada del papa León XIV",
-   "link": "https://www.filo.news/noticia/2026/10/22/la-ciudad-anuncio-cortes-de-transito-por-la-llegada-del-papa-leon-xiv",
-   "excerpt": "Los trabajos previos a la llegada del sumo pontífice comenzarán este sábado 24 de octubre, donde habrá un corte total en Av. del Libertador, entre Colombia y Sarmiento, por el armado de estructuras.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/2025082508105089340_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "41ae807bd8ed053b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/22/biografia-de-jorge-luis-borges-la-pelicula-de-mariano-llinas-y-laura-citarella-revelo-cuando-se-estrena-y-su-trailer",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "\"Biografía de Jorge Luis Borges\": la película de Mariano Llinás y Laura Citarella reveló cuándo se estrena y su trailer",
-   "link": "https://www.filo.news/noticia/2026/10/22/biografia-de-jorge-luis-borges-la-pelicula-de-mariano-llinas-y-laura-citarella-revelo-cuando-se-estrena-y-su-trailer",
-   "excerpt": "Tras su paso por festivales internacionales de cine como Venecia, Toronto y Nueva York, el film que compila un recorrido de archivo por la vida del célebre autor, anunció su llegada a las salas compartiendo su primer adelanto.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/22/03borgesxml.01_07_34_23.imagen_fija0481453_re.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "2b18293dac3b9365"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201349",
