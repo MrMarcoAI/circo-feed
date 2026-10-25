@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-25T18:17-03:00",
+ "updated": "2026-10-25T20:38-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -64,6 +64,19 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1018233",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+   "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+   "excerpt": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": true,
+   "article": "5cdd4997f94f2dc6"
+  },
   {
    "id": "https://www.theverge.com/?p=1018290",
    "source": "The Verge · Apple",
@@ -167,6 +180,58 @@ window.CIRCO = {
    "first_seen": "2026-10-25",
    "og_checked": true,
    "article": "cd697708de50936b"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/balotaje-en-brasil-flavio-bolsonaro-da-vuelta-la-eleccion-y-se-impone-ante-lula-con-el-35-de-votos-escrutados",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Parejo balotaje en Brasil: Lula da Silva vuelve a imponerse en los comicios frente a Flávio Bolsonaro",
+   "link": "https://www.filo.news/noticia/2026/10/25/balotaje-en-brasil-flavio-bolsonaro-da-vuelta-la-eleccion-y-se-impone-ante-lula-con-el-35-de-votos-escrutados",
+   "excerpt": "Con el 50% de los votos escrutados, Lula da Silva se impone con el 50,15% de los votos frente al 49,85% de Flávio Bolsonaro.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/diputados20)3451_re.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "6bbe0f99241bf9ab"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/lula-da-silva-se-impone-en-los-primeros-resultados-del-balotaje-pero-flavio-bolsonaro-todavia-puede-dar-vuelta-la-eleccion",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Balotaje en Brasil: Flávio Bolsonaro da vuelta la elección y se impone ante Lula, con casi el 30% de votos escrutados",
+   "link": "https://www.filo.news/noticia/2026/10/25/lula-da-silva-se-impone-en-los-primeros-resultados-del-balotaje-pero-flavio-bolsonaro-todavia-puede-dar-vuelta-la-eleccion",
+   "excerpt": "Con el 29,16% de los votos escrutados, Flávio Bolsonaro se impone con el 50,47% de los votos frente al 49,53% de Lula da Silva.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/diputados20)1739_re.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "345dc47c4b6fee8c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/boca-vencio-a-independiente-con-un-gol-agonico-de-jagger-herrera",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Boca venció a Independiente con un gol agónico de Jagger Herrera",
+   "link": "https://www.filo.news/noticia/2026/10/25/boca-vencio-a-independiente-con-un-gol-agonico-de-jagger-herrera",
+   "excerpt": "El Xeneize se impuso 1-0 en Avellaneda gracias a un cabezazo del juvenil, que convirtió su primer tanto como profesional. Además, aseguró su clasificación a los octavos de final del Torneo Clausura.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/202610261025825-scaled1554_re.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "6c51044408cd6ab3"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/franco-colapinto-abandono-el-gp-de-estados-unidos-de-formula-1-y-kimi-antonelli-se-quedo-con-la-victoria",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Franco Colapinto abandonó el GP de Estados Unidos de Fórmula 1 y Kimi Antonelli se quedó con la victoria",
+   "link": "https://www.filo.news/noticia/2026/10/25/franco-colapinto-abandono-el-gp-de-estados-unidos-de-formula-1-y-kimi-antonelli-se-quedo-con-la-victoria",
+   "excerpt": "El argentino no pudo completar la carrera por daños en su Alpine, mientras que el piloto de Mercedes se impuso por delante de Charles Leclerc y Max Verstappen, quedando más cerca del título.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/45lne2ijr5dw7lrphnzlih4b6i1)6456_re.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "3a49ac06334063c3"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/25/balotaje-en-brasil-se-oficializaron-los-primeros-resultados-pese-a-la-extension-del-horario-de-votacion-hasta-las-19",
@@ -583,58 +648,6 @@ window.CIRCO = {
    "first_seen": "2026-10-24",
    "og_checked": false,
    "article": "cf5da7f6202ecc88"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/24/chaco-la-crecida-del-rio-parana-inundo-barranqueras-y-obligo-a-evacuar-a-mas-de-mil-familias",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Chaco: La crecida del río Paraná inundó barranqueras y obligó a evacuar a mas de mil familias",
-   "link": "https://www.filo.news/noticia/2026/10/24/chaco-la-crecida-del-rio-parana-inundo-barranqueras-y-obligo-a-evacuar-a-mas-de-mil-familias",
-   "excerpt": "El cauce superó los siete metros en la costa chaqueña obligando a evacuar viviendas hacia las banquinas de la ruta.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/images55)8564_re.jpg",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": "e8457a5aa7194ac5"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/24/resumen-israel-respaldaria-a-argentina-universitarios-dan-informe-al-papa-leon-milei-augura-victoria-de-bolsonaro",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Resumen: Israel respaldaría a Argentina - Universitarios dan informe al Papa León - Milei augura victoria de Bolsonaro",
-   "link": "https://www.filo.news/noticia/2026/10/24/resumen-israel-respaldaria-a-argentina-universitarios-dan-informe-al-papa-leon-milei-augura-victoria-de-bolsonaro",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/capturadepantalla_2026-10-24_1101369120_re.png",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": "9d8bace750c1321e"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/24/hallaron-un-pozo-cerca-de-la-casa-de-una-detenida-por-nanci-godoy",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Hallaron un pozo cerca de la casa de una detenida por Nanci Godoy",
-   "link": "https://www.filo.news/noticia/2026/10/24/hallaron-un-pozo-cerca-de-la-casa-de-una-detenida-por-nanci-godoy",
-   "excerpt": "La Justicia dictó la prisión preventiva para dos nuevos sospechosos y profundizó los rastrillajes en parajes rurales de Corrientes.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/nancygodoycon_vida_ya_3591_re.jpg",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": "c5de2e9c9e8f4101"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/24/medios-de-britanicos-afirman-que-israel-respaldaria-la-postura-de-argentina-en-el-reclamo-por-las-malvinas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Medios de británicos afirman que Israel respaldaría la postura de Argentina en el reclamo por las Malvinas",
-   "link": "https://www.filo.news/noticia/2026/10/24/medios-de-britanicos-afirman-que-israel-respaldaria-la-postura-de-argentina-en-el-reclamo-por-las-malvinas",
-   "excerpt": "El primer ministro Benjamín Netanyahu habría ordenado a su cuerpo diplomático apoyar el planteo soberano en el Atlántico Sur.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/capturadepantalla_2026-10-24_1101364230_re.png",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": "a83f8bc729c05dce"
   },
   {
    "id": "https://www.theverge.com/?p=1017983",
@@ -1183,19 +1196,6 @@ window.CIRCO = {
    "article": "2c62a472be6abbf3"
   },
   {
-   "id": "https://www.theverge.com/?p=1016524",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Delta can turn the iPhone Duo into your favorite folding handheld",
-   "link": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
-   "excerpt": "The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which include optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins, custom Pokémon DLC experiences, and a new UI that was…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Delta-2.0-lineup-update.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "cdbc273b17319363"
-  },
-  {
    "id": "https://www.applesfera.com/ios/primer-rastro-ios-28-esta-codigo-iphone",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -1513,8 +1513,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -1773,8 +1773,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -1916,8 +1916,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
    "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2195,6 +2195,32 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "964d2c08765507a5"
+  },
+  {
+   "id": "yt:video:rkK8ZyzYyEA",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "8 GitHub Repos To Go Viral and Make Money",
+   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
+   "day": "2026-10-11",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "yt:video:bQPU6UJ4iCw",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "13 Businesses for the Age of AI",
+   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
+   "day": "2026-10-11",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://musebyclios.com/?p=133563",
