@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-25T11:07-03:00",
+ "updated": "2026-10-25T13:52-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,32 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1018253",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Now you can watch Instagram Reels on your Apple TV",
+   "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+   "excerpt": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&strip=all&crop=0%2C3.4371763956174%2C100%2C93.125647208765&w=1200",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": true,
+   "article": "63171dfdacc91ed2"
+  },
+  {
+   "id": "https://www.applesfera.com/curiosidades/touch-id-llego-gracias-a-demo-que-salio-fatal-fue-delante-ibm",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "El Touch ID llegó gracias a una demo que salió fatal. Fue delante de IBM",
+   "link": "https://www.applesfera.com/curiosidades/touch-id-llego-gracias-a-demo-que-salio-fatal-fue-delante-ibm",
+   "excerpt": "Detrás del Touch ID hay una historia bastante curiosa . La de la pequeña empresa que Apple compró para tenerlo, y empieza con una demostración que salió fatal. Aún recuerdo aquella presentación del iPhone 5s con el Touch ID y ese borde dorado alrededor del botón. Hoy es algo que…",
+   "image": "https://i.blogs.es/7f4324/iphone-5s-/1024_2000.jpeg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "dff3a85c2d2e076b"
+  },
+  {
    "id": "https://www.applesfera.com/seleccion/pccomponentes-tiene-este-macbook-neo-reacondicionado-como-nuevo-512-gb-mucho-barato-que-256-gb",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -115,6 +141,32 @@ window.CIRCO = {
    "first_seen": "2026-10-25",
    "og_checked": true,
    "article": "cd697708de50936b"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/repudio-a-dichos-de-jeremy-clarkson-contra-franco-colapinto-y-su-nacionalidad",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Repudio a dichos de Jeremy Clarkson contra Franco Colapinto y su nacionalidad",
+   "link": "https://www.filo.news/noticia/2026/10/25/repudio-a-dichos-de-jeremy-clarkson-contra-franco-colapinto-y-su-nacionalidad",
+   "excerpt": "El presentador británico ironizó sobre la nacionalidad del piloto de Alpine en la antesala del Gran Premio de Estados Unidos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/capturadepantalla_2026-10-25_1327511284_re.png",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "f9f1df777e40942a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/miles-de-manifestantes-marcharon-en-espana-e-italia-con-reclamos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Miles de manifestantes marcharon en España e Italia con reclamos",
+   "link": "https://www.filo.news/noticia/2026/10/25/miles-de-manifestantes-marcharon-en-espana-e-italia-con-reclamos",
+   "excerpt": "Las movilizaciones contra el costo de vida y en defensa de las jubilaciones se desarrollaron bajo fuerte custodia policial.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/capturadepantalla_2026-10-25_0901008582_re.png",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "658fbe5107cea39b"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/25/flavio-bolsonaro-voto-en-rio-y-afirmo-que-es-tiempo-de-cambiar",
@@ -975,32 +1027,6 @@ window.CIRCO = {
    "article": "ce2d0ed2a2468a51"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/23/la-justicia-sobreseyo-a-javier-milei-y-a-karina-milei-en-la-causa-usdlibra",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La Justicia sobreseyó a Javier Milei y a Karina Milei en la causa $LIBRA",
-   "link": "https://www.filo.news/noticia/2026/10/23/la-justicia-sobreseyo-a-javier-milei-y-a-karina-milei-en-la-causa-usdlibra",
-   "excerpt": "El juez aceptó el pedido del fiscal Taiano y consideró que los hechos investigados no constituyen delito. El caso se originó tras la publicación del Presidente sobre la criptomoneda en X.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/capturadepantalla_2026-10-23_a_la(s)_4.24.13 p. m.6277_re.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "e9863a9208cb0800"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/desaparicion-de-nancy-godoy-dictaron-prision-preventiva-para-dos-vecinos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Desaparición de Nancy Godoy: dictaron prisión preventiva para dos vecinos",
-   "link": "https://www.filo.news/noticia/2026/10/23/desaparicion-de-nancy-godoy-dictaron-prision-preventiva-para-dos-vecinos",
-   "excerpt": "La Justicia hizo lugar al pedido de la fiscalía y dictó la prisión preventiva de Rosa Leguizamón y su pareja, Nahuel Rojas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/capturadepantalla_2026-10-23_a_la(s)_4.19.27 p. m.8026_re.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "c607fffdd9a72915"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201349",
    "source": "CIPER",
    "category": "Notis",
@@ -1144,19 +1170,6 @@ window.CIRCO = {
    "article": "a3dcdd5d50617b79"
   },
   {
-   "id": "https://www.theverge.com/?p=1016640",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
-   "link": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
-   "excerpt": "You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I won’t bury the catch I teased in the headline; These cases have a 90-day warranty via Woot, and aren’t eligible for AppleCare.…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25446222/247111_iPad_Pro_2024_AKrales_0615.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "40544ae524f7b294"
-  },
-  {
    "id": "https://www.applesfera.com/ios/primer-rastro-ios-28-esta-codigo-iphone",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -1194,19 +1207,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": false,
    "article": "346a142c310c70ac"
-  },
-  {
-   "id": "https://www.applesfera.com/curiosidades/apple-tiene-sistema-para-detectar-caja-iphone-falsa-necesitaras-linterna-especial",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Apple tiene un sistema para detectar si la caja de un iPhone es falsa. Aunque necesitarás una linterna especial",
-   "link": "https://www.applesfera.com/curiosidades/apple-tiene-sistema-para-detectar-caja-iphone-falsa-necesitaras-linterna-especial",
-   "excerpt": "Que hubiese usuarios con un iPhone Duo días antes de su lanzamiento me sorprendió mucho. Pero más aún cuando observé cómo se comprobó su autenticidad con rayos ultravioleta . Y resulta que no era una forma de llamar la atención de estos usuarios, sino que realmente Apple tiene…",
-   "image": "https://i.blogs.es/bb8cb8/ultravioleta-iphone/1024_2000.jpeg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "0487b4dc58a5c3bc"
   },
   {
    "id": "https://theinspiration.com/?p=54752",
