@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-24T20:49-03:00",
+ "updated": "2026-10-25T02:24-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -1305,8 +1305,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -1552,8 +1552,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -1695,8 +1695,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
    "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -1976,6 +1976,32 @@ window.CIRCO = {
    "article": "964d2c08765507a5"
   },
   {
+   "id": "yt:video:rkK8ZyzYyEA",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "8 GitHub Repos To Go Viral and Make Money",
+   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
+   "day": "2026-10-11",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "yt:video:bQPU6UJ4iCw",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "13 Businesses for the Age of AI",
+   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
+   "day": "2026-10-11",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "https://musebyclios.com/?p=133563",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1987,19 +2013,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "f2b494d375f6f16c"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133541",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Matthieu Elkaim Brings His Creative Vision to La Pac as the Production Co.’s Managing Director",
-   "link": "https://musebyclios.com/2-minutes-with/matthieu-elkaim-brings-his-creative-vision-to-la-pac-as-the-production-co-s-managing-director/?utm_source=rss&utm_medium=rss&utm_campaign=matthieu-elkaim-brings-his-creative-vision-to-la-pac-as-the-production-co-s-managing-director",
-   "excerpt": "“Creativity deserves that we fight for it and those who create, every day, whatever the context,” Matthieu Elkaim, the newly-named managing director of French production house La Pac, tells Muse. “A world without creativity would become a very sad world. Often, the most creative…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/12090944/MATT1.jpg",
-   "day": "2026-10-10",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "f96a574c6360de1a"
   }
  ]
 };
