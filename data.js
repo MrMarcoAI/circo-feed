@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-25T13:52-03:00",
+ "updated": "2026-10-25T18:17-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,19 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1018290",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+   "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+   "excerpt": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen.…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0%2C29.064535392392%2C100%2C41.870929215215&w=1200",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": true,
+   "article": "9c1bcc0812178e2c"
+  },
+  {
    "id": "https://www.theverge.com/?p=1018253",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -76,6 +89,19 @@ window.CIRCO = {
    "first_seen": "2026-10-25",
    "og_checked": true,
    "article": "63171dfdacc91ed2"
+  },
+  {
+   "id": "https://www.applesfera.com/curiosidades/steve-jobs-construyo-apple-siguiendo-consejo-su-padre-valla-le-encantaba-hacer-cosas-bien-1",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Steve Jobs construyó Apple siguiendo un consejo de su padre sobre una valla: \"Le encantaba hacer las cosas bien\"",
+   "link": "https://www.applesfera.com/curiosidades/steve-jobs-construyo-apple-siguiendo-consejo-su-padre-valla-le-encantaba-hacer-cosas-bien-1",
+   "excerpt": "¿Steve Jobs siempre fue tan perfeccionista? La verdad es que sí. Su padre adoptivo Paul Jobs tiene el honor de haber influenciado tanto a su hijo, y hubo un hecho concreto que lo marcó hasta el fin de sus días . Aunque Jobs fue adoptado y no conoció a su padre biológico hasta…",
+   "image": "https://i.blogs.es/f57e44/casa-steve-jobs/1024_2000.jpeg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "e9e5aa98cdfe0ccc"
   },
   {
    "id": "https://www.applesfera.com/curiosidades/touch-id-llego-gracias-a-demo-que-salio-fatal-fue-delante-ibm",
@@ -143,6 +169,110 @@ window.CIRCO = {
    "article": "cd697708de50936b"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/25/balotaje-en-brasil-se-oficializaron-los-primeros-resultados-pese-a-la-extension-del-horario-de-votacion-hasta-las-19",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Balotaje en Brasil: se oficializaron los primeros resultados pese a la extensión del horario de votación hasta las 19",
+   "link": "https://www.filo.news/noticia/2026/10/25/balotaje-en-brasil-se-oficializaron-los-primeros-resultados-pese-a-la-extension-del-horario-de-votacion-hasta-las-19",
+   "excerpt": "Los datos se conocieron con el 0,25% del escrutinio total, al primer cierre del horario de votación a las 17. El Tribunal Supremo Electoral pidió que se frenara por la extensión de los comicios, que no implica la reapertura de las escuelas que ya habían cerrado.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/diputados19)6048_re.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "254a99268a6564c0"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/hospital-pirovano-realizaron-una-cirugia-cerebral-con-un-neuronavegador-que-funciona-como-un-gps",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Hospital Pirovano: realizaron una cirugía cerebral con un neuronavegador que funciona como un GPS",
+   "link": "https://www.filo.news/noticia/2026/10/25/hospital-pirovano-realizaron-una-cirugia-cerebral-con-un-neuronavegador-que-funciona-como-un-gps",
+   "excerpt": "El equipo, adquirido por el Gobierno porteño por más de 550 mil dólares, permite localizar lesiones y estructuras anatómicas durante las intervenciones. También podrá utilizarse en otros centros de salud públicos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/ec8585fd6b684fab-9bee-bb4cff3de05d8247_re.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "3da059fa5438c991"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/temporal-en-misiones-volvieron-a-cerrar-el-circuito-superior-de-las-cataratas-y-hay-154-evacuados",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Temporal en Misiones: volvieron a cerrar el Circuito Superior de las Cataratas y hay 154 evacuados",
+   "link": "https://www.filo.news/noticia/2026/10/25/temporal-en-misiones-volvieron-a-cerrar-el-circuito-superior-de-las-cataratas-y-hay-154-evacuados",
+   "excerpt": "Las intensas lluvias provocaron daños en 124 viviendas y restricciones en pasos fronterizos. El aumento del caudal del río Iguazú obligó a suspender nuevamente el acceso a uno de los recorridos turísticos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/202610261015837-scaled9592_re.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "20416e9eb5629b29"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/la-campagnola-suspendera-a-60-trabajadores-y-frenara-la-produccion-en-mar-del-plata",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Campagnola suspenderá a 60 trabajadores y frenará la producción en Mar del Plata",
+   "link": "https://www.filo.news/noticia/2026/10/25/la-campagnola-suspendera-a-60-trabajadores-y-frenara-la-produccion-en-mar-del-plata",
+   "excerpt": "La empresa del Grupo Arcor interrumpirá sus actividades desde el miércoles 28 de octubre por falta de materia prima y caída de las ventas. El sindicato negocia los salarios durante la suspensión.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/a7b5ee12107c454c-a1e2-81688b4792c86767_re.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "9235a3239951c0c5"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/israel-nego-haber-ordenado-apoyar-a-la-argentina-por-malvinas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Israel negó haber ordenado apoyar a la Argentina por Malvinas",
+   "link": "https://www.filo.news/noticia/2026/10/25/israel-nego-haber-ordenado-apoyar-a-la-argentina-por-malvinas",
+   "excerpt": "La embajada en Londres desmintió la información británica difundida por Javier Milei sobre un giro diplomático",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/capturadepantalla_2026-10-25_1425426090_re.png",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "22971493c3e9865c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/la-ucr-y-el-frente-renovador-repudiaron-los-ataques-de-javier-milei-contra-periodistas-por-el-caso-usdlibra",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La UCR y el Frente Renovador repudiaron los ataques de Javier Milei contra periodistas por el caso $LIBRA",
+   "link": "https://www.filo.news/noticia/2026/10/25/la-ucr-y-el-frente-renovador-repudiaron-los-ataques-de-javier-milei-contra-periodistas-por-el-caso-usdlibra",
+   "excerpt": "Ambos espacios advirtieron sobre la gravedad institucional de los dichos del Presidente y reclamaron respeto por la libertad de expresión y la convivencia democrática.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/202610261025528-scaled8037_re.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "37b71304d719831a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/nahuel-pennisi-cantara-ante-el-papa-leon-xiv-en-buenos-aires",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Nahuel Pennisi cantará ante el Papa León XIV en Buenos Aires",
+   "link": "https://www.filo.news/noticia/2026/10/25/nahuel-pennisi-cantara-ante-el-papa-leon-xiv-en-buenos-aires",
+   "excerpt": "El músico actuará en Palermo en el marco de la gira papal que también incluirá recitales en Córdoba y Luján.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/capturadepantalla_2026-10-25_1416566380_re.png",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "7f35185559f9b9c3"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/resumen-brasil-define-a-su-presidente-por-balotaje-colapinto-larga-14-continuan-las-movilizaciones-en-europa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Resumen: Brasil define a su presidente por balotaje - Colapinto larga 14° - Continuan las movilizaciones en Europa",
+   "link": "https://www.filo.news/noticia/2026/10/25/resumen-brasil-define-a-su-presidente-por-balotaje-colapinto-larga-14-continuan-las-movilizaciones-en-europa",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/capturadepantalla_2026-10-25_0854094088_re.png",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": false,
+   "article": "fb5459df633318a2"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/25/repudio-a-dichos-de-jeremy-clarkson-contra-franco-colapinto-y-su-nacionalidad",
    "source": "Filo.News",
    "category": "Notis",
@@ -206,6 +336,19 @@ window.CIRCO = {
    "first_seen": "2026-10-25",
    "og_checked": false,
    "article": "227195162e5da150"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201424",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "José Alfredo Fuentes: “Hubiese sido un honor grabar con Víctor Jara”",
+   "link": "https://www.ciperchile.cl/2026/10/25/jose-alfredo-fuentes-hubiese-sido-un-honor-grabar-con-victor-jara/?utm_source=rss&utm_medium=rss&utm_campaign=jose-alfredo-fuentes-hubiese-sido-un-honor-grabar-con-victor-jara",
+   "excerpt": "La entrada José Alfredo Fuentes: “Hubiese sido un honor grabar con Víctor Jara” se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/tmajaff-7-scaled.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "og_checked": true,
+   "article": "51d6433919b3bf0b"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201402",
@@ -494,45 +637,6 @@ window.CIRCO = {
    "article": "a83f8bc729c05dce"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/24/la-venta-de-combustible-subio-casi-un-dos-por-ciento",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La venta de combustible subió casi un dos por ciento",
-   "link": "https://www.filo.news/noticia/2026/10/24/la-venta-de-combustible-subio-casi-un-dos-por-ciento",
-   "excerpt": "El despacho en surtidores cortó una racha negativa de siete meses gracias al empuje del sector agropecuario.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/images54)4281_re.jpg",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": "c1e4b6301f450d0f"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/24/colapinto-mejoro-en-austin-pero-debera-afrontar-una-sancion",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Colapinto mejoró en Austin pero deberá afrontar una sanción",
-   "link": "https://www.filo.news/noticia/2026/10/24/colapinto-mejoro-en-austin-pero-debera-afrontar-una-sancion",
-   "excerpt": "El piloto argentino finalizó decimoquinto en los ensayos del Gran Premio de Estados Unidos tras recibir una penalización.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/capturadepantalla_2026-10-24_0902234472_re.png",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": "8ef424eafcb22a56"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/24/milei-auguro-un-triunfo-de-bolsonaro-y-defendio-su-modelo",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Milei auguró un triunfo de Bolsonaro y defendió su modelo",
-   "link": "https://www.filo.news/noticia/2026/10/24/milei-auguro-un-triunfo-de-bolsonaro-y-defendio-su-modelo",
-   "excerpt": "El mandatario disertó en la cena de la Fundación Faro, donde reivindicó el ajuste fiscal y trazó sus metas geopolíticas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/images52)5527_re.jpg",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": "6480bf86931708a3"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017983",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -648,19 +752,6 @@ window.CIRCO = {
    "first_seen": "2026-10-24",
    "og_checked": true,
    "article": "740465d534ba2a35"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/estrenos-filo-or-clayface-queres-ser-mi-hijo-que-peliculas-llegan-esta-semana-al-cine-y-plataformas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Estrenos Filo | \"Clayface\", \"¿Querés ser mi hijo?\": ¿qué películas llegan esta semana al cine y plataformas?",
-   "link": "https://www.filo.news/noticia/2026/10/23/estrenos-filo-or-clayface-queres-ser-mi-hijo-que-peliculas-llegan-esta-semana-al-cine-y-plataformas",
-   "excerpt": "Cuando \"¿qué vemos?\", se transforme en la clásica pregunta, ya sabés qué responder. Te acercamos la cartelera con las novedades para comenzar el fin de semana.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/clayface9777_re.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": "5ceb2884218a93d5"
   },
   {
    "id": "https://www.theverge.com/?p=1017447",
@@ -975,58 +1066,6 @@ window.CIRCO = {
    "article": "9366eb8272d20c86"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/23/impronta-y-sentido-de-pertenencia-que-ofrece-la-renovada-escena-gastronomica-rosarina",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Impronta y sentido de pertenencia: qué ofrece la renovada escena gastronómica rosarina",
-   "link": "https://www.filo.news/noticia/2026/10/23/impronta-y-sentido-de-pertenencia-que-ofrece-la-renovada-escena-gastronomica-rosarina",
-   "excerpt": "Cocina de autor, innovación y revalorización de lo tradicional son algunos de los ejes que definen el panorama actual del sector culinario de la ciudad santafesina.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/fotorodrigo_ruiz_ciancia-86074808_re.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "06b20320193ac7c7"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/festival-republica-folklore-como-sera-por-dentro-la-primera-edicion-del-evento-de-musica-mas-federal",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Festival República Folklore: cómo será por dentro la primera edición del evento de música más federal",
-   "link": "https://www.filo.news/noticia/2026/10/23/festival-republica-folklore-como-sera-por-dentro-la-primera-edicion-del-evento-de-musica-mas-federal",
-   "excerpt": "Previsto para el 21 y 22 de noviembre el evento, que reunirá a los grandes exponentes de la música regional, muestra el despliegue gastronómico, actividades y experiencias que se podrán disfrutar en el predio.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/festival8970_re.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "a071ca9a613dbc54"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/las-universidades-le-entregaron-al-papa-leon-xiv-un-informe-sobre-la-situacion-de-las-universidades-publicas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Las universidades le entregaron al papa León XIV un informe sobre la situación de las universidades públicas",
-   "link": "https://www.filo.news/noticia/2026/10/23/las-universidades-le-entregaron-al-papa-leon-xiv-un-informe-sobre-la-situacion-de-las-universidades-publicas",
-   "excerpt": "El presidente del Consejo Interuniversitario Nacional (CIN) le entregó al Sumo Pontífice un documento de tres páginas que contiene un apartado crítico sobre el accionar de la gestión de Milei en lo que refiere al financiamiento.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/disenosin_título_-_2026-10-23t183957.5172354_re.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "c8d3b9b142528aa8"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/23/iron-maiden-en-huracan-distintas-vidas-varias-generaciones-la-misma-bestia",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Iron Maiden en Huracán: distintas vidas, varias generaciones, la misma Bestia",
-   "link": "https://www.filo.news/noticia/2026/10/23/iron-maiden-en-huracan-distintas-vidas-varias-generaciones-la-misma-bestia",
-   "excerpt": "La Doncella de Hierro celebró cinco décadas con dos noches de heavy metal en Parque Patricios. Dickinson al frente, Harris al galope y tres guitarras que se repartieron la gloria ante un público que sigue transmitiendo la pasión.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/23/proyectonuevo-_2026-10-23t174640.3946421_re.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "ce2d0ed2a2468a51"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201349",
    "source": "CIPER",
    "category": "Notis",
@@ -1157,19 +1196,6 @@ window.CIRCO = {
    "article": "cdbc273b17319363"
   },
   {
-   "id": "https://www.theverge.com/?p=1016585",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-   "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-   "excerpt": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "a3dcdd5d50617b79"
-  },
-  {
    "id": "https://www.applesfera.com/ios/primer-rastro-ios-28-esta-codigo-iphone",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -1194,19 +1220,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": false,
    "article": "769cb85d59185b08"
-  },
-  {
-   "id": "https://www.applesfera.com/iphone/han-doblado-iphone-duo-32-000-veces-como-ha-quedado-bisagra",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Ya han doblado el iPhone Duo 32.000 veces. ¿Cómo ha quedado la bisagra?",
-   "link": "https://www.applesfera.com/iphone/han-doblado-iphone-duo-32-000-veces-como-ha-quedado-bisagra",
-   "excerpt": "La bisagra es la gran duda de cualquier plegable. Es la pieza que más se mueve y la que más miedo da, porque de ella depende que la pantalla de dentro siga viva con el paso del tiempo. Apple ha tardado siete años en tener un iPhone plegable desde que Samsung lanzó el primero en…",
-   "image": "https://i.blogs.es/3baeb5/iphone-duo/1024_2000.jpeg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "346a142c310c70ac"
   },
   {
    "id": "https://theinspiration.com/?p=54752",
@@ -1649,19 +1662,6 @@ window.CIRCO = {
    "first_seen": "2026-10-25",
    "og_checked": true,
    "article": "92c05d3efdfbfd5a"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201250",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Inician proceso sancionatorio a las AFP por caída en los fondos D y E; Cámara aprueba proyecto que moderniza e incentiva a Carabineros, y SII rebajará contribuciones a afectados por catástrofes naturales de 2026",
-   "link": "https://www.ciperchile.cl/2026/10/20/radar-20-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-20-10-26",
-   "excerpt": "La entrada Inician proceso sancionatorio a las AFP por caída en los fondos D y E; Cámara aprueba proyecto que moderniza e incentiva a Carabineros, y SII rebajará contribuciones a afectados por catástrofes naturales de 2026 se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "3c4de6ab2539ef70"
   },
   {
    "id": "https://www.theverge.com/?p=1014261",
