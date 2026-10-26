@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-25T20:38-03:00",
+ "updated": "2026-10-26T02:28-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -55,15 +55,41 @@ window.CIRCO = {
    "name": "Filo.News",
    "category": "Notis",
    "feed": "https://www.filo.news/rss/rss.xml"
-  },
-  {
-   "name": "CIPER",
-   "category": "Notis",
-   "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
- "errors": [],
+ "errors": [
+  {
+   "url": "https://www.ciperchile.cl/",
+   "error": "The read operation timed out"
+  }
+ ],
  "items": [
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/en-un-historico-balotaje-lula-da-silva-fue-reelecto-presidente-de-brasil-y-asumira-su-cuarto-mandato",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "En un histórico balotaje, Lula da Silva fue reelecto presidente de Brasil y asumirá su cuarto mandato",
+   "link": "https://www.filo.news/noticia/2026/10/25/en-un-historico-balotaje-lula-da-silva-fue-reelecto-presidente-de-brasil-y-asumira-su-cuarto-mandato",
+   "excerpt": "Es el primer candidato en ganar un balotaje después de perder en la primera vuelta desde el retorno de las elecciones presidenciales directas en 1989.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/20261024t170557z_664828146_rc2q9oabip06_rtrmadp_3_brazil-election-lula7060_re.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": "052334afc70f27e3"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/25/aysa-propone-aumentos-de-hasta-el-149-en-las-facturas-de-agua-a-quienes-afectaria",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "AySA propone aumentos de hasta el 149% en las facturas de agua: a quiénes afectaría",
+   "link": "https://www.filo.news/noticia/2026/10/25/aysa-propone-aumentos-de-hasta-el-149-en-las-facturas-de-agua-a-quienes-afectaria",
+   "excerpt": "El ERAS realizará este lunes una audiencia pública para analizar cambios en las tarifas y los descuentos vigentes. La iniciativa también contempla reducciones para algunos hogares.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/2026102910001-scaled1634_re.jpg",
+   "day": "2026-10-25",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": "0dd7d1eb4034fcfb"
+  },
   {
    "id": "https://www.theverge.com/?p=1018233",
    "source": "The Verge · Apple",
@@ -403,32 +429,6 @@ window.CIRCO = {
    "article": "227195162e5da150"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201424",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "José Alfredo Fuentes: “Hubiese sido un honor grabar con Víctor Jara”",
-   "link": "https://www.ciperchile.cl/2026/10/25/jose-alfredo-fuentes-hubiese-sido-un-honor-grabar-con-victor-jara/?utm_source=rss&utm_medium=rss&utm_campaign=jose-alfredo-fuentes-hubiese-sido-un-honor-grabar-con-victor-jara",
-   "excerpt": "La entrada José Alfredo Fuentes: “Hubiese sido un honor grabar con Víctor Jara” se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/tmajaff-7-scaled.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "51d6433919b3bf0b"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201402",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Detención por ofensas a policías: una ley mordaza para la protesta y la prensa",
-   "link": "https://www.ciperchile.cl/2026/10/24/detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa",
-   "excerpt": "La entrada Detención por ofensas a policías: una ley mordaza para la protesta y la prensa se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1744307-scaled.jpg",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "7ca88d4c376079fb"
-  },
-  {
    "id": "https://www.theverge.com/?p=1018169",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -624,32 +624,6 @@ window.CIRCO = {
    "article": "834fd8dd62b1557d"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/24/francisco-cerundolo-cayo-en-semifinales-del-atp-250-de-bruselas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Francisco Cerúndolo cayó en semifinales del ATP 250 de Bruselas",
-   "link": "https://www.filo.news/noticia/2026/10/24/francisco-cerundolo-cayo-en-semifinales-del-atp-250-de-bruselas",
-   "excerpt": "El tenista argentino no pudo cerrar el encuentro a su favor y se despidió ante el neerlandés Griekspoor.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/capturadepantalla_2026-10-24_1430483246_re.png",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": "86a7ddf539ff92ea"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/24/clima-en-buenos-aires-pronostican-lluvias-y-frio-para-el-fin-de-semana",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Clima en Buenos Aires: pronostican lluvias y frío para el fin de semana",
-   "link": "https://www.filo.news/noticia/2026/10/24/clima-en-buenos-aires-pronostican-lluvias-y-frio-para-el-fin-de-semana",
-   "excerpt": "El Servicio Meteorológico Nacional anticipó chaparrones para este sábado y precipitaciones durante las primeras horas del domingo. Las temperaturas máximas no superarán los 19°.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/24/202511251107011-scaled7001_re.jpg",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": false,
-   "article": "cf5da7f6202ecc88"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017983",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -661,84 +635,6 @@ window.CIRCO = {
    "first_seen": "2026-10-25",
    "og_checked": true,
    "article": "e2ea79a88d739496"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201398",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Podcast | Rebaja de condenas: ¿Chile cuida a los niños?",
-   "link": "https://www.ciperchile.cl/2026/10/23/podcast-rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-rebaja-de-condenas-chile-cuida-a-los-ninos",
-   "excerpt": "La entrada Podcast | Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": ""
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201395",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Rebaja de condenas: ¿Chile cuida a los niños?",
-   "link": "https://www.ciperchile.cl/2026/10/23/rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=rebaja-de-condenas-chile-cuida-a-los-ninos",
-   "excerpt": "La entrada Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": ""
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201380",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones",
-   "link": "https://www.ciperchile.cl/2026/10/23/fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones/?utm_source=rss&utm_medium=rss&utm_campaign=fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones",
-   "excerpt": "La entrada Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/WEB_recortes-1.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "ab769dcfb66f52ce"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201373",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños",
-   "link": "https://www.ciperchile.cl/2026/10/23/este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos",
-   "excerpt": "La entrada Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/Condenas_web.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "a0014cb7252663a5"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201363",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil",
-   "link": "https://www.ciperchile.cl/2026/10/23/estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil/?utm_source=rss&utm_medium=rss&utm_campaign=estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil",
-   "excerpt": "La entrada Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/bolsonaro_web.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "c658a6d5a0783519"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201415",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH",
-   "link": "https://www.ciperchile.cl/2026/10/23/fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh/?utm_source=rss&utm_medium=rss&utm_campaign=fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh",
-   "excerpt": "La entrada Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1181406-1-scaled.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "1db4ce18b3a19040"
   },
   {
    "id": "https://www.theverge.com/?p=1018021",
@@ -1079,45 +975,6 @@ window.CIRCO = {
    "article": "9366eb8272d20c86"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201349",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Suprema sí tuvo fallos en contra de rebajas a abusadores sexuales; ministro Rau llama a afiliados a postergar jubilación por caída del Fondo E, y TC declara inadmisible requerimiento contra las RUF",
-   "link": "https://www.ciperchile.cl/2026/10/22/radar-22-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-22-10-2026",
-   "excerpt": "La entrada Suprema sí tuvo fallos en contra de rebajas a abusadores sexuales; ministro Rau llama a afiliados a postergar jubilación por caída del Fondo E, y TC declara inadmisible requerimiento contra las RUF se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "9159b037d0083c6b"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201334",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos”",
-   "link": "https://www.ciperchile.cl/2026/10/22/exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos/?utm_source=rss&utm_medium=rss&utm_campaign=exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos",
-   "excerpt": "La entrada Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos” se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/Simpertigue_web.png",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "45faea42f747b8d4"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201305",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Catástrofe en el Fondo E: siguiendo a la manada hacia el precipicio",
-   "link": "https://www.ciperchile.cl/2026/10/22/catastrofe-en-el-fondo-e-siguiendo-a-la-manada-hacia-el-precipicio/?utm_source=rss&utm_medium=rss&utm_campaign=catastrofe-en-el-fondo-e-siguiendo-a-la-manada-hacia-el-precipicio",
-   "excerpt": "La entrada Catástrofe en el Fondo E: siguiendo a la manada hacia el precipicio se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/afps-1023x573-e1544567160723.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "cbf4f94d68f731d7"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017157",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -1430,58 +1287,6 @@ window.CIRCO = {
    "article": "19774f251674e0c5"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201319",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal",
-   "link": "https://www.ciperchile.cl/2026/10/21/radar-21-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-21-10-26",
-   "excerpt": "La entrada SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "c535e31a10af8c2b"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201284",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Las AFP no responden si mantendrán en sus cargos a gerentes responsables de la multimillonaria pérdida del fondo E",
-   "link": "https://www.ciperchile.cl/2026/10/21/las-afp-no-responden-si-mantendran-en-sus-cargos-a-gerentes-responsables-de-la-multimillonaria-perdida-del-fondo-e/?utm_source=rss&utm_medium=rss&utm_campaign=las-afp-no-responden-si-mantendran-en-sus-cargos-a-gerentes-responsables-de-la-multimillonaria-perdida-del-fondo-e",
-   "excerpt": "La entrada Las AFP no responden si mantendrán en sus cargos a gerentes responsables de la multimillonaria pérdida del fondo E se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/AFP_Web-1.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "95256b531750756c"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201292",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "¿Operación Sitio 2.0? El riesgo de volver a la «Operación Tiza» de Frei Montalva",
-   "link": "https://www.ciperchile.cl/2026/10/21/operacion-sitio-2-0-el-riesgo-de-volver-a-la-operacion-tiza-de-frei-montalva/?utm_source=rss&utm_medium=rss&utm_campaign=operacion-sitio-2-0-el-riesgo-de-volver-a-la-operacion-tiza-de-frei-montalva",
-   "excerpt": "La entrada ¿Operación Sitio 2.0? El riesgo de volver a la «Operación Tiza» de Frei Montalva se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1708993-1-scaled.jpg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "33cea0d000d3f1e8"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201275",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Gobierno propone que las AFP puedan administrar nuevo ahorro para la vivienda y Comisión de Hacienda de diputados lo aprobó",
-   "link": "https://www.ciperchile.cl/2026/10/21/gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo",
-   "excerpt": "La entrada Gobierno propone que las AFP puedan administrar nuevo ahorro para la vivienda y Comisión de Hacienda de diputados lo aprobó se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/Vivienda_AFP_Web.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "4ceaab459b5e7a44"
-  },
-  {
    "id": "https://musebyclios.com/?p=133914",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1649,19 +1454,6 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": false,
    "article": "8312408bd2b73a34"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201264",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Testimonio de Gonzalo Migueles confirma reunión de senadora Carvajal y Najle cuando este postulaba a conservador",
-   "link": "https://www.ciperchile.cl/2026/10/20/testimonio-de-gonzalo-migueles-confirma-reunion-de-senadora-carvajal-y-najle-cuando-este-postulaba-a-conservador/?utm_source=rss&utm_medium=rss&utm_campaign=testimonio-de-gonzalo-migueles-confirma-reunion-de-senadora-carvajal-y-najle-cuando-este-postulaba-a-conservador",
-   "excerpt": "La entrada Testimonio de Gonzalo Migueles confirma reunión de senadora Carvajal y Najle cuando este postulaba a conservador se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/najle-web.png",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "92c05d3efdfbfd5a"
   },
   {
    "id": "https://www.theverge.com/?p=1014261",
@@ -2221,19 +2013,6 @@ window.CIRCO = {
    "first_seen": "2026-10-25",
    "og_checked": false,
    "article": ""
-  },
-  {
-   "id": "https://musebyclios.com/?p=133563",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "R.E.M., Insane Clown Posse and More Classic Album Covers That Live on the Edge",
-   "link": "https://musebyclios.com/art-of-the-album/r-e-m-insane-clown-posse-and-more-classic-album-covers-that-live-on-the-edge/?utm_source=rss&utm_medium=rss&utm_campaign=r-e-m-insane-clown-posse-and-more-classic-album-covers-that-live-on-the-edge",
-   "excerpt": "My approach here was not scientific. I opened Apple Music and started scrolling, stopping when a piece of album art jumped out at me. The process reminded me of walking around the record store when I was a kid. I was lucky enough to come of age when that was still a thing, and…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/11093605/ALBUM-1.jpg",
-   "day": "2026-10-11",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "f2b494d375f6f16c"
   }
  ]
 };
