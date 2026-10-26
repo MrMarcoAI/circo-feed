@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-26T15:54-03:00",
+ "updated": "2026-10-26T19:54-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -65,6 +65,19 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1018827",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+   "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+   "excerpt": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1034.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": true,
+   "article": "1c75c29a21e4aaff"
+  },
+  {
    "id": "https://www.theverge.com/?p=1018760",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -89,6 +102,19 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "c201bf7ddad546bd"
+  },
+  {
+   "id": "https://www.applesfera.com/servicios-apple/siri-ai-habla-espanol-27-2-asi-puedes-tenerla-vivas-donde-vivas",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Siri AI ya habla español con 27.2: así puedes tenerla vivas donde vivas",
+   "link": "https://www.applesfera.com/servicios-apple/siri-ai-habla-espanol-27-2-asi-puedes-tenerla-vivas-donde-vivas",
+   "excerpt": "Siri AI ya habla español. La nueva Siri responde a cualquier pregunta, conoce lo que tienes en el iPhone, desde tus mensajes y correos hasta tus fotos, y tiene hasta una app propia con la que puedes conversar por voz o por escrito. Es la Siri que llevábamos esperando tanto…",
+   "image": "https://i.blogs.es/55ccba/siri-ai-espana/1024_2000.jpeg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": "16673fac2169db7b"
   },
   {
    "id": "https://www.applesfera.com/ios/oficial-apple-lanza-ios-27-2-toca-actualizar-iphone-estas-novedades",
@@ -315,22 +341,48 @@ window.CIRCO = {
    "id": "yt:video:HKNpCwG3nlc",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
-   "title": "Build Wealth With Main Street AI (Starting From $0)",
+   "title": "The $1M+ Solo AI Company for Boring Businesses",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
-   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
    "article": ""
   },
   {
+   "id": "https://musebyclios.com/?p=134031",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Pramy Says Cats Are Just Like People. That’s a Good Thing?",
+   "link": "https://musebyclios.com/worldviews/pramy-says-cats-are-just-like-people-thats-a-good-thing/?utm_source=rss&utm_medium=rss&utm_campaign=pramy-says-cats-are-just-like-people-thats-a-good-thing",
+   "excerpt": "Here are some great campaigns that broke far and wide in recent weeks, selected by Muse sibling Ads of the World. Pramy, ‘Every Cat Is an Individual’Agency: Wolf BKK Ever caught your cat staring at you in the bathroom, knocking things off the fridge or nudging you out of your…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/26153803/cats.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": true,
+   "article": "cb9c9471488bb8c7"
+  },
+  {
+   "id": "https://musebyclios.com/?p=134020",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Creativity’s Most Underrated Skill Is Leaving People Out",
+   "link": "https://musebyclios.com/musings/creativitys-most-underrated-skill-is-leaving-people-out/?utm_source=rss&utm_medium=rss&utm_campaign=creativitys-most-underrated-skill-is-leaving-people-out",
+   "excerpt": "It’s Monday morning. A meeting invite pops up: NEW BRIEF. You feel the rush of possibility. You skim the background, the objectives, the mandatories. And then you see it. The audience: Adults 25 to 54. All parents. Anyone who eats food. Your heart sinks. It’s an “Everyone…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/26144759/crowd.jpeg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": true,
+   "article": "18c9c79668a97fd2"
+  },
+  {
    "id": "https://musebyclios.com/?p=134014",
    "source": "Muse by Clio",
    "category": "Publi",
-   "title": "Marionettes Make the Holiday Scene for CALPAK",
-   "link": "https://musebyclios.com/advertising/marionettes-make-the-holiday-scene-for-calpak/?utm_source=rss&utm_medium=rss&utm_campaign=marionettes-make-the-holiday-scene-for-calpak",
-   "excerpt": "Who’s pulling the strings for the holidays? Judging from the spot below, that would be luggage brand CALPAK and Bob Baker Marionette Theater. The minute-long clip trades AI and other high-tech tricks for taut cords, steel rods and funny faces made from felt and fabric to deliver…",
+   "title": "Marionettes Pull the Holiday Strings for CALPAK",
+   "link": "https://musebyclios.com/advertising/marionettes-pull-the-holiday-strings-for-calpak/?utm_source=rss&utm_medium=rss&utm_campaign=marionettes-pull-the-holiday-strings-for-calpak",
+   "excerpt": "Giant Puppet Santa’s not a Christmas tradition. What a shame. But CALPAK does its best to rectify this yuletide oversight in the minute-long spot below. The luggage brand trades AI and other high-tech tricks for taut cords, steel rods and funny faces made from felt and fabric.…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/26125707/CAL-3-1.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
@@ -468,6 +520,71 @@ window.CIRCO = {
    "article": "4b8583c31a013c0a"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/26/la-justicia-le-prohibe-a-flavio-bolsonaro-salir-del-pais",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Justicia le prohíbe a Flavio Bolsonaro salir del país",
+   "link": "https://www.filo.news/noticia/2026/10/26/la-justicia-le-prohibe-a-flavio-bolsonaro-salir-del-pais",
+   "excerpt": "La notificación judicial se realizó en la vía pública, cuando el legislador salía de visitar en Brasilia a su padre, el expresidente Jair Bolsonaro.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/202610261026810-scaled6914_re.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": "0b197dd51c54c493"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/26/marcela-coronel-mostro-la-crueldad-de-una-cuidadora-para-con-su-madre-la-quiero-presa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Marcela Coronel mostró la crueldad de una cuidadora para con su madre: \"La quiero presa\"",
+   "link": "https://www.filo.news/noticia/2026/10/26/marcela-coronel-mostro-la-crueldad-de-una-cuidadora-para-con-su-madre-la-quiero-presa",
+   "excerpt": "La periodista habló sobre la situación judicial de Norma Noemí Sandín, quien fue denunciada por maltrato.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/coronel7059_re.png",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": "0b81d5f28ce3e4f4"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/26/amnistia-internacional-denunciara-ante-organismos-internacionales-los-nuevos-ataques-de-javier-milei-a-la-prensa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Amnistía Internacional denunciará ante organismos internacionales los nuevos ataques de Javier Milei a la prensa",
+   "link": "https://www.filo.news/noticia/2026/10/26/amnistia-internacional-denunciara-ante-organismos-internacionales-los-nuevos-ataques-de-javier-milei-a-la-prensa",
+   "excerpt": "La organización llevará el reclamo ante la Comisión Interamericana de Derechos Humanos (CIDH) y la ONU por las agresiones del presidente a los periodistas que cubrieron el caso $LIBRA.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/202609260903825-scaled_(1)7916_re.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": "533fc295a27df21e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/26/elina-constantini-estuvo-en-ph-me-conecto-con-gente-que-ya-no-esta-con-la-virgen-con-jesus-y-el-diablo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Elina Constantini estuvo en PH: “Me conecto con gente que ya no está, con la Virgen, con Jesús y el Diablo\"",
+   "link": "https://www.filo.news/noticia/2026/10/26/elina-constantini-estuvo-en-ph-me-conecto-con-gente-que-ya-no-esta-con-la-virgen-con-jesus-y-el-diablo",
+   "excerpt": "La esposa de Eduardo Constantini habló sobre su conexión con el más allá y sorprendió con sus declaraciones.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/elinaaa6859_re.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": "7944a8ff2989bce9"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/26/caba-comienzan-cortes-y-desvios-del-transito-por-la-visita-del-papa-leon-xiv",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "CABA: comienzan cortes y desvíos del tránsito por la visita del papa León XIV",
+   "link": "https://www.filo.news/noticia/2026/10/26/caba-comienzan-cortes-y-desvios-del-transito-por-la-visita-del-papa-leon-xiv",
+   "excerpt": "Desde la Ciudad confirmaron que, desde el miércoles 4 al sábado 14 de noviembre habrá cortes totales progresivos en avenida del Libertador, entre avenida Olleros y Ugarteche.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/diseosin_título_-_2026-10-26t164750.1929543_re.png",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": "663dec274eb01c68"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/26/el-papa-leon-xiv-confirmo-su-visita-a-la-argentina-en-noviembre",
    "source": "Filo.News",
    "category": "Notis",
@@ -557,6 +674,19 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": false,
    "article": "a2fde21ce2584421"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201441",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "El chat en que Hermosilla y Donoso intentan anular el nombramiento de un juez: “Me encanta sacar la pelota de adentro del arco”",
+   "link": "https://www.ciperchile.cl/2026/10/26/el-chat-en-que-hermosilla-y-donoso-intentan-anular-el-nombramiento-de-un-juez-me-encanta-sacar-la-pelota-de-adentro-del-arco/?utm_source=rss&utm_medium=rss&utm_campaign=el-chat-en-que-hermosilla-y-donoso-intentan-anular-el-nombramiento-de-un-juez-me-encanta-sacar-la-pelota-de-adentro-del-arco",
+   "excerpt": "La entrada El chat en que Hermosilla y Donoso intentan anular el nombramiento de un juez: “Me encanta sacar la pelota de adentro del arco” se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/Web_HD.png",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": true,
+   "article": "6156fd38ccea2810"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/25/en-un-historico-balotaje-lula-da-silva-fue-reelecto-presidente-de-brasil-y-asumira-su-cuarto-mandato",
@@ -871,71 +1001,6 @@ window.CIRCO = {
    "article": "7f35185559f9b9c3"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/25/resumen-brasil-define-a-su-presidente-por-balotaje-colapinto-larga-14-continuan-las-movilizaciones-en-europa",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Resumen: Brasil define a su presidente por balotaje - Colapinto larga 14° - Continuan las movilizaciones en Europa",
-   "link": "https://www.filo.news/noticia/2026/10/25/resumen-brasil-define-a-su-presidente-por-balotaje-colapinto-larga-14-continuan-las-movilizaciones-en-europa",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/capturadepantalla_2026-10-25_0854094088_re.png",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "fb5459df633318a2"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/repudio-a-dichos-de-jeremy-clarkson-contra-franco-colapinto-y-su-nacionalidad",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Repudio a dichos de Jeremy Clarkson contra Franco Colapinto y su nacionalidad",
-   "link": "https://www.filo.news/noticia/2026/10/25/repudio-a-dichos-de-jeremy-clarkson-contra-franco-colapinto-y-su-nacionalidad",
-   "excerpt": "El presentador británico ironizó sobre la nacionalidad del piloto de Alpine en la antesala del Gran Premio de Estados Unidos.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/capturadepantalla_2026-10-25_1327511284_re.png",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "f9f1df777e40942a"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/miles-de-manifestantes-marcharon-en-espana-e-italia-con-reclamos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Miles de manifestantes marcharon en España e Italia con reclamos",
-   "link": "https://www.filo.news/noticia/2026/10/25/miles-de-manifestantes-marcharon-en-espana-e-italia-con-reclamos",
-   "excerpt": "Las movilizaciones contra el costo de vida y en defensa de las jubilaciones se desarrollaron bajo fuerte custodia policial.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/capturadepantalla_2026-10-25_0901008582_re.png",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "658fbe5107cea39b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/flavio-bolsonaro-voto-en-rio-y-afirmo-que-es-tiempo-de-cambiar",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Flávio Bolsonaro votó en río y afirmó que es tiempo de cambiar",
-   "link": "https://www.filo.news/noticia/2026/10/25/flavio-bolsonaro-voto-en-rio-y-afirmo-que-es-tiempo-de-cambiar",
-   "excerpt": "El candidato del Partido Liberal sufragó en la zona norte y aseguró que la esperanza se impondrá en las urnas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/capturadepantalla_2026-10-25_0909535166_re.png",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "cba3b0dd4b78720a"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/brasil-define-su-presidencia-en-un-renido-balotaje-electoral",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Brasil define su presidencia en un reñido balotaje electoral",
-   "link": "https://www.filo.news/noticia/2026/10/25/brasil-define-su-presidencia-en-un-renido-balotaje-electoral",
-   "excerpt": "Más de 158 millones de ciudadanos votan entre la continuidad de Lula da Silva o el desembarco de Flávio Bolsonaro.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/capturadepantalla_2026-10-25_0854092036_re.png",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "b576f7ee04fb4254"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201402",
    "source": "CIPER",
    "category": "Notis",
@@ -1183,19 +1248,6 @@ window.CIRCO = {
    "article": "29293bcc94618c5d"
   },
   {
-   "id": "https://www.applesfera.com/ipod/hay-ipod-virtual-escondido-web-apple-cumple-25-anos-asi-puedes-encontrarlo",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Hay un iPod virtual escondido en la web de Apple. Cumple 25 años y así puedes encontrarlo",
-   "link": "https://www.applesfera.com/ipod/hay-ipod-virtual-escondido-web-apple-cumple-25-anos-asi-puedes-encontrarlo",
-   "excerpt": "El iPod cumple 25 años . Apple lo presentó el 23 de octubre de 2001 y lo celebra con un easter egg escondido en la web de Apple Music . Es un iPod virtual que podemos manejar desde la pantalla táctil de nuestro iPhone. Aquel reproductor con mil canciones en el bolsillo cambió…",
-   "image": "https://i.blogs.es/546b5e/ipod/1024_2000.jpeg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "06d4ea5d6566ee2a"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017600",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1350,19 +1402,6 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "cbf4f94d68f731d7"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017157",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Our best tips for using the iPhone Duo",
-   "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
-   "excerpt": "The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "4b745ba414bc86e3"
   },
   {
    "id": "https://www.theverge.com/?p=1016977",
@@ -1638,19 +1677,6 @@ window.CIRCO = {
    "article": "33cea0d000d3f1e8"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201275",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Gobierno propone que las AFP puedan administrar nuevo ahorro para la vivienda y Comisión de Hacienda de diputados lo aprobó",
-   "link": "https://www.ciperchile.cl/2026/10/21/gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo",
-   "excerpt": "La entrada Gobierno propone que las AFP puedan administrar nuevo ahorro para la vivienda y Comisión de Hacienda de diputados lo aprobó se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/Vivienda_AFP_Web.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "4ceaab459b5e7a44"
-  },
-  {
    "id": "https://musebyclios.com/?p=133914",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1682,8 +1708,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -1851,8 +1877,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -1994,8 +2020,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
    "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2221,6 +2247,32 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "0752f7322dfbf79b"
+  },
+  {
+   "id": "yt:video:rkK8ZyzYyEA",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "8 GitHub Repos To Go Viral and Make Money",
+   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
+   "day": "2026-10-12",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "yt:video:bQPU6UJ4iCw",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "13 Businesses for the Age of AI",
+   "link": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/bQPU6UJ4iCw/hqdefault.jpg",
+   "day": "2026-10-12",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://bencorde.com/blog/rea-ingenieria-inversa-claude-code/",
