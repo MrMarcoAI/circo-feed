@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-26T13:31-03:00",
+ "updated": "2026-10-26T15:54-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,45 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1018760",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
+   "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+   "excerpt": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": true,
+   "article": "83bbba8da25657c6"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017801",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple updates the iPad Mini with a larger OLED display",
+   "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+   "excerpt": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. The iPad Mini starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular. At 5.4mm thick, the iPad Mini…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ipadmini.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": true,
+   "article": "c201bf7ddad546bd"
+  },
+  {
+   "id": "https://www.applesfera.com/ios/oficial-apple-lanza-ios-27-2-toca-actualizar-iphone-estas-novedades",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "¡Es oficial! Apple lanza iOS 27.2 y toca actualizar el iPhone con estas novedades",
+   "link": "https://www.applesfera.com/ios/oficial-apple-lanza-ios-27-2-toca-actualizar-iphone-estas-novedades",
+   "excerpt": "Día de nuevo software en Apple con el lanzamiento de una nueva actualización que llega a todos los dispositivos. La 27.2 está ya en los iPhone, iPad, Mac y compañía, aunque es iOS 27.2, la del iPhone, la que parece tener una mayor relevancia. Esta actualización viene con varias…",
+   "image": "https://i.blogs.es/628492/ios-27.2/1024_2000.jpeg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": "e0de613dea29e816"
+  },
+  {
    "id": "https://www.applesfera.com/ipad/nuevo-ipad-mini-resistente-al-agua-eso-hay-limite-apple-avisa",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -94,7 +133,7 @@ window.CIRCO = {
    "id": "https://www.applesfera.com/ipad/nuevo-ipad-mini-8-sube-precio-cuesta-128-que-primero-que-salio",
    "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "El nuevo iPad mini 8 sube de precio. Y ya cuesta un 128% más que el primero que salió",
+   "title": "Nunca el iPad mini había sido tan caro. El nuevo sigue aumentando las distancias",
    "link": "https://www.applesfera.com/ipad/nuevo-ipad-mini-8-sube-precio-cuesta-128-que-primero-que-salio",
    "excerpt": "De 329 euros a 749 euros. Siendo exactos, es un 127,66% que distancia el precio del primer iPad mini del iPad mini 8 recién anunciado. El paso del tiempo, la inflación y el tener una tablet pequeña, pero cada vez más potente hace mella. Sin embargo, hay subidas importantes…",
    "image": "https://i.blogs.es/8afac4/ipad-precio/1024_2000.jpeg",
@@ -120,7 +159,7 @@ window.CIRCO = {
    "id": "https://www.applesfera.com/ipad/apple-ipad-mini-8-caracteristicas-precio-ficha-tecnica",
    "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "Nuevo iPad mini 8: la tablet más pequeña de Apple no solo es más potente, sino que ahora se ve mejor",
+   "title": "Nuevo iPad mini 8 OLED: la tablet más pequeña de Apple no solo es más potente, sino que ahora se ve mejor",
    "link": "https://www.applesfera.com/ipad/apple-ipad-mini-8-caracteristicas-precio-ficha-tecnica",
    "excerpt": "Sabíamos que esta semana habría novedades de Apple y, pese a esperarse todas para el miércoles , finalmente han empezado a anunciarse hoy mismo. Ya tenemos aquí la octava generación del iPad más pequeño , aunque no por ello el peor. De hecho, si ya estaba cerca de los grandes,…",
    "image": "https://i.blogs.es/17a143/ipad-mini-8/1024_2000.jpeg",
@@ -195,19 +234,6 @@ window.CIRCO = {
    "article": "2b6f7555c2160b3c"
   },
   {
-   "id": "https://www.theverge.com/?p=1018666",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Microsoft offers buyouts to 60,000 employees",
-   "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-   "excerpt": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "5296547ccc20bb9c"
-  },
-  {
    "id": "https://www.theverge.com/?p=1018264",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -219,6 +245,45 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "741204a424b0f092"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1018713",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "The RealReal won’t let AI agents hog designer clothing",
+   "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+   "excerpt": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": true,
+   "article": "d1fd86946b0234b7"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1018738",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Five weird details from Anthropic’s IPO filing",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+   "excerpt": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": true,
+   "article": "8820bb954b2a44f7"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1018666",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Microsoft offers buyouts to 60,000 employees",
+   "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+   "excerpt": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": true,
+   "article": "5296547ccc20bb9c"
   },
   {
    "id": "https://www.theverge.com/?p=1018476",
@@ -245,6 +310,32 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "341c23abeae18878"
+  },
+  {
+   "id": "yt:video:HKNpCwG3nlc",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Build Wealth With Main Street AI (Starting From $0)",
+   "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
+   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
+   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "https://musebyclios.com/?p=134014",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Marionettes Make the Holiday Scene for CALPAK",
+   "link": "https://musebyclios.com/advertising/marionettes-make-the-holiday-scene-for-calpak/?utm_source=rss&utm_medium=rss&utm_campaign=marionettes-make-the-holiday-scene-for-calpak",
+   "excerpt": "Who’s pulling the strings for the holidays? Judging from the spot below, that would be luggage brand CALPAK and Bob Baker Marionette Theater. The minute-long clip trades AI and other high-tech tricks for taut cords, steel rods and funny faces made from felt and fabric to deliver…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/26125707/CAL-3-1.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": true,
+   "article": "6ad5d92e6075946b"
   },
   {
    "id": "https://musebyclios.com/?p=134008",
@@ -276,7 +367,7 @@ window.CIRCO = {
    "id": "https://musebyclios.com/?p=133991",
    "source": "Muse by Clio",
    "category": "Publi",
-   "title": "Design Bridge and Partner’s Cristina Tazza: AI Can Spur a Modern ‘Mad Men’ Moment",
+   "title": "Design Bridge’s Cristina Tazza: AI Can Spur a Modern ‘Mad Men’ Moment",
    "link": "https://musebyclios.com/2-minutes-with/design-bridges-cristina-tazza-believes-ai-can-spur-a-modern-mad-men-moment/?utm_source=rss&utm_medium=rss&utm_campaign=design-bridges-cristina-tazza-believes-ai-can-spur-a-modern-mad-men-moment",
    "excerpt": "Cristina Tazza is global chief strategy officer and managing director, North America, at Design Bridge and Partners. She has more than two decades of experience across the U.K. and U.S. Since joining Design Bridge in 2017 to build its U.S. strategy team, Cristina has helped…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/25172255/Cristina-Tazza.jpg",
@@ -377,6 +468,19 @@ window.CIRCO = {
    "article": "4b8583c31a013c0a"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/26/el-papa-leon-xiv-confirmo-su-visita-a-la-argentina-en-noviembre",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Papa León XIV confirmó su visita a la Argentina en noviembre",
+   "link": "https://www.filo.news/noticia/2026/10/26/el-papa-leon-xiv-confirmo-su-visita-a-la-argentina-en-noviembre",
+   "excerpt": "La Santa Sede confirmó que el viaje apostólico a Uruguay, Argentina y Perú se realizará entre el 6 y el 17 de noviembre, tal como estaba previsto.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/2025082508105081668_re.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "og_checked": false,
+   "article": "855ce26c3436b45d"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/26/el-riesgo-pais-supera-los-740-puntos-basicos",
    "source": "Filo.News",
    "category": "Notis",
@@ -403,17 +507,17 @@ window.CIRCO = {
    "article": ""
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/26/lideres-del-mundoi",
+   "id": "https://www.filo.news/noticia/2026/10/26/los-presidentes-de-la-region-felicitan-a-lula-mientras-milei-permanece-en-silencio",
    "source": "Filo.News",
    "category": "Notis",
    "title": "Los presidentes de la región felicitan a Lula mientras Milei permanece en silencio",
-   "link": "https://www.filo.news/noticia/2026/10/26/lideres-del-mundoi",
+   "link": "https://www.filo.news/noticia/2026/10/26/los-presidentes-de-la-region-felicitan-a-lula-mientras-milei-permanece-en-silencio",
    "excerpt": "Líderes afines y distanciados ideológicamente del mandatario brasileño lo felicitaron por su reelección. El libertario todavía no se pronunció.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/26/20261026t043313z_1207480052_rc2oaoaxalg3_rtrmadp_3_brazil-election_(1)1345_re.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
-   "article": ""
+   "article": "c27a56894312b1e1"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/26/la-bolsa-de-brasil-se-desploma-y-se-interrumpe-la-negociacion-por-primera-vez-desde-en-seis-anos",
@@ -429,17 +533,17 @@ window.CIRCO = {
    "article": "8e8ef1044ee5c655"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/26/la-victoria-de-lula-en-la-prensa-internacional",
+   "id": "https://www.filo.news/noticia/2026/10/26/remontada-historica-asi-reflejo-la-prensa-internacional-la-victoria-de-lula-en-brasil",
    "source": "Filo.News",
    "category": "Notis",
    "title": "\"Remontada histórica\": así reflejó la prensa internacional la victoria de Lula en Brasil",
-   "link": "https://www.filo.news/noticia/2026/10/26/la-victoria-de-lula-en-la-prensa-internacional",
+   "link": "https://www.filo.news/noticia/2026/10/26/remontada-historica-asi-reflejo-la-prensa-internacional-la-victoria-de-lula-en-brasil",
    "excerpt": "El líder del PT accedió a su cuarto mandato tras derrotar a Flávio Bolsonaro. En los medios del mundo, destacaron su figura como un freno al avance de la derecha y la influencia de Donald Trump en la región.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/26/noname7409_re.png",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
-   "article": "5f6363a737c6457f"
+   "article": "41f6d5fac9cc80f3"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/26/balotaje-en-brasil-bolsonaro-se-niega-a-reconocer-la-victoria-de-lula-y-pedira-anular-las-elecciones",
@@ -832,19 +936,6 @@ window.CIRCO = {
    "article": "b576f7ee04fb4254"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/25/tiroteo-narco-en-fuerte-apache-dejo-dos-muertos-y-cuatro-heridos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Tiroteo narco en Fuerte Apache dejó dos muertos y cuatro heridos",
-   "link": "https://www.filo.news/noticia/2026/10/25/tiroteo-narco-en-fuerte-apache-dejo-dos-muertos-y-cuatro-heridos",
-   "excerpt": "El enfrentamiento armado ocurrió en el barrio de Ciudadela durante una disputa territorial entre bandas rivales.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/ft4zpmg1720x0__18697_re.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "227195162e5da150"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201402",
    "source": "CIPER",
    "category": "Notis",
@@ -1066,32 +1157,6 @@ window.CIRCO = {
    "article": "e2ea79a88d739496"
   },
   {
-   "id": "https://www.theverge.com/?p=1018021",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "OpenAI now trains its frontier AI models with no internet access",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-   "excerpt": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "og_checked": true,
-   "article": "b72669c84c64b68d"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017906",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-   "excerpt": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-24",
-   "og_checked": true,
-   "article": "740465d534ba2a35"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017447",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -1118,19 +1183,6 @@ window.CIRCO = {
    "article": "29293bcc94618c5d"
   },
   {
-   "id": "https://www.theverge.com/?p=1017413",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple revives the original iPod as an Apple Music easter egg",
-   "link": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
-   "excerpt": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual re-creation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&strip=all&crop=12.805685249999%2C11.686014773698%2C68.258630720705%2C70.949974447181&w=1200",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "b45e09a7c3f968c2"
-  },
-  {
    "id": "https://www.applesfera.com/ipod/hay-ipod-virtual-escondido-web-apple-cumple-25-anos-asi-puedes-encontrarlo",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -1142,19 +1194,6 @@ window.CIRCO = {
    "first_seen": "2026-10-23",
    "og_checked": false,
    "article": "06d4ea5d6566ee2a"
-  },
-  {
-   "id": "https://www.applesfera.com/apple-1/ascendio-gran-rediseno-apple-ahora-uno-maximos-jefazos-este-area-quien-steve-lemay",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Ascendió tras el gran rediseño de Apple y ahora es uno de los máximos jefazos en este área. Quién es Steve Lemay",
-   "link": "https://www.applesfera.com/apple-1/ascendio-gran-rediseno-apple-ahora-uno-maximos-jefazos-este-area-quien-steve-lemay",
-   "excerpt": "Cuando él aterrizó en Apple, era otro Steve el que mandaba (Jobs). Fue creciendo internamente siendo partícipe de la mejor época histórica de Apple , tanto a nivel de innovación con Jobs como de resultados económicos con Tim Cook. Ahora, bajo el liderazgo de John Ternus , Steve…",
-   "image": "https://i.blogs.es/792fa9/steve-lemay/1024_2000.jpeg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": false,
-   "article": "93ac81857dd1b626"
   },
   {
    "id": "https://www.theverge.com/?p=1017600",
@@ -1324,19 +1363,6 @@ window.CIRCO = {
    "first_seen": "2026-10-23",
    "og_checked": true,
    "article": "4b745ba414bc86e3"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017090",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "No, the iPhone Duo isn’t a small phone",
-   "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-   "excerpt": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04350_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "982dd5770cd2cffe"
   },
   {
    "id": "https://www.theverge.com/?p=1016977",
@@ -1766,19 +1792,6 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": true,
    "article": "baa5b5d6a1eea541"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1014209",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
-   "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
-   "excerpt": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "56a8d9e39d31816e"
   },
   {
    "id": "https://musebyclios.com/?p=133860",
