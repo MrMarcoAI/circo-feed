@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-27T15:24-03:00",
+ "updated": "2026-10-27T19:40-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -286,6 +286,19 @@ window.CIRCO = {
    "article": "6b9e3ee1668a8f68"
   },
   {
+   "id": "https://www.theverge.com/?p=1019921",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+   "excerpt": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "362c9c9e95f89ee4"
+  },
+  {
    "id": "https://www.theverge.com/?p=1017064",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -343,7 +356,7 @@ window.CIRCO = {
    "category": "Publi",
    "title": "Seth Rogen Visits Sephora for Holidays Gifts. And He Seems a Bit Confused",
    "link": "https://musebyclios.com/fashion-and-beauty/seth-rogen-visits-sephora-for-holidays-gifts-and-he-seems-a-bit-confused/?utm_source=rss&utm_medium=rss&utm_campaign=seth-rogen-visits-sephora-for-holidays-gifts-and-he-seems-a-bit-confused",
-   "excerpt": "They’re pimple patches, not face stickers, Seth Rogen. Oh, the multi-hyphenate celeb is so clueless in Sephora’s holiday campaign. Thankfully, there’s a beauty advisor on hand to provide guidance. Go ahead and sniff the cosmetics, Seth. They won’t judge. Agency Gus helped…",
+   "excerpt": "They’re pimple patches, not face stickers, Seth Rogen. Oh, the multi-hyphenate celeb is so clueless in Sephora’s holiday campaign. Thankfully, there’s a beauty advisor on hand to provide guidance. Go ahead and sniff the cosmetics, Seth. They won’t judge. Agency Gut helped…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/27113043/SETH-MASK.jpg",
    "day": "2026-10-27",
    "first_seen": "2026-10-27",
@@ -367,9 +380,9 @@ window.CIRCO = {
    "id": "https://musebyclios.com/?p=134044",
    "source": "Muse by Clio",
    "category": "Publi",
-   "title": "Public Storage Tapped 4 Indie Filmmakers to Spin Horror Tales for Halloween",
+   "title": "Public Storage Tapped 4 Indie Filmmakers to Spin Terrifying Tales",
    "link": "https://musebyclios.com/advertising/4-indie-filmmakers-tell-horror-tales-for-public-storage/?utm_source=rss&utm_medium=rss&utm_campaign=4-indie-filmmakers-tell-horror-tales-for-public-storage",
-   "excerpt": "So, people pack away unspeakable horrors in self-storage units these days. Good to know. Such facilities serve as springboards for “Don’t Watch,” a quartet of unsettling micro-tales from Public Storage and The Infinite Agency. Unlike Yahoo’s somewhat similar Halloween offering,…",
+   "excerpt": "So, people pack away unspeakable horrors in self-storage units these days. We’d suspected as much. Such facilities serve as springboards for “Don’t Watch,” a quartet of unsettling micro-tales from Public Storage and The Infinite Agency. Unlike Yahoo’s somewhat similar Halloween…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/27092616/STOR.jpg",
    "day": "2026-10-27",
    "first_seen": "2026-10-27",
@@ -481,6 +494,110 @@ window.CIRCO = {
    "article": "8f996c247d6da017"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/27/festival-internacional-de-cine-infinito-super-8-llega-su-tercera-edicion-en-buenos-aires",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Festival Internacional de Cine Infinito Super 8: llega su tercera edición en Buenos Aires",
+   "link": "https://www.filo.news/noticia/2026/10/27/festival-internacional-de-cine-infinito-super-8-llega-su-tercera-edicion-en-buenos-aires",
+   "excerpt": "Con entradas gratuitas en seis sedes de la Ciudad, llega un espacio dedicado al cine y especialmente a su formato fílmico de paso reducido creado con fines hogareños en 1965, hace exactamente 61 años.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/unnamed13)4581.png",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "7b5381c0ec009e7c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/el-consumo-en-los-hogares-volvio-a-caer-en-septiembre",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El consumo en los hogares volvió a caer en septiembre",
+   "link": "https://www.filo.news/noticia/2026/10/27/el-consumo-en-los-hogares-volvio-a-caer-en-septiembre",
+   "excerpt": "En concreto, septiembre se encuentra un 2% por debajo del máximo de principios de 2025, según la Cámara Argentina de Comercio y Servicios (CAC).",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/disenosin_título_-_2026-10-27t182152.8357834_re.png",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "fbd3a110853cf9bc"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/brasil-la-justicia-cancelo-los-pasaportes-de-flavio-bolsonaro-y-desconocen-su-paradero",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Brasil: la Justicia canceló los pasaportes de Flávio Bolsonaro y desconocen su paradero",
+   "link": "https://www.filo.news/noticia/2026/10/27/brasil-la-justicia-cancelo-los-pasaportes-de-flavio-bolsonaro-y-desconocen-su-paradero",
+   "excerpt": "La Policía Federal informó que \"no hay registro formal\" de que el legislador haya abandonado el territorio brasileño",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/202610261025864-scaled1533_re.jpg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "1c5fab47b7c30af1"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/analia-franchin-recordo-un-episodio-traumatico-de-su-infancia-se-me-aparecian-los-pitufos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Analía Franchín recordó un episodio traumático de su infancia: \"Se me aparecían los Pitufos\"",
+   "link": "https://www.filo.news/noticia/2026/10/27/analia-franchin-recordo-un-episodio-traumatico-de-su-infancia-se-me-aparecian-los-pitufos",
+   "excerpt": "La panelista habló de una experiencia paranormal que vivió cuando tenía 8 años.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/analia8218_re.jpg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "1ab8c8e0c2a51f69"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/juan-roman-riquelme-hablo-sobre-los-arbitrajes-en-la-previa-del-superclasico-siempre-es-mas-facil-culpar-a-un-arbitro",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Juan Román Riquelme habló sobre los arbitrajes en la previa del Superclásico: \"Siempre es más fácil culpar a un árbitro\"",
+   "link": "https://www.filo.news/noticia/2026/10/27/juan-roman-riquelme-hablo-sobre-los-arbitrajes-en-la-previa-del-superclasico-siempre-es-mas-facil-culpar-a-un-arbitro",
+   "excerpt": "El presidente de Boca Juniors brindó una entrevista en la que se refirió, entre otras cosas, a los cuestionamientos a los árbitros a raíz de las recientes declaraciones de Leonardo Ponzio y Ángel Correa.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/riquelmeboca9149_re.jpg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "58a5fbdbe29b539b"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/jose-luis-espert-apelo-su-procesamiento-por-presunto-lavado-de-dinero-y-enriquecimiento-ilicito",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "José Luis Espert apeló su procesamiento por presunto lavado de dinero y enriquecimiento ilícito",
+   "link": "https://www.filo.news/noticia/2026/10/27/jose-luis-espert-apelo-su-procesamiento-por-presunto-lavado-de-dinero-y-enriquecimiento-ilicito",
+   "excerpt": "El exdiputado pidió que la Cámara revoque el fallo, lo sobresea y levante el embargo de $1.000 millones y la prohibición de salir del país.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/202510251006100-scaled6976_re.jpg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "dbdf59768d5023cc"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/lourdes-sanchez-hablo-del-fin-de-su-relacion-se-me-murio-el-amor-de-pareja",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Lourdes Sánchez habló del fin de su relación: \"Se me murió el amor de pareja\"",
+   "link": "https://www.filo.news/noticia/2026/10/27/lourdes-sanchez-hablo-del-fin-de-su-relacion-se-me-murio-el-amor-de-pareja",
+   "excerpt": "La bailarina habló de su presente amoroso, tras poner fin a 16 años de pareja con el productor y se mostró feliz y enamorada.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/sanchez8116_re.jpg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "93d32a3b809ff19e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/renato-ivan-tabella-es-indagado-por-dos-femicidios-ocurrios-en-retiro-y-en-cordoba",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Renato Iván Tabella es indagado por dos femicidios ocurrios en Retiro y en Córdoba",
+   "link": "https://www.filo.news/noticia/2026/10/27/renato-ivan-tabella-es-indagado-por-dos-femicidios-ocurrios-en-retiro-y-en-cordoba",
+   "excerpt": "Según el Ministerio de Seguridad porteño, ambas mujeres fueron atacadas \"luego de acordar encuentros en departamentos a través de aplicaciones de citas\".",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/disenosin_título_-_2026-10-27t160745.3565451.png",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "c327c05e6d5be938"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/27/mana-transmitira-en-vivo-por-youtube-su-tour-vivir-sin-aire-desde-un-lugar-mitico",
    "source": "Filo.News",
    "category": "Notis",
@@ -492,6 +609,19 @@ window.CIRCO = {
    "first_seen": "2026-10-27",
    "og_checked": false,
    "article": "1a304b17887de3a0"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/dillom-presento-la-nueva-violencia-en-el-festival-bandera-por-algo-llegue-hasta-aca-sabia-lo-que-hacia",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Dillom presentó “La Nueva Violencia” en el Festival Bandera: \"Por algo llegué hasta acá, sabía lo que hacía\"",
+   "link": "https://www.filo.news/noticia/2026/10/27/dillom-presento-la-nueva-violencia-en-el-festival-bandera-por-algo-llegue-hasta-aca-sabia-lo-que-hacia",
+   "excerpt": "El artista presentó su nuevo proyecto en la séptima edición del evento, que se desarrolló en el Parque Estación Central Córdoba. Tras su show, conversó con Filo.news.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/25243_re.jpg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "68631e77b6158e9e"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/27/el-gobierno-no-felicitara-a-lula-investigan-si-bolsonaro-cruzo-a-argentina-para-huir-a-eeuu-elecciones-en-israel-y-mas",
@@ -507,17 +637,17 @@ window.CIRCO = {
    "article": "d0696adf5deb8336"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/27/ravier",
+   "id": "https://www.filo.news/noticia/2026/10/27/el-gobierno-no-felicitara-a-lula-por-su-triunfo-electoral-en-brasil",
    "source": "Filo.News",
    "category": "Notis",
    "title": "El Gobierno no felicitará a Lula por su triunfo electoral en Brasil",
-   "link": "https://www.filo.news/noticia/2026/10/27/ravier",
+   "link": "https://www.filo.news/noticia/2026/10/27/el-gobierno-no-felicitara-a-lula-por-su-triunfo-electoral-en-brasil",
    "excerpt": "Lo confirmó el vocero presidencial Adrián Ravier. Explicó que no lo harán porque el mandatario no saludó a Milei en 2023. \"El presidente no es hipócrita\", afirmó.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/27/noname7054_re.png",
    "day": "2026-10-27",
    "first_seen": "2026-10-27",
    "og_checked": false,
-   "article": ""
+   "article": "935ff40209f2d635"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/27/israel-netanyahu-se-juega-su-futuro-politico-en-las-primeras-elecciones-traas-el-ataque-de-hamas",
@@ -689,6 +819,19 @@ window.CIRCO = {
    "article": "bb7c8b66201f4d43"
   },
   {
+   "id": "https://www.ciperchile.cl/?p=201473",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Fondos generacionales: el riesgo de repetir el error del Fondo E",
+   "link": "https://www.ciperchile.cl/2026/10/26/fondos-generacionales-el-riesgo-de-repetir-el-error-del-fondo-e/?utm_source=rss&utm_medium=rss&utm_campaign=fondos-generacionales-el-riesgo-de-repetir-el-error-del-fondo-e",
+   "excerpt": "La entrada Fondos generacionales: el riesgo de repetir el error del Fondo E se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1202634-1.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "d2838a12db29d03e"
+  },
+  {
    "id": "https://www.applesfera.com/servicios-apple/siri-ai-habla-espanol-27-2-asi-puedes-tenerla-vivas-donde-vivas",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -817,19 +960,6 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "d1fd86946b0234b7"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1018738",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Five weird details from Anthropic’s IPO filing",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-   "excerpt": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "8820bb954b2a44f7"
   },
   {
    "id": "yt:video:HKNpCwG3nlc",
@@ -1118,58 +1248,6 @@ window.CIRCO = {
    "article": ""
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/26/los-presidentes-de-la-region-felicitan-a-lula-mientras-milei-permanece-en-silencio",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Los presidentes de la región felicitan a Lula mientras Milei permanece en silencio",
-   "link": "https://www.filo.news/noticia/2026/10/26/los-presidentes-de-la-region-felicitan-a-lula-mientras-milei-permanece-en-silencio",
-   "excerpt": "Líderes afines y distanciados ideológicamente del mandatario brasileño lo felicitaron por su reelección. El libertario todavía no se pronunció.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/20261026t043313z_1207480052_rc2oaoaxalg3_rtrmadp_3_brazil-election_(1)1345_re.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "c27a56894312b1e1"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/26/la-bolsa-de-brasil-se-desploma-y-se-interrumpe-la-negociacion-por-primera-vez-desde-en-seis-anos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Golpe a los mercados en Brasil: se dispara el dólar, la Bolsa de San Pablo se hunde y se interrumpen las negociaciones",
-   "link": "https://www.filo.news/noticia/2026/10/26/la-bolsa-de-brasil-se-desploma-y-se-interrumpe-la-negociacion-por-primera-vez-desde-en-seis-anos",
-   "excerpt": "La reacción responde al triunfo de Lula da Silva en el balotaje frente a Flávio Bolsonaro. El real llegó a depreciarse hasta los 5,60 por dólar y el índice líder de San Pablo se hundió 10% al arranque de la rueda y provocó que se active la suspensión de las negociaciones por…",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/diputados22)2001_re.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "8e8ef1044ee5c655"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/26/remontada-historica-asi-reflejo-la-prensa-internacional-la-victoria-de-lula-en-brasil",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "\"Remontada histórica\": así reflejó la prensa internacional la victoria de Lula en Brasil",
-   "link": "https://www.filo.news/noticia/2026/10/26/remontada-historica-asi-reflejo-la-prensa-internacional-la-victoria-de-lula-en-brasil",
-   "excerpt": "El líder del PT accedió a su cuarto mandato tras derrotar a Flávio Bolsonaro. En los medios del mundo, destacaron su figura como un freno al avance de la derecha y la influencia de Donald Trump en la región.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/noname7409_re.png",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "41f6d5fac9cc80f3"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/26/balotaje-en-brasil-bolsonaro-se-niega-a-reconocer-la-victoria-de-lula-y-pedira-anular-las-elecciones",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Balotaje en Brasil: Bolsonaro se niega a reconocer la victoria de Lula y pedirá anular las elecciones",
-   "link": "https://www.filo.news/noticia/2026/10/26/balotaje-en-brasil-bolsonaro-se-niega-a-reconocer-la-victoria-de-lula-y-pedira-anular-las-elecciones",
-   "excerpt": "El candidato del Partido Liberal dijo que es \"imposible\" reconocer el resultado de los comicios después de que la Justicia dispusiera extender el horario de votación.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/noname6845_re.png",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "a2fde21ce2584421"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201441",
    "source": "CIPER",
    "category": "Notis",
@@ -1181,32 +1259,6 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "6156fd38ccea2810"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/en-un-historico-balotaje-lula-da-silva-fue-reelecto-presidente-de-brasil-y-asumira-su-cuarto-mandato",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "En un histórico balotaje, Lula da Silva fue reelecto presidente de Brasil y asumirá su cuarto mandato",
-   "link": "https://www.filo.news/noticia/2026/10/25/en-un-historico-balotaje-lula-da-silva-fue-reelecto-presidente-de-brasil-y-asumira-su-cuarto-mandato",
-   "excerpt": "Con el 51,8% de los votos, el líder del PT ganó el balotaje y se convirtió en el primer candidato en revertir el resultado de la primera vuelta desde el retorno de las presidenciales en 1989. Flávio Bolsonaro no reconoció la derrota y advirtió que pedirá \"la anulación de las…",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/20261024t170557z_664828146_rc2q9oabip06_rtrmadp_3_brazil-election-lula7060_re.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "052334afc70f27e3"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/aysa-propone-aumentos-de-hasta-el-149-en-las-facturas-de-agua-a-quienes-afectaria",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "AySA propone aumentos de hasta el 149% en las facturas de agua: a quiénes afectaría",
-   "link": "https://www.filo.news/noticia/2026/10/25/aysa-propone-aumentos-de-hasta-el-149-en-las-facturas-de-agua-a-quienes-afectaria",
-   "excerpt": "El ERAS realizará este lunes una audiencia pública para analizar cambios en las tarifas y los descuentos vigentes. La iniciativa también contempla reducciones para algunos hogares.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/2026102910001-scaled1634_re.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "0dd7d1eb4034fcfb"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201424",
@@ -1285,45 +1337,6 @@ window.CIRCO = {
    "first_seen": "2026-10-25",
    "og_checked": true,
    "article": "cd697708de50936b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/balotaje-en-brasil-flavio-bolsonaro-da-vuelta-la-eleccion-y-se-impone-ante-lula-con-el-35-de-votos-escrutados",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Parejo balotaje en Brasil: Lula da Silva vuelve a imponerse en los comicios frente a Flávio Bolsonaro",
-   "link": "https://www.filo.news/noticia/2026/10/25/balotaje-en-brasil-flavio-bolsonaro-da-vuelta-la-eleccion-y-se-impone-ante-lula-con-el-35-de-votos-escrutados",
-   "excerpt": "Con el 50% de los votos escrutados, Lula da Silva se impone con el 50,15% de los votos frente al 49,85% de Flávio Bolsonaro.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/diputados20)3451_re.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "6bbe0f99241bf9ab"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/lula-da-silva-se-impone-en-los-primeros-resultados-del-balotaje-pero-flavio-bolsonaro-todavia-puede-dar-vuelta-la-eleccion",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Balotaje en Brasil: Flávio Bolsonaro da vuelta la elección y se impone ante Lula, con casi el 30% de votos escrutados",
-   "link": "https://www.filo.news/noticia/2026/10/25/lula-da-silva-se-impone-en-los-primeros-resultados-del-balotaje-pero-flavio-bolsonaro-todavia-puede-dar-vuelta-la-eleccion",
-   "excerpt": "Con el 29,16% de los votos escrutados, Flávio Bolsonaro se impone con el 50,47% de los votos frente al 49,53% de Lula da Silva.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/diputados20)1739_re.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "345dc47c4b6fee8c"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/boca-vencio-a-independiente-con-un-gol-agonico-de-jagger-herrera",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Boca venció a Independiente con un gol agónico de Jagger Herrera",
-   "link": "https://www.filo.news/noticia/2026/10/25/boca-vencio-a-independiente-con-un-gol-agonico-de-jagger-herrera",
-   "excerpt": "El Xeneize se impuso 1-0 en Avellaneda gracias a un cabezazo del juvenil, que convirtió su primer tanto como profesional. Además, aseguró su clasificación a los octavos de final del Torneo Clausura.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/202610261025825-scaled1554_re.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "6c51044408cd6ab3"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201402",
@@ -1727,19 +1740,6 @@ window.CIRCO = {
    "first_seen": "2026-10-22",
    "og_checked": false,
    "article": "b2d23ed86b370b4c"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201319",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal",
-   "link": "https://www.ciperchile.cl/2026/10/21/radar-21-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-21-10-26",
-   "excerpt": "La entrada SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "c535e31a10af8c2b"
   },
   {
    "id": "https://musebyclios.com/?p=133914",
