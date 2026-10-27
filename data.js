@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-26T19:54-03:00",
+ "updated": "2026-10-27T02:44-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,58 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1019143",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+   "excerpt": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "fa1b694d89daf650"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1018994",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Anthropic is burning gas to feed the AI boom",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+   "excerpt": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "f04078cfce7bb418"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/26/harry-kane-gano-el-balon-de-oro-2026",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Harry Kane ganó el Balón de Oro 2026",
+   "link": "https://www.filo.news/noticia/2026/10/26/harry-kane-gano-el-balon-de-oro-2026",
+   "excerpt": "El futbolista inglés se quedó con el galardón que otorga la revista France Football por su rendimiento en la temporada 2025/26 con el Bayern Munich.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/20261026t225442z_1903359033_up1emaq1rn54j_rtrmadp_3_soccer-ballon7866_re.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "7bd5d3dc5e495a3e"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201449",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Kast reconoce error en rebajas de condena pero descarta salida de Rabat; Chadwick es mencionado en nueva formalización de Hermosilla, y Corte sobresee a asesino de Ámbar por otros dos homicidios",
+   "link": "https://www.ciperchile.cl/2026/10/26/radar-26-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-26-10-26",
+   "excerpt": "La entrada Kast reconoce error en rebajas de condena pero descarta salida de Rabat; Chadwick es mencionado en nueva formalización de Hermosilla, y Corte sobresee a asesino de Ámbar por otros dos homicidios se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "bb7c8b66201f4d43"
+  },
   {
    "id": "https://www.theverge.com/?p=1018827",
    "source": "The Verge · Apple",
@@ -341,7 +393,7 @@ window.CIRCO = {
    "id": "yt:video:HKNpCwG3nlc",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
-   "title": "The $1M+ Solo AI Company for Boring Businesses",
+   "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
    "excerpt": "",
    "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
@@ -988,19 +1040,6 @@ window.CIRCO = {
    "article": "37b71304d719831a"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/25/nahuel-pennisi-cantara-ante-el-papa-leon-xiv-en-buenos-aires",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Nahuel Pennisi cantará ante el Papa León XIV en Buenos Aires",
-   "link": "https://www.filo.news/noticia/2026/10/25/nahuel-pennisi-cantara-ante-el-papa-leon-xiv-en-buenos-aires",
-   "excerpt": "El músico actuará en Palermo en el marco de la gira papal que también incluirá recitales en Córdoba y Luján.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/capturadepantalla_2026-10-25_1416566380_re.png",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "7f35185559f9b9c3"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201402",
    "source": "CIPER",
    "category": "Notis",
@@ -1090,32 +1129,6 @@ window.CIRCO = {
    "first_seen": "2026-10-24",
    "og_checked": false,
    "article": "dc092e46708dcdf4"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1018205",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Blue Planet III is keeping the rough edges in the age of AI",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-   "excerpt": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": true,
-   "article": "b0e212d8576d03e5"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1018187",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Pennsylvania will require labels on AI-generated ads",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-   "excerpt": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": true,
-   "article": "41e28042f79329d4"
   },
   {
    "id": "https://musebyclios.com/?p=133972",
@@ -1662,19 +1675,6 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "95256b531750756c"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201292",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "¿Operación Sitio 2.0? El riesgo de volver a la «Operación Tiza» de Frei Montalva",
-   "link": "https://www.ciperchile.cl/2026/10/21/operacion-sitio-2-0-el-riesgo-de-volver-a-la-operacion-tiza-de-frei-montalva/?utm_source=rss&utm_medium=rss&utm_campaign=operacion-sitio-2-0-el-riesgo-de-volver-a-la-operacion-tiza-de-frei-montalva",
-   "excerpt": "La entrada ¿Operación Sitio 2.0? El riesgo de volver a la «Operación Tiza» de Frei Montalva se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1708993-1-scaled.jpg",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "33cea0d000d3f1e8"
   },
   {
    "id": "https://musebyclios.com/?p=133914",
@@ -2273,58 +2273,6 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": false,
    "article": ""
-  },
-  {
-   "id": "https://bencorde.com/blog/rea-ingenieria-inversa-claude-code/",
-   "source": "Benjamín Cordero",
-   "category": "Tech + la IA",
-   "title": "Probé REA: el repo viral de ingeniería inversa con IA",
-   "link": "https://bencorde.com/blog/rea-ingenieria-inversa-claude-code/",
-   "excerpt": "Probé REA con Claude Code para recrear una app de pantallazos y otra de dictado. Comparo con y sin REA, explico la instalación y los límites de la prueba.",
-   "image": "https://bencorde.com/blog/rea-ingenieria-inversa-claude-code/imagenes/portada.jpg",
-   "day": "2026-10-12",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "28dd9a06074ad9fe"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133587",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Oslo Swears ‘It’s Totally Even a City.’ There’s Singing and Dancing, So It Must Be True",
-   "link": "https://musebyclios.com/travel/oslo-swears-its-totally-even-a-city-theres-singing-and-dancing-so-it-must-be-true/?utm_source=rss&utm_medium=rss&utm_campaign=oslo-swears-its-totally-even-a-city-theres-singing-and-dancing-so-it-must-be-true",
-   "excerpt": "“I hate the winter in Oslo. I don’t mind the cold, to be honest. It’s just, everything becomes so … cozy. It feels a bit like a cult, you know? Like living in some kind of creepy fairytale. A little snow, and suddenly everyone is happy and jolly for no good reason.” With that…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/12135008/DEER.jpg",
-   "day": "2026-10-12",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "c757981b2f26033e"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133570",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "DJ Duo Nina Sky Gives Buchanan’s Whisky a Coconut Groove",
-   "link": "https://musebyclios.com/music/dj-duo-nina-sky-gives-buchanans-whisky-a-coconut-groove/?utm_source=rss&utm_medium=rss&utm_campaign=dj-duo-nina-sky-gives-buchanans-whisky-a-coconut-groove",
-   "excerpt": "DJ duo Nina Sky created an original soundtrack to support the launch of the House of Buchanan‘s new coconut flavor. The identical twin sisters, renowned for their Nuyorican flair, provide vocals to hype the brand’s “loudest flavor yet.” Buchanan’s created the tuneful campaign to…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/11170720/BC.jpg",
-   "day": "2026-10-12",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "e4eb27d8ea24f1ba"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133595",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "JOE Media Battles ED as Muse Spotlights Great Work From the U.K.",
-   "link": "https://musebyclios.com/eurovisions/joe-media-battles-ed-as-muse-spotlights-great-work-from-the-u-k/?utm_source=rss&utm_medium=rss&utm_campaign=joe-media-battles-ed-as-muse-spotlights-great-work-from-the-u-k",
-   "excerpt": "Here are some superior campaigns that broke in recent weeks across the U.K., selected by Muse sibling Ads of the World. JOE Media Group, ‘Listen to Jordic’Agency: Havas Lynx Jordic the Viking takes center stage for an epic folk-style song about heart health. Using humor to…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/12113826/EV.jpg",
-   "day": "2026-10-12",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "964d2c08765507a5"
   }
  ]
 };
