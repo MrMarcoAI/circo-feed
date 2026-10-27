@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-27T12:44-03:00",
+ "updated": "2026-10-27T15:24-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,97 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1019288",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "We’ve had touchscreen laptops for years. Can Apple make them better?",
+   "link": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
+   "excerpt": "A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\" event. A laptop with a touchscreen should be no big deal - we've…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24371430/236492_MacBook_Pro_16__2023__AKrales_0090.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "c37d0a4ebec8be8e"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1019373",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+   "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+   "excerpt": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.727975106345%2C100%2C78.54404978731&w=1200",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "4245d972502ef420"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1018467",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple refreshes the iMac with M6 chips",
+   "link": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
+   "excerpt": "Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, giving Apple's all-in-one desktop computer a performance boost via the same chipset Apple launched with the Mac Mini in August. Prices start from $1,499, and the design otherwise appears…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-iMac-with-M6-hero-261027.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "53e3df0a7072dca6"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017664",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple updates the MacBook Pro with M6 chips",
+   "link": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
+   "excerpt": "Apple is giving its entry-level MacBook Pro a spec bump. After upgrading the entry-level MacBook Pro with its M5 chip a year ago, Apple is refreshing the laptop today with the M6 chip, which the company launched in August as part of recent upgrades to the new Mac Mini. Last…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple1.jpg?quality=90&strip=all&crop=0%2C10.744851025048%2C100%2C78.510297949903&w=1200",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "feb18c7a449affa8"
+  },
+  {
+   "id": "https://www.applesfera.com/iphone/apple-responde-pantallas-iphone-duo-que-se-rompen",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Apple responde sobre las pantallas del iPhone Duo que se rompen",
+   "link": "https://www.applesfera.com/iphone/apple-responde-pantallas-iphone-duo-que-se-rompen",
+   "excerpt": "Cada lanzamiento de Apple no suele estar libre de polémica . Con el iPhone 17 Pro fueron los colores y los rayones. El iPhone 18 Pro ha pasado sin nada que contar, pero el iPhone Duo sí se lo ha llevado de calle. Algunos usuarios aseguran que la bisagra les ha roto la pantalla…",
+   "image": "https://i.blogs.es/fa3dc8/iphone-duo-pantalla-rota-apple/1024_2000.jpeg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "d4d5bfe4bd540fa8"
+  },
+  {
+   "id": "https://www.applesfera.com/curiosidades/asi-fichaba-steve-jobs-talento-para-next-sueldo-desorbitado-podian-despedirte-cuando-quisieran",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Así fichaba Steve Jobs talento para NeXT: un sueldo desorbitado, aunque podían despedirte cuando quisieran",
+   "link": "https://www.applesfera.com/curiosidades/asi-fichaba-steve-jobs-talento-para-next-sueldo-desorbitado-podian-despedirte-cuando-quisieran",
+   "excerpt": "Trabajar en Apple es el sueño de muchos hoy. Pero a finales de los 80, el verdadero objetivo era conseguir un puesto en NeXT, la empresa que Steve Jobs fundó después de que lo echaran de Apple en 1985. NeXT nunca fue un éxito comercial , pero su legado tecnológico fue muy…",
+   "image": "https://i.blogs.es/c404a2/next/1024_2000.jpeg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "5ddbab7ad4a73eac"
+  },
+  {
+   "id": "https://www.applesfera.com/rumores/tenemos-macbook-pro-chip-m6-gordo-se-presenta-manana",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Ya tenemos MacBook Pro con chip M6, pero lo gordo se presenta mañana",
+   "link": "https://www.applesfera.com/rumores/tenemos-macbook-pro-chip-m6-gordo-se-presenta-manana",
+   "excerpt": "Ha sido un par de días de lanzamientos en cadena. Con el iMac M6 y el iPad mini con pantalla OLED, Apple ha ido soltando novedades a las 14:00 en España. Y a ellos se ha sumado el MacBook Pro con chip M6 . El de entrada, con el mismo diseño que ya conocíamos y el nuevo…",
+   "image": "https://i.blogs.es/471818/m6-apple/1024_2000.jpeg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "4227c7ca566c70b5"
+  },
   {
    "id": "https://www.applesfera.com/servicios-apple/batalla-adobe-se-pone-seria-apple-creator-studio-se-llena-novedades-ia-agentica",
    "source": "Applesfera",
@@ -182,17 +273,56 @@ window.CIRCO = {
    "article": "1ea32eb41020011a"
   },
   {
-   "id": "https://www.theverge.com/?p=1019373",
+   "id": "https://www.theverge.com/?p=1019076",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
-   "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-   "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-   "excerpt": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.727975106345%2C100%2C78.54404978731&w=1200",
+   "title": "Google’s next Genie AI model generates more realistic experiences",
+   "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+   "excerpt": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&strip=all&crop=0%2C3.0468973306098%2C100%2C93.90620533878&w=1200",
    "day": "2026-10-27",
    "first_seen": "2026-10-27",
    "og_checked": true,
-   "article": "4245d972502ef420"
+   "article": "6b9e3ee1668a8f68"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017064",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "VisionQuest is what happens when AI really goes rogue",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+   "excerpt": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&strip=all&crop=0%2C10.721948032455%2C100%2C78.556103935089&w=1200",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "e7e812bf5a398f55"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1019470",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+   "excerpt": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "fb0bdb4fc38ce991"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1019551",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+   "excerpt": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&strip=all&crop=0%2C3.2247049925468%2C100%2C93.550590014906&w=1200",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "e6322b04dc3756a7"
   },
   {
    "id": "https://www.theverge.com/?p=1019152",
@@ -351,6 +481,45 @@ window.CIRCO = {
    "article": "8f996c247d6da017"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/27/mana-transmitira-en-vivo-por-youtube-su-tour-vivir-sin-aire-desde-un-lugar-mitico",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Manà transmitirá en vivo por youtube su tour \"Vivir sin Aire\" desde un lugar mítico",
+   "link": "https://www.filo.news/noticia/2026/10/27/mana-transmitira-en-vivo-por-youtube-su-tour-vivir-sin-aire-desde-un-lugar-mitico",
+   "excerpt": "El concierto se transmitirá en vivo de forma global y gratuita. Una vez concluido el estreno, el especial quedará disponible para verlo \"on demand\".",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/mana6165_re.jpeg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "1a304b17887de3a0"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/el-gobierno-no-felicitara-a-lula-investigan-si-bolsonaro-cruzo-a-argentina-para-huir-a-eeuu-elecciones-en-israel-y-mas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Gobierno no felicitará a Lula; Investigan si Bolsonaro cruzó a Argentina para huir a EEUU; Elecciones en Israel; y más...",
+   "link": "https://www.filo.news/noticia/2026/10/27/el-gobierno-no-felicitara-a-lula-investigan-si-bolsonaro-cruzo-a-argentina-para-huir-a-eeuu-elecciones-en-israel-y-mas",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/noname3683_re.png",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "d0696adf5deb8336"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/ravier",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Gobierno no felicitará a Lula por su triunfo electoral en Brasil",
+   "link": "https://www.filo.news/noticia/2026/10/27/ravier",
+   "excerpt": "Lo confirmó el vocero presidencial Adrián Ravier. Explicó que no lo harán porque el mandatario no saludó a Milei en 2023. \"El presidente no es hipócrita\", afirmó.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/noname7054_re.png",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/27/israel-netanyahu-se-juega-su-futuro-politico-en-las-primeras-elecciones-traas-el-ataque-de-hamas",
    "source": "Filo.News",
    "category": "Notis",
@@ -377,17 +546,69 @@ window.CIRCO = {
    "article": "f2825f95a4f7bc75"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/27/el-partido-liberal-reconocio-la-reeleccion-de-lula-da-silva",
+   "id": "https://www.filo.news/noticia/2026/10/27/el-partido-de-bolsonaro-reconocio-la-reeleccion-de-lula-como-presidente-de-brasil",
    "source": "Filo.News",
    "category": "Notis",
    "title": "El partido de Bolsonaro reconoció la reelección de Lula como presidente de Brasil",
-   "link": "https://www.filo.news/noticia/2026/10/27/el-partido-liberal-reconocio-la-reeleccion-de-lula-da-silva",
+   "link": "https://www.filo.news/noticia/2026/10/27/el-partido-de-bolsonaro-reconocio-la-reeleccion-de-lula-como-presidente-de-brasil",
    "excerpt": "El Partido Liberal admitió el triunfo del actual mandatario pero cuestionó las medidas electoralistas que precedieron al balotaje del domingo pasado.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/27/noname3038_re.png",
    "day": "2026-10-27",
    "first_seen": "2026-10-27",
    "og_checked": false,
-   "article": ""
+   "article": "65ae3c3993d9ab48"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201465",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "El Brasil que Lula tendrá que negociar",
+   "link": "https://www.ciperchile.cl/2026/10/27/el-brasil-que-lula-tendra-que-negociar/?utm_source=rss&utm_medium=rss&utm_campaign=el-brasil-que-lula-tendra-que-negociar",
+   "excerpt": "La entrada El Brasil que Lula tendrá que negociar se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/Lula-1.jpg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "b948cb8d9f929da2"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1018827",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+   "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+   "excerpt": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1034.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "1c75c29a21e4aaff"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1018760",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
+   "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+   "excerpt": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "83bbba8da25657c6"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017801",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple updates the iPad Mini with a larger OLED display",
+   "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+   "excerpt": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. The iPad Mini starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular. At 5.4mm thick, the iPad Mini…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ipadmini.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "og_checked": true,
+   "article": "c201bf7ddad546bd"
   },
   {
    "id": "https://www.theverge.com/?p=1019143",
@@ -440,6 +661,19 @@ window.CIRCO = {
    "first_seen": "2026-10-27",
    "og_checked": false,
    "article": "7bd5d3dc5e495a3e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/26/festival-bandera-mas-de-20-000-personas-unidas-en-un-dia-a-pura-musica-expectativa-y-sorpresa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Festival Bandera: más de 20.000 personas unidas en un día a pura música, expectativa y sorpresa",
+   "link": "https://www.filo.news/noticia/2026/10/26/festival-bandera-mas-de-20-000-personas-unidas-en-un-dia-a-pura-musica-expectativa-y-sorpresa",
+   "excerpt": "El evento, que contó con cuatro escenarios, se realizó en el Parque Estación Central Córdoba. Durante su séptima edición reunió a más de 30 artistas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/copiadedsc087508665_re.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "og_checked": false,
+   "article": "536ca76a9e6ecfdb"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201449",
@@ -559,47 +793,8 @@ window.CIRCO = {
    "article": "5dd9361a1db2ce6e"
   },
   {
-   "id": "https://www.applesfera.com/seleccion/nueva-funda-belkin-perfecta-para-iphone-18-pro-max-tiene-clip-que-funciona-como-soporte-resiste-amarilleamiento",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "La nueva funda Belkin es perfecta para el iPhone 18 Pro Max: tiene un clip que funciona como soporte y resiste el amarilleamiento",
-   "link": "https://www.applesfera.com/seleccion/nueva-funda-belkin-perfecta-para-iphone-18-pro-max-tiene-clip-que-funciona-como-soporte-resiste-amarilleamiento",
-   "excerpt": "Aunque siempre es agradable tener un iPhone sin funda, sobre todo si tiene un color muy llamativo, es importante contar con una buena funda que lo proteja. Si tenemos un iPhone 18 Pro Max, Belkin tiene en Amazon una funda de lo más práctica. Se denomina Belkin Clear y cuesta…",
-   "image": "https://i.blogs.es/265bd3/iphone-18-pro-max/1024_2000.jpeg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "19eff110e2824e0f"
-  },
-  {
-   "id": "https://www.applesfera.com/rumores/macbook-pro-tactil-se-presenta-48-horas-sabemos-todo-esto",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "El MacBook Pro táctil se presenta en 24 horas y ya sabemos todo esto de él",
-   "link": "https://www.applesfera.com/rumores/macbook-pro-tactil-se-presenta-48-horas-sabemos-todo-esto",
-   "excerpt": "A un día de conocer, supuestamente, el MacBook Pro con pantalla táctil , este miércoles 28 hay lanzamiento en Apple . Será el colofón final a un septiembre y un octubre históricos. Con el iPhone 18 Pro , el iPhone Duo y todavía muchas cosas en el tintero . Una de ellas es el…",
-   "image": "https://i.blogs.es/89b5c4/macbook.pro/1024_2000.jpeg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "870b9042a4950cf8"
-  },
-  {
-   "id": "https://www.applesfera.com/iphone/duo-primer-iphone-anos-que-se-puede-manejar-bien-mano",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "¿Es el Duo el primer iPhone en años que se puede manejar bien con una mano?",
-   "link": "https://www.applesfera.com/iphone/duo-primer-iphone-anos-que-se-puede-manejar-bien-mano",
-   "excerpt": "En 2012, Apple presentaba el iPhone 5 con uno de esos anuncios que se puede decir que han envejecido mal. Sobre todo por el agravio comparativo que supone. En aquel anuncio , y en una época en la que la competencia ya empezaba a aumentar el tamaño de las pantallas, Apple…",
-   "image": "https://i.blogs.es/533b7a/iphone-duo-cerrado/1024_2000.jpeg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "566a75f43b3d0dde"
-  },
-  {
    "id": "https://www.theverge.com/?p=1018264",
-   "source": "The Verge · IA",
+   "source": "The Verge · Google",
    "category": "Tech + la IA",
    "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
    "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
@@ -635,45 +830,6 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "8820bb954b2a44f7"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1018666",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Microsoft offers buyouts to 60,000 employees",
-   "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-   "excerpt": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "5296547ccc20bb9c"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1018476",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-   "excerpt": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "d3cd3ac33675ae11"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1018434",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Can AI help solve the COBOL code crisis?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-   "excerpt": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1246435991.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "341c23abeae18878"
   },
   {
    "id": "yt:video:HKNpCwG3nlc",
@@ -1170,58 +1326,6 @@ window.CIRCO = {
    "article": "6c51044408cd6ab3"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/25/franco-colapinto-abandono-el-gp-de-estados-unidos-de-formula-1-y-kimi-antonelli-se-quedo-con-la-victoria",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Franco Colapinto abandonó el GP de Estados Unidos de Fórmula 1 y Kimi Antonelli se quedó con la victoria",
-   "link": "https://www.filo.news/noticia/2026/10/25/franco-colapinto-abandono-el-gp-de-estados-unidos-de-formula-1-y-kimi-antonelli-se-quedo-con-la-victoria",
-   "excerpt": "El argentino no pudo completar la carrera por daños en su Alpine, mientras que el piloto de Mercedes se impuso por delante de Charles Leclerc y Max Verstappen, quedando más cerca del título.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/45lne2ijr5dw7lrphnzlih4b6i1)6456_re.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "3a49ac06334063c3"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/balotaje-en-brasil-se-oficializaron-los-primeros-resultados-pese-a-la-extension-del-horario-de-votacion-hasta-las-19",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Balotaje en Brasil: se oficializaron los primeros resultados pese a la extensión del horario de votación hasta las 19",
-   "link": "https://www.filo.news/noticia/2026/10/25/balotaje-en-brasil-se-oficializaron-los-primeros-resultados-pese-a-la-extension-del-horario-de-votacion-hasta-las-19",
-   "excerpt": "Los datos se conocieron con el 0,25% del escrutinio total, al primer cierre del horario de votación a las 17. El Tribunal Supremo Electoral pidió que se frenara por la extensión de los comicios, que no implica la reapertura de las escuelas que ya habían cerrado.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/diputados19)6048_re.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "254a99268a6564c0"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/hospital-pirovano-realizaron-una-cirugia-cerebral-con-un-neuronavegador-que-funciona-como-un-gps",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Hospital Pirovano: realizaron una cirugía cerebral con un neuronavegador que funciona como un GPS",
-   "link": "https://www.filo.news/noticia/2026/10/25/hospital-pirovano-realizaron-una-cirugia-cerebral-con-un-neuronavegador-que-funciona-como-un-gps",
-   "excerpt": "El equipo, adquirido por el Gobierno porteño por más de 550 mil dólares, permite localizar lesiones y estructuras anatómicas durante las intervenciones. También podrá utilizarse en otros centros de salud públicos.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/ec8585fd6b684fab-9bee-bb4cff3de05d8247_re.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "3da059fa5438c991"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/25/temporal-en-misiones-volvieron-a-cerrar-el-circuito-superior-de-las-cataratas-y-hay-154-evacuados",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Temporal en Misiones: volvieron a cerrar el Circuito Superior de las Cataratas y hay 154 evacuados",
-   "link": "https://www.filo.news/noticia/2026/10/25/temporal-en-misiones-volvieron-a-cerrar-el-circuito-superior-de-las-cataratas-y-hay-154-evacuados",
-   "excerpt": "Las intensas lluvias provocaron daños en 124 viviendas y restricciones en pasos fronterizos. El aumento del caudal del río Iguazú obligó a suspender nuevamente el acceso a uno de los recorridos turísticos.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/25/202610261015837-scaled9592_re.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": false,
-   "article": "20416e9eb5629b29"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201402",
    "source": "CIPER",
    "category": "Notis",
@@ -1235,32 +1339,6 @@ window.CIRCO = {
    "article": "7ca88d4c376079fb"
   },
   {
-   "id": "https://www.theverge.com/?p=1018169",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "What to expect from Apple’s ‘Pro and tell’ event",
-   "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-   "excerpt": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0%2C10.722587942729%2C100%2C78.554824114543&w=1200",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": true,
-   "article": "4ef9eb6ccb1c3e5b"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1018131",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-   "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-   "excerpt": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": true,
-   "article": "745a4185cc3b0aaa"
-  },
-  {
    "id": "https://musebyclios.com/?p=133972",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1272,32 +1350,6 @@ window.CIRCO = {
    "first_seen": "2026-10-24",
    "og_checked": true,
    "article": "96883a13a6db8639"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017157",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Our best tips for using the iPhone Duo",
-   "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
-   "excerpt": "The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "4b745ba414bc86e3"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017413",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple revives the original iPod as an Apple Music easter egg",
-   "link": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
-   "excerpt": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual re-creation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&strip=all&crop=12.805685249999%2C11.686014773698%2C68.258630720705%2C70.949974447181&w=1200",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "b45e09a7c3f968c2"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201398",
@@ -1376,32 +1428,6 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "1db4ce18b3a19040"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017447",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "The iPhone Duo should have been an iPad",
-   "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-   "excerpt": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "d30681dea7316eb2"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017623",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "The first broken iPhone Duos are here",
-   "link": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-   "excerpt": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0%2C29.064535392392%2C100%2C41.870929215215&w=1200",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "29293bcc94618c5d"
   },
   {
    "id": "https://www.theverge.com/?p=1017600",
@@ -1519,19 +1545,6 @@ window.CIRCO = {
    "first_seen": "2026-10-23",
    "og_checked": false,
    "article": "9366eb8272d20c86"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017090",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "No, the iPhone Duo isn’t a small phone",
-   "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-   "excerpt": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04350_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "982dd5770cd2cffe"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201349",
@@ -1729,19 +1742,6 @@ window.CIRCO = {
    "article": "c535e31a10af8c2b"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201284",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Las AFP no responden si mantendrán en sus cargos a gerentes responsables de la multimillonaria pérdida del fondo E",
-   "link": "https://www.ciperchile.cl/2026/10/21/las-afp-no-responden-si-mantendran-en-sus-cargos-a-gerentes-responsables-de-la-multimillonaria-perdida-del-fondo-e/?utm_source=rss&utm_medium=rss&utm_campaign=las-afp-no-responden-si-mantendran-en-sus-cargos-a-gerentes-responsables-de-la-multimillonaria-perdida-del-fondo-e",
-   "excerpt": "La entrada Las AFP no responden si mantendrán en sus cargos a gerentes responsables de la multimillonaria pérdida del fondo E se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/AFP_Web-1.png",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "95256b531750756c"
-  },
-  {
    "id": "https://musebyclios.com/?p=133914",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1870,19 +1870,6 @@ window.CIRCO = {
    "first_seen": "2026-10-20",
    "og_checked": true,
    "article": "a727f381ea5644c0"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1014446",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Chrome will now show a warning before you visit ‘suspicious’ sites",
-   "link": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning",
-   "excerpt": "Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The new suspicious site warnings, available when Chrome's Enhanced Protection is on, build on a similar two-stage system…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Chrome-suspicious-website-warning-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "baa5b5d6a1eea541"
   },
   {
    "id": "https://musebyclios.com/?p=133860",
