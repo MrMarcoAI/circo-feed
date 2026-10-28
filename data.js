@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-28T13:26-03:00",
+ "updated": "2026-10-28T15:32-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -32,6 +32,11 @@ window.CIRCO = {
    "feed": "https://bencorde.com/feed.xml"
   },
   {
+   "name": "The Inspiration",
+   "category": "Publi",
+   "feed": "https://theinspiration.com/feed/"
+  },
+  {
    "name": "Muse by Clio",
    "category": "Publi",
    "feed": "https://musebyclios.com/feed/"
@@ -57,13 +62,125 @@ window.CIRCO = {
    "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
- "errors": [
-  {
-   "url": "https://theinspiration.com/",
-   "error": "HTTP Error 504: Gateway Time-out"
-  }
- ],
+ "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1019109",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Here’s where to preorder the latest MacBook Pros",
+   "link": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
+   "excerpt": "Apple finally showed off its 14- and 16-inch MacBook Pro laptops that have the PROLED XDR display at the October 2026 \"Pro and Tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight, and bringing back the…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/MacBook-Pro-M6-2026-preorder-3_5144c7.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "577ff175797b4dac"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1020084",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Here’s how macOS is changing for touchscreens",
+   "link": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
+   "excerpt": "Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though: Most of the touch action will be in the apps themselves, it…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-10.31.37-AM.png?quality=90&strip=all&crop=0%2C8.3218517497933%2C100%2C83.356296500413&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "ba58b7065bcac989"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1020069",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple ‘Pro and Tell’ event: everything announced this week",
+   "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
+   "excerpt": "Apple closed out its week of product announcements with a \"Pro and Tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "99e2f27b304ded64"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1020676",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
+   "link": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
+   "excerpt": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's PROLED…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-macbook-pro-touch-video-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "19e47c36826ebc4d"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1020549",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Hands-on with Apple’s touchscreen MacBook Pro",
+   "link": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
+   "excerpt": "Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's first laptop to embrace a touch interface. While it's unlikely that Apple can fix all…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "9b100210e758b7ed"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1019037",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
+   "link": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
+   "excerpt": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet for the first time. The diminutive slate won't hit shelves…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-iPad-Mini-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "d6d0d82d3d935de9"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1019554",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple announces its first touchscreen MacBook Pro",
+   "link": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
+   "excerpt": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model or $3,399 for the 16-inch version, and it's available to preorder today ahead of its release on November 6th. The new…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "451c009699482290"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1019809",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
+   "link": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
+   "excerpt": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative updates - they're quiet refreshes that look just like their…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "ec815a29363b9ffb"
+  },
+  {
+   "id": "https://www.theverge.com/?post_type=vm_stream&p=1018096",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "All the news from Apple’s ‘Pro and tell’ event",
+   "link": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
+   "excerpt": "Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced the iPhone Duo, its first foldable. Its next event could…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "4c68883f1cf076fa"
+  },
   {
    "id": "https://www.theverge.com/?p=1020629",
    "source": "The Verge · Apple",
@@ -76,6 +193,58 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": true,
    "article": "d08229e9f4276612"
+  },
+  {
+   "id": "https://www.applesfera.com/portatil/799-a-33-958-euros-asi-queda-catalogo-precios-apple-sus-nuevos-mac",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "De 799 a 33.958 euros: así queda el catálogo de precios de Apple con sus nuevos Mac",
+   "link": "https://www.applesfera.com/portatil/799-a-33-958-euros-asi-queda-catalogo-precios-apple-sus-nuevos-mac",
+   "excerpt": "Apple ha puesto fin a su semana de anuncios en la que, aparte del iPad mini 8 OLED , ha renovado buena parte de su gama de ordenadores con los iMac M6 , MacBook Pro M6 y los flamantes MacBook Pro táctiles . Y con ello, un aumento de precios en casi todos ( salvo el iMac ). Así…",
+   "image": "https://i.blogs.es/547260/macbook/1024_2000.jpeg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "d1ede65debb54de5"
+  },
+  {
+   "id": "https://www.applesfera.com/apple-1/nuevos-macbook-imac-ipad-resumen-todo-presentado-apple-esta-semana",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Nuevos MacBook, iMac y iPad: resumen de todo lo presentado por Apple esta semana",
+   "link": "https://www.applesfera.com/apple-1/nuevos-macbook-imac-ipad-resumen-todo-presentado-apple-esta-semana",
+   "excerpt": "Desde el lunes y hasta hoy miércoles, Apple ha anunciado nuevos dispositivos que saldrán a la venta el próximo mes de noviembre y con los que, en teoría, cerraría el año, ya que no se esperan más lanzamientos hasta 2027. Hacemos aquí un repaso de todas las novedades. Índice de…",
+   "image": "https://i.blogs.es/b8d504/resumen/1024_2000.jpeg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "72a7e92510589229"
+  },
+  {
+   "id": "https://www.applesfera.com/portatil/que-bueno-que-volviste-diez-anos-despues-regresa-manzana-iluminada-al-macbook",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "¡Qué bueno que volviste! Diez años después, regresa la manzana iluminada al MacBook",
+   "link": "https://www.applesfera.com/portatil/que-bueno-que-volviste-diez-anos-despues-regresa-manzana-iluminada-al-macbook",
+   "excerpt": "Hay cosas que no necesitan presentación. El sonido de arranque de un Mac o esa manzana en la parte trasera que, durante años, brilló. No tenía ninguna función real más allá de lo estético. Pero era Apple. Era una señal de identidad . Pero, queridos maqueros , dejemos de hablar…",
+   "image": "https://i.blogs.es/cf0910/manzana/1024_2000.jpeg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "e2b9a3c155f5583d"
+  },
+  {
+   "id": "https://www.applesfera.com/portatil/nuevo-macbook-pro-tactil-caracteristicas-precio-ficha-tecnica",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Nuevo MacBook Pro táctil: el primer Mac táctil de la historia ya es oficial",
+   "link": "https://www.applesfera.com/portatil/nuevo-macbook-pro-tactil-caracteristicas-precio-ficha-tecnica",
+   "excerpt": "Ha llegado el MacBook Pro táctil. Es el primer MacBook Pro con una pantalla OLED que se maneja con el dedo . Esa pantalla táctil es lo más llamativo de un nuevo MacBook Pro cuyo rediseño va mucho más allá. Empezando por que la manzana iluminada está de vuelta tras diez años sin…",
+   "image": "https://i.blogs.es/39b30d/macbook-pro-nuevo/1024_2000.jpeg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "b6010cf8eb284474"
   },
   {
    "id": "https://www.applesfera.com/iphone/que-camara-iphone-duo-hace-ningun-otro-iphone-puede-lograr",
@@ -169,6 +338,19 @@ window.CIRCO = {
    "article": "f6f2ece35fd6c36c"
   },
   {
+   "id": "https://www.theverge.com/?p=1020626",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+   "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+   "excerpt": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "31e9a320c25fb030"
+  },
+  {
    "id": "https://www.theverge.com/?p=1020769",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -221,10 +403,62 @@ window.CIRCO = {
    "article": "96cb5779f5028759"
   },
   {
+   "id": "yt:video:st61aKW8P5A",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "$100M ARR Founder: Build an Agent Harness",
+   "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
+   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
+   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "https://bencorde.com/blog/anthropic-salida-bolsa-oportunidad-ia/",
+   "source": "Benjamín Cordero",
+   "category": "Tech + la IA",
+   "title": "Anthropic prepara su salida a bolsa: los números y la oportunidad con IA",
+   "link": "https://bencorde.com/blog/anthropic-salida-bolsa-oportunidad-ia/",
+   "excerpt": "Los números del S-1 de Anthropic y una idea para quienes implementan IA: la brecha entre lo que Claude puede hacer y lo que los negocios están usando.",
+   "image": "https://bencorde.com/blog/anthropic-salida-bolsa-oportunidad-ia/imagenes/portada.jpg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "d8e38f98e67ca6f4"
+  },
+  {
+   "id": "https://theinspiration.com/?p=54758",
+   "source": "The Inspiration",
+   "category": "Publi",
+   "title": "Morrisons — Market Street Monsters",
+   "link": "https://theinspiration.com/2026/10/morrisons-market-street-monsters/",
+   "excerpt": "Morrisons turned everyday fruit and vegetables into a cast of Halloween monsters. Avocados become “Monster Eyes”, carrots transform into “Zombie Fingers” and a red pepper becomes a screaming face. Using simple still-life photography, playful naming and bold price tags, the…",
+   "image": "https://theinspiration.com/wp-content/uploads/Monster-Eyes_48-copy-750x536.webp",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "47abc75ec811a15e"
+  },
+  {
+   "id": "https://musebyclios.com/?p=134081",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "It’s OK to Be a Hot Mess Sometimes, Maruchan Says",
+   "link": "https://musebyclios.com/advertising/its-okay-to-be-a-hot-mess-sometimes-maruchan-says/?utm_source=rss&utm_medium=rss&utm_campaign=its-okay-to-be-a-hot-mess-sometimes-maruchan-says",
+   "excerpt": "In a bid to entice Gen Z, Maruchan’s Saucy Foods is acknowledging that being a hot mess is a part of its DNA. The maker of instant Ramen and lunch noodles has partnered with Beyond Studios‘ creative director Cole Poska—known for his spins on branded merch—to devise a platform…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/28124407/noodle1.jpg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "64eeef4116e3940b"
+  },
+  {
    "id": "https://musebyclios.com/?p=134069",
    "source": "Muse by Clio",
    "category": "Publi",
-   "title": "The Conversations That Stay With Us: Passions, Inspiration and Tales of People’s Lives",
+   "title": "The Conversations That Stay With Us: Passions, Inspirations and Tales of People’s Lives",
    "link": "https://musebyclios.com/clio-awards/the-conversations-that-stay-with-us-passions-inspiration-and-tales-of-peoples-lives/?utm_source=rss&utm_medium=rss&utm_campaign=the-conversations-that-stay-with-us-passions-inspiration-and-tales-of-peoples-lives",
    "excerpt": "Last month, I wrote about why I was so excited for our first Clios on Culture event. After years of building Clio programs around different industries—advertising, entertainment, sports, music and more—we felt it was time to bring people from all those worlds together in one…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/28102829/NIC2.jpeg",
@@ -351,6 +585,32 @@ window.CIRCO = {
    "article": "131e2b1e1b46450e"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/28/hallaron-el-cuerpo-de-nancy-godoy-la-docente-correntina-desaparecida",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Hallaron el cuerpo de Nancy Godoy, la docente correntina desaparecida",
+   "link": "https://www.filo.news/noticia/2026/10/28/hallaron-el-cuerpo-de-nancy-godoy-la-docente-correntina-desaparecida",
+   "excerpt": "Los investigadores hallaron los restos de la maestra en la localidad de Esquina, en Corrientes.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/diseosin_título_-_2026-10-28t145017.7874585_re.png",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "5ec57869df3c4bfc"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/28/llega-por-primera-vez-a-la-argentina-pitbull",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Llega por primera vez a la Argentina Pitbull",
+   "link": "https://www.filo.news/noticia/2026/10/28/llega-por-primera-vez-a-la-argentina-pitbull",
+   "excerpt": "El artista detrás de algunos de los hits más grandes de las últimas décadas llega por primera vez a Buenos Aires, con un show que reunirá las canciones que lo convirtieron en “Mr. Worldwide”, y hacer bailar a generaciones enteras.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/pitbull9716_re.png",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "ac3a7abd25d41ea9"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/28/tras-pasar-por-argentina-flavio-bolsonaro-aterrizo-en-eeuu-choque-de-trenes-en-espana-murio-la-madre-de-scaloni-y-mas",
    "source": "Filo.News",
    "category": "Notis",
@@ -419,7 +679,7 @@ window.CIRCO = {
    "id": "https://www.filo.news/noticia/2026/10/28/marina-will-charly-garcia-como-faro-artistico-el-amor-sin-dramas-y-la-historia-detras-de-su-encuentro-con-fito-paez",
    "source": "Filo.News",
    "category": "Notis",
-   "title": "Marina Will: Charly García como faro artístico, el amor sin dramas y la historia detrás de su encuentro con Fito Páez",
+   "title": "Marina Wil: Charly García como faro artístico, el amor sin dramas y la historia detrás de su encuentro con Fito Páez",
    "link": "https://www.filo.news/noticia/2026/10/28/marina-will-charly-garcia-como-faro-artistico-el-amor-sin-dramas-y-la-historia-detras-de-su-encuentro-con-fito-paez",
    "excerpt": "La cantante prepara un nuevo disco que combinará baladas con canciones bailables y una mirada más madura sobre las relaciones. En diálogo con Filo.news, repasó sus influencias, contó cómo surgieron sus colaboraciones con referentes del rock nacional y adelantó el homenaje a…",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/28/diputados24)6819_re.jpg",
@@ -494,19 +754,6 @@ window.CIRCO = {
    "article": "c636305b1351b9f1"
   },
   {
-   "id": "https://www.theverge.com/?p=1020145",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-   "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-   "excerpt": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0%2C3.5651957117926%2C100%2C92.869608576415&w=1200",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "3eef80462d79ef2c"
-  },
-  {
    "id": "https://www.filo.news/noticia/2026/10/27/nicolas-ramirez-sera-el-arbitro-del-superclasico-entre-boca-y-river",
    "source": "Filo.News",
    "category": "Notis",
@@ -570,58 +817,6 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": true,
    "article": "934b69c518faf1ae"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1019288",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "We’ve had touchscreen laptops for years. Can Apple make them better?",
-   "link": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
-   "excerpt": "A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\" event. A laptop with a touchscreen should be no big deal - we've…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24371430/236492_MacBook_Pro_16__2023__AKrales_0090.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "c37d0a4ebec8be8e"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1019373",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-   "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-   "excerpt": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.727975106345%2C100%2C78.54404978731&w=1200",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "4245d972502ef420"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1018467",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple refreshes the iMac with M6 chips",
-   "link": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
-   "excerpt": "Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, giving Apple's all-in-one desktop computer a performance boost via the same chipset Apple launched with the Mac Mini in August. Prices start from $1,499, and the design otherwise appears…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-iMac-with-M6-hero-261027.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "53e3df0a7072dca6"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017664",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple updates the MacBook Pro with M6 chips",
-   "link": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
-   "excerpt": "Apple is giving its entry-level MacBook Pro a spec bump. After upgrading the entry-level MacBook Pro with its M5 chip a year ago, Apple is refreshing the laptop today with the M6 chip, which the company launched in August as part of recent upgrades to the new Mac Mini. Last…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple1.jpg?quality=90&strip=all&crop=0%2C10.744851025048%2C100%2C78.510297949903&w=1200",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "feb18c7a449affa8"
   },
   {
    "id": "https://www.applesfera.com/iphone/apple-responde-pantallas-iphone-duo-que-se-rompen",
@@ -739,45 +934,6 @@ window.CIRCO = {
    "first_seen": "2026-10-27",
    "og_checked": false,
    "article": "ffae6e24cb7252e3"
-  },
-  {
-   "id": "https://www.applesfera.com/ios/ios-27-2-arregla-160-fallos-seguridad-sera-mejor-actualizar",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "iOS 27.2 arregla más de 160 fallos de seguridad. Será mejor actualizar ya",
-   "link": "https://www.applesfera.com/ios/ios-27-2-arregla-160-fallos-seguridad-sera-mejor-actualizar",
-   "excerpt": "Un amigo me preguntó para qué iba a actualizar a iOS 27.2 si vive en España y no tiene la nueva Siri . Bueno, no quise discutir. Prefiero que sea este artículo el que hable. Al fin y al cabo, una actualización suele medirse por lo que se ve: un diseño, un emoji, un icono nuevo…",
-   "image": "https://i.blogs.es/ec5279/ios-27-2-actualizacion/1024_2000.jpeg",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "342cf6ad806b8afe"
-  },
-  {
-   "id": "https://www.applesfera.com/tutoriales/activar-estas-dos-opciones-tu-iphone-mejoran-calidad-llamadas-conexion-e-incluso-ahorraras-bateria",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Activar estas dos opciones en tu iPhone mejoran la calidad de las llamadas, la conexión e incluso ahorrarás batería",
-   "link": "https://www.applesfera.com/tutoriales/activar-estas-dos-opciones-tu-iphone-mejoran-calidad-llamadas-conexion-e-incluso-ahorraras-bateria",
-   "excerpt": "¿Llamadas en pleno 2026? Somos muchos los que aún usamos un teléfono para lo que se inventó el teléfono. Y más allá de que llamemos mucho o poco, lo ideal es escuchar bien al interlocutor y que este nos escuche bien . Es por ello por lo que creo que hay dos ajustes del iPhone…",
-   "image": "https://i.blogs.es/9a7aa1/llamada-iphone-duo/1024_2000.jpeg",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "5c120ffe10bbc105"
-  },
-  {
-   "id": "https://www.applesfera.com/iphone/que-he-probado-iphone-duo-quiero-ipad-mini-apple-acaba-sacarlo-no",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Desde que he probado el iPhone Duo, quiero un iPad mini. Y Apple acaba de sacarlo... pero no es lo mismo",
-   "link": "https://www.applesfera.com/iphone/que-he-probado-iphone-duo-quiero-ipad-mini-apple-acaba-sacarlo-no",
-   "excerpt": "\"Ojalá Apple sacase un iPhone del mismo tamaño que el iPhone Duo abierto\", fue lo que dije hace un par de días tras probar el iPhone Duo y darme cuenta de lo mucho que me gusta utilizarlo abierto . En realidad, Apple ya tenía algo así con el iPad mini. Pero no es exactamente lo…",
-   "image": "https://i.blogs.es/45965e/ipad-mini-y-iphone-duo/1024_2000.jpeg",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "1ea32eb41020011a"
   },
   {
    "id": "https://www.theverge.com/?p=1019076",
@@ -1118,32 +1274,6 @@ window.CIRCO = {
    "article": "68631e77b6158e9e"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/27/el-gobierno-no-felicitara-a-lula-investigan-si-bolsonaro-cruzo-a-argentina-para-huir-a-eeuu-elecciones-en-israel-y-mas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Gobierno no felicitará a Lula; Investigan si Bolsonaro cruzó a Argentina para huir a EEUU; Elecciones en Israel; y más...",
-   "link": "https://www.filo.news/noticia/2026/10/27/el-gobierno-no-felicitara-a-lula-investigan-si-bolsonaro-cruzo-a-argentina-para-huir-a-eeuu-elecciones-en-israel-y-mas",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/noname3683_re.png",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "d0696adf5deb8336"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/27/el-gobierno-no-felicitara-a-lula-por-su-triunfo-electoral-en-brasil",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Gobierno no felicitará a Lula por su triunfo electoral en Brasil",
-   "link": "https://www.filo.news/noticia/2026/10/27/el-gobierno-no-felicitara-a-lula-por-su-triunfo-electoral-en-brasil",
-   "excerpt": "Lo confirmó el vocero presidencial Adrián Ravier. Explicó que no lo harán porque el mandatario no saludó a Milei en 2023. \"El presidente no es hipócrita\", afirmó.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/noname7054_re.png",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "935ff40209f2d635"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201465",
    "source": "CIPER",
    "category": "Notis",
@@ -1170,45 +1300,6 @@ window.CIRCO = {
    "article": ""
   },
   {
-   "id": "https://www.theverge.com/?p=1018827",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-   "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-   "excerpt": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1034.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "1c75c29a21e4aaff"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1018760",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
-   "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-   "excerpt": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "83bbba8da25657c6"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017801",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple updates the iPad Mini with a larger OLED display",
-   "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
-   "excerpt": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. The iPad Mini starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular. At 5.4mm thick, the iPad Mini…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ipadmini.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "c201bf7ddad546bd"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201449",
    "source": "CIPER",
    "category": "Notis",
@@ -1233,19 +1324,6 @@ window.CIRCO = {
    "first_seen": "2026-10-27",
    "og_checked": true,
    "article": "d2838a12db29d03e"
-  },
-  {
-   "id": "https://www.applesfera.com/servicios-apple/siri-ai-habla-espanol-27-2-asi-puedes-tenerla-vivas-donde-vivas",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Siri AI ya habla español con 27.2: así puedes tenerla vivas donde vivas",
-   "link": "https://www.applesfera.com/servicios-apple/siri-ai-habla-espanol-27-2-asi-puedes-tenerla-vivas-donde-vivas",
-   "excerpt": "Siri AI ya habla español. La nueva Siri responde a cualquier pregunta, conoce lo que tienes en el iPhone, desde tus mensajes y correos hasta tus fotos, y tiene hasta una app propia con la que puedes conversar por voz o por escrito. Es la Siri que llevábamos esperando tanto…",
-   "image": "https://i.blogs.es/55ccba/siri-ai-espana/1024_2000.jpeg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "16673fac2169db7b"
   },
   {
    "id": "https://www.theverge.com/?p=1018264",
@@ -1469,19 +1547,6 @@ window.CIRCO = {
    "article": "92b85fed08ec2f10"
   },
   {
-   "id": "https://www.theverge.com/?p=1018233",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
-   "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-   "excerpt": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "5cdd4997f94f2dc6"
-  },
-  {
    "id": "https://musebyclios.com/?p=133956",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1649,6 +1714,32 @@ window.CIRCO = {
    "first_seen": "2026-10-23",
    "og_checked": true,
    "article": "a565b4fdc335dac1"
+  },
+  {
+   "id": "https://theinspiration.com/?p=54752",
+   "source": "The Inspiration",
+   "category": "Publi",
+   "title": "Visit Estonia — Born From Culture",
+   "link": "https://theinspiration.com/2026/10/born-from-culture-estonia-by-soveldaja/",
+   "excerpt": "“Times can change. The Estonian spirit does not.” In Born From Culture, Tallinn University’s folk dance ensemble Soveldaja performs traditional Estonian folk dance to Future’s “Mask Off”, featuring Ernst Valdmaa on diatonic Estonian accordion. The result is a striking clash of…",
+   "image": "https://theinspiration.com/wp-content/uploads/visit-tallinn-dance-video-scaled-1-750x536.webp",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "91368b2dfef12d55"
+  },
+  {
+   "id": "https://theinspiration.com/?p=54749",
+   "source": "The Inspiration",
+   "category": "Publi",
+   "title": "Apple Music — Made by Sound",
+   "link": "https://theinspiration.com/2026/10/apple-music-made-by-sound/",
+   "excerpt": "Apple Music has unveiled a new brand identity, and its new logo was quite literally made by sound. Working with Fred again.. and NEST Acoustics, Apple used music to shape the logo practically, capturing it entirely in camera rather than building it digitally – “just music, made…",
+   "image": "https://theinspiration.com/wp-content/uploads/apple-music-made-by-sound-1-750x536.webp",
+   "day": "2026-10-22",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "3447dc8d52417960"
   },
   {
    "id": "https://www.theverge.com/?p=1016977",
@@ -2039,6 +2130,32 @@ window.CIRCO = {
    "first_seen": "2026-10-18",
    "og_checked": true,
    "article": "cff57b0a81151ae7"
+  },
+  {
+   "id": "https://theinspiration.com/?p=54739",
+   "source": "The Inspiration",
+   "category": "Publi",
+   "title": "Call of Duty — The Korean Alley",
+   "link": "https://theinspiration.com/2026/10/call-of-duty-the-korean-alley/",
+   "excerpt": "Call of Duty turned two of the world’s busiest streets into immersive portals to its latest game. On Sunset Boulevard in Los Angeles and Shoreditch High Street in London, the brand built an entire Korean alleyway inspired by the opening level of Modern Warfare 4, complete with…",
+   "image": "https://theinspiration.com/wp-content/uploads/Call-of-Duty-Builds-a-Korean-Alley-in-London-750x536.webp",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "f81467d7b9348ad0"
+  },
+  {
+   "id": "https://theinspiration.com/?p=54734",
+   "source": "The Inspiration",
+   "category": "Publi",
+   "title": "Paramount — Street Fighter",
+   "link": "https://theinspiration.com/2026/10/paramount-street-fighter/",
+   "excerpt": "Paramount turned London’s street signs into a playful promotion for the new Street Fighter movie. By adding the word “Fighter” in the franchise’s distinctive orange lettering to familiar signs in London, the campaign turned everyday city infrastructure into an instantly…",
+   "image": "https://theinspiration.com/wp-content/uploads/1792038838425-750x536.webp",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "5ff1bf53f249526f"
   },
   {
    "id": "https://musebyclios.com/?p=133776",
