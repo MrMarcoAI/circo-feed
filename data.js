@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-27T19:40-03:00",
+ "updated": "2026-10-28T03:23-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -64,6 +64,97 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.reasonwhy.es/actualidad/nvidia-diez-marcas-valiosas-mundo-interbrand-best-global-brands-2026",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Nvidia sigue disparada y se posiciona entre las diez marcas más valiosas del mundo, según Interbrand",
+   "link": "https://www.reasonwhy.es/actualidad/nvidia-diez-marcas-valiosas-mundo-interbrand-best-global-brands-2026",
+   "excerpt": "La empresa de computación ya es la sexta marca más valiosa del mundo, con 74.000 millones de dólares, según Interbrand.",
+   "image": "https://www.reasonwhy.es/media/library/nvidia-ranking-interbrand-2026.jpg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "131e2b1e1b46450e"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1020145",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+   "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+   "excerpt": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0%2C3.5651957117926%2C100%2C92.869608576415&w=1200",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "3eef80462d79ef2c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/nicolas-ramirez-sera-el-arbitro-del-superclasico-entre-boca-y-river",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Nicolás Ramírez será el árbitro del Superclásico entre Boca y River",
+   "link": "https://www.filo.news/noticia/2026/10/27/nicolas-ramirez-sera-el-arbitro-del-superclasico-entre-boca-y-river",
+   "excerpt": "La AFA confirmó este martes que el juez de 39 años se hará cargo del partido a disputarse este domingo en la Bombonera.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/nicolasramirezfue-designado-para-dirigir-el-superclasico-foto-afp-f7hjlmf6izhrpmm7kevjsresfy2282_re.jpg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "49d0b3ba3a16b025"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/franco-colapinto-palpito-el-gp-de-mexico-estamos-enfocados-en-tener-un-fin-de-semana-mas-sencillo-y-positivo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Franco Colapinto palpitó el GP de México: \"Estamos enfocados en tener un fin de semana más sencillo y positivo\"",
+   "link": "https://www.filo.news/noticia/2026/10/27/franco-colapinto-palpito-el-gp-de-mexico-estamos-enfocados-en-tener-un-fin-de-semana-mas-sencillo-y-positivo",
+   "excerpt": "Tras su abandono en Estados Unidos, el piloto argentino analizó lo que será la carrera en el Autódromo Hermanos Rodríguez de la Ciudad de México.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/20261023t230957z_1194667369_up1eman1scjz3_rtrmadp_3_motor-f1-united-states8158_re.jpg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "944b8ec14933f65a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/27/cuti-romero-eligio-a-su-candidato-para-usar-la-10-en-la-seleccion-argentina-las-condiciones-las-tiene",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "\"Cuti\" Romero eligió a su candidato para usar la 10 en la Selección Argentina: \"Las condiciones las tiene\"",
+   "link": "https://www.filo.news/noticia/2026/10/27/cuti-romero-eligio-a-su-candidato-para-usar-la-10-en-la-seleccion-argentina-las-condiciones-las-tiene",
+   "excerpt": "El nuevo capitán del seleccionado nacional escogió al heredero del dorsal que portaba Lionel Messi.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/20261001t012045z_603097334_up1ema103qjj6_rtrmadp_3_soccer-friendly-arg-bov4428_re.jpg",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "2319adddcc0fe14b"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201493",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Defensa de Hermosilla apuntó en el tribunal a Chadwick como la persona detrás de la contratación del exfiscal Guerra en la San Sebastián",
+   "link": "https://www.ciperchile.cl/2026/10/27/defensa-de-hermosilla-apunto-en-el-tribunal-a-chadwick-como-la-persona-detras-de-la-contratacion-del-exfiscal-guerra-en-la-san-sebastian/?utm_source=rss&utm_medium=rss&utm_campaign=defensa-de-hermosilla-apunto-en-el-tribunal-a-chadwick-como-la-persona-detras-de-la-contratacion-del-exfiscal-guerra-en-la-san-sebastian",
+   "excerpt": "La entrada Defensa de Hermosilla apuntó en el tribunal a Chadwick como la persona detrás de la contratación del exfiscal Guerra en la San Sebastián se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/chadwick_web-1.png",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "121c9e9dadcf54dc"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201483",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Diputados oficialistas se suman a petición de salida de Rabat; se incautan casi 3 toneladas de droga en “Operación Cafeteros”, y Banco Central advierte que ha aumentado el riesgo de inflación",
+   "link": "https://www.ciperchile.cl/2026/10/27/radar-27-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-27-10-26",
+   "excerpt": "La entrada Diputados oficialistas se suman a petición de salida de Rabat; se incautan casi 3 toneladas de droga en “Operación Cafeteros”, y Banco Central advierte que ha aumentado el riesgo de inflación se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "934b69c518faf1ae"
+  },
   {
    "id": "https://www.theverge.com/?p=1019288",
    "source": "The Verge · Apple",
@@ -767,19 +858,6 @@ window.CIRCO = {
    "article": "f04078cfce7bb418"
   },
   {
-   "id": "yt:video:35sh2FkQn-k",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
-   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
-   "excerpt": "",
-   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": ""
-  },
-  {
    "id": "https://www.filo.news/noticia/2026/10/26/harry-kane-gano-el-balon-de-oro-2026",
    "source": "Filo.News",
    "category": "Notis",
@@ -967,8 +1045,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
-   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -1209,45 +1287,6 @@ window.CIRCO = {
    "article": "663dec274eb01c68"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/26/el-papa-leon-xiv-confirmo-su-visita-a-la-argentina-en-noviembre",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Papa León XIV confirmó su visita a la Argentina en noviembre",
-   "link": "https://www.filo.news/noticia/2026/10/26/el-papa-leon-xiv-confirmo-su-visita-a-la-argentina-en-noviembre",
-   "excerpt": "La Santa Sede confirmó que el viaje apostólico a Uruguay, Argentina y Perú se realizará entre el 6 y el 17 de noviembre, tal como estaba previsto.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/2025082508105081668_re.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "855ce26c3436b45d"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/26/el-riesgo-pais-supera-los-740-puntos-basicos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El riesgo país supera los 740 puntos básicos",
-   "link": "https://www.filo.news/noticia/2026/10/26/el-riesgo-pais-supera-los-740-puntos-basicos",
-   "excerpt": "Tras el triunfo de Lula en Brasil, los activos argentinos se desploman y el indicador del JP Morgan alcanza un nuevo máximo en el año.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/images1)5201_re.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": "4723462c4727a62d"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/26/resumenm",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Lula fue reelecto presidente; Bolsonaro no reconoce los resultados; Líderes de la región felicitan a Lula, pero Milei guarda silencio y más...",
-   "link": "https://www.filo.news/noticia/2026/10/26/resumenm",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/26/20261026t043313z_1207480052_rc2oaoaxalg3_rtrmadp_3_brazil-election_(1)_(1)4565_re.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": false,
-   "article": ""
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201441",
    "source": "CIPER",
    "category": "Notis",
@@ -1311,19 +1350,6 @@ window.CIRCO = {
    "first_seen": "2026-10-25",
    "og_checked": true,
    "article": "9c1bcc0812178e2c"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1018253",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Now you can watch Instagram Reels on your Apple TV",
-   "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-   "excerpt": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&strip=all&crop=0%2C3.4371763956174%2C100%2C93.125647208765&w=1200",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "63171dfdacc91ed2"
   },
   {
    "id": "https://musebyclios.com/?p=133956",
@@ -1573,32 +1599,6 @@ window.CIRCO = {
    "article": "9159b037d0083c6b"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201334",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos”",
-   "link": "https://www.ciperchile.cl/2026/10/22/exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos/?utm_source=rss&utm_medium=rss&utm_campaign=exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos",
-   "excerpt": "La entrada Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos” se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/Simpertigue_web.png",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "45faea42f747b8d4"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201305",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Catástrofe en el Fondo E: siguiendo a la manada hacia el precipicio",
-   "link": "https://www.ciperchile.cl/2026/10/22/catastrofe-en-el-fondo-e-siguiendo-a-la-manada-hacia-el-precipicio/?utm_source=rss&utm_medium=rss&utm_campaign=catastrofe-en-el-fondo-e-siguiendo-a-la-manada-hacia-el-precipicio",
-   "excerpt": "La entrada Catástrofe en el Fondo E: siguiendo a la manada hacia el precipicio se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/afps-1023x573-e1544567160723.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "cbf4f94d68f731d7"
-  },
-  {
    "id": "https://www.theverge.com/?p=1016977",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1729,19 +1729,6 @@ window.CIRCO = {
    "article": "453d84599151ba3c"
   },
   {
-   "id": "https://www.reasonwhy.es/actualidad/estado-actual-geo-informe-wpp-the-cocktail-2026",
-   "source": "Reason Why",
-   "category": "Publi",
-   "title": "El 65% de las empresas esperan un gran impacto de la búsqueda con IA, pero solo el 40% tienen una estrategia GEO",
-   "link": "https://www.reasonwhy.es/actualidad/estado-actual-geo-informe-wpp-the-cocktail-2026",
-   "excerpt": "El 65% de las empresas esperan un gran impacto de la búsqueda con IA, pero solo el 40% tienen una estrategia.",
-   "image": "https://www.reasonwhy.es/media/library/busqueda-inteligencia-artificial.jpg",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "og_checked": false,
-   "article": "b2d23ed86b370b4c"
-  },
-  {
    "id": "https://musebyclios.com/?p=133914",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1773,8 +1760,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -1929,8 +1916,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2072,8 +2059,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
    "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2197,6 +2184,19 @@ window.CIRCO = {
    "article": "03be10db1304932a"
   },
   {
+   "id": "yt:video:rkK8ZyzYyEA",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "8 GitHub Repos To Go Viral and Make Money",
+   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
+   "day": "2026-10-14",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "https://musebyclios.com/?p=133687",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -2234,71 +2234,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "ae53047763010bc6"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133639",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Let’s Watch Kim Kardashian Order Skims via DoorDash",
-   "link": "https://musebyclios.com/film-tv/lets-watch-kim-kardashian-order-skims-via-doordash/?utm_source=rss&utm_medium=rss&utm_campaign=lets-watch-kim-kardashian-order-skims-via-doordash",
-   "excerpt": "“My nipple bra just arrived!” That might be adland’s line of the week, delivered with glee by Kim Kardashian (who else?) in a clip from OBB Bolded and director Daniel Sachon. For this ad-within-an ad, Kim plays herself (who else?), hyping the availability of her Skims shapewear…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/13144536/kim7.jpg",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "ceb2dd9dc267b40a"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133613",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Ezra Hurwitz and Gap’s Zac Posen Stage Jerome Robbins’ Landmark ‘Opus Jazz’ for Promo",
-   "link": "https://musebyclios.com/music/ezra-hurwitz-and-gaps-zac-posen-stage-jerome-robbins-landmark-opus-jazz-for-promo/?utm_source=rss&utm_medium=rss&utm_campaign=ezra-hurwitz-and-gaps-zac-posen-stage-jerome-robbins-landmark-opus-jazz-for-promo",
-   "excerpt": "Hoping to introduce a new generation of fans to Jerome Robbins’ N.Y. Export: Opus Jazz, the Miami City Ballet (MCB) commissioned director Ezra Hurwitz to create a promo teasing the company’s upcoming presentation of the groundbreaking work as part of this month’s American…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/13122617/MCBGap4-1.jpg",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "644fdafcc05b007c"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133617",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Mighty Union’s Vaughn Misail: ‘Simplicity Is an Evolving Skill’",
-   "link": "https://musebyclios.com/2-minutes-with/mighty-unions-vaughn-misail-simplicity-is-an-evolving-skill/?utm_source=rss&utm_medium=rss&utm_campaign=mighty-unions-vaughn-misail-simplicity-is-an-evolving-skill",
-   "excerpt": "Vaughn Misail credits the legendary Stan Lee as a key inspiration early on. “The creativity, the ability to connect with a target audience, the passion and enthusiasm with which he made and promoted content … it showed me that any idea, no matter how outlandish it might first…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/14093426/Vaughn-Misail.png",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "704782a63530fd86"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133612",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Orange Makes Scam Calls Sound Like Irritating Music",
-   "link": "https://musebyclios.com/music/orange-makes-scam-calls-sound-like-irritating-music-to-your-ears/?utm_source=rss&utm_medium=rss&utm_campaign=orange-makes-scam-calls-sound-like-irritating-music-to-your-ears",
-   "excerpt": "Scams, phishing expeditions, fraudulent notifications about parcels that don’t exist. Each contributes a discordant note to the tech-driven symphony of daily life. French telco Orange coins the term “Scamcophony” to describe such irritations and weaves assorted beeps, bloops,…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/13093934/scam-3.jpg",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "ceb3958fefa2832d"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133603",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Self Expressions: Agency Promos From Around the Globe",
-   "link": "https://musebyclios.com/worldviews/self-expressions-agency-promos-from-around-the-globe/?utm_source=rss&utm_medium=rss&utm_campaign=self-expressions-agency-promos-from-around-the-globe",
-   "excerpt": "Here, we look at the ways some notable agencies pitch themselves to clients and prospective employees. Thanks to Muse sibling Ads of the World for the selections. Agency: La Caseta ‘Because 20 Years Is Nothing, and It’s Everything.’Twenty years is several lifetimes in adland.…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/12143109/self-1.jpg",
-   "day": "2026-10-13",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "0752f7322dfbf79b"
   }
  ]
 };
