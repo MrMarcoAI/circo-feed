@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-28T15:32-03:00",
+ "updated": "2026-10-28T19:54-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -65,12 +65,38 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1021308",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+   "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+   "excerpt": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "e36b95a06876d0dd"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1017932",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Hands-on with the new OLED iPad Mini",
+   "link": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
+   "excerpt": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte finish is awesome. The \"Pro and…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_iPad_Mini_OLED_handson_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "af6fceb00ecd42d3"
+  },
+  {
    "id": "https://www.theverge.com/?p=1019109",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
-   "title": "Here’s where to preorder the latest MacBook Pros",
+   "title": "Here’s where to preorder the new MacBook Pros",
    "link": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
-   "excerpt": "Apple finally showed off its 14- and 16-inch MacBook Pro laptops that have the PROLED XDR display at the October 2026 \"Pro and Tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight, and bringing back the…",
+   "excerpt": "As expected, Apple finally showed off its 14- and 16-inch MacBook Pros at its recent \"Pro and tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight and bringing back the glowing Apple logo. While less…",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/MacBook-Pro-M6-2026-preorder-3_5144c7.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
@@ -94,9 +120,9 @@ window.CIRCO = {
    "id": "https://www.theverge.com/?p=1020069",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
-   "title": "Apple ‘Pro and Tell’ event: everything announced this week",
+   "title": "Apple ‘Pro and tell’ event: Everything announced this week",
    "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
-   "excerpt": "Apple closed out its week of product announcements with a \"Pro and Tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades…",
+   "excerpt": "Apple closed out its week of product announcements with its \"Pro and tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades…",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
@@ -169,30 +195,17 @@ window.CIRCO = {
    "article": "ec815a29363b9ffb"
   },
   {
-   "id": "https://www.theverge.com/?post_type=vm_stream&p=1018096",
-   "source": "The Verge · Apple",
+   "id": "https://www.applesfera.com/eventos/macbook-pro-tactil-opiniones-toma-contacto-video-fotos",
+   "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "All the news from Apple’s ‘Pro and tell’ event",
-   "link": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
-   "excerpt": "Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced the iPhone Duo, its first foldable. Its next event could…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "title": "He probado el nuevo MacBook Pro táctil: el Mac de siempre acaba de abrir una puerta que quiero explorar",
+   "link": "https://www.applesfera.com/eventos/macbook-pro-tactil-opiniones-toma-contacto-video-fotos",
+   "excerpt": "He pasado tantos años delante de un Mac que hay movimientos que hago sin pensar. Buscar el trackpad, apoyar los dedos en el teclado, ampliar una fotografía. Una pequeña memoria de las manos que me acompaña cuando escribo un artículo, preparo un podcast o abro el ordenador lejos…",
+   "image": "https://i.blogs.es/e4e364/macbook-pro-tactil-applesfera-14/1024_2000.jpeg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "4c68883f1cf076fa"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1020629",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple raises the MacBook Neo’s student pricing again",
-   "link": "https://www.theverge.com/tech/1020629/apple-macbook-neo-price-hike-education-store",
-   "excerpt": "The MacBook Neo now starts at $649 on Apple's Education Store, up $150 from its initial $499 education starting price. As reported earlier by MacRumors, the student discount for the Neo received a $50 price bump in recent days, following a $100 price bump back in June. Apple's…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0395.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "d08229e9f4276612"
+   "og_checked": false,
+   "article": "3c4cf2b03b06d435"
   },
   {
    "id": "https://www.applesfera.com/portatil/799-a-33-958-euros-asi-queda-catalogo-precios-apple-sus-nuevos-mac",
@@ -338,6 +351,45 @@ window.CIRCO = {
    "article": "f6f2ece35fd6c36c"
   },
   {
+   "id": "https://www.theverge.com/?p=1020811",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Google says its investments in AI are driving more searches",
+   "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+   "excerpt": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "ecac2f89ae260edf"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1021339",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "excerpt": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "72a7d7119e3501fd"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1020960",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
+   "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
+   "excerpt": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura - the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens - which just went on sale today. Xreal and Google…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&strip=all&crop=0%2C6.9047953874279%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "4034315f635079fe"
+  },
+  {
    "id": "https://www.theverge.com/?p=1020626",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -349,6 +401,32 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": true,
    "article": "31e9a320c25fb030"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1021405",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+   "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+   "excerpt": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,20.395548367643,100,59.208903264713",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "5c4ea410fbfbea67"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1021143",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Microsoft is ending Copilot support on smart TVs",
+   "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+   "excerpt": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "2fbabec95870eb10"
   },
   {
    "id": "https://www.theverge.com/?p=1020769",
@@ -406,10 +484,10 @@ window.CIRCO = {
    "id": "yt:video:st61aKW8P5A",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
-   "title": "$100M ARR Founder: Build an Agent Harness",
+   "title": "$100M ARR Founder: The Next Big AI Opportunity",
    "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
-   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
-   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
    "og_checked": false,
@@ -440,6 +518,19 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": false,
    "article": "47abc75ec811a15e"
+  },
+  {
+   "id": "https://musebyclios.com/?p=134092",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "An Inside Look at Hoorae’s ‘Parental Advisory’ Reveals the Twists and Turns of Making Microdramas",
+   "link": "https://musebyclios.com/advertising/an-inside-look-at-hooraes-parental-advisory-reveals-the-twists-and-turns-of-making-microdramas/?utm_source=rss&utm_medium=rss&utm_campaign=an-inside-look-at-hooraes-parental-advisory-reveals-the-twists-and-turns-of-making-microdramas",
+   "excerpt": "The clock is ticking in the final hours of a seven-day shoot, and the summer sun is beating down on a rented Los Angeles bungalow that serves as a backdrop for the microdrama “Parental Advisory.” Sometime after high noon, tragedy strikes, threatening to derail the project’s…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/28152800/PA.jpeg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "9d908780e2332871"
   },
   {
    "id": "https://musebyclios.com/?p=134081",
@@ -583,6 +674,97 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": false,
    "article": "131e2b1e1b46450e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/28/flavio-bolsonaro-se-autoproclamo-presidente-electo-de-brasil-desde-estados-unidos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Flavio Bolsonaro se autoproclamó \"presidente electo\" de Brasil desde Estados Unidos",
+   "link": "https://www.filo.news/noticia/2026/10/28/flavio-bolsonaro-se-autoproclamo-presidente-electo-de-brasil-desde-estados-unidos",
+   "excerpt": "El senador brasileño del PL publicó una carta dirigida \"a la nación brasileña\" en la que se declaró el \"verdadero presidente electo del país\".",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/202610261026810-scaled3653_re.jpg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "f5b0c3b39793be45"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/28/la-china-ansa-contra-la-mama-de-wanda-me-arruino",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La China Ansa contra la mamá de Wanda: \"Me arruino\"",
+   "link": "https://www.filo.news/noticia/2026/10/28/la-china-ansa-contra-la-mama-de-wanda-me-arruino",
+   "excerpt": "La participante de Masterchef se mostró indignada con la panelista, luego de que esta le adjudicara un romance con un compañero del reality.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/nora5785_re.png",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "79c56e8d384137d4"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/28/sandra-mihanovich-se-refirio-al-martin-fierro-de-la-musica-que-le-otorgaron-a-wanda-nara",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Sandra Mihanovich se refirió al Martín Fierro de la Música que le otorgaron a Wanda Nara",
+   "link": "https://www.filo.news/noticia/2026/10/28/sandra-mihanovich-se-refirio-al-martin-fierro-de-la-musica-que-le-otorgaron-a-wanda-nara",
+   "excerpt": "La cantante se refirió a la decisión de APTRA de premiar a la conductora y aseguró que fue un error.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/sandra9182_re.png",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "e33131f5d31410a1"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/28/problemas-de-telecomunicaciones-en-posadas-corte-y-robo-de-cables-17-000-clientes-afectados-y-la-respuesta-de-claro",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Problemas de telecomunicaciones en Posadas: corte y robo de cables, 17.000 clientes afectados y la respuesta de Claro",
+   "link": "https://www.filo.news/noticia/2026/10/28/problemas-de-telecomunicaciones-en-posadas-corte-y-robo-de-cables-17-000-clientes-afectados-y-la-respuesta-de-claro",
+   "excerpt": "",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/scottrodgersonpspf_xgom5w-unsplash6581_re.jpg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "213a837c73108f25"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/28/bullrich-sobre-las-elecciones-en-brasil-la-gente-decide-en-las-urnas-y-su-voluntad-se-respeta",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Bullrich sobre las elecciones en Brasil: “La gente decide en las urnas y su voluntad se respeta”",
+   "link": "https://www.filo.news/noticia/2026/10/28/bullrich-sobre-las-elecciones-en-brasil-la-gente-decide-en-las-urnas-y-su-voluntad-se-respeta",
+   "excerpt": "La senadora de La Libertad Avanza se diferenció del silencio de Javier Milei frente al resultado del balotaje en Brasil.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/2026052605068634408_re.jpg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "f6172138bcc92183"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/28/anses-oficializo-un-nuevo-aumento-de-jubilados-del-1-93-para-noviembre",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Anses oficializó un nuevo aumento de jubilados del 1,93% para noviembre",
+   "link": "https://www.filo.news/noticia/2026/10/28/anses-oficializo-un-nuevo-aumento-de-jubilados-del-1-93-para-noviembre",
+   "excerpt": "El organismo previsional estableció que el haber mínimo será de $444.158,46. Mientras que el máximo será de $2.988.765,82.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/202510251030108-scaled2768_re.jpg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "d3577bca2666f635"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/28/la-conmebol-rechazo-el-reclamo-de-flamengo-por-la-inclusion-de-marcos-rojo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Conmebol rechazó el reclamo de Flamengo por la inclusión de Marcos Rojo",
+   "link": "https://www.filo.news/noticia/2026/10/28/la-conmebol-rechazo-el-reclamo-de-flamengo-por-la-inclusion-de-marcos-rojo",
+   "excerpt": "La Comisión Disciplinaria de la entidad desestimó el pedido del elenco brasileño de darle por perdida la serie de semifinales de la Libertadores a Estudiantes de La Plata por alinear a Marcos Rojo en el encuentro de vuelta.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/marcosrojo8420_re.jpg",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": "afd5b29a7a68c157"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/28/hallaron-el-cuerpo-de-nancy-godoy-la-docente-correntina-desaparecida",
@@ -739,6 +921,19 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": false,
    "article": "59554d5e645823d4"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201517",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Mauricio Daza por el Caso Guerra: “Si la fiscalía decide no formalizar a Chadwick, estaría incumpliendo sus deberes”",
+   "link": "https://www.ciperchile.cl/2026/10/28/mauricio-daza-por-el-caso-guerra-si-la-fiscalia-decide-no-formalizar-a-chadwick-estaria-incumpliendo-sus-deberes/?utm_source=rss&utm_medium=rss&utm_campaign=mauricio-daza-por-el-caso-guerra-si-la-fiscalia-decide-no-formalizar-a-chadwick-estaria-incumpliendo-sus-deberes",
+   "excerpt": "La entrada Mauricio Daza por el Caso Guerra: “Si la fiscalía decide no formalizar a Chadwick, estaría incumpliendo sus deberes” se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/Chadwick-v1_X.png",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "og_checked": true,
+   "article": "a656deb32de87da1"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201503",
@@ -923,21 +1118,8 @@ window.CIRCO = {
    "article": "76e9f614099fc881"
   },
   {
-   "id": "https://www.applesfera.com/homepod/mi-homepod-mini-ponia-musica-solo-apple-fin-ha-puesto-solucion",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Mi HomePod mini ponía música solo. Apple por fin ha puesto solución",
-   "link": "https://www.applesfera.com/homepod/mi-homepod-mini-ponia-musica-solo-apple-fin-ha-puesto-solucion",
-   "excerpt": "Una noche a las 3 de la mañana, mi HomePod mini del dormitorio se puso a reproducir música solo. Sonaba \"Sorry\", de Justin Bieber, y no se me va a olvidar el susto. Lo paré y volvió a sonar . Decidí pausarlo desde el iPhone y volvió a sonar. Yo lo único que pensaba es que tenía…",
-   "image": "https://i.blogs.es/c23959/homepod-mini-problema-reinicio/1024_2000.jpeg",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "ffae6e24cb7252e3"
-  },
-  {
    "id": "https://www.theverge.com/?p=1019076",
-   "source": "The Verge · IA",
+   "source": "The Verge · Google",
    "category": "Tech + la IA",
    "title": "Google’s next Genie AI model generates more realistic experiences",
    "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
@@ -973,32 +1155,6 @@ window.CIRCO = {
    "first_seen": "2026-10-27",
    "og_checked": true,
    "article": "e7e812bf5a398f55"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1019470",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-   "excerpt": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "fb0bdb4fc38ce991"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1019551",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-   "excerpt": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&strip=all&crop=0%2C3.2247049925468%2C100%2C93.550590014906&w=1200",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "e6322b04dc3756a7"
   },
   {
    "id": "https://musebyclios.com/?p=134049",
@@ -1183,97 +1339,6 @@ window.CIRCO = {
    "article": "1c5fab47b7c30af1"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/27/analia-franchin-recordo-un-episodio-traumatico-de-su-infancia-se-me-aparecian-los-pitufos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Analía Franchín recordó un episodio traumático de su infancia: \"Se me aparecían los Pitufos\"",
-   "link": "https://www.filo.news/noticia/2026/10/27/analia-franchin-recordo-un-episodio-traumatico-de-su-infancia-se-me-aparecian-los-pitufos",
-   "excerpt": "La panelista habló de una experiencia paranormal que vivió cuando tenía 8 años.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/analia8218_re.jpg",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "1ab8c8e0c2a51f69"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/27/juan-roman-riquelme-hablo-sobre-los-arbitrajes-en-la-previa-del-superclasico-siempre-es-mas-facil-culpar-a-un-arbitro",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Juan Román Riquelme habló sobre los arbitrajes en la previa del Superclásico: \"Siempre es más fácil culpar a un árbitro\"",
-   "link": "https://www.filo.news/noticia/2026/10/27/juan-roman-riquelme-hablo-sobre-los-arbitrajes-en-la-previa-del-superclasico-siempre-es-mas-facil-culpar-a-un-arbitro",
-   "excerpt": "El presidente de Boca Juniors brindó una entrevista en la que se refirió, entre otras cosas, a los cuestionamientos a los árbitros a raíz de las recientes declaraciones de Leonardo Ponzio y Ángel Correa.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/riquelmeboca9149_re.jpg",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "58a5fbdbe29b539b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/27/jose-luis-espert-apelo-su-procesamiento-por-presunto-lavado-de-dinero-y-enriquecimiento-ilicito",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "José Luis Espert apeló su procesamiento por presunto lavado de dinero y enriquecimiento ilícito",
-   "link": "https://www.filo.news/noticia/2026/10/27/jose-luis-espert-apelo-su-procesamiento-por-presunto-lavado-de-dinero-y-enriquecimiento-ilicito",
-   "excerpt": "El exdiputado pidió que la Cámara revoque el fallo, lo sobresea y levante el embargo de $1.000 millones y la prohibición de salir del país.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/202510251006100-scaled6976_re.jpg",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "dbdf59768d5023cc"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/27/lourdes-sanchez-hablo-del-fin-de-su-relacion-se-me-murio-el-amor-de-pareja",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Lourdes Sánchez habló del fin de su relación: \"Se me murió el amor de pareja\"",
-   "link": "https://www.filo.news/noticia/2026/10/27/lourdes-sanchez-hablo-del-fin-de-su-relacion-se-me-murio-el-amor-de-pareja",
-   "excerpt": "La bailarina habló de su presente amoroso, tras poner fin a 16 años de pareja con el productor y se mostró feliz y enamorada.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/sanchez8116_re.jpg",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "93d32a3b809ff19e"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/27/renato-ivan-tabella-es-indagado-por-dos-femicidios-ocurrios-en-retiro-y-en-cordoba",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Renato Iván Tabella es indagado por dos femicidios ocurrios en Retiro y en Córdoba",
-   "link": "https://www.filo.news/noticia/2026/10/27/renato-ivan-tabella-es-indagado-por-dos-femicidios-ocurrios-en-retiro-y-en-cordoba",
-   "excerpt": "Según el Ministerio de Seguridad porteño, ambas mujeres fueron atacadas \"luego de acordar encuentros en departamentos a través de aplicaciones de citas\".",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/disenosin_título_-_2026-10-27t160745.3565451.png",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "c327c05e6d5be938"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/27/mana-transmitira-en-vivo-por-youtube-su-tour-vivir-sin-aire-desde-un-lugar-mitico",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Manà transmitirá en vivo por youtube su tour \"Vivir sin Aire\" desde un lugar mítico",
-   "link": "https://www.filo.news/noticia/2026/10/27/mana-transmitira-en-vivo-por-youtube-su-tour-vivir-sin-aire-desde-un-lugar-mitico",
-   "excerpt": "El concierto se transmitirá en vivo de forma global y gratuita. Una vez concluido el estreno, el especial quedará disponible para verlo \"on demand\".",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/mana6165_re.jpeg",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "1a304b17887de3a0"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/27/dillom-presento-la-nueva-violencia-en-el-festival-bandera-por-algo-llegue-hasta-aca-sabia-lo-que-hacia",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Dillom presentó “La Nueva Violencia” en el Festival Bandera: \"Por algo llegué hasta acá, sabía lo que hacía\"",
-   "link": "https://www.filo.news/noticia/2026/10/27/dillom-presento-la-nueva-violencia-en-el-festival-bandera-por-algo-llegue-hasta-aca-sabia-lo-que-hacia",
-   "excerpt": "El artista presentó su nuevo proyecto en la séptima edición del evento, que se desarrolló en el Parque Estación Central Córdoba. Tras su show, conversó con Filo.news.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/25243_re.jpg",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "68631e77b6158e9e"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201465",
    "source": "CIPER",
    "category": "Notis",
@@ -1285,19 +1350,6 @@ window.CIRCO = {
    "first_seen": "2026-10-27",
    "og_checked": true,
    "article": "b948cb8d9f929da2"
-  },
-  {
-   "id": "yt:video:35sh2FkQn-k",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
-   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
-   "excerpt": "",
-   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": ""
   },
   {
    "id": "https://www.ciperchile.cl/?p=201449",
@@ -1344,8 +1396,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
-   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -1651,19 +1703,6 @@ window.CIRCO = {
    "article": "c658a6d5a0783519"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201415",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH",
-   "link": "https://www.ciperchile.cl/2026/10/23/fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh/?utm_source=rss&utm_medium=rss&utm_campaign=fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh",
-   "excerpt": "La entrada Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1181406-1-scaled.jpg",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "1db4ce18b3a19040"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017600",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1781,19 +1820,6 @@ window.CIRCO = {
    "article": "55276fa28a787bdc"
   },
   {
-   "id": "https://www.theverge.com/?p=1015749",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Googlebooks just aren’t ready",
-   "link": "https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review",
-   "excerpt": "Every Googlebook laptop we've tested so far has great hardware. The problem is the software. While Googlebook OS has exciting ideas for how a laptop and phone can work together, right now it's mostly a frustrating experience filled with annoying bugs and lackluster app support.…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebooks_Lenovo_HP_Acer_laptop_review_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "2c62a472be6abbf3"
-  },
-  {
    "id": "https://musebyclios.com/?p=133921",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1859,26 +1885,13 @@ window.CIRCO = {
    "article": "58e0714a25541cb1"
   },
   {
-   "id": "https://www.theverge.com/?p=1015281",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Conversational Gemini navigation comes to Apple CarPlay",
-   "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-   "excerpt": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "og_checked": true,
-   "article": "5b3d649b2a24ec13"
-  },
-  {
    "id": "yt:video:nRl-7Yhmbog",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -1950,32 +1963,6 @@ window.CIRCO = {
    "article": "c82641345d533e09"
   },
   {
-   "id": "https://www.theverge.com/?p=1014261",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
-   "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
-   "excerpt": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on the vehicle's infotainment hardware -…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-x-Audi-Image-2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-22",
-   "og_checked": true,
-   "article": "9b6b227aa523de81"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1014999",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Google’s more personalized Gemini AI is heading to your car",
-   "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-   "excerpt": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=1.0809792843691%2C0%2C97.838041431262%2C100&w=1200",
-   "day": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "a727f381ea5644c0"
-  },
-  {
    "id": "https://musebyclios.com/?p=133860",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -2033,8 +2020,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2176,8 +2163,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
    "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2299,6 +2286,19 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "03be10db1304932a"
+  },
+  {
+   "id": "yt:video:rkK8ZyzYyEA",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "8 GitHub Repos To Go Viral and Make Money",
+   "link": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/rkK8ZyzYyEA/hqdefault.jpg",
+   "day": "2026-10-14",
+   "first_seen": "2026-10-28",
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://musebyclios.com/?p=133687",
