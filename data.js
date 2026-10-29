@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-29T13:38-03:00",
+ "updated": "2026-10-29T15:41-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,19 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1022347",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple’s new laptop supports one of the coolest features for color pros",
+   "link": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+   "excerpt": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": true,
+   "article": "ee1848d7b713009c"
+  },
+  {
    "id": "https://www.theverge.com/?p=1022013",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -76,6 +89,32 @@ window.CIRCO = {
    "first_seen": "2026-10-29",
    "og_checked": true,
    "article": "718dc46badca4438"
+  },
+  {
+   "id": "https://www.applesfera.com/apple-1/este-sabado-cierran-antes-apple-store-sol-passeig-gracia-madrid-barcelona-alerta-protestas",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Este sábado cierran antes las Apple Store de Sol y Passeig de Gràcia. Madrid y Barcelona en alerta por las protestas",
+   "link": "https://www.applesfera.com/apple-1/este-sabado-cierran-antes-apple-store-sol-passeig-gracia-madrid-barcelona-alerta-protestas",
+   "excerpt": "Si tenías pensado pasarte por la Apple Store de la Puerta del Sol o por la del Passeig de Gràcia este sábado, ten en cuenta que c errarán el 31 de octubre a las 15:00 . Apple ha actualizado el horario en su página web. Aunque no da ninguna explicación del cierre, concuerda con…",
+   "image": "https://i.blogs.es/55a6f3/sol-paseo-gracia/1024_2000.jpeg",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": false,
+   "article": "aa8874a1298f0473"
+  },
+  {
+   "id": "https://www.applesfera.com/curiosidades/apple-lanzo-mac-a-cinco-meses-le-precio-mil-dolares-nacio-verbo-para-definir-esa-traicion-al-cliente",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Apple lanzó un Mac y a los cinco meses le bajó el precio mil dólares. Nació un verbo para definir esa traición al cliente",
+   "link": "https://www.applesfera.com/curiosidades/apple-lanzo-mac-a-cinco-meses-le-precio-mil-dolares-nacio-verbo-para-definir-esa-traicion-al-cliente",
+   "excerpt": "Hay fracasos que se olvidan, y luego están los que se convierten en leyenda negra. El Macintosh IIvx de 1992 es probablemente el mejor ejemplo de cómo Apple, sin Steve Jobs al mando, podía prometer el cielo y entregar una pesadilla envuelta en metal brillante. Tanto, que los…",
+   "image": "https://i.blogs.es/9c587b/macintosh-iivx/1024_2000.jpeg",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": false,
+   "article": "3709e1eea32e92eb"
   },
   {
    "id": "https://www.applesfera.com/portatil/macbook-pro-tactil-cuesta-dineral-primera-pantalla-retina-mac-paso-hay-esperanza",
@@ -260,6 +299,19 @@ window.CIRCO = {
    "article": "bcaed279802b371c"
   },
   {
+   "id": "https://musebyclios.com/?p=134121",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "What 30 Years of Indie Agency Ownership Taught Me About Growth",
+   "link": "https://musebyclios.com/musings/what-30-years-of-indie-agency-ownership-taught-me-about-growth/?utm_source=rss&utm_medium=rss&utm_campaign=what-30-years-of-indie-agency-ownership-taught-me-about-growth",
+   "excerpt": "Most 27-year-olds are eyeing the next steps of their careers and consider themselves somewhat familiar with their chosen industry. My year at 27 played out a bit differently. By then, I founded Tetrick Marketing Design and merged with my mentor’s agency, Travis Walz, to launch…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/29125039/charlie-team.jpeg",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": true,
+   "article": "a05fde89427ec81a"
+  },
+  {
    "id": "https://musebyclios.com/?p=134110",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -297,6 +349,32 @@ window.CIRCO = {
    "first_seen": "2026-10-29",
    "og_checked": true,
    "article": "bfc087a1b4259675"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/29/agenda-filo-los-espectaculos-que-no-te-podes-perder",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Agenda Filo: los espectáculos que no te podes perder",
+   "link": "https://www.filo.news/noticia/2026/10/29/agenda-filo-los-espectaculos-que-no-te-podes-perder",
+   "excerpt": "Te traemos los eventos más destacados del mes para que elijas qué plan se adapta más a tus gustos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/agenda120262007_re.png",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": false,
+   "article": "3ae236c7a3c07306"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/29/los-gremios-docentes-convocaron-a-un-paro-nacional-por-el-femicidio-de-nancy-godoy",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Los gremios docentes convocaron a un paro nacional por el femicidio de Nancy Godoy",
+   "link": "https://www.filo.news/noticia/2026/10/29/los-gremios-docentes-convocaron-a-un-paro-nacional-por-el-femicidio-de-nancy-godoy",
+   "excerpt": "La maestra rural de 52 años fue hallada asesinada en Corrientes tras 21 días de búsqueda.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/070409314530_re.jpeg",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": false,
+   "article": "f310d67d4b25ceda"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/29/resumen",
@@ -390,17 +468,17 @@ window.CIRCO = {
    "article": "1ac5df499ec9e09b"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/29/salud-mental",
+   "id": "https://www.filo.news/noticia/2026/10/29/el-senado-trata-la-reforma-de-la-ley-de-salud-mental",
    "source": "Filo.News",
    "category": "Notis",
    "title": "El Senado trata la reforma de la Ley de Salud Mental",
-   "link": "https://www.filo.news/noticia/2026/10/29/salud-mental",
+   "link": "https://www.filo.news/noticia/2026/10/29/el-senado-trata-la-reforma-de-la-ley-de-salud-mental",
    "excerpt": "La sesión está prevista para las 14. El proyecto del oficialismo prevé cambios en las internaciones y amplía el espectro de adicciones que se tratan como problemas de salud mental.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/29/noname1274_re.png",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": false,
-   "article": ""
+   "article": "e254bed53426c7c2"
   },
   {
    "id": "https://www.theverge.com/?p=1021644",
@@ -546,19 +624,6 @@ window.CIRCO = {
    "article": "d6d0d82d3d935de9"
   },
   {
-   "id": "https://www.theverge.com/?p=1019554",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple announces its first touchscreen MacBook Pro",
-   "link": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
-   "excerpt": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model or $3,399 for the 16-inch version, and it's available to preorder today ahead of its release on November 6th. The new…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "451c009699482290"
-  },
-  {
    "id": "https://www.applesfera.com/eventos/macbook-pro-tactil-opiniones-toma-contacto-video-fotos",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -687,32 +752,6 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": false,
    "article": "db1c595b481a5366"
-  },
-  {
-   "id": "https://www.applesfera.com/rumores/ultima-hora-macbook-pro-tactil-filtracion-que-cuenta-casi-todo-antes-lanzamiento",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Última hora del MacBook Pro táctil: la filtración que lo cuenta casi todo antes del lanzamiento",
-   "link": "https://www.applesfera.com/rumores/ultima-hora-macbook-pro-tactil-filtracion-que-cuenta-casi-todo-antes-lanzamiento",
-   "excerpt": "Nuevo MacBook Pro táctil : el primer Mac táctil de la historia ya es oficial Ha llegado el día grande. Hoy veremos el MacBook Pro táctil y Applesfera está ya en Los Ángeles para enseñártelo de primera mano. Eso sí, todo lo que sabemos de él son rumores. Lo único oficial, de…",
-   "image": "https://i.blogs.es/93da0a/macbook-pro-nuevos/1024_2000.jpeg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "e5b577223dbd5575"
-  },
-  {
-   "id": "https://www.applesfera.com/rumores/acaban-filtrarse-tres-novedades-para-proximo-iphone-18e-barato-problema-que-no-sera-barato",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Acaban de filtrarse tres novedades para el próximo iPhone 18e \"barato\". El problema es que ya no será tan \"barato\"",
-   "link": "https://www.applesfera.com/rumores/acaban-filtrarse-tres-novedades-para-proximo-iphone-18e-barato-problema-que-no-sera-barato",
-   "excerpt": "Apple ya ha presentado todos los iPhone que tenía previstos para este año, pero la cuenta atrás de los próximos continua y llegarán en primavera . Serán los que completen la familia que inauguraron los iPhone 18 Pro y 18 Pro Max , siendo el iPhone 18 el baluarte y el iPhone 18e…",
-   "image": "https://i.blogs.es/e50a7c/iphone-16e/1024_2000.jpeg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "f6f2ece35fd6c36c"
   },
   {
    "id": "https://www.theverge.com/?p=1020811",
@@ -1168,32 +1207,6 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": false,
    "article": "61dad8ee8ead457a"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/28/marina-will-charly-garcia-como-faro-artistico-el-amor-sin-dramas-y-la-historia-detras-de-su-encuentro-con-fito-paez",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Marina Wil: Charly García como faro artístico, el amor sin dramas y la historia detrás de su encuentro con Fito Páez",
-   "link": "https://www.filo.news/noticia/2026/10/28/marina-will-charly-garcia-como-faro-artistico-el-amor-sin-dramas-y-la-historia-detras-de-su-encuentro-con-fito-paez",
-   "excerpt": "La cantante prepara un nuevo disco que combinará baladas con canciones bailables y una mirada más madura sobre las relaciones. En diálogo con Filo.news, repasó sus influencias, contó cómo surgieron sus colaboraciones con referentes del rock nacional y adelantó el homenaje a…",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/diputados24)6819_re.jpg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "b3d6f5f5bea3298a"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/28/bom-lali-miranda-miranda-lali-estrenan-el-cortometraje-y-el-primer-single-bailar-o-morir",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "BOM: Lali + Miranda! / Miranda! + Lali, estrenan el cortometraje y el primer single: “Bailar o Morir”",
-   "link": "https://www.filo.news/noticia/2026/10/28/bom-lali-miranda-miranda-lali-estrenan-el-cortometraje-y-el-primer-single-bailar-o-morir",
-   "excerpt": "Los artistas más influyentes del pop argentino se corren de sus propios universos para construir BOM, BAILAR O MORIR.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/bomcoverv28524_re.jpg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "c96e709547ba51a2"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201517",
