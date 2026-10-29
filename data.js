@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-28T19:54-03:00",
+ "updated": "2026-10-29T03:33-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,45 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1021644",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "excerpt": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0%2C10.634570719994%2C100%2C78.730858560013&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "og_checked": true,
+   "article": "3a7cfb98f5b04b7f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/28/la-uba-le-otorgo-el-titulo-doctor-honoris-causa-al-papa-leon-xiv",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La UBA le otorgó el título Doctor Honoris Causa al Papa León XIV",
+   "link": "https://www.filo.news/noticia/2026/10/28/la-uba-le-otorgo-el-titulo-doctor-honoris-causa-al-papa-leon-xiv",
+   "excerpt": "El Consejo Superior de la Universidad de Buenos Aires resolvió la distinción en su sesión del 28 de octubre.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/diseosin_título_-_2026-10-28t200624.6037463_re.png",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "og_checked": false,
+   "article": "3a19a9ab9a9d699a"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201526",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Oposición confirma acusación constitucional contra Rabat; Quiroz pide a la Suprema apurar fallos ambientales y Chevesich le solicita más recursos, y Peñalolén clausura sede de la ANFP",
+   "link": "https://www.ciperchile.cl/2026/10/28/radar-28-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-28-10-2026",
+   "excerpt": "La entrada Oposición confirma acusación constitucional contra Rabat; Quiroz pide a la Suprema apurar fallos ambientales y Chevesich le solicita más recursos, y Peñalolén clausura sede de la ANFP se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-29",
+   "og_checked": true,
+   "article": "bc9815cb64402dfc"
+  },
   {
    "id": "https://www.theverge.com/?p=1021308",
    "source": "The Verge · Apple",
@@ -1144,19 +1183,6 @@ window.CIRCO = {
    "article": "362c9c9e95f89ee4"
   },
   {
-   "id": "https://www.theverge.com/?p=1017064",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "VisionQuest is what happens when AI really goes rogue",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-   "excerpt": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&strip=all&crop=0%2C10.721948032455%2C100%2C78.556103935089&w=1200",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "e7e812bf5a398f55"
-  },
-  {
    "id": "https://musebyclios.com/?p=134049",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1324,19 +1350,6 @@ window.CIRCO = {
    "first_seen": "2026-10-27",
    "og_checked": false,
    "article": "fbd3a110853cf9bc"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/27/brasil-la-justicia-cancelo-los-pasaportes-de-flavio-bolsonaro-y-desconocen-su-paradero",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Brasil: la Justicia canceló los pasaportes de Flávio Bolsonaro y desconocen su paradero",
-   "link": "https://www.filo.news/noticia/2026/10/27/brasil-la-justicia-cancelo-los-pasaportes-de-flavio-bolsonaro-y-desconocen-su-paradero",
-   "excerpt": "La Policía Federal informó que \"no hay registro formal\" de que el legislador haya abandonado el territorio brasileño",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/27/202610261025864-scaled1533_re.jpg",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": false,
-   "article": "1c5fab47b7c30af1"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201465",
@@ -1688,19 +1701,6 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "a0014cb7252663a5"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201363",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil",
-   "link": "https://www.ciperchile.cl/2026/10/23/estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil/?utm_source=rss&utm_medium=rss&utm_campaign=estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil",
-   "excerpt": "La entrada Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/bolsonaro_web.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "c658a6d5a0783519"
   },
   {
    "id": "https://www.theverge.com/?p=1017600",
@@ -2299,45 +2299,6 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": false,
    "article": ""
-  },
-  {
-   "id": "https://musebyclios.com/?p=133687",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Why Agencies Must Take the Brief ‘a Step Beyond’",
-   "link": "https://musebyclios.com/musings/why-agencies-must-take-the-brief-a-step-beyond-to-help-brands-anticipate-whats-next/?utm_source=rss&utm_medium=rss&utm_campaign=why-agencies-must-take-the-brief-a-step-beyond-to-help-brands-anticipate-whats-next",
-   "excerpt": "The partnership between an agency and brand is the foundation of the whole industry’s success. Agencies want to be embedded in the client’s business and fully understand their makeup to make the best decisions. Brands want agencies that will support their vision. Both sides want…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/14163321/py.jpeg",
-   "day": "2026-10-14",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "1fcc1de1656ce192"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133673",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Creative Marketers Have No Time to Think Since Turning Their Cameras Inward",
-   "link": "https://musebyclios.com/musings/creative-marketers-have-no-time-to-think-since-turning-their-cameras-inward/?utm_source=rss&utm_medium=rss&utm_campaign=creative-marketers-have-no-time-to-think-since-turning-their-cameras-inward",
-   "excerpt": "Turning our cameras to face ourselves—inward instead of outward toward the wider world—has taken a heavy toll on creativity. For years, we trained our lenses on others, at things worth noticing. Then, around 2010, the phone grew a second lens, effectively allowing us to change…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/14122243/phone.jpg",
-   "day": "2026-10-14",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "5e10b647cd6cdc79"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133651",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "How Entrepreneur Jenny Stojkovic Helped Create an App That Lets Her Blind Dad ‘See’ the World Around Him",
-   "link": "https://musebyclios.com/health/how-pioneering-entrepreneur-jenny-stojkovic-helped-create-an-app-that-lets-her-blind-dad-see-the-world-around-him/?utm_source=rss&utm_medium=rss&utm_campaign=how-pioneering-entrepreneur-jenny-stojkovic-helped-create-an-app-that-lets-her-blind-dad-see-the-world-around-him",
-   "excerpt": "Entrepreneur, investor and digital pioneer Jenny Stojkovic has spent over a decade shaping the intersection of technology, policy and media. She is recognized as one of the most influential venture capitalists and voices in tech. When it comes to AI companies, Jenny doesn’t…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/13193733/Jenny-Stojkovic.jpg",
-   "day": "2026-10-14",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "ae53047763010bc6"
   }
  ]
 };
