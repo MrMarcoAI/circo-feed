@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-29T15:41-03:00",
+ "updated": "2026-10-29T20:01-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -221,6 +221,19 @@ window.CIRCO = {
    "article": "1c01dd2f09697ecc"
   },
   {
+   "id": "https://www.theverge.com/?p=1022519",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+   "excerpt": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": true,
+   "article": "6a39d8d064e34569"
+  },
+  {
    "id": "https://www.theverge.com/?p=1022023",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -286,6 +299,19 @@ window.CIRCO = {
    "article": "b24c37f66ddc1249"
   },
   {
+   "id": "yt:video:AqqjH_uv-_w",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "SaaS is dead?",
+   "link": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "https://theinspiration.com/?p=54764",
    "source": "The Inspiration",
    "category": "Publi",
@@ -343,12 +369,51 @@ window.CIRCO = {
    "category": "Publi",
    "title": "Who Needs AI Notetakers? Visit Iceland Offers ‘Knittakers’ Instead",
    "link": "https://musebyclios.com/travel/who-needs-ai-notetakers-visit-iceland-offers-knittakers-instead/?utm_source=rss&utm_medium=rss&utm_campaign=who-needs-ai-notetakers-visit-iceland-offers-knittakers-instead",
-   "excerpt": "You in the top-left Zoom square, knitting … you’re not Jim from finance! Visit Iceland riffs on AI notetakers through a free, bookable service developed with M+C Saatchi. Famed for its innovative campaigns, the tourism group will provide “Knittakers” across Iceland to attend…",
+   "excerpt": "You—in the top-right Zoom square, knitting! You’re not Jim from finance! Visit Iceland riffs on AI notetakers through a free, bookable service developed with M+C Saatchi. Famed for its innovative campaigns, the tourism group will provide “Knittakers” across Iceland to attend…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/29092358/ice-9.jpg",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": true,
    "article": "bfc087a1b4259675"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/29/murio-patrick-stewart-el-legendario-profesor-charles-xavier-de-x-men-y-el-capitan-picard-de-star-trek",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Murió Patrick Stewart, el legendario profesor Charles Xavier de \"X-Men\" y el capitán Picard de \"Star Trek\"",
+   "link": "https://www.filo.news/noticia/2026/10/29/murio-patrick-stewart-el-legendario-profesor-charles-xavier-de-x-men-y-el-capitan-picard-de-star-trek",
+   "excerpt": "Había sido diagnosticado recientemente con la enfermedad de Alzheimer y la demencia con cuerpos de Lewy.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/portadapatrickst2525_re.jpg",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": false,
+   "article": "47c1935849dc0730"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/29/los-hijos-de-nancy-godoy-pidieron-justicia-por-el-femicidio-el-poder-aca-manda-mas-que-cualquiera",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Los hijos de Nancy Godoy pidieron justicia por el femicidio: \"El poder acá manda más que cualquiera\"",
+   "link": "https://www.filo.news/noticia/2026/10/29/los-hijos-de-nancy-godoy-pidieron-justicia-por-el-femicidio-el-poder-aca-manda-mas-que-cualquiera",
+   "excerpt": "\"Desde el primer día fuimos destratados por el Poder Judicial de acá\", denunciaron luego de que se hallara el cuerpo sin vida de su madre y docente.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/hijos2666_re.png",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": false,
+   "article": "09b7b3b4f12f10fd"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/29/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-mexico",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Corre Franco Colapinto en la Fórmula 1: días y horarios del GP de México",
+   "link": "https://www.filo.news/noticia/2026/10/29/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-mexico",
+   "excerpt": "Tras el abandono en Austin, el piloto argentino volverá a la acción este fin de semana en el Autódromo Hermanos Rodríguez.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/20261009t102058z_1033871389_up1ema90sqx9p_rtrmadp_3_motor-f1-singapore_(1)3611_re.jpg",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": false,
+   "article": "ec078f2331f016bc"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/29/agenda-filo-los-espectaculos-que-no-te-podes-perder",
@@ -473,12 +538,25 @@ window.CIRCO = {
    "category": "Notis",
    "title": "El Senado trata la reforma de la Ley de Salud Mental",
    "link": "https://www.filo.news/noticia/2026/10/29/el-senado-trata-la-reforma-de-la-ley-de-salud-mental",
-   "excerpt": "La sesión está prevista para las 14. El proyecto del oficialismo prevé cambios en las internaciones y amplía el espectro de adicciones que se tratan como problemas de salud mental.",
+   "excerpt": "El proyecto del oficialismo prevé cambios en las internaciones y amplía el espectro de adicciones que se tratan como problemas de salud mental.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/29/noname1274_re.png",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": false,
    "article": "e254bed53426c7c2"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201510",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "La FIFA en Chile: la autonomía como moneda de cambio",
+   "link": "https://www.ciperchile.cl/2026/10/29/la-fifa-en-chile-la-autonomia-como-moneda-de-cambio/?utm_source=rss&utm_medium=rss&utm_campaign=la-fifa-en-chile-la-autonomia-como-moneda-de-cambio",
+   "excerpt": "La entrada La FIFA en Chile: la autonomía como moneda de cambio se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/mmilad-infantino.jpg",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "og_checked": true,
+   "article": "5f5ab6ac281ea1b0"
   },
   {
    "id": "https://www.theverge.com/?p=1021644",
@@ -794,7 +872,7 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1020626",
-   "source": "The Verge · IA",
+   "source": "The Verge · Google",
    "category": "Tech + la IA",
    "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
    "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
@@ -837,8 +915,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "$100M ARR Founder: The Next Big AI Opportunity",
    "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
-   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
-   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
    "og_checked": false,
@@ -1170,45 +1248,6 @@ window.CIRCO = {
    "article": "8de5bdf884709f49"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/28/choque-de-trenes-en-espana-al-menos-64-muertos-y-mas-de-100-heridos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Choque de trenes en España: al menos 64 muertos y más de 100 heridos",
-   "link": "https://www.filo.news/noticia/2026/10/28/choque-de-trenes-en-espana-al-menos-64-muertos-y-mas-de-100-heridos",
-   "excerpt": "El siniestro ocurrió esta mañana cuando una formación embistió por detrás a otra.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/20261028t132055z_1934846409_rc2dcoakecc0_rtrmadp_3_spain-accident_(1)2737_re.jpg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "e004c8b8e7b7d039"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/28/los-alojamientos-reservados-en-airbnb-ayudaran-a-brindar-un-techo-a-personas-en-situacion-de-crisis",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Los alojamientos reservados en Airbnb ayudarán a brindar un techo a personas en situación de crisis",
-   "link": "https://www.filo.news/noticia/2026/10/28/los-alojamientos-reservados-en-airbnb-ayudaran-a-brindar-un-techo-a-personas-en-situacion-de-crisis",
-   "excerpt": "Un nuevo modelo de financiamiento ayudará a aportar 500 millones de dólares a Airbnb.org en cinco años, con el objetivo de proporcionar un millón de noches de alojamiento gratuito al año.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/airbnborgputra_heights,_malaysia_response3575_re.jpg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "b6a0c20de879556b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/28/flavio-bolsonaro-aterrizo-en-estados-unidos-luego-de-fugarse-por-la-argentina",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Flávio Bolsonaro aterrizó en Estados Unidos, luego de fugarse por la Argentina",
-   "link": "https://www.filo.news/noticia/2026/10/28/flavio-bolsonaro-aterrizo-en-estados-unidos-luego-de-fugarse-por-la-argentina",
-   "excerpt": "El vuelo en el que se fugó el candidato del PL partió de Puerto Iguazú e hizo una escala en Guayaquil antes de aterrizar en Miami. El hijo del expresidente brasileño enfrenta causas por supuesta corrupción, lavado de dinero y evasión.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/20261028t134400z_1896983665_rc2dcoaoyag4_rtrmadp_3_brazil-usa8785_re.jpg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "61dad8ee8ead457a"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201517",
    "source": "CIPER",
    "category": "Notis",
@@ -1430,19 +1469,6 @@ window.CIRCO = {
    "article": "b948cb8d9f929da2"
   },
   {
-   "id": "yt:video:35sh2FkQn-k",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
-   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
-   "excerpt": "",
-   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": ""
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201449",
    "source": "CIPER",
    "category": "Notis",
@@ -1487,8 +1513,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
-   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -1768,19 +1794,6 @@ window.CIRCO = {
    "article": "ab769dcfb66f52ce"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201373",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños",
-   "link": "https://www.ciperchile.cl/2026/10/23/este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos",
-   "excerpt": "La entrada Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/Condenas_web.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "a0014cb7252663a5"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017600",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1968,8 +1981,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -2098,8 +2111,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2241,8 +2254,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
    "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "Gemini 4 Argon is LIVE, Google's most advanced AI model, try it for yourself: https://startup-ideas-pod.link/gemini4-argon In this solo episode, I share what I learned after a week with Gemini 4 Argon, Google's new frontier model. I show three places it shines: marketing with…",
-   "image": "https://i3.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
    "day": "2026-10-16",
    "first_seen": "2026-10-20",
    "og_checked": false,
