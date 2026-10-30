@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-30T13:33-03:00",
+ "updated": "2026-10-30T15:17-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,19 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1023194",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The delightfully messy state of Apple gadgets",
+   "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+   "excerpt": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "9fe81d2989da3979"
+  },
+  {
    "id": "https://www.theverge.com/?p=1022592",
    "source": "The Verge · Apple",
    "category": "Mundo Apple",
@@ -89,6 +102,32 @@ window.CIRCO = {
    "first_seen": "2026-10-30",
    "og_checked": true,
    "article": "856171d657a14bbc"
+  },
+  {
+   "id": "https://www.applesfera.com/curiosidades/para-no-ofender-a-pequenas-ipad-mini-se-ve-obligado-a-cambiar-imagen",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Para no ofender a las 🍆 pequeñas, el iPad mini se ve obligado a cambiar de imagen",
+   "link": "https://www.applesfera.com/curiosidades/para-no-ofender-a-pequenas-ipad-mini-se-ve-obligado-a-cambiar-imagen",
+   "excerpt": "Apple trabaja el marketing y las imágenes como nadie. Son sencillas y minimalistas, pero dicen mucho. Un buen ejemplo es cómo enseña el nuevo iPad mini o el iPhone Air . Podría ponerlos flotando sin más, pero si añade una mano que los sujeta con los dedos en forma de pinza ya…",
+   "image": "https://i.blogs.es/5cd73f/ipad-mini/1024_2000.jpeg",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": false,
+   "article": "c4e24ed8607b40a1"
+  },
+  {
+   "id": "https://www.applesfera.com/curiosidades/steve-jobs-me-echo-bronca-esto-adolescente-revelo-como-solucionar-gratis-problema-que-habia-causado-apple",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "\"Steve Jobs me echó la bronca por esto\". Un adolescente reveló cómo solucionar gratis un problema que había causado Apple",
+   "link": "https://www.applesfera.com/curiosidades/steve-jobs-me-echo-bronca-esto-adolescente-revelo-como-solucionar-gratis-problema-que-habia-causado-apple",
+   "excerpt": "Es bien sabido que Steve Jobs no era precisamente el hombre que mejor encajaba las críticas del mundo. Christopher Price, que ya era un entusiasta de la tecnología cuando era adolescente, lo comprobó en primera persona. Fue cuando publicó una guía para c onseguir una pieza…",
+   "image": "https://i.blogs.es/5c375c/steve-jobs/1024_2000.jpeg",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": false,
+   "article": "75accb3529c41129"
   },
   {
    "id": "https://www.applesfera.com/portatil/elegir-macbook-pro-ahora-lio-esto-que-cambia-tactil-estandar",
@@ -182,6 +221,19 @@ window.CIRCO = {
    "article": "a249d178bf80987f"
   },
   {
+   "id": "https://www.theverge.com/?p=1023440",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+   "excerpt": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0%2C10.727816900681%2C100%2C78.544366198639&w=1200",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "040af99b170922ff"
+  },
+  {
    "id": "https://www.theverge.com/?p=1023188",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -260,6 +312,19 @@ window.CIRCO = {
    "article": "d746c97fcf364054"
   },
   {
+   "id": "https://musebyclios.com/?p=134150",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Tiffany Makes a Holiday Appeal With ’90s Nostalgia",
+   "link": "https://musebyclios.com/musings/tiffany-makes-a-holiday-appeal-with-90s-nostalgia/?utm_source=rss&utm_medium=rss&utm_campaign=tiffany-makes-a-holiday-appeal-with-90s-nostalgia",
+   "excerpt": "Luxury advertising has a way of drawing you in through beauty, glamour and incredible product photography. It also comes with a set of codes. Our challenge was to tell a warm, human story while respecting those codes and doing justice to Tiffany & Co.’s jewelry. We wanted the…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/30132053/tif2.jpeg",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "ceb3102ef1dfb461"
+  },
+  {
    "id": "https://musebyclios.com/?p=134135",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -297,6 +362,19 @@ window.CIRCO = {
    "first_seen": "2026-10-30",
    "og_checked": true,
    "article": "e0f51c355e951a12"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/30/la-legislatura-portena-aprobo-la-creacion-de-un-servicio-publico-de-cremacion-y-cementerio-para-mascotas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Legislatura porteña aprobó la creación de un servicio público de cremación y cementerio para mascotas",
+   "link": "https://www.filo.news/noticia/2026/10/30/la-legislatura-portena-aprobo-la-creacion-de-un-servicio-publico-de-cremacion-y-cementerio-para-mascotas",
+   "excerpt": "",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/pexelslittlemath13385878694618_re.jpg",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": false,
+   "article": "8e05e8d6772d5bb9"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/30/milei-recibira-al-papa-en-el-aeropuerto-aprobaron-la-reforma-de-la-ley-de-salud-mental-evitan-suba-de-boleto-de-colectivo-y-mas",
@@ -427,6 +505,19 @@ window.CIRCO = {
    "first_seen": "2026-10-30",
    "og_checked": false,
    "article": "3837a997ed8abacf"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/30/charlie-3-presenta-suenan-alarmas-junto-a-walas-de-massacre",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Charlie 3 presenta “Suenan Alarmas” junto a Walas de Massacre",
+   "link": "https://www.filo.news/noticia/2026/10/30/charlie-3-presenta-suenan-alarmas-junto-a-walas-de-massacre",
+   "excerpt": "El tema forma parte de Recuerdos Nuevos, el séptimo álbum de estudio de la banda, editado en mayo de este año.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/diputados27)7877_re.jpg",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-30",
+   "og_checked": false,
+   "article": "44005e8b490ee334"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201555",
@@ -648,19 +739,6 @@ window.CIRCO = {
    "first_seen": "2026-10-29",
    "og_checked": true,
    "article": "60c17ad4dc5cb2ce"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1021476",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Anthropic’s business plan: Build God or die trying",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-   "excerpt": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_dario-amodei_money.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": true,
-   "article": "7018ed4ffeaf845a"
   },
   {
    "id": "yt:video:AqqjH_uv-_w",
@@ -1001,19 +1079,6 @@ window.CIRCO = {
    "article": "ba58b7065bcac989"
   },
   {
-   "id": "https://www.theverge.com/?p=1020069",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple ‘Pro and tell’ event: Everything announced this week",
-   "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
-   "excerpt": "Apple closed out its week of product announcements with its \"Pro and tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "99e2f27b304ded64"
-  },
-  {
    "id": "https://www.applesfera.com/eventos/macbook-pro-tactil-opiniones-toma-contacto-video-fotos",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -1025,32 +1090,6 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": false,
    "article": "3c4cf2b03b06d435"
-  },
-  {
-   "id": "https://www.applesfera.com/portatil/799-a-33-958-euros-asi-queda-catalogo-precios-apple-sus-nuevos-mac",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "De 799 a 33.958 euros: así queda el catálogo de precios de Apple con sus nuevos Mac",
-   "link": "https://www.applesfera.com/portatil/799-a-33-958-euros-asi-queda-catalogo-precios-apple-sus-nuevos-mac",
-   "excerpt": "Apple ha puesto fin a su semana de anuncios en la que, aparte del iPad mini 8 OLED , ha renovado buena parte de su gama de ordenadores con los iMac M6 , MacBook Pro M6 y los flamantes MacBook Pro táctiles . Y con ello, un aumento de precios en casi todos ( salvo el iMac ). Así…",
-   "image": "https://i.blogs.es/547260/macbook/1024_2000.jpeg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "d1ede65debb54de5"
-  },
-  {
-   "id": "https://www.applesfera.com/apple-1/nuevos-macbook-imac-ipad-resumen-todo-presentado-apple-esta-semana",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Nuevos MacBook, iMac y iPad: resumen de todo lo presentado por Apple esta semana",
-   "link": "https://www.applesfera.com/apple-1/nuevos-macbook-imac-ipad-resumen-todo-presentado-apple-esta-semana",
-   "excerpt": "Desde el lunes y hasta hoy miércoles, Apple ha anunciado nuevos dispositivos que saldrán a la venta el próximo mes de noviembre y con los que, en teoría, cerraría el año, ya que no se esperan más lanzamientos hasta 2027. Hacemos aquí un repaso de todas las novedades. Índice de…",
-   "image": "https://i.blogs.es/b8d504/resumen/1024_2000.jpeg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "72a7e92510589229"
   },
   {
    "id": "https://www.theverge.com/?p=1020811",
@@ -1298,32 +1337,6 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": false,
    "article": "131e2b1e1b46450e"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/28/flavio-bolsonaro-se-autoproclamo-presidente-electo-de-brasil-desde-estados-unidos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Flavio Bolsonaro se autoproclamó \"presidente electo\" de Brasil desde Estados Unidos",
-   "link": "https://www.filo.news/noticia/2026/10/28/flavio-bolsonaro-se-autoproclamo-presidente-electo-de-brasil-desde-estados-unidos",
-   "excerpt": "El senador brasileño del PL publicó una carta dirigida \"a la nación brasileña\" en la que se declaró el \"verdadero presidente electo del país\".",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/202610261026810-scaled3653_re.jpg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "f5b0c3b39793be45"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/28/la-china-ansa-contra-la-mama-de-wanda-me-arruino",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La China Ansa contra la mamá de Wanda: \"Me arruino\"",
-   "link": "https://www.filo.news/noticia/2026/10/28/la-china-ansa-contra-la-mama-de-wanda-me-arruino",
-   "excerpt": "La participante de Masterchef se mostró indignada con la panelista, luego de que esta le adjudicara un romance con un compañero del reality.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/nora5785_re.png",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "79c56e8d384137d4"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201517",
