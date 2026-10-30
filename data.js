@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-29T20:01-03:00",
+ "updated": "2026-10-30T03:33-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,32 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.filo.news/noticia/2026/10/29/se-aprobo-un-nuevo-formato-en-la-primera-division-del-futbol-argentino",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Se aprobó un nuevo formato en la Primera División del fútbol argentino",
+   "link": "https://www.filo.news/noticia/2026/10/29/se-aprobo-un-nuevo-formato-en-la-primera-division-del-futbol-argentino",
+   "excerpt": "Tras una reunión del Comité Ejecutivo de la Liga Profesional de Fútbol, se confirmaron las modificaciones que se implementarán desde 2027.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/d81e757d8fb74b90-b920-177fccef1fc24882_re.jpg",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-30",
+   "og_checked": false,
+   "article": "3837a997ed8abacf"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201555",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Desempleo sube a 9,8%; camioneros de San Antonio inician el primer paro del gobierno de Kast, y Corte confirma prisión preventiva para alcalde de Río Bueno por cohecho y lavado de activos",
+   "link": "https://www.ciperchile.cl/2026/10/29/desempleo-sube-a-98-camioneros-de-san-antonio-inician-el-primer-paro-del-gobierno-de-kast-y-corte-confirma-prision-preventiva-para-alcalde-de-rio-bueno-por-cohecho-y-lavado-de-activos/?utm_source=rss&utm_medium=rss&utm_campaign=desempleo-sube-a-98-camioneros-de-san-antonio-inician-el-primer-paro-del-gobierno-de-kast-y-corte-confirma-prision-preventiva-para-alcalde-de-rio-bueno-por-cohecho-y-lavado-de-activos",
+   "excerpt": "La entrada Desempleo sube a 9,8%; camioneros de San Antonio inician el primer paro del gobierno de Kast, y Corte confirma prisión preventiva para alcalde de Río Bueno por cohecho y lavado de activos se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "a4a61035b5b06f64"
+  },
   {
    "id": "https://www.theverge.com/?p=1022347",
    "source": "The Verge · Apple",
@@ -1235,19 +1261,6 @@ window.CIRCO = {
    "article": "d12bd822bbc4da26"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/28/fallecio-a-los-74-anos-la-madre-de-lionel-scaloni",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Falleció a los 74 años la madre de Lionel Scaloni",
-   "link": "https://www.filo.news/noticia/2026/10/28/fallecio-a-los-74-anos-la-madre-de-lionel-scaloni",
-   "excerpt": "Eulalia Marzetti atravesaba un delicado cuadro de salud. Vivía en Pujato junto a su marido, Ángel. El mensaje de la AFA.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/7201)5764_re.jpg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "8de5bdf884709f49"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201517",
    "source": "CIPER",
    "category": "Notis",
@@ -1781,19 +1794,6 @@ window.CIRCO = {
    "article": ""
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201380",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones",
-   "link": "https://www.ciperchile.cl/2026/10/23/fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones/?utm_source=rss&utm_medium=rss&utm_campaign=fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones",
-   "excerpt": "La entrada Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/WEB_recortes-1.png",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "ab769dcfb66f52ce"
-  },
-  {
    "id": "https://www.theverge.com/?p=1017600",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1896,19 +1896,6 @@ window.CIRCO = {
    "first_seen": "2026-10-23",
    "og_checked": true,
    "article": "a803425cd72e4029"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1016544",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
-   "link": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
-   "excerpt": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in China in August, the new Coolpad Cool X Wide has a much…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/coolpad1.jpg?quality=90&strip=all&crop=0,10.667430009877,100,78.665139980246",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "55276fa28a787bdc"
   },
   {
    "id": "https://musebyclios.com/?p=133921",
@@ -2312,71 +2299,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "a7bc8885e5b6f210"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133743",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Extra! Extra! Repositioning ‘The Cincinnati Enquirer’",
-   "link": "https://musebyclios.com/musings/extra-extra-repositioning-the-cincinnati-enquirer-to-compete-in-the-digital-age/?utm_source=rss&utm_medium=rss&utm_campaign=extra-extra-repositioning-the-cincinnati-enquirer-to-compete-in-the-digital-age",
-   "excerpt": "To kick off the pitch for The Cincinnati Enquirer, its executive editor, Beryl Love, shared a “love letter” he had written to the city. You could just feel the passion he had for Cincinnati and the paper’s role in it. We were fascinated. We used that as our brief and started…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/15160031/CIN5.jpg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "4bacb2aa6e83b4b6"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133710",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "How Chipotle Cut a Track at Abbey Road Using Real Vegetables as Instruments",
-   "link": "https://musebyclios.com/music/how-chipotle-recorded-a-track-at-abbey-road-using-real-vegetables-for-instruments/?utm_source=rss&utm_medium=rss&utm_campaign=how-chipotle-recorded-a-track-at-abbey-road-using-real-vegetables-for-instruments",
-   "excerpt": "So, this is what real food sounds like. Brands record theme songs all the time. But it’s not every brand that hires the London Vegetable Orchestra to play their tune. Which is exactly what Chipotle Mexican Grill did with “From Ground to Sound.” The song, available on Spotify and…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/15125516/10_FromGoundtoSound_Corn_Graphics-scaled.png",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "c74e8bde0c39c915"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133701",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Pepsi Dresses Up Its Cans in Mini NFL Puffer Jackets",
-   "link": "https://musebyclios.com/sports/pepsi-dresses-up-its-cans-in-mini-nfl-puffer-jackets/?utm_source=rss&utm_medium=rss&utm_campaign=pepsi-dresses-up-its-cans-in-mini-nfl-puffer-jackets",
-   "excerpt": "Will big NFL fans want tiny team jackets to dress up their 12-ounce Pepsi cans? We all know the answer to that. And so does the soft-drink titan, which partnered with sports-fashion brand Off Season to create hyper-cute, realistic puffers. The initiative reps 15 clubs with the…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/15092520/PEP1.jpg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "e9133901f6cacf1a"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133671",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Graham Douglas Thinks ‘Small’ to Fuel Big Growth at Gus",
-   "link": "https://musebyclios.com/2-minutes-with/graham-douglas-thinks-small-to-fuel-big-growth-at-gus/?utm_source=rss&utm_medium=rss&utm_campaign=graham-douglas-thinks-small-to-fuel-big-growth-at-gus",
-   "excerpt": "“We never set out to build a big agency,” says Graham Douglas, who co-founded and serves as ECD at indie hot shop Gus in NYC. “We worked at those places and learned a ton, but we also saw the value of being small. You can be flexible, shape shift and say yes to the most […] The…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/14102505/Graham-Douglas.jpg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "bdf996e387419001"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133691",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Live From New York: It’s ‘KPop Demon Hunters’ via Netflix and Walmart",
-   "link": "https://musebyclios.com/film-tv/live-from-new-york-kpop-demon-hunters-via-netflix-and-walmart/?utm_source=rss&utm_medium=rss&utm_campaign=live-from-new-york-kpop-demon-hunters-via-netflix-and-walmart",
-   "excerpt": "Netflix and Walmart recently partnered to bring KPop Demon Hunters to NYC for a free immersive event. Conjuring a HUNTR/X-inspired Night Market, the event was timed in advance of the holiday season to showcase a collection of official KPop Demon Hunters products sold at Walmart.…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/15000759/Main-KPop.jpeg",
-   "day": "2026-10-15",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "03be10db1304932a"
   }
  ]
 };
