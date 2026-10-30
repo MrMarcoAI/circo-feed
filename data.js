@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-30T15:17-03:00",
+ "updated": "2026-10-30T19:42-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,45 +64,6 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
-  {
-   "id": "https://www.theverge.com/?p=1023194",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "The delightfully messy state of Apple gadgets",
-   "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
-   "excerpt": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "og_checked": true,
-   "article": "9fe81d2989da3979"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1022592",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-   "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
-   "excerpt": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "og_checked": true,
-   "article": "901737775391e026"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1022894",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "The Apple Pencil turned the Duo into my new favorite notebook",
-   "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
-   "excerpt": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "og_checked": true,
-   "article": "856171d657a14bbc"
-  },
   {
    "id": "https://www.applesfera.com/curiosidades/para-no-ofender-a-pequenas-ipad-mini-se-ve-obligado-a-cambiar-imagen",
    "source": "Applesfera",
@@ -221,6 +182,45 @@ window.CIRCO = {
    "article": "a249d178bf80987f"
   },
   {
+   "id": "https://www.theverge.com/?p=1023763",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "The biggest names in AI are backing a new way to opt out of scraping",
+   "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+   "excerpt": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "09f96bc37feca698"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1023528",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Google’s satellite AI server transmits its first response to Earth",
+   "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+   "excerpt": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0%2C1.4420367390612%2C100%2C97.115926521878&w=1200",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "da148ab9dcdc09e7"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1023820",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+   "excerpt": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "c0d4376a58f11e04"
+  },
+  {
    "id": "https://www.theverge.com/?p=1023440",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -312,6 +312,19 @@ window.CIRCO = {
    "article": "d746c97fcf364054"
   },
   {
+   "id": "https://musebyclios.com/?p=134163",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Beyond the Scoreboard: How the Golden State Valkyries Built a Brand Worth Cheering For",
+   "link": "https://musebyclios.com/sports/beyond-the-scoreboard-how-the-golden-state-valkyries-built-a-brand-worth-cheering-for/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-scoreboard-how-the-golden-state-valkyries-built-a-brand-worth-cheering-for",
+   "excerpt": "As a producer, I’ve spent nearly three decades building creative work for brands, and I’ve learned you can’t manufacture genuine connection. As a Valkyries fan, I’ve watched complete strangers become friends, people of every generation dress up and lose their minds together, and…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/30143821/BB.jpg",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "279782a3ed628310"
+  },
+  {
    "id": "https://musebyclios.com/?p=134150",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -362,6 +375,84 @@ window.CIRCO = {
    "first_seen": "2026-10-30",
    "og_checked": true,
    "article": "e0f51c355e951a12"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/30/se-registraron-239-femicidios-en-lo-que-va-de-2026",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Se registraron 239 femicidios en lo que va de 2026",
+   "link": "https://www.filo.news/noticia/2026/10/30/se-registraron-239-femicidios-en-lo-que-va-de-2026",
+   "excerpt": "En ese período se registró un femicidio cada 30 horas y 728 intentos de femicidio en todo el país.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/202606260603828-scaled2818_re.jpg",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": false,
+   "article": "57e9308e5e22d5a6"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/30/renuncio-el-subsecretario-de-ciencia-y-tecnologia-a-poco-mas-de-un-mes-de-asumir",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Renunció el subsecretario de Ciencia y Tecnología, a poco más de un mes de asumir",
+   "link": "https://www.filo.news/noticia/2026/10/30/renuncio-el-subsecretario-de-ciencia-y-tecnologia-a-poco-mas-de-un-mes-de-asumir",
+   "excerpt": "En su carta, César Oscar Lencina denunció falta de respaldo institucional y situaciones de \"destrato y desconsideración\" hacia el personal por parte de la secretaria del área, Adriana Baravalle.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/disenosin_título_-_2026-10-30t183632.3103883_re.png",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": false,
+   "article": "49b49a876cce26eb"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/30/mi-perra-poesia-vuelve-a-escena-una-obra-sobre-el-amor-la-soledad-y-los-vinculos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "“Mi perra poesía” vuelve a escena: una obra sobre el amor, la soledad y los vínculos",
+   "link": "https://www.filo.news/noticia/2026/10/30/mi-perra-poesia-vuelve-a-escena-una-obra-sobre-el-amor-la-soledad-y-los-vinculos",
+   "excerpt": "La pieza teatral, nacida como proyecto de graduación de la Universidad Nacional de las Artes (UNA), tendrá su reestreno el miércoles 11 de noviembre a las 21 en Área 623, en el barrio porteño de Balvanera.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/img7108(1)5667_re.jpg",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": false,
+   "article": "8173d6abd90a7498"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/30/la-corte-suprema-intervenira-en-la-demanda-de-pba-contra-nacion-por-los-subsidios-al-transporte",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Corte Suprema intervendrá en la demanda de PBA contra Nación por los subsidios al transporte",
+   "link": "https://www.filo.news/noticia/2026/10/30/la-corte-suprema-intervenira-en-la-demanda-de-pba-contra-nacion-por-los-subsidios-al-transporte",
+   "excerpt": "El Gobierno tiene 60 días para responder al reclamo por la eliminación del fondo que compensaba las tarifas de colectivos del interior.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/72017)1498.avif",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": false,
+   "article": "058e77fa4b35e602"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/30/aumentan-las-tarifas-de-luz-y-gas-cuanto-subiran-las-facturas-en-noviembre",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Aumentan las tarifas de luz y gas: cuánto subirán las facturas en noviembre",
+   "link": "https://www.filo.news/noticia/2026/10/30/aumentan-las-tarifas-de-luz-y-gas-cuanto-subiran-las-facturas-en-noviembre",
+   "excerpt": "El incremento comenzará a regir este domingo y surge de los nuevos cuadros tarifarios publicados por los organismos reguladores.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/16923933072308185436303_re.jpeg",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": false,
+   "article": "65d26581248a4098"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/30/arranca-la-fecha-15-del-torneo-clausura-2026-dias-horarios-y-tv-de-los-partidos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Arranca la fecha 15 del Torneo Clausura 2026: días, horarios y TV de los partidos",
+   "link": "https://www.filo.news/noticia/2026/10/30/arranca-la-fecha-15-del-torneo-clausura-2026-dias-horarios-y-tv-de-los-partidos",
+   "excerpt": "Con cuatro encuentros, este viernes arranca una nueva jornada del campeonato de Primera División. El partido más destacado será el Superclásico entre Boca y River.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/webnpelota6786_re.jpg",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": false,
+   "article": "b1df2efed6d840b1"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/30/la-legislatura-portena-aprobo-la-creacion-de-un-servicio-publico-de-cremacion-y-cementerio-para-mascotas",
@@ -442,17 +533,17 @@ window.CIRCO = {
    "article": "5f8a68789632fa26"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/30/binancie",
+   "id": "https://www.filo.news/noticia/2026/10/30/golpe-a-binance-que-se-sabe-del-mayor-robo-de-criptomonedas-de-la-historia",
    "source": "Filo.News",
    "category": "Notis",
    "title": "Golpe a Binance: qué se sabe del mayor robo de criptomonedas de la historia",
-   "link": "https://www.filo.news/noticia/2026/10/30/binancie",
+   "link": "https://www.filo.news/noticia/2026/10/30/golpe-a-binance-que-se-sabe-del-mayor-robo-de-criptomonedas-de-la-historia",
    "excerpt": "Un ataque cibernético afectó a más de 6000 millones de dólares. La empresa tuvo que suspender los depósitos y retiros. La principal hipótesis y los pasos a seguir.",
    "image": "https://assets.dev-filo.dift.io/img/2026/10/30/noname4126_re.png",
    "day": "2026-10-30",
    "first_seen": "2026-10-30",
    "og_checked": false,
-   "article": ""
+   "article": "1abef81b6fc6951b"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/30/colectivos-el-gobierno-aumentara-los-subsidios-para-evitar-una-nueva-suba-del-boleto",
@@ -481,17 +572,30 @@ window.CIRCO = {
    "article": "0f1106426b44ac68"
   },
   {
-   "id": "https://www.theverge.com/?p=1022628",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-   "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
-   "excerpt": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-29",
+   "id": "https://www.ciperchile.cl/?p=201572",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "La presión de Washington por los minerales críticos y su impacto en derechos humanos en el Cono Sur",
+   "link": "https://www.ciperchile.cl/2026/10/30/la-presion-de-washington-por-los-minerales-criticos-y-su-impacto-en-derechos-humanos-en-el-cono-sur/?utm_source=rss&utm_medium=rss&utm_campaign=la-presion-de-washington-por-los-minerales-criticos-y-su-impacto-en-derechos-humanos-en-el-cono-sur",
+   "excerpt": "La entrada La presión de Washington por los minerales críticos y su impacto en derechos humanos en el Cono Sur se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1699285-scaled.jpg",
+   "day": "2026-10-30",
    "first_seen": "2026-10-30",
    "og_checked": true,
-   "article": "642b907af74ae973"
+   "article": "4e25bb76e1157d3f"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201564",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Los fallos judiciales que contradicen la versión de Rabat acerca de que la ley obliga a aceptar las rebajas de condena",
+   "link": "https://www.ciperchile.cl/2026/10/30/los-fallos-judiciales-que-contradicen-la-version-de-rabat-acerca-de-que-la-ley-obliga-a-aceptar-las-rebajas-de-condena/?utm_source=rss&utm_medium=rss&utm_campaign=los-fallos-judiciales-que-contradicen-la-version-de-rabat-acerca-de-que-la-ley-obliga-a-aceptar-las-rebajas-de-condena",
+   "excerpt": "La entrada Los fallos judiciales que contradicen la versión de Rabat acerca de que la ley obliga a aceptar las rebajas de condena se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/rabat_v2_web-1.png",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "f32d6b7597e3a449"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/29/se-aprobo-un-nuevo-formato-en-la-primera-division-del-futbol-argentino",
@@ -562,9 +666,9 @@ window.CIRCO = {
    "id": "https://www.applesfera.com/apple-1/este-sabado-cierran-antes-apple-store-sol-passeig-gracia-madrid-barcelona-alerta-protestas",
    "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "Sol y Passeig de Gràcia cierran antes este sábado: Madrid y Barcelona esperan protestas",
+   "title": "Tres Apple Store de Madrid, Barcelona y Valencia cierran antes este sábado: se esperan saqueos",
    "link": "https://www.applesfera.com/apple-1/este-sabado-cierran-antes-apple-store-sol-passeig-gracia-madrid-barcelona-alerta-protestas",
-   "excerpt": "Si tenías pensado pasarte por la Apple Store de la Puerta del Sol o por la del Passeig de Gràcia este sábado, ten en cuenta que c errarán el 31 de octubre a las 15:00 . Apple ha actualizado el horario en su página web. Aunque no da ninguna explicación del cierre, concuerda con…",
+   "excerpt": "Si tenías pensado pasarte por la Apple Store de la Puerta del Sol, por la del Passeig de Gràcia o Valencia este sábado, ten en cuenta que c errarán el 31 de octubre a las 15:00 . Apple ha actualizado el horario en su página web. Aunque no da ninguna explicación del cierre,…",
    "image": "https://i.blogs.es/55a6f3/sol-paseo-gracia/1024_2000.jpeg",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
@@ -700,45 +804,6 @@ window.CIRCO = {
    "first_seen": "2026-10-29",
    "og_checked": true,
    "article": "6a39d8d064e34569"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1022023",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Microsoft’s AI future has fewer jobs",
-   "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-   "excerpt": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": true,
-   "article": "a3892928a7e79e31"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1022193",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "The NYT Cooking app is testing AI recipe modifications",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-   "excerpt": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": true,
-   "article": "561ee2650d1ce01f"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1021322",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Anthropic is asking Wall Street to believe in AGI",
-   "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-   "excerpt": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": true,
-   "article": "60c17ad4dc5cb2ce"
   },
   {
    "id": "yt:video:AqqjH_uv-_w",
@@ -923,71 +988,6 @@ window.CIRCO = {
    "article": "e8c4ab1a3c3dbfc9"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/29/causa-andis-un-peritaje-de-gendarmeria-determino-que-los-audios-atribuidos-a-spagnuolo-no-son-autenticos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Causa ANDIS: Un peritaje de Gendarmería determinó que los audios atribuidos a Spagnuolo no son auténticos",
-   "link": "https://www.filo.news/noticia/2026/10/29/causa-andis-un-peritaje-de-gendarmeria-determino-que-los-audios-atribuidos-a-spagnuolo-no-son-autenticos",
-   "excerpt": "El informe de la Dirección de Criminalística y Estudios Forenses detectó rasgos compatibles con una regrabación, cortes y discontinuidades.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/noname6869_re.png",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "30293ffdc911bc11"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/29/quien-es-agustin-randazzo-el-argentino-desaparecido-tras-el-choque-de-trenes-en-espana",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Quién es Agustín Randazzo, el argentino desaparecido tras el choque de trenes en España",
-   "link": "https://www.filo.news/noticia/2026/10/29/quien-es-agustin-randazzo-el-argentino-desaparecido-tras-el-choque-de-trenes-en-espana",
-   "excerpt": "Tiene 51 años, vive en Madrid desde 2002 y viajaba por trabajo hacia Sevilla. Su familia denunció su desaparición, aportó muestras de ADN y recorre hospitales para intentar encontrarlo. En el choque también murió una argentina de 32 años.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/diputados25)5078_re.jpg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "9b2d8785b8f793a9"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/29/bitbang-celebra-12-ediciones-con-cine-videojuegos-y-arte-digital-en-buenos-aires",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "BITBANG celebra 12 ediciones con cine, videojuegos y arte digital en Buenos Aires",
-   "link": "https://www.filo.news/noticia/2026/10/29/bitbang-celebra-12-ediciones-con-cine-videojuegos-y-arte-digital-en-buenos-aires",
-   "excerpt": "El festival internacional de animación se realizará del 27 al 31 de octubre en siete sedes porteñas, con competencias, talleres, proyecciones y actividades gratuitas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/bb046951_re.jpg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "5e7658f602911886"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/29/el-partido-de-bolsonaro-volvio-a-despegarse-de-su-denuncia-de-fraude-electoral",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El partido de Bolsonaro volvió a despegarse de su denuncia de fraude electoral",
-   "link": "https://www.filo.news/noticia/2026/10/29/el-partido-de-bolsonaro-volvio-a-despegarse-de-su-denuncia-de-fraude-electoral",
-   "excerpt": "El senador y ex coordinador de campaña de Bolsonaro, Rogério Marinho, dijo que \"no hay pruebas\" que acrediten las acusaciones del ex candidato a presidente.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/noname2969_re.png",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "1ac5df499ec9e09b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/29/el-senado-trata-la-reforma-de-la-ley-de-salud-mental",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Senado trata la reforma de la Ley de Salud Mental",
-   "link": "https://www.filo.news/noticia/2026/10/29/el-senado-trata-la-reforma-de-la-ley-de-salud-mental",
-   "excerpt": "El proyecto del oficialismo prevé cambios en las internaciones y amplía el espectro de adicciones que se tratan como problemas de salud mental.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/noname1274_re.png",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "e254bed53426c7c2"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201510",
    "source": "CIPER",
    "category": "Notis",
@@ -1001,17 +1001,56 @@ window.CIRCO = {
    "article": "5f5ab6ac281ea1b0"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/28/la-uba-le-otorgo-el-titulo-doctor-honoris-causa-al-papa-leon-xiv",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La UBA le otorgó el título Doctor Honoris Causa al Papa León XIV",
-   "link": "https://www.filo.news/noticia/2026/10/28/la-uba-le-otorgo-el-titulo-doctor-honoris-causa-al-papa-leon-xiv",
-   "excerpt": "El Consejo Superior de la Universidad de Buenos Aires resolvió la distinción en su sesión del 28 de octubre.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/28/diseosin_título_-_2026-10-28t200624.6037463_re.png",
+   "id": "https://www.theverge.com/?p=1020069",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple ‘Pro and tell’ event: Everything announced this week",
+   "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
+   "excerpt": "Apple closed out its week of product announcements with its \"Pro and tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-10-28",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "3a19a9ab9a9d699a"
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "99e2f27b304ded64"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1020676",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
+   "link": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
+   "excerpt": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's PROLED…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-macbook-pro-touch-video-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "19e47c36826ebc4d"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1020549",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Hands-on with Apple’s touchscreen MacBook Pro",
+   "link": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
+   "excerpt": "Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's first laptop to embrace a touch interface. While it's unlikely that Apple can fix all…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbptouch.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "9b100210e758b7ed"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1019037",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
+   "link": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
+   "excerpt": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet for the first time. The diminutive slate won't hit shelves…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-iPad-Mini-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
+   "day": "2026-10-28",
+   "first_seen": "2026-10-30",
+   "og_checked": true,
+   "article": "d6d0d82d3d935de9"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201526",
@@ -1859,32 +1898,6 @@ window.CIRCO = {
    "article": "96883a13a6db8639"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201398",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Podcast | Rebaja de condenas: ¿Chile cuida a los niños?",
-   "link": "https://www.ciperchile.cl/2026/10/23/podcast-rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-rebaja-de-condenas-chile-cuida-a-los-ninos",
-   "excerpt": "La entrada Podcast | Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": ""
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201395",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Rebaja de condenas: ¿Chile cuida a los niños?",
-   "link": "https://www.ciperchile.cl/2026/10/23/rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=rebaja-de-condenas-chile-cuida-a-los-ninos",
-   "excerpt": "La entrada Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": ""
-  },
-  {
    "id": "https://www.theverge.com/?p=1017600",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1961,32 +1974,6 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": false,
    "article": "3447dc8d52417960"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1016977",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
-   "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
-   "excerpt": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24642397/google_pixel_fold_hands_on_5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "e629f8ed97f700c9"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1016751",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
-   "link": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
-   "excerpt": "After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-   "day": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "a803425cd72e4029"
   },
   {
    "id": "https://musebyclios.com/?p=133921",
