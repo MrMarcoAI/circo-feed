@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-31T12:37-03:00",
+ "updated": "2026-10-31T14:23-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,32 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.applesfera.com/curiosidades/ordenador-arriesgado-historia-steve-jobs-fue-fracaso-comercial-asi-salvo-a-apple-creo-internet-tal-como-conocemos-1",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "El ordenador más arriesgado de la historia de Steve Jobs fue un fracaso comercial. Aun así, salvó a Apple y creó Internet tal como la conocemos",
+   "link": "https://www.applesfera.com/curiosidades/ordenador-arriesgado-historia-steve-jobs-fue-fracaso-comercial-asi-salvo-a-apple-creo-internet-tal-como-conocemos-1",
+   "excerpt": "En 1985, Steve Jobs salió de Apple por la puerta de atrás, pero no tardó mucho en buscar su venganza personal. Fundó NeXT con doce millones de su dinero , fichó a sus mejores excompañeros del Macintosh y del Lisa, y puso como objetivo reinventar el ordenador para el mundo…",
+   "image": "https://i.blogs.es/3991a4/steve-jobs-next/1024_2000.jpeg",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "b05dfda68ab09064"
+  },
+  {
+   "id": "https://www.applesfera.com/trucos/me-voy-vacaciones-roaming-vuela-ajuste-iphone-que-me-salva-factura",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Me voy de vacaciones y el roaming vuela: el ajuste del iPhone que me salva la factura",
+   "link": "https://www.applesfera.com/trucos/me-voy-vacaciones-roaming-vuela-ajuste-iphone-que-me-salva-factura",
+   "excerpt": "Hay tarifas con tantos gigas de datos móviles que dejamos de mirar cuántos gastamos . En el iPhone descargamos lo que haga falta, las fotos se suben solas y cada app se actualiza cuando quiere. Pero al cruzar la frontera, la cosa cambia. Sí, el roaming de la Unión Europea nos…",
+   "image": "https://i.blogs.es/398aeb/datos-moviles-roaming/1024_2000.jpeg",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "3f5f56f0a4357047"
+  },
+  {
    "id": "https://www.applesfera.com/seleccion/powerbank-refrigeracion-liquida-magsafe-a-precio-minimo-ugreen-tiene-10-000-mah",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -91,6 +117,19 @@ window.CIRCO = {
    "article": "7d12a101554fbf6e"
   },
   {
+   "id": "https://www.theverge.com/?p=1013375",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "I built an AI Tamagotchi before Meta could",
+   "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+   "excerpt": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4%2C9.7534360513847%2C96%2C75.393048208485&w=1200",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": "d1b6852b4a403c8b"
+  },
+  {
    "id": "https://musebyclios.com/?p=134165",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -102,6 +141,32 @@ window.CIRCO = {
    "first_seen": "2026-10-31",
    "og_checked": true,
    "article": "cc6365904006351f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/31/resumen-noviembre-marcado-por-los-aumentos-reaparecio-bolsonaro-descendio-aldosivi",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Resumen: Noviembre marcado por los aumentos - Reapareció Bolsonaro - Descendió Aldosivi",
+   "link": "https://www.filo.news/noticia/2026/10/31/resumen-noviembre-marcado-por-los-aumentos-reaparecio-bolsonaro-descendio-aldosivi",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/capturadepantalla_2026-10-31_0924417479_re.png",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "171a0e966ff40c18"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/31/aumentan-el-subte-peajes-y-colectivos-en-el-area-metropolitana",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Aumentan el subte, peajes y colectivos en el área metropolitana",
+   "link": "https://www.filo.news/noticia/2026/10/31/aumentan-el-subte-peajes-y-colectivos-en-el-area-metropolitana",
+   "excerpt": "Las tarifas de transporte porteñas y bonaerenses registrarán subas desde el primer día de noviembre.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/capturadepantalla_2026-10-31_0924413136_re.png",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "5fd9d894a626e3b4"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/31/aumentan-la-recompensa-a-24-millones-por-el-caso-cecilia-basaldua",
@@ -531,19 +596,6 @@ window.CIRCO = {
    "first_seen": "2026-10-30",
    "og_checked": true,
    "article": "97b6d1a5505051d2"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1022880",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-   "excerpt": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "og_checked": true,
-   "article": "37d15adb035e4902"
   },
   {
    "id": "https://bencorde.com/blog/treg-prospeccion-ia-alternativa-apollo/",
@@ -1001,32 +1053,6 @@ window.CIRCO = {
    "article": "6fb6a450ab815266"
   },
   {
-   "id": "https://www.applesfera.com/portatil/steve-jobs-se-negaba-a-lanzar-mac-pantalla-tactil-apple-cuenta-que-ha-cambiado-idea",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Steve Jobs decía que un Mac táctil cansaba el brazo. Apple acaba de justificar por qué lo ha hecho",
-   "link": "https://www.applesfera.com/portatil/steve-jobs-se-negaba-a-lanzar-mac-pantalla-tactil-apple-cuenta-que-ha-cambiado-idea",
-   "excerpt": "Steve Jobs dejó zanjado el tema en 2010 en el evento Back to the Mac. Apple había hecho pruebas con varios usuarios y una pantalla táctil en un ordenador lucía de maravilla en una demo, pero a los pocos minutos l os brazos se cansaban y, con el tiempo, estabas deseando dejar de…",
-   "image": "https://i.blogs.es/8e7da5/steve-jobs-mac-tactil/1024_2000.jpeg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "b9576db3af752e30"
-  },
-  {
-   "id": "https://www.applesfera.com/portatil/pregunta-no-que-hace-macbook-tactil-que-no-haga-ipad-que-hace-exclusiva-tablet",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "El MacBook ya es táctil, pero hay algo que Apple le sigue negando. Y es lo que hace especial a un iPad",
-   "link": "https://www.applesfera.com/portatil/pregunta-no-que-hace-macbook-tactil-que-no-haga-ipad-que-hace-exclusiva-tablet",
-   "excerpt": "La llegada oficial de los primeros MacBook Pro táctiles ha dejado en el aire una pregunta clara: ¿en qué se diferencian de los iPad? De primeras, en el sistema operativo, ya que pese a que iPadOS 27 tenga cada vez más funciones de macOS, sigue lejos de ser un sistema de…",
-   "image": "https://i.blogs.es/0d46c9/macbook-pro-tactil-y-ipad-air/1024_2000.jpeg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "1c691eb69c648eef"
-  },
-  {
    "id": "https://www.theverge.com/?p=1022519",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1116,32 +1142,6 @@ window.CIRCO = {
    "first_seen": "2026-10-29",
    "og_checked": true,
    "article": "bfc087a1b4259675"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/29/murio-patrick-stewart-el-legendario-profesor-charles-xavier-de-x-men-y-el-capitan-picard-de-star-trek",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Murió Patrick Stewart, el legendario profesor Charles Xavier de \"X-Men\" y el capitán Picard de \"Star Trek\"",
-   "link": "https://www.filo.news/noticia/2026/10/29/murio-patrick-stewart-el-legendario-profesor-charles-xavier-de-x-men-y-el-capitan-picard-de-star-trek",
-   "excerpt": "Había sido diagnosticado recientemente con la enfermedad de Alzheimer y la demencia con cuerpos de Lewy.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/portadapatrickst2525_re.jpg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "47c1935849dc0730"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/29/los-hijos-de-nancy-godoy-pidieron-justicia-por-el-femicidio-el-poder-aca-manda-mas-que-cualquiera",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Los hijos de Nancy Godoy pidieron justicia por el femicidio: \"El poder acá manda más que cualquiera\"",
-   "link": "https://www.filo.news/noticia/2026/10/29/los-hijos-de-nancy-godoy-pidieron-justicia-por-el-femicidio-el-poder-aca-manda-mas-que-cualquiera",
-   "excerpt": "\"Desde el primer día fuimos destratados por el Poder Judicial de acá\", denunciaron luego de que se hallara el cuerpo sin vida de su madre y docente.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/hijos2666_re.png",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "09b7b3b4f12f10fd"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201510",
