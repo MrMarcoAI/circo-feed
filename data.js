@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-31T03:22-03:00",
+ "updated": "2026-10-31T12:37-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/@GregIsenberg"
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
   },
   {
    "name": "Benjamín Cordero",
@@ -65,6 +65,136 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.applesfera.com/seleccion/powerbank-refrigeracion-liquida-magsafe-a-precio-minimo-ugreen-tiene-10-000-mah",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Una powerbank con refrigeración líquida y MagSafe a precio mínimo: es de Ugreen y tiene 10.000 mAh",
+   "link": "https://www.applesfera.com/seleccion/powerbank-refrigeracion-liquida-magsafe-a-precio-minimo-ugreen-tiene-10-000-mah",
+   "excerpt": "Si eres de los que sufre para llegar al final del día con batería en el iPhone, una powerbank te puede venir genial para ganar un extra de autonomía. Hay muchos tipos de estas para elegir, aunque es muy difícil encontrar una con lo que tiene esta MagFlow Pro de Ugreen: un…",
+   "image": "https://i.blogs.es/2cc7f5/ugreen-magflow-portada/1024_2000.jpeg",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "d7b436e2f4d4b08c"
+  },
+  {
+   "id": "https://www.applesfera.com/iphone/problema-carga-optimizada-iphone-urgencia-a-medianoche",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "El problema de la carga optimizada en el iPhone: una urgencia a medianoche",
+   "link": "https://www.applesfera.com/iphone/problema-carga-optimizada-iphone-urgencia-a-medianoche",
+   "excerpt": "Nadie lo quiere, pero una llamada nocturna inesperada puede llegar. Un familiar que ha tenido un accidente, el edificio que se está quemando... El caso es que hay circunstancias que nos empujan a salir de la cama, agarrar el iPhone y salir de casa. Y que este no esté cargado por…",
+   "image": "https://i.blogs.es/8dbcb5/carga-optimizada-iphone/1024_2000.jpeg",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "7d12a101554fbf6e"
+  },
+  {
+   "id": "https://musebyclios.com/?p=134165",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Why Olivier Apers Played Bartender on His First Day as CCO of Serviceplan Paris",
+   "link": "https://musebyclios.com/2-minutes-with/why-olivier-apers-played-bartender-on-his-first-day-as-cco-of-serviceplan-paris/?utm_source=rss&utm_medium=rss&utm_campaign=why-olivier-apers-played-bartender-on-his-first-day-as-cco-of-serviceplan-paris",
+   "excerpt": "A few weeks ago, on his first day as chief creative officer of Serviceplan Paris, Olivier Apers put his mixology skills into practice at a party welcoming him aboard. “To break the ice, I stepped behind the bar and played bartender,” he recalls. “’A drink in exchange for your…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/31093224/FR1.jpg",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": "cc6365904006351f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/31/aumentan-la-recompensa-a-24-millones-por-el-caso-cecilia-basaldua",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Aumentan la recompensa a 24 millones por el caso Cecilia Basaldúa",
+   "link": "https://www.filo.news/noticia/2026/10/31/aumentan-la-recompensa-a-24-millones-por-el-caso-cecilia-basaldua",
+   "excerpt": "El gobierno de Córdoba busca datos certeros para esclarecer el femicidio mientras investigan un nuevo sospechoso.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/web20220425cecilia-basal4588_re.jpg",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "34a98bff8a0e1bfe"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/31/aldosivi-cayo-con-racing-en-avellaneda-y-descendio-a-la-b-nacional",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Aldosivi cayó con Racing en Avellaneda y descendió a la B Nacional",
+   "link": "https://www.filo.news/noticia/2026/10/31/aldosivi-cayo-con-racing-en-avellaneda-y-descendio-a-la-b-nacional",
+   "excerpt": "El conjunto marplatense perdió 2 a 1 en el Cilindro y jugará en la segunda división a partir de la próxima temporada.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/capturadepantalla_2026-10-31_0915348649_re.png",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "2459c810db80aa22"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/31/flavio-bolsonaro-reaparecio-y-denuncio-persecucion-judicial",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Flavio Bolsonaro reapareció y denunció persecución judicial",
+   "link": "https://www.filo.news/noticia/2026/10/31/flavio-bolsonaro-reaparecio-y-denuncio-persecucion-judicial",
+   "excerpt": "El referente opositor transmitió desde Estados Unidos tras las elecciones y trazó la estrategia en el Congreso.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/capturadepantalla_2026-10-31_0855245614_re.png",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "f35798c68964416e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/31/javier-milei-volvio-a-cargar-contra-los-periodistas-y-anuncio-un-nuevo-libro",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Javier Milei volvió a cargar contra los periodistas y anunció un nuevo libro",
+   "link": "https://www.filo.news/noticia/2026/10/31/javier-milei-volvio-a-cargar-contra-los-periodistas-y-anuncio-un-nuevo-libro",
+   "excerpt": "El mandatario criticó con dureza a dirigentes y periodistas durante una clase magistral ante alumnos universitarios.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/capturadepantalla_2026-10-31_0846209389_re.png",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "b984001214387a13"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201585",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "El regreso de los ancestros kawésqar desde Basilea y el derecho de las comunidades a decidir",
+   "link": "https://www.ciperchile.cl/2026/10/31/el-regreso-de-los-ancestros-kawesqar-desde-basilea-y-el-derecho-de-las-comunidades-a-decidir/?utm_source=rss&utm_medium=rss&utm_campaign=el-regreso-de-los-ancestros-kawesqar-desde-basilea-y-el-derecho-de-las-comunidades-a-decidir",
+   "excerpt": "La entrada El regreso de los ancestros kawésqar desde Basilea y el derecho de las comunidades a decidir se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/Imagen-2-1.jpg",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": "6e1385e9c2da30a5"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201583",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Carta abierta a Andrés Allamand, secretario general iberoamericano",
+   "link": "https://www.ciperchile.cl/2026/10/31/carta-abierta-a-andres-allamand-secretario-general-iberoamericano/?utm_source=rss&utm_medium=rss&utm_campaign=carta-abierta-a-andres-allamand-secretario-general-iberoamericano",
+   "excerpt": "La entrada Carta abierta a Andrés Allamand, secretario general iberoamericano se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": "639d9f1077e137ce"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1023302",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+   "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+   "excerpt": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": "ef70c1ea430106dd"
+  },
+  {
    "id": "https://www.theverge.com/?p=1023974",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -76,6 +206,45 @@ window.CIRCO = {
    "first_seen": "2026-10-31",
    "og_checked": true,
    "article": "0d3c54b0a7c7d8b1"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1023194",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The delightfully messy state of Apple gadgets",
+   "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+   "excerpt": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": "9fe81d2989da3979"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1022592",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+   "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+   "excerpt": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": "901737775391e026"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1022894",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+   "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+   "excerpt": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": "856171d657a14bbc"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/30/colapinto-termino-16-en-la-segunda-practica-libre-del-gp-de-mexico",
@@ -104,6 +273,19 @@ window.CIRCO = {
    "article": "bcbcde27783507d9"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/10/30/halloween-tiene-sede-en-mar-del-plata-las-historias-de-terror-que-inspiraron-un-juego-de-mesa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Halloween tiene sede en Mar del Plata: las historias de terror que inspiraron un juego de mesa",
+   "link": "https://www.filo.news/noticia/2026/10/30/halloween-tiene-sede-en-mar-del-plata-las-historias-de-terror-que-inspiraron-un-juego-de-mesa",
+   "excerpt": "Este Halloween viene con historias frente al mar y las casas más aterradoras que inspiraron a la creación de un juego de mesa para jugarlo con la luz prendida.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/tititpp2347_re.png",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "0fce1567dfc0f807"
+  },
+  {
    "id": "https://www.ciperchile.cl/?p=201578",
    "source": "CIPER",
    "category": "Notis",
@@ -115,6 +297,19 @@ window.CIRCO = {
    "first_seen": "2026-10-31",
    "og_checked": true,
    "article": ""
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201581",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "El vínculo como centro del aprendizaje",
+   "link": "https://www.ciperchile.cl/2026/10/30/el-vinculo-como-centro-del-aprendizaje/?utm_source=rss&utm_medium=rss&utm_campaign=el-vinculo-como-centro-del-aprendizaje",
+   "excerpt": "La entrada El vínculo como centro del aprendizaje se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": "c96c4303c111afe0"
   },
   {
    "id": "https://www.applesfera.com/curiosidades/para-no-ofender-a-pequenas-ipad-mini-se-ve-obligado-a-cambiar-imagen",
@@ -368,7 +563,7 @@ window.CIRCO = {
    "source": "Muse by Clio",
    "category": "Publi",
    "title": "Beyond the Scoreboard: How the Golden State Valkyries Built a Brand Worth Cheering For",
-   "link": "https://musebyclios.com/sports/beyond-the-scoreboard-how-the-golden-state-valkyries-built-a-brand-worth-cheering-for/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-scoreboard-how-the-golden-state-valkyries-built-a-brand-worth-cheering-for",
+   "link": "https://musebyclios.com/musings/beyond-the-scoreboard-how-the-golden-state-valkyries-built-a-brand-worth-cheering-for/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-scoreboard-how-the-golden-state-valkyries-built-a-brand-worth-cheering-for",
    "excerpt": "As a producer, I’ve spent nearly three decades building creative work for brands, and I’ve learned you can’t manufacture genuine connection. As a Valkyries fan, I’ve watched complete strangers become friends, people of every generation dress up and lose their minds together, and…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/30143821/BB.jpg",
    "day": "2026-10-30",
@@ -406,7 +601,7 @@ window.CIRCO = {
    "id": "https://musebyclios.com/?p=134129",
    "source": "Muse by Clio",
    "category": "Publi",
-   "title": "Columbia Sportswear’s Bunker Helps You Survive the Apocalypse in Style",
+   "title": "Columbia Sportswear’s Bunker Helps You Survive the Apocalypse in Rugged Style",
    "link": "https://musebyclios.com/advertising/columbia-sportswears-bunker-lets-you-survive-the-apocalypse-in-style/?utm_source=rss&utm_medium=rss&utm_campaign=columbia-sportswears-bunker-lets-you-survive-the-apocalypse-in-style",
    "excerpt": "If civilization suddenly implodes, you’ll want to rock gear with a spiffy logo when you emerge into the post-apocalyptic wilderness. To that end, Columbia Sportswear steps up to the end-times challenge with a “Don’t Panic Room” contest that features a steel shipping container…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/30101640/bunk1-1.jpeg",
@@ -650,6 +845,19 @@ window.CIRCO = {
    "article": "f32d6b7597e3a449"
   },
   {
+   "id": "https://www.theverge.com/?p=1022628",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+   "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+   "excerpt": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-10-29",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": "642b907af74ae973"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/29/se-aprobo-un-nuevo-formato-en-la-primera-division-del-futbol-argentino",
    "source": "Filo.News",
    "category": "Notis",
@@ -661,19 +869,6 @@ window.CIRCO = {
    "first_seen": "2026-10-30",
    "og_checked": false,
    "article": "3837a997ed8abacf"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/30/charlie-3-presenta-suenan-alarmas-junto-a-walas-de-massacre",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Charlie 3 presenta “Suenan Alarmas” junto a Walas de Massacre",
-   "link": "https://www.filo.news/noticia/2026/10/30/charlie-3-presenta-suenan-alarmas-junto-a-walas-de-massacre",
-   "excerpt": "El tema forma parte de Recuerdos Nuevos, el séptimo álbum de estudio de la banda, editado en mayo de este año.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/diputados27)7877_re.jpg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-30",
-   "og_checked": false,
-   "article": "44005e8b490ee334"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201555",
@@ -832,19 +1027,6 @@ window.CIRCO = {
    "article": "1c691eb69c648eef"
   },
   {
-   "id": "https://www.applesfera.com/portatil/macbook-neo-seguia-ofreciendo-descuentazo-para-estudiantes-apple-ha-subido-precio-silencio",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "El MacBook Neo tenía todo para ser una ganga para estudiantes. Pero Apple acaba de subir (otra vez) su precio",
-   "link": "https://www.applesfera.com/portatil/macbook-neo-seguia-ofreciendo-descuentazo-para-estudiantes-apple-ha-subido-precio-silencio",
-   "excerpt": "Más allá de su colorido diseño o el sorprendente rendimiento de su procesador, del MacBook Neo nos conquistó su precio de 700 euros (redondeando) para el público general y de 600 euros para estudiantes. En junio subieron de precio junto a otros muchos productos y las cifras se…",
-   "image": "https://i.blogs.es/af6481/macbook-neo/1024_2000.jpeg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "1c01dd2f09697ecc"
-  },
-  {
    "id": "https://www.theverge.com/?p=1022519",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -863,8 +1045,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "SaaS is dead?",
    "link": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
+   "excerpt": "In this solo episode, I explain why I say SaaS is dead and what I see taking its place. For 15 years, SaaS meant paying engineers to build a tool and charging per seat, and now models like Opus 5.5, GPT-6, and Argon make the tool easy to build. I walk through what I call smart…",
+   "image": "https://i2.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": false,
@@ -962,58 +1144,6 @@ window.CIRCO = {
    "article": "09b7b3b4f12f10fd"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/29/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-mexico",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Corre Franco Colapinto en la Fórmula 1: días y horarios del GP de México",
-   "link": "https://www.filo.news/noticia/2026/10/29/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-mexico",
-   "excerpt": "Tras el abandono en Austin, el piloto argentino volverá a la acción este fin de semana en el Autódromo Hermanos Rodríguez.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/20261009t102058z_1033871389_up1ema90sqx9p_rtrmadp_3_motor-f1-singapore_(1)3611_re.jpg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "ec078f2331f016bc"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/29/agenda-filo-los-espectaculos-que-no-te-podes-perder",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Agenda Filo: los espectáculos que no te podes perder",
-   "link": "https://www.filo.news/noticia/2026/10/29/agenda-filo-los-espectaculos-que-no-te-podes-perder",
-   "excerpt": "Te traemos los eventos más destacados del mes para que elijas qué plan se adapta más a tus gustos.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/agenda120262007_re.png",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "3ae236c7a3c07306"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/29/los-gremios-docentes-convocaron-a-un-paro-nacional-por-el-femicidio-de-nancy-godoy",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Los gremios docentes convocaron a un paro nacional por el femicidio de Nancy Godoy",
-   "link": "https://www.filo.news/noticia/2026/10/29/los-gremios-docentes-convocaron-a-un-paro-nacional-por-el-femicidio-de-nancy-godoy",
-   "excerpt": "La maestra rural de 52 años fue hallada asesinada en Corrientes tras 21 días de búsqueda.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/070409314530_re.jpeg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "f310d67d4b25ceda"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/29/resumen",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Santilli defendió la salida de Bolsonaro de Argentina; Reforma de la Ley de Salud Mental; Sube la cifra de muertos por choque de trenes y más...",
-   "link": "https://www.filo.news/noticia/2026/10/29/resumen",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/20261026t021129z_274404486_rc2paoad09nf_rtrmadp_3_brazil-election2873_re.jpg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": ""
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201510",
    "source": "CIPER",
    "category": "Notis",
@@ -1025,58 +1155,6 @@ window.CIRCO = {
    "first_seen": "2026-10-29",
    "og_checked": true,
    "article": "5f5ab6ac281ea1b0"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1020069",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple ‘Pro and tell’ event: Everything announced this week",
-   "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
-   "excerpt": "Apple closed out its week of product announcements with its \"Pro and tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-30",
-   "og_checked": true,
-   "article": "99e2f27b304ded64"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1020676",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
-   "link": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
-   "excerpt": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's PROLED…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-macbook-pro-touch-video-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-30",
-   "og_checked": true,
-   "article": "19e47c36826ebc4d"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1020549",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Hands-on with Apple’s touchscreen MacBook Pro",
-   "link": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
-   "excerpt": "Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's first laptop to embrace a touch interface. While it's unlikely that Apple can fix all…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbptouch.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-30",
-   "og_checked": true,
-   "article": "9b100210e758b7ed"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1019037",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
-   "link": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
-   "excerpt": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet for the first time. The diminutive slate won't hit shelves…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-iPad-Mini-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-30",
-   "og_checked": true,
-   "article": "d6d0d82d3d935de9"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201526",
@@ -1116,45 +1194,6 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": true,
    "article": "af6fceb00ecd42d3"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1019109",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Here’s where to preorder the new MacBook Pros",
-   "link": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
-   "excerpt": "As expected, Apple finally showed off its 14- and 16-inch MacBook Pros at its recent \"Pro and tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight and bringing back the glowing Apple logo. While less…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/MacBook-Pro-M6-2026-preorder-3_5144c7.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "577ff175797b4dac"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1020084",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Here’s how macOS is changing for touchscreens",
-   "link": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
-   "excerpt": "Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though: Most of the touch action will be in the apps themselves, it…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-10.31.37-AM.png?quality=90&strip=all&crop=0%2C8.3218517497933%2C100%2C83.356296500413&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "ba58b7065bcac989"
-  },
-  {
-   "id": "https://www.applesfera.com/eventos/macbook-pro-tactil-opiniones-toma-contacto-video-fotos",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "He probado el nuevo MacBook Pro táctil: el Mac de siempre acaba de abrir una puerta que quiero explorar",
-   "link": "https://www.applesfera.com/eventos/macbook-pro-tactil-opiniones-toma-contacto-video-fotos",
-   "excerpt": "He pasado tantos años delante de un Mac que hay movimientos que hago sin pensar. Buscar el trackpad, apoyar los dedos en el teclado, ampliar una fotografía. Una pequeña memoria de las manos que me acompaña cuando escribo un artículo, preparo un podcast o abro el ordenador lejos…",
-   "image": "https://i.blogs.es/e4e364/macbook-pro-tactil-applesfera-14/1024_2000.jpeg",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "3c4cf2b03b06d435"
   },
   {
    "id": "https://www.theverge.com/?p=1020811",
@@ -1214,8 +1253,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "$100M ARR Founder: The Next Big AI Opportunity",
    "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
+   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
    "og_checked": false,
@@ -1625,6 +1664,19 @@ window.CIRCO = {
    "article": "b948cb8d9f929da2"
   },
   {
+   "id": "yt:video:35sh2FkQn-k",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
+   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
+   "excerpt": "",
+   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "https://www.ciperchile.cl/?p=201449",
    "source": "CIPER",
    "category": "Notis",
@@ -1636,19 +1688,6 @@ window.CIRCO = {
    "first_seen": "2026-10-27",
    "og_checked": true,
    "article": "bb7c8b66201f4d43"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201473",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Fondos generacionales: el riesgo de repetir el error del Fondo E",
-   "link": "https://www.ciperchile.cl/2026/10/26/fondos-generacionales-el-riesgo-de-repetir-el-error-del-fondo-e/?utm_source=rss&utm_medium=rss&utm_campaign=fondos-generacionales-el-riesgo-de-repetir-el-error-del-fondo-e",
-   "excerpt": "La entrada Fondos generacionales: el riesgo de repetir el error del Fondo E se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1202634-1.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "d2838a12db29d03e"
   },
   {
    "id": "https://www.theverge.com/?p=1018264",
@@ -1669,8 +1708,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
+   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -1844,32 +1883,6 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "6156fd38ccea2810"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201424",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "José Alfredo Fuentes: “Hubiese sido un honor grabar con Víctor Jara”",
-   "link": "https://www.ciperchile.cl/2026/10/25/jose-alfredo-fuentes-hubiese-sido-un-honor-grabar-con-victor-jara/?utm_source=rss&utm_medium=rss&utm_campaign=jose-alfredo-fuentes-hubiese-sido-un-honor-grabar-con-victor-jara",
-   "excerpt": "La entrada José Alfredo Fuentes: “Hubiese sido un honor grabar con Víctor Jara” se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/tmajaff-7-scaled.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "51d6433919b3bf0b"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=200993",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Cesantes y sin finiquito: el cierre de la ex Fuente Lastarria",
-   "link": "https://www.ciperchile.cl/2026/10/25/cesantes-y-sin-finiquito-el-cierre-de-la-ex-fuente-lastarria/?utm_source=rss&utm_medium=rss&utm_campaign=cesantes-y-sin-finiquito-el-cierre-de-la-ex-fuente-lastarria",
-   "excerpt": "La entrada Cesantes y sin finiquito: el cierre de la ex Fuente Lastarria se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "92b85fed08ec2f10"
   },
   {
    "id": "https://musebyclios.com/?p=133956",
@@ -2046,8 +2059,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
+   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -2176,8 +2189,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
+   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2273,19 +2286,6 @@ window.CIRCO = {
    "first_seen": "2026-10-18",
    "og_checked": true,
    "article": "cff57b0a81151ae7"
-  },
-  {
-   "id": "yt:video:jEOUUAPC1sc",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
-   "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": ""
   },
   {
    "id": "https://theinspiration.com/?p=54739",
