@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-30T19:42-03:00",
+ "updated": "2026-10-31T03:22-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -64,6 +64,58 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1023974",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+   "excerpt": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": "0d3c54b0a7c7d8b1"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/30/colapinto-termino-16-en-la-segunda-practica-libre-del-gp-de-mexico",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Colapinto terminó 16° en la segunda práctica libre del GP de México",
+   "link": "https://www.filo.news/noticia/2026/10/30/colapinto-termino-16-en-la-segunda-practica-libre-del-gp-de-mexico",
+   "excerpt": "Tras ausentarse en la primera sesión, el piloto argentino salió por primera vez a la pista en el Autódromo Hermanos Rodríguez y terminó a 1.3 segundos de Charles Leclerc, quien terminó en el primer lugar.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/20261023t230957z_1194667369_up1eman1scjz3_rtrmadp_3_motor-f1-united-states_(1)9061_re.jpg",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "17f53afaa5bdaf83"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/30/estrenos-filo-or-wildwood-sensatez-y-sentimiento-y-reestrenos-por-hallowen-que-peliculas-llegan-esta-semana-al-cine-y-plataformas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Estrenos Filo | \"Wildwood\", \"Sensatez y sentimiento\" y reestrenos por Hallowen: ¿qué películas llegan esta semana al cine y plataformas?",
+   "link": "https://www.filo.news/noticia/2026/10/30/estrenos-filo-or-wildwood-sensatez-y-sentimiento-y-reestrenos-por-hallowen-que-peliculas-llegan-esta-semana-al-cine-y-plataformas",
+   "excerpt": "Cuando \"¿qué vemos?\", se transforme en la clásica pregunta, ya sabés qué responder. Te acercamos la cartelera con las novedades para comenzar el fin de semana.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/wildwood4676_re.jpg",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "bcbcde27783507d9"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201578",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Los fallos que contradicen a Rabat",
+   "link": "https://www.ciperchile.cl/2026/10/30/los-fallos-que-contradicen-a-rabat/?utm_source=rss&utm_medium=rss&utm_campaign=los-fallos-que-contradicen-a-rabat",
+   "excerpt": "La entrada Los fallos que contradicen a Rabat se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "og_checked": true,
+   "article": ""
+  },
   {
    "id": "https://www.applesfera.com/curiosidades/para-no-ofender-a-pequenas-ipad-mini-se-ve-obligado-a-cambiar-imagen",
    "source": "Applesfera",
@@ -794,7 +846,7 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1022519",
-   "source": "The Verge · IA",
+   "source": "The Verge · Google",
    "category": "Tech + la IA",
    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
@@ -811,8 +863,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "SaaS is dead?",
    "link": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
-   "excerpt": "In this solo episode, I explain why I say SaaS is dead and what I see taking its place. For 15 years, SaaS meant paying engineers to build a tool and charging per seat, and now models like Opus 5.5, GPT-6, and Argon make the tool easy to build. I walk through what I call smart…",
-   "image": "https://i2.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": false,
@@ -960,32 +1012,6 @@ window.CIRCO = {
    "first_seen": "2026-10-29",
    "og_checked": false,
    "article": ""
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/29/sube-a-69-la-cifra-de-muertos-por-el-choque-de-trenes-en-espana",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Sube a 69 la cifra de muertos por el choque de trenes en España",
-   "link": "https://www.filo.news/noticia/2026/10/29/sube-a-69-la-cifra-de-muertos-por-el-choque-de-trenes-en-espana",
-   "excerpt": "En el lugar del siniestro las grúas comenzaron a retirar los vagones. Los equipos de búsqueda y rescate intentan localizar más víctimas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/noname5133_re.png",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "2e9f480e0148caf7"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/29/santilli-defendio-la-salida-de-flavio-bolsonaro-de-argentina-y-nego-que-tuviera-restricciones-de-interpol",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Santilli defendió la salida de Flávio Bolsonaro de Argentina y negó que tuviera restricciones de Interpol",
-   "link": "https://www.filo.news/noticia/2026/10/29/santilli-defendio-la-salida-de-flavio-bolsonaro-de-argentina-y-nego-que-tuviera-restricciones-de-interpol",
-   "excerpt": "El jefe de Gabinete aseguró que el senador brasileño cumplió con los requisitos migratorios para viajar a Estados Unidos. El traslado se produjo después de la derrota electoral del bolsonarismo y abrió cuestionamientos por la participación del Gobierno en la logística.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/29/diputados26)9683_re.jpg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": false,
-   "article": "e8c4ab1a3c3dbfc9"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201510",
@@ -1188,8 +1214,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "$100M ARR Founder: The Next Big AI Opportunity",
    "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
-   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
-   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
    "og_checked": false,
@@ -1599,19 +1625,6 @@ window.CIRCO = {
    "article": "b948cb8d9f929da2"
   },
   {
-   "id": "yt:video:35sh2FkQn-k",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
-   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
-   "excerpt": "",
-   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-30",
-   "og_checked": false,
-   "article": ""
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201449",
    "source": "CIPER",
    "category": "Notis",
@@ -1656,8 +1669,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
-   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -1872,19 +1885,6 @@ window.CIRCO = {
    "article": "cd697708de50936b"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201402",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Detención por ofensas a policías: una ley mordaza para la protesta y la prensa",
-   "link": "https://www.ciperchile.cl/2026/10/24/detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa",
-   "excerpt": "La entrada Detención por ofensas a policías: una ley mordaza para la protesta y la prensa se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1744307-scaled.jpg",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "7ca88d4c376079fb"
-  },
-  {
    "id": "https://musebyclios.com/?p=133972",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -2046,8 +2046,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -2176,8 +2176,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2275,6 +2275,19 @@ window.CIRCO = {
    "article": "cff57b0a81151ae7"
   },
   {
+   "id": "yt:video:jEOUUAPC1sc",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
+   "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "https://theinspiration.com/?p=54739",
    "source": "The Inspiration",
    "category": "Publi",
@@ -2312,58 +2325,6 @@ window.CIRCO = {
    "first_seen": "2026-10-17",
    "og_checked": true,
    "article": "9e62017c16d2d0c8"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133765",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "A Founder’s Story: The Unexpected Road to Ryval Studios",
-   "link": "https://musebyclios.com/partner-content/a-founders-story-the-unexpected-road-to-ryval-studios/?utm_source=rss&utm_medium=rss&utm_campaign=a-founders-story-the-unexpected-road-to-ryval-studios",
-   "excerpt": "Jon Morgan didn’t set out to build a sports production company. He planned to become a pastor and counselor. But a series of closed doors, an unexpected job loss, and an opportunity with Illinois football eventually led him somewhere he hadn’t imagined: founding Ryval Studios,…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/16153759/RYVAL-.jpg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "43990b1014d1c95f"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133760",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "How Quality Meats Created a Brand and Became Their Own Client",
-   "link": "https://musebyclios.com/musings/how-quality-meats-created-a-brand-and-became-their-own-clients/?utm_source=rss&utm_medium=rss&utm_campaign=how-quality-meats-created-a-brand-and-became-their-own-clients",
-   "excerpt": "We’ve spent our whole careers making advertising for our clients’ brands. We helped them figure out how to look and how to talk and how to get people to care about them. We even made new brands for our clients and their brands. And we still do that. But we always thought, man,…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/16130031/herb8.jpeg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "b3b0ef1d92709701"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133755",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "This Statue of Ron DeSantis Melts Dead Away to Illustrate the Dangers of Climate Change",
-   "link": "https://musebyclios.com/environment/this-statue-of-ron-desantis-melts-dead-away-to-illustrate-the-dangers-of-climate-change/?utm_source=rss&utm_medium=rss&utm_campaign=this-statue-of-ron-desantis-melts-dead-away-to-illustrate-the-dangers-of-climate-change",
-   "excerpt": "First, the Wicked Witch of the West. Now, Ron DeSantis. A statue of the outgoing Republican Governor of Florida turns into a puddle of slop to demonstrate the deadly consequences of climate change. The installation was constructed from gallium, a metal that “Can’t survive the…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/16095154/ronn.jpg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "1ab0afb3689db148"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133740",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Gap Kicks Up Its Heels as Our Ad of the Week",
-   "link": "https://musebyclios.com/advertising/gap-kicks-up-its-heels-as-our-ad-of-the-week/?utm_source=rss&utm_medium=rss&utm_campaign=gap-kicks-up-its-heels-as-our-ad-of-the-week",
-   "excerpt": "Here’s our roundup of the week’s Top 5, chosen by the Clios staff… Bestie: Ezra Hurwitz and Gap’s Zac Posen Stage ‘Opus Jazz’ The Miami City Ballet delivers a Gap-tastic melange of moves and music. Sparse and stimulating, the approach dresses dancers in casual fashions for a…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/15180219/BALLET.jpg",
-   "day": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "a7bc8885e5b6f210"
   }
  ]
 };
