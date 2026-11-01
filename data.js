@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-31T18:57-03:00",
+ "updated": "2026-10-31T21:36-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -141,6 +141,45 @@ window.CIRCO = {
    "first_seen": "2026-10-31",
    "og_checked": true,
    "article": "cc6365904006351f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/31/cerro-tronador-instalaran-un-puente-provisorio-tras-la-crecida-del-rio-manso-en-rio-negro",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Cerro Tronador: instalarán un puente provisorio tras la crecida del río Manso en Río Negro",
+   "link": "https://www.filo.news/noticia/2026/10/31/cerro-tronador-instalaran-un-puente-provisorio-tras-la-crecida-del-rio-manso-en-rio-negro",
+   "excerpt": "La estructura reemplazará temporalmente al cruce que colapsó por el temporal de septiembre. Las obras preliminares están avanzadas en un 90%, pero el circuito turístico sigue cerrado.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/10020395921152x153617058_re.jpg",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "f1b08f9bab67715e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/31/el-gobierno-designo-a-ricardo-crespo-en-ciencia-y-tecnologia-tras-la-renuncia-de-cesar-lencina",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Gobierno designó a Ricardo Crespo en Ciencia y Tecnología tras la renuncia de César Lencina",
+   "link": "https://www.filo.news/noticia/2026/10/31/el-gobierno-designo-a-ricardo-crespo-en-ciencia-y-tecnologia-tras-la-renuncia-de-cesar-lencina",
+   "excerpt": "El nuevo funcionario reemplazará al exsubsecretario, quien dejó su cargo después de poco más de un mes y denunció situaciones de destrato y falta de respaldo institucional.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/image3265(1)5717_re.jpg",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "1bf2696c3be33dda"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/10/31/franco-colapinto-termino-12-en-la-clasificacion-del-gp-de-mexico-de-formula-1",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Franco Colapinto terminó 12° en la clasificación del GP de México de Fórmula 1",
+   "link": "https://www.filo.news/noticia/2026/10/31/franco-colapinto-termino-12-en-la-clasificacion-del-gp-de-mexico-de-formula-1",
+   "excerpt": "El piloto argentino de Alpine quedó eliminado en la segunda tanda, mientras que su compañero Pierre Gasly consiguió avanzar a la última instancia. Lewis Hamilton se quedó con la pole position.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/20261031t154051z_1773118688_up1emav17k2p1_rtrmadp_3_motor-f1-mexico3161_re.jpg",
+   "day": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": "95812f298769bb55"
   },
   {
    "id": "https://www.filo.news/noticia/2026/10/31/alergias-de-primavera-7-consejos-para-limpiar-tu-casa-y-reducir-la-acumulacion-de-polvo-y-polen",
@@ -845,45 +884,6 @@ window.CIRCO = {
    "article": "b1df2efed6d840b1"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/30/la-legislatura-portena-aprobo-la-creacion-de-un-servicio-publico-de-cremacion-y-cementerio-para-mascotas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La Legislatura porteña aprobó la creación de un servicio público de cremación y cementerio para mascotas",
-   "link": "https://www.filo.news/noticia/2026/10/30/la-legislatura-portena-aprobo-la-creacion-de-un-servicio-publico-de-cremacion-y-cementerio-para-mascotas",
-   "excerpt": "",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/pexelslittlemath13385878694618_re.jpg",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "og_checked": false,
-   "article": "8e05e8d6772d5bb9"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/30/milei-recibira-al-papa-en-el-aeropuerto-aprobaron-la-reforma-de-la-ley-de-salud-mental-evitan-suba-de-boleto-de-colectivo-y-mas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Milei recibirá al Papa en el aeropuerto; Aprobaron la reforma de la Ley de Salud Mental; Evitan suba de boleto de colectivo y más...",
-   "link": "https://www.filo.news/noticia/2026/10/30/milei-recibira-al-papa-en-el-aeropuerto-aprobaron-la-reforma-de-la-ley-de-salud-mental-evitan-suba-de-boleto-de-colectivo-y-mas",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/collage4732_re.png",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "og_checked": false,
-   "article": "58e3078854ea5571"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/30/maia-reficco-estreno-el-videoclip-de-videostar-la-historia-detras-de-una-de-las-canciones-de-de-visita",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Maia Reficco estrenó el videoclip de “videostar”: la historia detrás de una de las canciones de “de visita”",
-   "link": "https://www.filo.news/noticia/2026/10/30/maia-reficco-estreno-el-videoclip-de-videostar-la-historia-detras-de-una-de-las-canciones-de-de-visita",
-   "excerpt": "La artista presentó el video oficial de uno de los temas más personales de su EP debut, publicado por Interscope Records. Dirigido por Gordy De St Jeor, el lanzamiento profundiza el universo visual y conceptual del proyecto.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/maiareficcomadrid_00219718_re.png",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "og_checked": false,
-   "article": "708224db64ccf0f9"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201572",
    "source": "CIPER",
    "category": "Notis",
@@ -1071,8 +1071,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "SaaS is dead?",
    "link": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
-   "excerpt": "In this solo episode, I explain why I say SaaS is dead and what I see taking its place. For 15 years, SaaS meant paying engineers to build a tool and charging per seat, and now models like Opus 5.5, GPT-6, and Argon make the tool easy to build. I walk through what I call smart…",
-   "image": "https://i2.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": false,
@@ -1253,8 +1253,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "$100M ARR Founder: The Next Big AI Opportunity",
    "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
-   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
-   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
    "og_checked": false,
@@ -1664,19 +1664,6 @@ window.CIRCO = {
    "article": "b948cb8d9f929da2"
   },
   {
-   "id": "yt:video:35sh2FkQn-k",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
-   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
-   "excerpt": "",
-   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": ""
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201449",
    "source": "CIPER",
    "category": "Notis",
@@ -1708,8 +1695,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
-   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -2059,8 +2046,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -2189,8 +2176,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2286,6 +2273,19 @@ window.CIRCO = {
    "first_seen": "2026-10-18",
    "og_checked": true,
    "article": "cff57b0a81151ae7"
+  },
+  {
+   "id": "yt:video:jEOUUAPC1sc",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
+   "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "day": "2026-10-17",
+   "first_seen": "2026-10-31",
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://theinspiration.com/?p=54739",
