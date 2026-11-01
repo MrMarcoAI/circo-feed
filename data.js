@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-01T13:36-03:00",
+ "updated": "2026-11-01T15:09-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,19 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1024219",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple’s HomeView could add security camera features",
+   "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+   "excerpt": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions.…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "og_checked": true,
+   "article": "56e6f5cbb74d886f"
+  },
   {
    "id": "https://www.theverge.com/?p=1024108",
    "source": "The Verge · Apple",
@@ -133,14 +146,79 @@ window.CIRCO = {
    "id": "https://musebyclios.com/?p=134171",
    "source": "Muse by Clio",
    "category": "Publi",
-   "title": "Gus’s Spencer LaVallee Lives at the Intersection of Strategy and Creative",
-   "link": "https://musebyclios.com/2-minutes-with/guss-spencer-lavallee-lives-at-the-intersection-of-strategy-and-creative/?utm_source=rss&utm_medium=rss&utm_campaign=guss-spencer-lavallee-lives-at-the-intersection-of-strategy-and-creative",
+   "title": "Gus’ Spencer LaVallee Lives at the Intersection of Strategy and Creative",
+   "link": "https://musebyclios.com/2-minutes-with/gus-spencer-lavallee-lives-at-the-intersection-of-strategy-and-creative/?utm_source=rss&utm_medium=rss&utm_campaign=gus-spencer-lavallee-lives-at-the-intersection-of-strategy-and-creative",
    "excerpt": "“Creative and strategy should never be separated,” Spencer LaVallee, co-founder & CCO of Gus. tells Muse. “The best work happens when they’re solving the same problem together, not when strategy hands down a brief and creative disappears for a few weeks before coming back with…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/31104306/Spencer-LaVallee.jpg",
    "day": "2026-11-01",
    "first_seen": "2026-11-01",
    "og_checked": true,
    "article": "1141d735814d70aa"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/el-gobierno-busca-votos-para-suspender-las-paso-de-2027-y-enfrenta-resistencias-en-el-senado",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Gobierno busca votos para suspender las PASO de 2027 y enfrenta resistencias en el Senado",
+   "link": "https://www.filo.news/noticia/2026/11/01/el-gobierno-busca-votos-para-suspender-las-paso-de-2027-y-enfrenta-resistencias-en-el-senado",
+   "excerpt": "La Libertad Avanza necesita sumar 16 apoyos de otros bloques para aprobar la reforma electoral. La UCR, el PRO y algunos gobernadores mantienen diferencias con la iniciativa.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/202609260914504_(1)2668_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "og_checked": false,
+   "article": "018ce8962eb9c7e4"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/donald-trump-cerro-su-campana-legislativa-en-iowa-y-kansas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Donald Trump cerró su campaña legislativa en Iowa y Kansas",
+   "link": "https://www.filo.news/noticia/2026/11/01/donald-trump-cerro-su-campana-legislativa-en-iowa-y-kansas",
+   "excerpt": "El mandatario busca movilizar el voto republicano en estados agrícolas que registran una marcada paridad.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/zulumm2xq1200x0_23751_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "og_checked": false,
+   "article": "0816e6d20f169b5f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/resumen-los-encuentros-que-marcan-la-visita-del-papa-leon-hoy-superclasico-colapinto-larga-12",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Resumen: Los encuentros que marcan la visita del Papa León - Hoy superclásico - Colapinto larga 12°",
+   "link": "https://www.filo.news/noticia/2026/11/01/resumen-los-encuentros-que-marcan-la-visita-del-papa-leon-hoy-superclasico-colapinto-larga-12",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/okpzpz9408_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "og_checked": false,
+   "article": "1e9bf753ab8f8c00"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/asisten-en-ezeiza-a-quince-turistas-intoxicados-desde-ushuaia",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Asisten en Ezeiza a quince turistas intoxicados desde Ushuaia",
+   "link": "https://www.filo.news/noticia/2026/11/01/asisten-en-ezeiza-a-quince-turistas-intoxicados-desde-ushuaia",
+   "excerpt": "Los viajeros extranjeros arribaron descompuestos tras bajar de un crucero y abordar vuelos de cabotaje.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/9oe2b5ag2000x1500__11517_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "og_checked": false,
+   "article": "71ef2634f4f87343"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/el-papa-leon-xiv-llega-a-la-argentina-con-una-agenda-social-que-interpela-al-modelo-economico-de-javier-milei",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Papa León XIV llega a la Argentina con una agenda social que interpela al modelo económico de Javier Milei",
+   "link": "https://www.filo.news/noticia/2026/11/01/el-papa-leon-xiv-llega-a-la-argentina-con-una-agenda-social-que-interpela-al-modelo-economico-de-javier-milei",
+   "excerpt": "León XIV llegará el 8 de noviembre y tendrá encuentros con el mundo del trabajo, referentes religiosos y jóvenes, además de visitar instituciones sociales y una cárcel federal. Sus planteos sobre la pobreza, la desigualdad, la educación y el rol del Estado contrastan con algunos…",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/diputados29)7184_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "og_checked": false,
+   "article": "1dafba3aa13ea20d"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/01/internaron-de-urgencia-a-ian-gillan-de-deep-purple-y-suspenden-shows",
@@ -494,32 +572,6 @@ window.CIRCO = {
    "article": "2459c810db80aa22"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/31/flavio-bolsonaro-reaparecio-y-denuncio-persecucion-judicial",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Flavio Bolsonaro reapareció y denunció persecución judicial",
-   "link": "https://www.filo.news/noticia/2026/10/31/flavio-bolsonaro-reaparecio-y-denuncio-persecucion-judicial",
-   "excerpt": "El referente opositor transmitió desde Estados Unidos tras las elecciones y trazó la estrategia en el Congreso.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/capturadepantalla_2026-10-31_0855245614_re.png",
-   "day": "2026-10-31",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": "f35798c68964416e"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/31/javier-milei-volvio-a-cargar-contra-los-periodistas-y-anuncio-un-nuevo-libro",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Javier Milei volvió a cargar contra los periodistas y anunció un nuevo libro",
-   "link": "https://www.filo.news/noticia/2026/10/31/javier-milei-volvio-a-cargar-contra-los-periodistas-y-anuncio-un-nuevo-libro",
-   "excerpt": "El mandatario criticó con dureza a dirigentes y periodistas durante una clase magistral ante alumnos universitarios.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/capturadepantalla_2026-10-31_0846209389_re.png",
-   "day": "2026-10-31",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": "b984001214387a13"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201585",
    "source": "CIPER",
    "category": "Notis",
@@ -609,32 +661,6 @@ window.CIRCO = {
    "first_seen": "2026-10-31",
    "og_checked": true,
    "article": "856171d657a14bbc"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/30/colapinto-termino-16-en-la-segunda-practica-libre-del-gp-de-mexico",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Colapinto terminó 16° en la segunda práctica libre del GP de México",
-   "link": "https://www.filo.news/noticia/2026/10/30/colapinto-termino-16-en-la-segunda-practica-libre-del-gp-de-mexico",
-   "excerpt": "Tras ausentarse en la primera sesión, el piloto argentino salió por primera vez a la pista en el Autódromo Hermanos Rodríguez y terminó a 1.3 segundos de Charles Leclerc, quien terminó en el primer lugar.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/20261023t230957z_1194667369_up1eman1scjz3_rtrmadp_3_motor-f1-united-states_(1)9061_re.jpg",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": "17f53afaa5bdaf83"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/30/estrenos-filo-or-wildwood-sensatez-y-sentimiento-y-reestrenos-por-hallowen-que-peliculas-llegan-esta-semana-al-cine-y-plataformas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Estrenos Filo | \"Wildwood\", \"Sensatez y sentimiento\" y reestrenos por Hallowen: ¿qué películas llegan esta semana al cine y plataformas?",
-   "link": "https://www.filo.news/noticia/2026/10/30/estrenos-filo-or-wildwood-sensatez-y-sentimiento-y-reestrenos-por-hallowen-que-peliculas-llegan-esta-semana-al-cine-y-plataformas",
-   "excerpt": "Cuando \"¿qué vemos?\", se transforme en la clásica pregunta, ya sabés qué responder. Te acercamos la cartelera con las novedades para comenzar el fin de semana.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/wildwood4676_re.jpg",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": "bcbcde27783507d9"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201578",
@@ -962,19 +988,6 @@ window.CIRCO = {
    "article": "e0f51c355e951a12"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/10/30/se-registraron-239-femicidios-en-lo-que-va-de-2026",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Se registraron 239 femicidios en lo que va de 2026",
-   "link": "https://www.filo.news/noticia/2026/10/30/se-registraron-239-femicidios-en-lo-que-va-de-2026",
-   "excerpt": "En ese período se registró un femicidio cada 30 horas y 728 intentos de femicidio en todo el país.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/30/202606260603828-scaled2818_re.jpg",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "og_checked": false,
-   "article": "57e9308e5e22d5a6"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201572",
    "source": "CIPER",
    "category": "Notis",
@@ -1207,19 +1220,6 @@ window.CIRCO = {
    "first_seen": "2026-10-29",
    "og_checked": true,
    "article": "bc9815cb64402dfc"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1021308",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
-   "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
-   "excerpt": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MacBook Pro announced earlier this year. But upgrading the base models - starting at $2,899 for the 14-inch and $3,399 for the 16-inch -…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "e36b95a06876d0dd"
   },
   {
    "id": "https://www.theverge.com/?p=1020811",
