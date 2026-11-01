@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-01T15:09-03:00",
+ "updated": "2026-11-01T19:28-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -154,6 +154,71 @@ window.CIRCO = {
    "first_seen": "2026-11-01",
    "og_checked": true,
    "article": "1141d735814d70aa"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/diputados-el-gobierno-busca-tratar-los-proyectos-de-malvinas-y-banco-central-antes-del-presupuesto-2027",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Diputados: el Gobierno busca tratar los proyectos de Malvinas y Banco Central antes del Presupuesto 2027",
+   "link": "https://www.filo.news/noticia/2026/11/01/diputados-el-gobierno-busca-tratar-los-proyectos-de-malvinas-y-banco-central-antes-del-presupuesto-2027",
+   "excerpt": "La Libertad Avanza consiguió dictámenes para ambas iniciativas y apunta al 12 de noviembre para llevarlas al recinto. Las negociaciones con bloques aliados obligaron a modificar los textos originales.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/202606260624018-scaled7445_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "og_checked": false,
+   "article": "a6aee0e361d55145"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/boca-le-gano-1-0-a-river-en-el-superclasico-y-aseguro-su-clasificacion-a-la-copa-libertadores-2027",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Boca le ganó 1-0 a River en el Superclásico y aseguró su clasificación a la Copa Libertadores 2027",
+   "link": "https://www.filo.news/noticia/2026/11/01/boca-le-gano-1-0-a-river-en-el-superclasico-y-aseguro-su-clasificacion-a-la-copa-libertadores-2027",
+   "excerpt": "Con un gol de Lautaro Di Lollo, el Xeneize se quedó con el triunfo en La Bombonera. El Millonario terminó con nueve jugadores tras las expulsiones de Martínez Quarta y Montiel.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/2026112611018045989_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "og_checked": false,
+   "article": "0a1fa91cff33a15e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/elecciones-en-estados-unidos-2026-que-se-juega-donald-trump-y-como-puede-impactar-en-argentina",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Elecciones en Estados Unidos 2026: qué se juega Donald Trump y cómo puede impactar en Argentina",
+   "link": "https://www.filo.news/noticia/2026/11/01/elecciones-en-estados-unidos-2026-que-se-juega-donald-trump-y-como-puede-impactar-en-argentina",
+   "excerpt": "Este martes 3 de noviembre se renovará el Congreso estadounidense en unos comicios que podrían modificar el equilibrio de poder en Washington y la relación política con el gobierno argentino.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/2026112601115063223_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "og_checked": false,
+   "article": "f60876bbddba4b92"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/torneo-clausura-2026-los-partidos-de-hoy-horarios-y-que-equipos-buscan-clasificar-a-los-octavos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Torneo Clausura 2026: los partidos de hoy, horarios y qué equipos buscan clasificar a los octavos",
+   "link": "https://www.filo.news/noticia/2026/11/01/torneo-clausura-2026-los-partidos-de-hoy-horarios-y-que-equipos-buscan-clasificar-a-los-octavos",
+   "excerpt": "Además del Superclásico entre Boca y River, otros tres encuentros pueden modificar las posiciones de ambas zonas y la tabla anual en la recta final del campeonato.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/webnpelota6786sq(1)7901_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "og_checked": false,
+   "article": "ff876462c41737eb"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/pauline-ro-de-la-percusion-a-la-cancion-la-argentinidad-el-desarraigo-y-las-historias-detras-de-su-disco-la-chispa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Pauline Ró, de la percusión a la canción: la argentinidad, el desarraigo y las historias detrás de su disco La Chispa",
+   "link": "https://www.filo.news/noticia/2026/11/01/pauline-ro-de-la-percusion-a-la-cancion-la-argentinidad-el-desarraigo-y-las-historias-detras-de-su-disco-la-chispa",
+   "excerpt": "La percusionista y compositora presenta su primer álbum al frente de un proyecto propio, en el que combina batería, vibráfono y canciones de su autoría. En diálogo con Filo.news, habló sobre el proceso creativo, la experiencia de vivir en Nueva York, el Mundial de Qatar como…",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/diputados30)4233_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "og_checked": false,
+   "article": "677668f8661c15f5"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/01/el-gobierno-busca-votos-para-suspender-las-paso-de-2027-y-enfrenta-resistencias-en-el-senado",
@@ -505,71 +570,6 @@ window.CIRCO = {
    "first_seen": "2026-10-31",
    "og_checked": false,
    "article": "6b1ece04b46ad5fc"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/31/binance-cubrio-el-noventa-por-ciento-de-perdidas-por-ciberataque",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Binance cubrió el noventa por ciento de pérdidas por ciberataque",
-   "link": "https://www.filo.news/noticia/2026/10/31/binance-cubrio-el-noventa-por-ciento-de-perdidas-por-ciberataque",
-   "excerpt": "La principal plataforma de criptomonedas utilizó fondos propios millonarios para compensar a los usuarios.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/capturadepantalla_2026-10-31_1441097555_re.png",
-   "day": "2026-10-31",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": "4e7a49b3fef9d382"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/31/resumen-noviembre-marcado-por-los-aumentos-reaparecio-bolsonaro-descendio-aldosivi",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Resumen: Noviembre marcado por los aumentos - Reapareció Bolsonaro - Descendió Aldosivi",
-   "link": "https://www.filo.news/noticia/2026/10/31/resumen-noviembre-marcado-por-los-aumentos-reaparecio-bolsonaro-descendio-aldosivi",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/capturadepantalla_2026-10-31_0924417479_re.png",
-   "day": "2026-10-31",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": "171a0e966ff40c18"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/31/aumentan-el-subte-peajes-y-colectivos-en-el-area-metropolitana",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Aumentan el subte, peajes y colectivos en el área metropolitana",
-   "link": "https://www.filo.news/noticia/2026/10/31/aumentan-el-subte-peajes-y-colectivos-en-el-area-metropolitana",
-   "excerpt": "Las tarifas de transporte porteñas y bonaerenses registrarán subas desde el primer día de noviembre.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/capturadepantalla_2026-10-31_0924413136_re.png",
-   "day": "2026-10-31",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": "5fd9d894a626e3b4"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/31/aumentan-la-recompensa-a-24-millones-por-el-caso-cecilia-basaldua",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Aumentan la recompensa a 24 millones por el caso Cecilia Basaldúa",
-   "link": "https://www.filo.news/noticia/2026/10/31/aumentan-la-recompensa-a-24-millones-por-el-caso-cecilia-basaldua",
-   "excerpt": "El gobierno de Córdoba busca datos certeros para esclarecer el femicidio mientras investigan un nuevo sospechoso.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/web20220425cecilia-basal4588_re.jpg",
-   "day": "2026-10-31",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": "34a98bff8a0e1bfe"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/31/aldosivi-cayo-con-racing-en-avellaneda-y-descendio-a-la-b-nacional",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Aldosivi cayó con Racing en Avellaneda y descendió a la B Nacional",
-   "link": "https://www.filo.news/noticia/2026/10/31/aldosivi-cayo-con-racing-en-avellaneda-y-descendio-a-la-b-nacional",
-   "excerpt": "El conjunto marplatense perdió 2 a 1 en el Cilindro y jugará en la segunda división a partir de la próxima temporada.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/capturadepantalla_2026-10-31_0915348649_re.png",
-   "day": "2026-10-31",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": "2459c810db80aa22"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201585",
