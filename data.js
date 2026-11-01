@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-10-31T21:36-03:00",
+ "updated": "2026-11-01T03:55-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -2286,45 +2286,6 @@ window.CIRCO = {
    "first_seen": "2026-10-31",
    "og_checked": false,
    "article": ""
-  },
-  {
-   "id": "https://theinspiration.com/?p=54739",
-   "source": "The Inspiration",
-   "category": "Publi",
-   "title": "Call of Duty — The Korean Alley",
-   "link": "https://theinspiration.com/2026/10/call-of-duty-the-korean-alley/",
-   "excerpt": "Call of Duty turned two of the world’s busiest streets into immersive portals to its latest game. On Sunset Boulevard in Los Angeles and Shoreditch High Street in London, the brand built an entire Korean alleyway inspired by the opening level of Modern Warfare 4, complete with…",
-   "image": "https://theinspiration.com/wp-content/uploads/Call-of-Duty-Builds-a-Korean-Alley-in-London-750x536.webp",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "f81467d7b9348ad0"
-  },
-  {
-   "id": "https://theinspiration.com/?p=54734",
-   "source": "The Inspiration",
-   "category": "Publi",
-   "title": "Paramount — Street Fighter",
-   "link": "https://theinspiration.com/2026/10/paramount-street-fighter/",
-   "excerpt": "Paramount turned London’s street signs into a playful promotion for the new Street Fighter movie. By adding the word “Fighter” in the franchise’s distinctive orange lettering to familiar signs in London, the campaign turned everyday city infrastructure into an instantly…",
-   "image": "https://theinspiration.com/wp-content/uploads/1792038838425-750x536.webp",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-28",
-   "og_checked": false,
-   "article": "5ff1bf53f249526f"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133776",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Hooray! Hollywood Offers a New Global Stage for Creators, Brands and Culture",
-   "link": "https://musebyclios.com/musings/hollywood-offers-a-global-stage-for-creators-brands-and-culture/?utm_source=rss&utm_medium=rss&utm_campaign=hollywood-offers-a-global-stage-for-creators-brands-and-culture",
-   "excerpt": "Hollywood has long been the world’s entertainment capital. Now, as creators, technology and live experiences reshape the industry, its next act may unfold beyond the screen, transforming the iconic destination into a global stage for storytelling, innovation and cultural…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/17093251/H3.jpg",
-   "day": "2026-10-17",
-   "first_seen": "2026-10-17",
-   "og_checked": true,
-   "article": "9e62017c16d2d0c8"
   }
  ]
 };
