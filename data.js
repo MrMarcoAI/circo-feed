@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-01T19:28-03:00",
+ "updated": "2026-11-02T03:56-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -64,6 +64,45 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/ecuador-impuso-un-nuevo-toque-de-queda-en-cinco-provincias-para-combatir-el-crimen-organizado",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Ecuador impuso un nuevo toque de queda en cinco provincias para combatir el crimen organizado",
+   "link": "https://www.filo.news/noticia/2026/11/01/ecuador-impuso-un-nuevo-toque-de-queda-en-cinco-provincias-para-combatir-el-crimen-organizado",
+   "excerpt": "El Gobierno de Daniel Noboa restringió la circulación nocturna hasta el 10 de noviembre en distintas zonas del país. La medida busca reforzar los operativos de seguridad frente al narcotráfico y la violencia.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/20261029t112927z_1226248682_rc2a8oawh7vd_rtrmadp_3_ecuador-crime2119_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-02",
+   "og_checked": false,
+   "article": "5dfc3b25fcf74c3c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/01/franco-colapinto-termino-octavo-en-el-gp-de-mexico-de-f1-verstappen-gano-y-antonelli-se-consagro-campeon",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Franco Colapinto terminó octavo en el GP de México de F1: Verstappen ganó y Antonelli se consagró campeón",
+   "link": "https://www.filo.news/noticia/2026/11/01/franco-colapinto-termino-octavo-en-el-gp-de-mexico-de-f1-verstappen-gano-y-antonelli-se-consagro-campeon",
+   "excerpt": "El argentino volvió a sumar puntos con Alpine en el Autódromo Hermanos Rodríguez. Max Verstappen se quedó con la victoria y el italiano de Mercedes hizo historia a los 20 años y los dos pilotos de Alpine esperan una resolución de los comisarios.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/20261101t182626z_1180109972_up1emb11f81gb_rtrmadp_3_motor-f1-mexico9655_re.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-02",
+   "og_checked": false,
+   "article": "ea36c477c8a242e2"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201601",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "La remontada de Lula: el voto que no estaba en las encuestas",
+   "link": "https://www.ciperchile.cl/2026/11/01/la-remontada-de-lula-el-voto-que-no-estaba-en-las-encuestas/?utm_source=rss&utm_medium=rss&utm_campaign=la-remontada-de-lula-el-voto-que-no-estaba-en-las-encuestas",
+   "excerpt": "La entrada La remontada de Lula: el voto que no estaba en las encuestas se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1776415-scaled.jpg",
+   "day": "2026-11-01",
+   "first_seen": "2026-11-02",
+   "og_checked": true,
+   "article": "6efba0458a54b552"
+  },
   {
    "id": "https://www.theverge.com/?p=1024219",
    "source": "The Verge · Apple",
@@ -544,32 +583,6 @@ window.CIRCO = {
    "first_seen": "2026-10-31",
    "og_checked": false,
    "article": "b1c8dd54f77d425b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/31/represion-en-las-masivas-protestas-en-francia-por-el-costo-de-vida",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Represión en las masivas protestas en Francia por el costo de vida",
-   "link": "https://www.filo.news/noticia/2026/10/31/represion-en-las-masivas-protestas-en-francia-por-el-costo-de-vida",
-   "excerpt": "El gobierno de Macron desplegó 70.000 agentes ante marchas multitudinarias y disturbios en varias ciudades.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/franciatoquede_queda-df8826721_re.jpg",
-   "day": "2026-10-31",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": "ad1becb0908bc936"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/10/31/axel-kicillof-convoco-al-pj-bonaerense-en-medio-de-la-disputa-con-maximo-kirchner-por-las-elecciones-de-2027",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Axel Kicillof convocó al PJ bonaerense en medio de la disputa con Máximo Kirchner por las elecciones de 2027",
-   "link": "https://www.filo.news/noticia/2026/10/31/axel-kicillof-convoco-al-pj-bonaerense-en-medio-de-la-disputa-con-maximo-kirchner-por-las-elecciones-de-2027",
-   "excerpt": "El Consejo Provincial se reunirá el 4 de noviembre en La Plata para avanzar con la organización partidaria. El gobernador también pidió que las candidaturas se definan mediante las PASO.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/10/31/fc521f1474274485-8d2d-b6e43ca7849b3523_re.jpg",
-   "day": "2026-10-31",
-   "first_seen": "2026-10-31",
-   "og_checked": false,
-   "article": "6b1ece04b46ad5fc"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201585",
@@ -1123,8 +1136,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "SaaS is dead?",
    "link": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
-   "excerpt": "In this solo episode, I explain why I say SaaS is dead and what I see taking its place. For 15 years, SaaS meant paying engineers to build a tool and charging per seat, and now models like Opus 5.5, GPT-6, and Argon make the tool easy to build. I walk through what I call smart…",
-   "image": "https://i2.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": false,
@@ -1279,8 +1292,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "$100M ARR Founder: The Next Big AI Opportunity",
    "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
-   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
-   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
    "og_checked": false,
@@ -1690,32 +1703,6 @@ window.CIRCO = {
    "article": "b948cb8d9f929da2"
   },
   {
-   "id": "yt:video:35sh2FkQn-k",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
-   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
-   "excerpt": "",
-   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-11-01",
-   "og_checked": false,
-   "article": ""
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201449",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Kast reconoce error en rebajas de condena pero descarta salida de Rabat; Chadwick es mencionado en nueva formalización de Hermosilla, y Corte sobresee a asesino de Ámbar por otros dos homicidios",
-   "link": "https://www.ciperchile.cl/2026/10/26/radar-26-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-26-10-26",
-   "excerpt": "La entrada Kast reconoce error en rebajas de condena pero descarta salida de Rabat; Chadwick es mencionado en nueva formalización de Hermosilla, y Corte sobresee a asesino de Ámbar por otros dos homicidios se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "bb7c8b66201f4d43"
-  },
-  {
    "id": "https://www.theverge.com/?p=1018264",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1734,8 +1721,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
-   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -2072,8 +2059,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -2197,13 +2184,26 @@ window.CIRCO = {
    "article": "82466144c14d54db"
   },
   {
+   "id": "yt:video:jEOUUAPC1sc",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
+   "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "day": "2026-10-19",
+   "first_seen": "2026-11-02",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "yt:video:tpZOU1ugODQ",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
@@ -2260,45 +2260,6 @@ window.CIRCO = {
    "first_seen": "2026-10-19",
    "og_checked": true,
    "article": "4ac96f067cb5228e"
-  },
-  {
-   "id": "https://bencorde.com/blog/curso-meta-ads-claude-code/",
-   "source": "Benjamín Cordero",
-   "category": "Tech + la IA",
-   "title": "Meta Ads con Claude Code: cómo construir tu Marketing Machine",
-   "link": "https://bencorde.com/blog/curso-meta-ads-claude-code/",
-   "excerpt": "Construye tu Marketing Machine con Claude Code y Meta Ads: campañas, anuncios modulares, gráficos con Higgsfield y un juez que revisa resultados.",
-   "image": "https://bencorde.com/blog/curso-meta-ads-claude-code/imagenes/portada.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-20",
-   "og_checked": true,
-   "article": "77a2b649e6746ba3"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133784",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Even Realities Asks: What If Smart Glasses Exposed Your Private Life to the World?",
-   "link": "https://musebyclios.com/advertising/even-realities-asks-what-if-smart-glasses-exposed-your-private-life-to-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=even-realities-asks-what-if-smart-glasses-exposed-your-private-life-to-the-world",
-   "excerpt": "During a posh hotel holiday, you decide to take in a movie. But recent scenes from your life—moments you assumed were private—flash across the screen as the crowd bursts into laughter. Maybe next time try a staycation instead? There’s no escape and a creepy twist at the end of…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/18160825/dolla.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": true,
-   "article": "f5af435bb7024382"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133779",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "These Classic Album Covers Are Always in Fashion",
-   "link": "https://musebyclios.com/art-of-the-album/these-classic-album-covers-are-always-in-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=these-classic-album-covers-are-always-in-fashion",
-   "excerpt": "Having worked on projects in both the fashion and music space as an editor, I see how these worlds become enmeshed but can also stand in opposition to each other. For example, I originally set out to write about album covers where fashion is the story. But while I was compiling…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/17155021/AOTA-j.jpg",
-   "day": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "og_checked": true,
-   "article": "cff57b0a81151ae7"
   }
  ]
 };
