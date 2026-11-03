@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-03T14:34-03:00",
+ "updated": "2026-11-03T16:51-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,84 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1025002",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+   "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+   "excerpt": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&strip=all&crop=0%2C26.334151505894%2C100%2C67.420228175335&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "67d7908873dad0f2"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025364",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
+   "link": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
+   "excerpt": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moft1.jpg?quality=90&strip=all&crop=0,10.751871746636,100,78.496256506728",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "21a90e7a787c0def"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025245",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Apple is all in on AI — its own and everyone else’s",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+   "excerpt": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301906266.jpg?quality=90&strip=all&crop=0%2C14.171056661111%2C100%2C78.524215886627&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "cea09cba3ca02ad8"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025015",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price",
+   "link": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
+   "excerpt": "The iPad Mini sometimes feels like a trap. It is, in some ways and for some people, the perfect iPad: meaningfully larger than my phone's screen but still small and light enough to use for reading in bed or gaming on the subway. As most of the rest of the iPad line has tilted…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0002.jpg?quality=90&strip=all&crop=0%2C11.942378189973%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "f548d1380e85874f"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025185",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+   "link": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion",
+   "excerpt": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Monday will require developers to declare if their apps allow…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925968/acastro_STK045_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "717e3ee59da8e5d1"
+  },
+  {
+   "id": "https://www.applesfera.com/tutoriales/cada-vez-estoy-cerca-policia-explica-como-encontrar-iphone-robado",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "\"Cada vez estoy más cerca\". Un policía explica cómo encontrar un iPhone robado",
+   "link": "https://www.applesfera.com/tutoriales/cada-vez-estoy-cerca-policia-explica-como-encontrar-iphone-robado",
+   "excerpt": "Imagina que te roban el iPhone, abres Buscar y el mapa te lleva hasta un parking. Sabes que está por ahí, pero hay decenas de coches y no tienes ni idea de cuál es el tuyo . Enric Serrano , policía y divulgador de seguridad con unos 330.000 seguidores en Instagram, ha enseñado…",
+   "image": "https://i.blogs.es/3c41e9/iphone-robado/1024_2000.jpeg",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "f7b09afa2ec517be"
+  },
   {
    "id": "https://www.applesfera.com/curiosidades/atencion-a-detalles-steve-jobs-era-exquisita-estas-clases-que-tomo-como-universitario-tienen-mucho-que-ver-1",
    "source": "Applesfera",
@@ -156,6 +234,45 @@ window.CIRCO = {
    "article": "52cbd5a321afd92b"
   },
   {
+   "id": "https://www.theverge.com/?p=1025482",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "OpenAI says ChatGPT is catching up to Google in search",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+   "excerpt": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "3014cc79e4ae354a"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025596",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Indie games are missing launch dates because Steam is backed up",
+   "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+   "excerpt": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_51fdf31162fecb3570ff97b0248b2706248e3281.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "1cf30bc9f44ccf70"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025029",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+   "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+   "excerpt": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIDiscover-Product-02.jpg?quality=90&strip=all&crop=0%2C3.5340314136126%2C100%2C92.931937172775&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "bd4b64b234417dbe"
+  },
+  {
    "id": "https://www.theverge.com/?p=1025411",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -180,19 +297,6 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": true,
    "article": "15e77cdbe4b1badd"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1025245",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Apple is all in on AI — its own and everyone else’s",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-   "excerpt": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301906266.jpg?quality=90&strip=all&crop=0%2C14.171056661111%2C100%2C78.524215886627&w=1200",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "cea09cba3ca02ad8"
   },
   {
    "id": "https://www.theverge.com/?p=1025242",
@@ -351,6 +455,71 @@ window.CIRCO = {
    "article": "2eed4f862702e654"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/03/lali-maria-becerra-y-emilia-se-pronunciaron-contra-el-ataque-transodiante-en-los-bosques-de-palermo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Lali, María Becerra y Emilia se pronunciaron contra el ataque transodiante en los bosques de Palermo",
+   "link": "https://www.filo.news/noticia/2026/11/03/lali-maria-becerra-y-emilia-se-pronunciaron-contra-el-ataque-transodiante-en-los-bosques-de-palermo",
+   "excerpt": "Las tres artistas se refirieron a los videos en los que se ve a un grupo de 50 y 60 jóvenes agrediendo a mujeres trans y travestis en las inmediaciones del Lago de Regatas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/disenosin_título_-_2026-11-03t163736.8036864_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "ceafa2f85e5e29e7"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/violento-ataque-a-trabajadoras-sexuales-travestis-trans-en-los-bosques-de-palermo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Violento ataque a trabajadoras sexuales travestis-trans en los Bosques de Palermo",
+   "link": "https://www.filo.news/noticia/2026/11/03/violento-ataque-a-trabajadoras-sexuales-travestis-trans-en-los-bosques-de-palermo",
+   "excerpt": "Un grupo de jóvenes llegó a la zona en bicicleta y comenzaron a agredirlas físicamente con palos y conos. Ellos mismos lo grabaron en videos y lo subieron a sus redes sociales.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/ataquebosquesde_palermo9415_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "ac2b8a657f2e93e9"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/la-justicia-rechazo-el-pedido-para-liberar-al-represor-jorge-exequiel-acosta",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Justicia rechazó el pedido para liberar al represor Jorge Exequiel Acosta",
+   "link": "https://www.filo.news/noticia/2026/11/03/la-justicia-rechazo-el-pedido-para-liberar-al-represor-jorge-exequiel-acosta",
+   "excerpt": "El exmilitar del Ejército Argentino tiene dos condenas a prisión perpetua por crímenes en el centro clandestino La Perla durante la última dictadura militar.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/disenosin_título_-_2026-11-03t163125.2881497_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "a2cf284e4775f900"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/daniela-spalla-sobre-su-nueva-musica-hay-una-intencion-muy-clara-de-contar-de-donde-vengo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Daniela Spalla sobre su nueva música: “Hay una intención muy clara de contar de dónde vengo”",
+   "link": "https://www.filo.news/noticia/2026/11/03/daniela-spalla-sobre-su-nueva-musica-hay-una-intencion-muy-clara-de-contar-de-donde-vengo",
+   "excerpt": "En diálogo con Filo.News, la artista habló sobre el proceso personal detrás de sus nuevas canciones, los cambios que atravesó a lo largo de su carrera y las particularidades de los públicos argentino y mexicano.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/capturadepantalla_2026-11-03_a_la(s)_3.01.56 p. m.7242_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "9bd1685b87f3347f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/la-iglesia-advirtio-por-la-situacion-social-del-pais-a-dias-de-la-llegada-del-papa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Iglesia advirtió por la situación social del país a días de la llegada del Papa",
+   "link": "https://www.filo.news/noticia/2026/11/03/la-iglesia-advirtio-por-la-situacion-social-del-pais-a-dias-de-la-llegada-del-papa",
+   "excerpt": "Desde la Pastoral Social señalaron que existen sectores postergados que necesitan asistencia, reclamaron oportunidades de trabajo y convocaron a escuchar el mensaje de León XIV sin distinciones partidarias.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/filo1-_2026-11-03t161651.8091215_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "b5604fc7d4629965"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/03/elecciones-en-estados-unidos-medidas-de-alivio-para-empresas-muere-un-futbolista-del-tenerife-y-mas",
    "source": "Filo.News",
    "category": "Notis",
@@ -362,6 +531,19 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": false,
    "article": "e20fb586f6aae501"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/el-duro-mensaje-de-la-jefa-del-fmi-contra-el-populismo-hay-que-cortarle-la-cabeza",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El duro mensaje de la jefa del FMI contra el populismo: \"Hay que cortarle la cabeza\"",
+   "link": "https://www.filo.news/noticia/2026/11/03/el-duro-mensaje-de-la-jefa-del-fmi-contra-el-populismo-hay-que-cortarle-la-cabeza",
+   "excerpt": "En un foro internacional, Georgieva elogió las metas presupuestarias de Argentina mientras el Directorio del Fondo define el giro de un nuevo desembolso millonario para el país.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/filo1-_2026-11-03t154224.7182284_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "b14559c29a575fac"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/03/caputo-anuncio-un-paquete-de-medidas-de-alivio-para",
@@ -414,6 +596,19 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": false,
    "article": "d0ee882301b1c27a"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201654",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Derrumbe de los fondos D y E de las AFP afectará proceso de jubilación de unas 360.000 personas en edad de pensionarse",
+   "link": "https://www.ciperchile.cl/2026/11/03/derrumbe-de-los-fondos-d-y-e-de-las-afp-afectara-proceso-de-jubilacion-de-unas-360-000-personas-en-edad-de-pensionarse/?utm_source=rss&utm_medium=rss&utm_campaign=derrumbe-de-los-fondos-d-y-e-de-las-afp-afectara-proceso-de-jubilacion-de-unas-360-000-personas-en-edad-de-pensionarse",
+   "excerpt": "La entrada Derrumbe de los fondos D y E de las AFP afectará proceso de jubilación de unas 360.000 personas en edad de pensionarse se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/afp_web-2.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "04cf71fd750d2dce"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201645",
@@ -650,19 +845,6 @@ window.CIRCO = {
    "article": "995dfc6af7b2f92f"
   },
   {
-   "id": "https://www.theverge.com/?p=1024588",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-   "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-   "excerpt": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": true,
-   "article": "32355f30e2bb8d02"
-  },
-  {
    "id": "yt:video:67BmkptgTms",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
@@ -884,84 +1066,6 @@ window.CIRCO = {
    "article": "0f222374ccc619dc"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/02/kicillof-sobre-la-visita-de-leon-xiv-queremos-que-los-bonaerenses-disfruten",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Kicillof sobre la visita de León XIV: \"Queremos que los bonaerenses disfruten\"",
-   "link": "https://www.filo.news/noticia/2026/11/02/kicillof-sobre-la-visita-de-leon-xiv-queremos-que-los-bonaerenses-disfruten",
-   "excerpt": "La Provincia coordina junto a la Iglesia y los municipios los operativos de seguridad para las actividades que León XIV encabezará en Luján y Claypole.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/filo1-_2026-11-02t175415.1101413_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "fe91d8d43b1be1b5"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/privatizacion-de-aysa-advierten-que-la-venta-no-resiste-ningun-analisis-tecnico",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Privatización de AySA: advierten que la venta \"no resiste ningún análisis técnico\"",
-   "link": "https://www.filo.news/noticia/2026/11/02/privatizacion-de-aysa-advierten-que-la-venta-no-resiste-ningun-analisis-tecnico",
-   "excerpt": "La cesión por un valor cercano a las ganancias de un solo año encendió alertas judiciales y pedidos de auditoría ante el riesgo de suspensiones del suministro en el conurbano.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/filo1-_2026-11-02t170852.3519509_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "f6420ff0e711268f"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/el-personal-universitario-nodocente-comenzara-un-paro-por-24-horas",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El personal universitario nodocente comenzará un paro por 24 horas",
-   "link": "https://www.filo.news/noticia/2026/11/02/el-personal-universitario-nodocente-comenzara-un-paro-por-24-horas",
-   "excerpt": "Los trabajadores nodocentes realizarán tres paros de 24 horas en reclamo de una recomposición salarial y del cumplimiento de la Ley de Financiamiento Universitario, ante la falta de acuerdo en las negociaciones paritarias con el Gobierno.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/diseosin_título_-_2026-11-02t150039.2921743_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "0a37c46d0d13e0fb"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/paro-en-27-aeropuertos-habra-demoras-y-cancelaciones-a-dias-de-la-visita-papal",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Paro en 27 aeropuertos: habrá demoras y cancelaciones a días de la visita papal",
-   "link": "https://www.filo.news/noticia/2026/11/02/paro-en-27-aeropuertos-habra-demoras-y-cancelaciones-a-dias-de-la-visita-papal",
-   "excerpt": "La medida convocada por ATE para este viernes 6 de noviembre afectará a las terminales de todo el país en reclamo por la falta de presupuesto y fallas de seguridad a dos días del arribo de León XIV a la Argentina.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/filo1-_2026-11-02t161246.8654098_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "dfc57ad70a806767"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/es-frustrante-irse-sin-nada-flavio-briatore-tras-la-sancion-que-dejo-a-colapinto-sin-puntos-en-mexico",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "\"Es frustrante irse sin nada\": Flavio Briatore tras la sanción que dejó a Colapinto sin puntos en México",
-   "link": "https://www.filo.news/noticia/2026/11/02/es-frustrante-irse-sin-nada-flavio-briatore-tras-la-sancion-que-dejo-a-colapinto-sin-puntos-en-mexico",
-   "excerpt": "El jefe de Alpine defendió el carrerón que hizo el piloto argentino en el Autódromo Hermanos Rodríguez, pero lamentó el castigo de los comisarios que lo relegó al fondo.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/202606260624002-scaled9718_re.jpg",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "c7f04cca4de329e5"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/no-tienen-vergueenza-el-explosivo-posteo-de-stefano-di-carlo-tras-la-derrota-de-river-en-la-bombonera",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "\"No tienen vergüenza\": el explosivo posteo de Stefano Di Carlo tras la derrota de River en La Bombonera",
-   "link": "https://www.filo.news/noticia/2026/11/02/no-tienen-vergueenza-el-explosivo-posteo-de-stefano-di-carlo-tras-la-derrota-de-river-en-la-bombonera",
-   "excerpt": "El dirigente de River no se guardó nada en las redes sociales luego del Superclásico y apuntó con munición pesada contra los fallos arbitrales que perjudicaron al Millonario.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/202511251103845-scaled1216_re.jpg",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "2d414a61e0cbee46"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201608",
    "source": "CIPER",
    "category": "Notis",
@@ -1157,19 +1261,6 @@ window.CIRCO = {
    "article": "7d12a101554fbf6e"
   },
   {
-   "id": "https://www.theverge.com/?p=1013375",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "I built an AI Tamagotchi before Meta could",
-   "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-   "excerpt": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4%2C9.7534360513847%2C96%2C75.393048208485&w=1200",
-   "day": "2026-10-31",
-   "first_seen": "2026-10-31",
-   "og_checked": true,
-   "article": "d1b6852b4a403c8b"
-  },
-  {
    "id": "https://musebyclios.com/?p=134165",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1235,71 +1326,6 @@ window.CIRCO = {
    "article": ""
   },
   {
-   "id": "https://www.theverge.com/?p=1023302",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-   "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-   "excerpt": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-31",
-   "og_checked": true,
-   "article": "ef70c1ea430106dd"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1023974",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-   "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-   "excerpt": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-31",
-   "og_checked": true,
-   "article": "0d3c54b0a7c7d8b1"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1023194",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "The delightfully messy state of Apple gadgets",
-   "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
-   "excerpt": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-31",
-   "og_checked": true,
-   "article": "9fe81d2989da3979"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1022592",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-   "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
-   "excerpt": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-31",
-   "og_checked": true,
-   "article": "901737775391e026"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1022894",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "The Apple Pencil turned the Duo into my new favorite notebook",
-   "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
-   "excerpt": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-31",
-   "og_checked": true,
-   "article": "856171d657a14bbc"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201578",
    "source": "CIPER",
    "category": "Notis",
@@ -1339,19 +1365,6 @@ window.CIRCO = {
    "article": "c4e24ed8607b40a1"
   },
   {
-   "id": "https://www.applesfera.com/curiosidades/steve-jobs-me-echo-bronca-esto-adolescente-revelo-como-solucionar-gratis-problema-que-habia-causado-apple",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "\"Steve Jobs me echó la bronca por esto\". Un adolescente reveló cómo solucionar gratis un problema que había causado Apple",
-   "link": "https://www.applesfera.com/curiosidades/steve-jobs-me-echo-bronca-esto-adolescente-revelo-como-solucionar-gratis-problema-que-habia-causado-apple",
-   "excerpt": "Es bien sabido que Steve Jobs no era precisamente el hombre que mejor encajaba las críticas del mundo. Christopher Price, que ya era un entusiasta de la tecnología cuando era adolescente, lo comprobó en primera persona. Fue cuando publicó una guía para c onseguir una pieza…",
-   "image": "https://i.blogs.es/5c375c/steve-jobs/1024_2000.jpeg",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "og_checked": false,
-   "article": "75accb3529c41129"
-  },
-  {
    "id": "https://www.theverge.com/?p=1023763",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1376,19 +1389,6 @@ window.CIRCO = {
    "first_seen": "2026-10-30",
    "og_checked": true,
    "article": "da148ab9dcdc09e7"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1023820",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-   "excerpt": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
-   "day": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "og_checked": true,
-   "article": "c0d4376a58f11e04"
   },
   {
    "id": "https://bencorde.com/blog/treg-prospeccion-ia-alternativa-apollo/",
@@ -1610,19 +1610,6 @@ window.CIRCO = {
    "first_seen": "2026-10-29",
    "og_checked": true,
    "article": "5f5ab6ac281ea1b0"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201526",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Oposición confirma acusación constitucional contra Rabat; Quiroz pide a la Suprema apurar fallos ambientales y Chevesich le solicita más recursos, y Peñalolén clausura sede de la ANFP",
-   "link": "https://www.ciperchile.cl/2026/10/28/radar-28-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-28-10-2026",
-   "excerpt": "La entrada Oposición confirma acusación constitucional contra Rabat; Quiroz pide a la Suprema apurar fallos ambientales y Chevesich le solicita más recursos, y Peñalolén clausura sede de la ANFP se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-29",
-   "og_checked": true,
-   "article": "bc9815cb64402dfc"
   },
   {
    "id": "https://www.theverge.com/?p=1020811",
