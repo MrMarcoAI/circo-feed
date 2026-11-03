@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-02T18:57-03:00",
+ "updated": "2026-11-03T00:14-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -64,6 +64,149 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1024915",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+   "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+   "excerpt": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "f8bee6eaabce0fd0"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1024748",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple set an iPhone sales record even without a new standard iPhone",
+   "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+   "excerpt": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "99b05ab5c02f4968"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1024807",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+   "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+   "excerpt": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co.,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&strip=all&crop=12.458333333333%2C0%2C87.541666666667%2C100&w=1200",
+   "day": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "0a1dcafcb4a0d495"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/02/florencia-pena-y-juliana-gattas-juntas-en-chicago-el-musical",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Florencia Peña y Juliana Gattas juntas en \"Chicago: El Musical\"",
+   "link": "https://www.filo.news/noticia/2026/11/02/florencia-pena-y-juliana-gattas-juntas-en-chicago-el-musical",
+   "excerpt": "La actriz y la cantante se reúnen para darle vida a Roxy Hart y Velma Kelly en uno de los musicales más aclamados de Broadway.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/chicago4358_re.jpg",
+   "day": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "d024731cf443a7a2"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/02/festival-de-mar-del-plata-llega-el-documental-sobre-el-oscuro-trasfondo-del-mundial-de-qatar",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Festival de Mar del Plata: llega el documental sobre el oscuro trasfondo del Mundial de Qatar",
+   "link": "https://www.filo.news/noticia/2026/11/02/festival-de-mar-del-plata-llega-el-documental-sobre-el-oscuro-trasfondo-del-mundial-de-qatar",
+   "excerpt": "El film desarrolla las condiciones de trabajadores migrantes que hicieron posible la infraestructura de la Copa del Mundo.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/cotcstill01522516_widow4938_re.jpg",
+   "day": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "59669eb4ce774911"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/02/nuevo-record-el-dolar-oficial-trepo-a-usd1-565-y-empato-el-precio-del-blue",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Nuevo récord: el dólar oficial trepó a $1.565 y empató el precio del blue",
+   "link": "https://www.filo.news/noticia/2026/11/02/nuevo-record-el-dolar-oficial-trepo-a-usd1-565-y-empato-el-precio-del-blue",
+   "excerpt": "La divisa en el Banco Nación alcanzó su valor más alto de la historia y empujó a las demás opciones del mercado en una rueda difícil para los bonos del país.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/filo1-_2026-11-02t194422.0698398_re.png",
+   "day": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "e26b3351aa006a25"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/02/murio-un-turista-argentino-de-26-anos-en-un-accidente-de-ala-delta-en-rio-de-janeiro",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Murió un turista argentino de 26 años en un accidente de ala delta en Río de Janeiro",
+   "link": "https://www.filo.news/noticia/2026/11/02/murio-un-turista-argentino-de-26-anos-en-un-accidente-de-ala-delta-en-rio-de-janeiro",
+   "excerpt": "La víctima fue identificada como Adrián Guillermo Arismendi, oriundo de Puerto Deseado, Santa Cruz, quien había llegado a la ciudad el domingo junto a un grupo de amigos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/diseosin_título_-_2026-11-02t191842.8859001_re.png",
+   "day": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "4017dc7269f43c3f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/02/quilmes-rock-2027-estos-son-los-artistas-que-encabezaran-el-festival",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Quilmes Rock 2027: estos son los artistas que encabezaran el festival",
+   "link": "https://www.filo.news/noticia/2026/11/02/quilmes-rock-2027-estos-son-los-artistas-que-encabezaran-el-festival",
+   "excerpt": "El evento presentó oficialmente los artistas que serán parte de su nueva edición y puso en marcha la cuenta regresiva para una nueva celebración multitudinaria del rock y de la música argentina.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/quilmes2931_re.jpg",
+   "day": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "20886057aa5032c7"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/02/pity-alvarez-declaro-por-primera-vez-en-el-juicio-en-su-contra-estaba-acorralado-por-un-tipo-peligroso",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "\"Pity\" Álvarez declaró por primera vez en el juicio en su contra: \"Estaba acorralado por un tipo peligroso\"",
+   "link": "https://www.filo.news/noticia/2026/11/02/pity-alvarez-declaro-por-primera-vez-en-el-juicio-en-su-contra-estaba-acorralado-por-un-tipo-peligroso",
+   "excerpt": "El cantante describió ante la Justicia los hechos de inseguridad que atravesó en las horas previas al homicidio de 2018 y detalló el estado de alerta permanente en el que vivía dentro de su edificio.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/filo1-_2026-11-02t192458.8721343_re.png",
+   "day": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "3b1771f145fc5e44"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/02/cfk",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Cristina Kirchner se reunió con los estrategas electorales de Lula da Silva",
+   "link": "https://www.filo.news/noticia/2026/11/02/cfk",
+   "excerpt": "La ex presidenta y Sergio Massa recibieron al equipo que diseñó la campaña del mandatario brasileño para evaluar nuevos esquemas de comunicación digital y organizar un frente unificado de cara a 2027.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/filo1-_2026-11-02t190641.3644401_re.png",
+   "day": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "ee8fa4cfcc8d9c12"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201633",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Economía crece 0,2% y gobierno sigue optimista; tribunales ordenan a tres fundaciones restituir $1.000 millones por Caso Convenios, y Corte Suprema establece que gatos son “seres sintientes”",
+   "link": "https://www.ciperchile.cl/2026/11/02/radar-02-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-02-11-26",
+   "excerpt": "La entrada Economía crece 0,2% y gobierno sigue optimista; tribunales ordenan a tres fundaciones restituir $1.000 millones por Caso Convenios, y Corte Suprema establece que gatos son “seres sintientes” se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "edbc888db4314b67"
+  },
   {
    "id": "https://www.theverge.com/?p=1024496",
    "source": "The Verge · Apple",
@@ -122,7 +265,7 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Anthropic clamps down on Claude’s AI video game clones",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-   "excerpt": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will…",
+   "excerpt": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will…",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "day": "2026-11-02",
    "first_seen": "2026-11-02",
@@ -161,8 +304,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1M+ Solo Grok Bot Business (Full Course)",
    "link": "https://www.youtube.com/watch?v=67BmkptgTms",
-   "excerpt": "I sit down with Nick, co-founder of Orgo, to break down how to build a custom Grok Bot for a business and sell it for $25,000 up front with a $3,000-a-month retainer. Nick demos Bops, the agent platform he built in a 36-hour weekend, where each bot has its own phone number,…",
-   "image": "https://i3.ytimg.com/vi/67BmkptgTms/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/67BmkptgTms/hqdefault.jpg",
    "day": "2026-11-02",
    "first_seen": "2026-11-02",
    "og_checked": false,
@@ -520,58 +663,6 @@ window.CIRCO = {
    "article": "757a39726c67dea4"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/02/la-afa-dio-a-conocer-los-audios-del-var-de-las-expulsiones-de-martinez-quarta-y-montiel-en-el-superclasico",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La AFA dio a conocer los audios del VAR de las expulsiones de Martínez Quarta y Montiel en el Superclásico",
-   "link": "https://www.filo.news/noticia/2026/11/02/la-afa-dio-a-conocer-los-audios-del-var-de-las-expulsiones-de-martinez-quarta-y-montiel-en-el-superclasico",
-   "excerpt": "Martínez Quarta y Montiel tuvieron dejaron con 9 hombres al Millonario, que sufrió la desventaja numérica y cayó 1-0 ante Boca en La Bombonera.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/noname1440_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "d110eada413894fd"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/villarruel-y-milei-volveran-a-coincidir-en-un-acto-oficial",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Villarruel y Milei volverán a coincidir en un acto oficial",
-   "link": "https://www.filo.news/noticia/2026/11/02/villarruel-y-milei-volveran-a-coincidir-en-un-acto-oficial",
-   "excerpt": "La Casa Rosada invitará a la vicepresidenta al encuentro que encabezará el Papa León XIV el próximo domingo en el Palacio Libertad.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/noname8528_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "39c537d51504b403"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/elecciones-en-eeuu-trump-pone-a-prueba-su-poder-y-los-democratas-buscan-recuperar-el-congreso",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Elecciones en EEUU: Trump pone a prueba su poder y los demócratas buscan recuperar el Congreso",
-   "link": "https://www.filo.news/noticia/2026/11/02/elecciones-en-eeuu-trump-pone-a-prueba-su-poder-y-los-democratas-buscan-recuperar-el-congreso",
-   "excerpt": "Los estadounidenses elegirán a los 435 integrantes de la Cámara de Representantes, renovarán un tercio del Senado y votarán por gobernadores en 36 estados. La baja popularidad del presidente, el costo de vida y la política migratoria marcarán el pulso de la elección.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/trump9292_re.jpg",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "d0ee882301b1c27a"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/milei-vuelve-a-viajar-a-espana-en-medio-de-su-feroz-enfrentamiento-con-pedro-sanchez",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Milei vuelve a viajar a España en medio de su feroz enfrentamiento con Pedro Sánchez",
-   "link": "https://www.filo.news/noticia/2026/11/02/milei-vuelve-a-viajar-a-espana-en-medio-de-su-feroz-enfrentamiento-con-pedro-sanchez",
-   "excerpt": "El mandatario regresará al viejo continente semanas después de su última visita y los fuertes cruces con su par español.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/noname7566_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "2387e7fd441f62a6"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201608",
    "source": "CIPER",
    "category": "Notis",
@@ -596,32 +687,6 @@ window.CIRCO = {
    "first_seen": "2026-11-02",
    "og_checked": true,
    "article": "9ec835fcb2a0b04c"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/01/ecuador-impuso-un-nuevo-toque-de-queda-en-cinco-provincias-para-combatir-el-crimen-organizado",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Ecuador impuso un nuevo toque de queda en cinco provincias para combatir el crimen organizado",
-   "link": "https://www.filo.news/noticia/2026/11/01/ecuador-impuso-un-nuevo-toque-de-queda-en-cinco-provincias-para-combatir-el-crimen-organizado",
-   "excerpt": "El Gobierno de Daniel Noboa restringió la circulación nocturna hasta el 10 de noviembre en distintas zonas del país. La medida busca reforzar los operativos de seguridad frente al narcotráfico y la violencia.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/20261029t112927z_1226248682_rc2a8oawh7vd_rtrmadp_3_ecuador-crime2119_re.jpg",
-   "day": "2026-11-01",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "5dfc3b25fcf74c3c"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/01/franco-colapinto-termino-octavo-en-el-gp-de-mexico-de-f1-verstappen-gano-y-antonelli-se-consagro-campeon",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Franco Colapinto terminó octavo en el GP de México de F1: Verstappen ganó y Antonelli se consagró campeón",
-   "link": "https://www.filo.news/noticia/2026/11/01/franco-colapinto-termino-octavo-en-el-gp-de-mexico-de-f1-verstappen-gano-y-antonelli-se-consagro-campeon",
-   "excerpt": "El argentino volvió a sumar puntos con Alpine en el Autódromo Hermanos Rodríguez. Max Verstappen se quedó con la victoria y el italiano de Mercedes hizo historia a los 20 años y los dos pilotos de Alpine esperan una resolución de los comisarios.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/20261101t182626z_1180109972_up1emb11f81gb_rtrmadp_3_motor-f1-mexico9655_re.jpg",
-   "day": "2026-11-01",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "ea36c477c8a242e2"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201601",
@@ -726,19 +791,6 @@ window.CIRCO = {
    "first_seen": "2026-11-01",
    "og_checked": true,
    "article": "1141d735814d70aa"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/01/diputados-el-gobierno-busca-tratar-los-proyectos-de-malvinas-y-banco-central-antes-del-presupuesto-2027",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Diputados: el Gobierno busca tratar los proyectos de Malvinas y Banco Central antes del Presupuesto 2027",
-   "link": "https://www.filo.news/noticia/2026/11/01/diputados-el-gobierno-busca-tratar-los-proyectos-de-malvinas-y-banco-central-antes-del-presupuesto-2027",
-   "excerpt": "La Libertad Avanza consiguió dictámenes para ambas iniciativas y apunta al 12 de noviembre para llevarlas al recinto. Las negociaciones con bloques aliados obligaron a modificar los textos originales.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/01/202606260624018-scaled7445_re.jpg",
-   "day": "2026-11-01",
-   "first_seen": "2026-11-01",
-   "og_checked": false,
-   "article": "a6aee0e361d55145"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201597",
@@ -1261,19 +1313,6 @@ window.CIRCO = {
    "article": "f32d6b7597e3a449"
   },
   {
-   "id": "https://www.theverge.com/?p=1022628",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-   "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
-   "excerpt": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-31",
-   "og_checked": true,
-   "article": "642b907af74ae973"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201555",
    "source": "CIPER",
    "category": "Notis",
@@ -1285,19 +1324,6 @@ window.CIRCO = {
    "first_seen": "2026-10-30",
    "og_checked": true,
    "article": "a4a61035b5b06f64"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1022347",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple’s new laptop supports one of the coolest features for color pros",
-   "link": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
-   "excerpt": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": true,
-   "article": "ee1848d7b713009c"
   },
   {
    "id": "https://www.theverge.com/?p=1022519",
@@ -1318,8 +1344,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "SaaS is dead?",
    "link": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
-   "excerpt": "In this solo episode, I explain why I say SaaS is dead and what I see taking its place. For 15 years, SaaS meant paying engineers to build a tool and charging per seat, and now models like Opus 5.5, GPT-6, and Argon make the tool easy to build. I walk through what I call smart…",
-   "image": "https://i2.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": false,
@@ -1487,8 +1513,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "$100M ARR Founder: The Next Big AI Opportunity",
    "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
-   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
-   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
    "og_checked": false,
@@ -1677,19 +1703,6 @@ window.CIRCO = {
    "article": "131e2b1e1b46450e"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201517",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Mauricio Daza por el Caso Guerra: “Si la fiscalía decide no formalizar a Chadwick, estaría incumpliendo sus deberes”",
-   "link": "https://www.ciperchile.cl/2026/10/28/mauricio-daza-por-el-caso-guerra-si-la-fiscalia-decide-no-formalizar-a-chadwick-estaria-incumpliendo-sus-deberes/?utm_source=rss&utm_medium=rss&utm_campaign=mauricio-daza-por-el-caso-guerra-si-la-fiscalia-decide-no-formalizar-a-chadwick-estaria-incumpliendo-sus-deberes",
-   "excerpt": "La entrada Mauricio Daza por el Caso Guerra: “Si la fiscalía decide no formalizar a Chadwick, estaría incumpliendo sus deberes” se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/Chadwick-v1_X.png",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "a656deb32de87da1"
-  },
-  {
    "id": "https://www.theverge.com/?p=1019076",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1846,19 +1859,6 @@ window.CIRCO = {
    "article": "8f996c247d6da017"
   },
   {
-   "id": "yt:video:35sh2FkQn-k",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
-   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
-   "excerpt": "",
-   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": ""
-  },
-  {
    "id": "https://www.theverge.com/?p=1018264",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1877,8 +1877,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
-   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -2013,19 +2013,6 @@ window.CIRCO = {
    "first_seen": "2026-10-24",
    "og_checked": true,
    "article": "96883a13a6db8639"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1017600",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-   "excerpt": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-23",
-   "first_seen": "2026-10-23",
-   "og_checked": true,
-   "article": "dd390d9e8ff66368"
   },
   {
    "id": "https://musebyclios.com/?p=133954",
@@ -2163,8 +2150,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -2236,6 +2223,19 @@ window.CIRCO = {
    "article": "c82641345d533e09"
   },
   {
+   "id": "yt:video:jEOUUAPC1sc",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
+   "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "https://musebyclios.com/?p=133860",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -2293,64 +2293,12 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "Meta Muse Will Create 1,000 Millionaires",
    "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP In this solo episode, I break down how to make money with Meta Muse by mining Facebook groups, Marketplace, and Instagram to match buyers with sellers. The idea came after my wife and I had a baby and the…",
-   "image": "https://i1.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
    "day": "2026-10-19",
    "first_seen": "2026-10-20",
    "og_checked": false,
    "article": ""
-  },
-  {
-   "id": "https://musebyclios.com/?p=133803",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "e.l.f.’s ‘Magical Sisters,’ Bill Murray’s ‘Ghostbusters’ Riff and More Halloween Highlights",
-   "link": "https://musebyclios.com/advertising/e-l-f-s-magical-sisters-bill-murrays-ghostbusters-riff-and-more-halloween-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=e-l-f-s-magical-sisters-bill-murrays-ghostbusters-riff-and-more-halloween-highlights",
-   "excerpt": "Here, we look at some notable All Hallows spots from near and far. Thanks to Muse sibling Ads of the World for scaring up this fine selection. e.l.f. ‘The e.l.f.ing Magical Sisters’Agency: Hungry Man Who needs a wand when you’ve got a blush stick? e.l.f. Cosmetics conjures up…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/19094026/elf.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": true,
-   "article": "0fef43ae665b5f6f"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133811",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Michelob Ultra Goes All In for NBA Champion Knicks",
-   "link": "https://musebyclios.com/sports/michelob-ultra-goes-all-in-on-nba-champion-knicks/?utm_source=rss&utm_medium=rss&utm_campaign=michelob-ultra-goes-all-in-on-nba-champion-knicks",
-   "excerpt": "If a single soul in NYC’s five boroughs didn’t know the Knicks start defending their NBA Championship tomorrow, they sure will now, courtesy of Michelob Ultra. In this instance, “full court press” hyperbole might accurately apply, as the brewer unveils a deep roster of promos…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/19133634/bottle-1.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": true,
-   "article": "c2700c5e18cc57dc"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133809",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Elon Musk’s Flying Car Gives Creatives a New Brief",
-   "link": "https://musebyclios.com/musings/elon-musks-flying-car-gives-creatives-a-new-brief/?utm_source=rss&utm_medium=rss&utm_campaign=elon-musks-flying-car-gives-creatives-a-new-brief",
-   "excerpt": "Elon shows us a car leaving the ground, and people immediately start imagining what they would do with it Their commute. Their traffic. Their first day owning one. All the things that could go wrong. That’s the part I’m most interested in. How quickly someone else’s product…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/19111958/car.jpeg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": true,
-   "article": "09969d8cadc84a60"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133795",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "Goodwipes’ Meredith Diehn Sees Wellness Becoming More Social, Experiential and Fun",
-   "link": "https://musebyclios.com/2-minutes-with/goodwipes-meredith-diehn-sees-wellness-becoming-more-social-experiential-and-fun/?utm_source=rss&utm_medium=rss&utm_campaign=goodwipes-meredith-diehn-sees-wellness-becoming-more-social-experiential-and-fun",
-   "excerpt": "“Run clubs, wellness communities and smaller IRL experiences are exploding because people are craving more ways to spend quality time together,” Goodwipes SVP of marketing Meredith Diehn tells Muse. “Reach isn’t the only thing brands should be thinking about. Building community…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/18174623/Meredith_Diehn.jpg",
-   "day": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "og_checked": true,
-   "article": "4ac96f067cb5228e"
   }
  ]
 };
