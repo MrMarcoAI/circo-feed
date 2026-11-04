@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-04T14:47-03:00",
+ "updated": "2026-11-04T17:06-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -156,6 +156,58 @@ window.CIRCO = {
    "article": "760e527e68e04e11"
   },
   {
+   "id": "https://www.theverge.com/?p=1025370",
+   "source": "The Verge · Google",
+   "category": "Tech + la IA",
+   "title": "Google’s Pixel 11 phones are up to 27 percent off",
+   "link": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
+   "excerpt": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11 Pro XL with a longer-lasting battery is hundreds off its…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-review-photos-5.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+   "day": "2026-11-04",
+   "first_seen": "2026-11-04",
+   "og_checked": true,
+   "article": "cb19d8b13bf888db"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1026586",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Nothing teases a screen-free AI device ahead of launch next month",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+   "excerpt": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+   "day": "2026-11-04",
+   "first_seen": "2026-11-04",
+   "og_checked": true,
+   "article": "2671e2fea11466d0"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1026464",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+   "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+   "excerpt": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-04",
+   "first_seen": "2026-11-04",
+   "og_checked": true,
+   "article": "805e4dee3e693883"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1026474",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "ChatGPT will now make you animated GIFs",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+   "excerpt": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-04",
+   "first_seen": "2026-11-04",
+   "og_checked": true,
+   "article": "ccb7b88e5881a72a"
+  },
+  {
    "id": "https://www.theverge.com/?p=1026365",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -193,6 +245,19 @@ window.CIRCO = {
    "first_seen": "2026-11-04",
    "og_checked": true,
    "article": "e5616083334b4a90"
+  },
+  {
+   "id": "https://musebyclios.com/?p=134288",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "KFC’s in League With Marvel’s Doctor Doom, So It Survives an Apocalypse",
+   "link": "https://musebyclios.com/film-tv/kfcs-in-league-with-marvels-doctor-doom-so-it-survives-an-apocalypse/?utm_source=rss&utm_medium=rss&utm_campaign=kfcs-in-league-with-marvels-doctor-doom-so-it-survives-an-apocalypse",
+   "excerpt": "Fast feeders are deep into Marvel-powered Doom-scrolling these days, with three notable chains launching collabs with the upcoming MCU film Avengers: Doomsday, which drops on Dec. 18. First, KFC takes the notion of doom to heart, striking a bargain with the film’s villain in…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/11/04122540/DOOM-x.jpg",
+   "day": "2026-11-04",
+   "first_seen": "2026-11-04",
+   "og_checked": true,
+   "article": "c67f2a70c836c0a1"
   },
   {
    "id": "https://musebyclios.com/?p=134269",
@@ -312,6 +377,45 @@ window.CIRCO = {
    "article": "ba5a774c083483a7"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/04/nelson-castro-le-salvo-la-vida-a-una-mujer-en-pleno-vuelo-a-roma",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Nelson Castro le salvó la vida a una mujer en pleno vuelo a Roma",
+   "link": "https://www.filo.news/noticia/2026/11/04/nelson-castro-le-salvo-la-vida-a-una-mujer-en-pleno-vuelo-a-roma",
+   "excerpt": "El periodista se encontraba rumbo a Roma cuando tuvo que asistir a una pasajera que sufrió una descompensación cardíaca.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/nelson1235_re.jpg",
+   "day": "2026-11-04",
+   "first_seen": "2026-11-04",
+   "og_checked": false,
+   "article": "27bee7f5e7bd219c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/04/chapeaux-se-prepara-para-dar-su-primer-show-quienes-son-las-5-integrantes-de-la-nueva-banda-pop-argentina",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Chapeaux se prepara para dar su primer show: Quiénes son las 5 integrantes de la nueva banda pop argentina",
+   "link": "https://www.filo.news/noticia/2026/11/04/chapeaux-se-prepara-para-dar-su-primer-show-quienes-son-las-5-integrantes-de-la-nueva-banda-pop-argentina",
+   "excerpt": "Luego de atravesar un exigente proceso de selección, Juana, Maga, Kala, Mia y Adol comienzan una nueva etapa en sus carreras musicales. Y se prepararan para dar su primer show en vivo.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/chapeaux8884_re.jpg",
+   "day": "2026-11-04",
+   "first_seen": "2026-11-04",
+   "og_checked": false,
+   "article": "9feb10ee9a00b87a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/04/giro-en-el-caso-usdlibra-casacion-concedio-un-recurso-para-revisar-el-rol-de-los-damnificados",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Giro en el caso $LIBRA: Casación concedió un recurso para revisar el rol de los damnificados",
+   "link": "https://www.filo.news/noticia/2026/11/04/giro-en-el-caso-usdlibra-casacion-concedio-un-recurso-para-revisar-el-rol-de-los-damnificados",
+   "excerpt": "La decisión judicial reactiva la disputa por la participación de los ahorristas en el proceso que investiga la presunta estafa financiera y tiene entre los imputados al Presidente.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/filo1-_2026-11-04t153733.7263980_re.png",
+   "day": "2026-11-04",
+   "first_seen": "2026-11-04",
+   "og_checked": false,
+   "article": "134aabd26d17538f"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/04/el-mensaje-del-papa-leon-xiv-antes-de-su-arribo-a-la-argentina-que-este-viaje-fortalezca-la-fe",
    "source": "Filo.News",
    "category": "Notis",
@@ -416,17 +520,17 @@ window.CIRCO = {
    "article": "d1f03742045c9bc6"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/04/eeuu",
+   "id": "https://www.filo.news/noticia/2026/11/04/elecciones-en-ee-uu-los-democratas-le-arrebataron-el-control-del-congreso-a-los-republicanos",
    "source": "Filo.News",
    "category": "Notis",
    "title": "Elecciones en EE.UU.: los demócratas le arrebataron el control del Congreso a los republicanos",
-   "link": "https://www.filo.news/noticia/2026/11/04/eeuu",
+   "link": "https://www.filo.news/noticia/2026/11/04/elecciones-en-ee-uu-los-democratas-le-arrebataron-el-control-del-congreso-a-los-republicanos",
    "excerpt": "La \"ola azul\" le da a la oposición un resultado que sume al oficialismo en una crisis de cara a los dos últimos años de mandato de Donald Trump.",
    "image": "https://assets.dev-filo.dift.io/img/2026/11/04/noname9514_re.jpg",
    "day": "2026-11-04",
    "first_seen": "2026-11-04",
    "og_checked": false,
-   "article": ""
+   "article": "9ee98164de3285d7"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201702",
@@ -521,8 +625,8 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1025694",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
    "title": "Apple starts giving Siri AI access to third-party apps",
    "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
    "excerpt": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context,…",
@@ -534,8 +638,8 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1025002",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
    "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
    "excerpt": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation,…",
@@ -716,7 +820,7 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1025482",
-   "source": "The Verge · IA",
+   "source": "The Verge · Google",
    "category": "Tech + la IA",
    "title": "OpenAI says ChatGPT is catching up to Google in search",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
@@ -1077,45 +1181,6 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": false,
    "article": "fec149f17216f623"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/03/daniela-spalla-sobre-su-nueva-musica-hay-una-intencion-muy-clara-de-contar-de-donde-vengo",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Daniela Spalla sobre su nueva música: “Hay una intención muy clara de contar de dónde vengo”",
-   "link": "https://www.filo.news/noticia/2026/11/03/daniela-spalla-sobre-su-nueva-musica-hay-una-intencion-muy-clara-de-contar-de-donde-vengo",
-   "excerpt": "En diálogo con Filo.News, la artista habló sobre el proceso personal detrás de sus nuevas canciones, los cambios que atravesó a lo largo de su carrera y las particularidades de los públicos argentino y mexicano.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/capturadepantalla_2026-11-03_a_la(s)_3.01.56 p. m.7242_re.png",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": false,
-   "article": "9bd1685b87f3347f"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/03/la-side-lanzo-una-insolita-campana-para-reclutar-espias-por-la-web-y-con-afiches",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La SIDE lanzó una insólita campaña para reclutar espías por la web y con afiches",
-   "link": "https://www.filo.news/noticia/2026/11/03/la-side-lanzo-una-insolita-campana-para-reclutar-espias-por-la-web-y-con-afiches",
-   "excerpt": "A través de carteles en facultades y una inscripción abierta en internet, el organismo de inteligencia habilitó un concurso público para sumar agentes a su escuela de formación.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/filo1-_2026-11-03t180035.0779563_re.png",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": false,
-   "article": "11d0f3f7a9b93848"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/03/la-iglesia-advirtio-por-la-situacion-social-del-pais-a-dias-de-la-llegada-del-papa",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La Iglesia advirtió por la situación social del país a días de la llegada del Papa",
-   "link": "https://www.filo.news/noticia/2026/11/03/la-iglesia-advirtio-por-la-situacion-social-del-pais-a-dias-de-la-llegada-del-papa",
-   "excerpt": "Desde la Pastoral Social señalaron que existen sectores postergados que necesitan asistencia, reclamaron oportunidades de trabajo y convocaron a escuchar el mensaje de León XIV sin distinciones partidarias.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/filo1-_2026-11-03t161651.8091215_re.png",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": false,
-   "article": "b5604fc7d4629965"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201673",
@@ -1753,32 +1818,6 @@ window.CIRCO = {
    "first_seen": "2026-10-28",
    "og_checked": true,
    "article": "ecac2f89ae260edf"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1021339",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-   "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-   "excerpt": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "72a7d7119e3501fd"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1020960",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
-   "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
-   "excerpt": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura - the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens - which just went on sale today. Xreal and Google…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&strip=all&crop=0%2C6.9047953874279%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "4034315f635079fe"
   },
   {
    "id": "yt:video:st61aKW8P5A",
