@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-03T16:51-03:00",
+ "updated": "2026-11-03T22:43-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -65,6 +65,45 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1025835",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
+   "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
+   "excerpt": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/liverewind.jpg?quality=90&strip=all&crop=0%2C7.0647280488212%2C100%2C85.870543902358&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "eb7862244282a8c3"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025748",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+   "link": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+   "excerpt": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is getting a couple of upgrades with the price hike,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "d4699187ec2d55af"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025694",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Apple starts giving Siri AI access to third-party apps",
+   "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+   "excerpt": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C10.736302165243%2C100%2C78.527395669513&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "b41888ef3e46f2f7"
+  },
+  {
    "id": "https://www.theverge.com/?p=1025002",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -92,8 +131,8 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1025245",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
    "title": "Apple is all in on AI — its own and everyone else’s",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
    "excerpt": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued…",
@@ -234,6 +273,19 @@ window.CIRCO = {
    "article": "52cbd5a321afd92b"
   },
   {
+   "id": "https://www.theverge.com/?p=1025826",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Please stop asking me when the AI bubble will pop",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+   "excerpt": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "e6d67466a73f38cd"
+  },
+  {
    "id": "https://www.theverge.com/?p=1025482",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -245,6 +297,45 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": true,
    "article": "3014cc79e4ae354a"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025411",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Google is entirely disabling Search in schools that don’t want AI",
+   "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+   "excerpt": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "fe7f7bf132f0603d"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1026085",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "The biggest modding site in PC gaming is taking a stance on AI",
+   "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+   "excerpt": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "8b9e9046d3da440a"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025745",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Those Jeff Bezos hair transplant photos are very fake",
+   "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+   "excerpt": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "4a89fd94887cee5c"
   },
   {
    "id": "https://www.theverge.com/?p=1025596",
@@ -273,19 +364,6 @@ window.CIRCO = {
    "article": "bd4b64b234417dbe"
   },
   {
-   "id": "https://www.theverge.com/?p=1025411",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Google is entirely disabling Search in schools that don’t want AI",
-   "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-   "excerpt": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "fe7f7bf132f0603d"
-  },
-  {
    "id": "https://www.theverge.com/?post_type=vm_stream&p=1020640",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -297,19 +375,6 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": true,
    "article": "15e77cdbe4b1badd"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1025242",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-   "excerpt": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2236733575.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "e5294349415e27b1"
   },
   {
    "id": "https://musebyclios.com/?p=134225",
@@ -455,6 +520,110 @@ window.CIRCO = {
    "article": "2eed4f862702e654"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/03/la-oposicion-apunto-contra-caputo-tras-el-anuncio-del-freno-de-embargos-para-pymes",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La oposición apuntó contra Caputo tras el anuncio del freno de embargos para pymes",
+   "link": "https://www.filo.news/noticia/2026/11/03/la-oposicion-apunto-contra-caputo-tras-el-anuncio-del-freno-de-embargos-para-pymes",
+   "excerpt": "Dirigentes opositores cuestionaron el paquete de alivio de ARCA al advertir que la falta de consumo y la recesión son las verdaderas causas del cierre de negocios.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/filo1-_2026-11-03t212021.6487842_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "0ec5b5d64f9abebf"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/universitarios-realizaran-la-marcha-de-las-velas-por-el-cumplimiento-de-la-ley-de-financiamiento",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Universitarios realizarán la Marcha de las Velas por el cumplimiento de la Ley de Financiamiento",
+   "link": "https://www.filo.news/noticia/2026/11/03/universitarios-realizaran-la-marcha-de-las-velas-por-el-cumplimiento-de-la-ley-de-financiamiento",
+   "excerpt": "Bajo el lema “No permitamos que se apague la Universidad”, este miércoles desde las 17 horas, las agrupaciones universitarias se concentrarán en Plaza Houssay y marcharán hacia Tribunales, donde se llevará adelante una clase pública de Derecho Constitucional.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/17278965072410021222797_re.jpg",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "c4539e8c1583d712"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/ed-sheeran-confirmo-a-los-artistas-que-abriran-su-show-en-argentina-quienes-son-los-invitados-del-loop-tour",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Ed Sheeran confirmó a los artistas que abrirán su show en Argentina: quiénes son los invitados del LOOP Tour",
+   "link": "https://www.filo.news/noticia/2026/11/03/ed-sheeran-confirmo-a-los-artistas-que-abriran-su-show-en-argentina-quienes-son-los-invitados-del-loop-tour",
+   "excerpt": "El artista se presentará el 29 de noviembre en el Estadio Huracán tras 7 años de su última visita.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/edsheeran2848_re.jpg",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "940d862e325aa19f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/crisis-en-paraguay-cayo-uno-de-los-bancos-mas-grandes-y-renuncio-el-titular-del-banco-central",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Crisis en Paraguay: cayó uno de los bancos más grandes y renunció el titular del Banco Central",
+   "link": "https://www.filo.news/noticia/2026/11/03/crisis-en-paraguay-cayo-uno-de-los-bancos-mas-grandes-y-renuncio-el-titular-del-banco-central",
+   "excerpt": "Con las cuentas congeladas y la actividad comercial semiparalizada, el Ejecutivo impulsa una ley de urgencia en el Congreso para activar los fondos de garantía y devolver los depósitos en Ueno Bank.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/filo1-_2026-11-03t210659.7839821_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "6b81c1b9e6ec531c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/entrevistamos-a-sandra-jimenez-la-directora-de-youtube-music-que-sera-homenajeada-en-la-semana-de-los-latin-grammy",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Entrevistamos a Sandra Jiménez, la directora de YouTube Music que será homenajeada en la semana de los Latin GRAMMY",
+   "link": "https://www.filo.news/noticia/2026/11/03/entrevistamos-a-sandra-jimenez-la-directora-de-youtube-music-que-sera-homenajeada-en-la-semana-de-los-latin-grammy",
+   "excerpt": "La Academia Latina de la Grabación eligió por primera vez a una brasileña entre sus Leading Ladies of Entertainment. La ejecutiva cuenta cómo se enteró de la distinción, qué vio en artistas argentinos como CA7RIEL & Paco Amoroso o Milo J, y por qué una charla con Juanes la ayudó…",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/proyectonuevo-_2026-11-03t184157.7573454_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "9972ca63c04eb91c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/el-gobierno-propuso-al-juez-daniel-rafecas-para-la-camara-de-casacion",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Gobierno propuso al juez Daniel Rafecas para la Cámara de Casación",
+   "link": "https://www.filo.news/noticia/2026/11/03/el-gobierno-propuso-al-juez-daniel-rafecas-para-la-camara-de-casacion",
+   "excerpt": "La postulación oficial inició su trámite en el Senado y dejará vacante el juzgado a cargo de causas de alto impacto político e institucional.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/filo1-_2026-11-03t204851.6384278_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "ed80613fa191e5c8"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/milei-viaja-a-madrid-para-participar-de-un-foro-y-reunirse-con-el-lider-de-vox",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Milei viaja a Madrid para participar de un foro y reunirse con el líder de Vox",
+   "link": "https://www.filo.news/noticia/2026/11/03/milei-viaja-a-madrid-para-participar-de-un-foro-y-reunirse-con-el-lider-de-vox",
+   "excerpt": "Con la mira puesta en las elecciones del 29 de noviembre en el país europeo, compartirá un encuentro con Santiago Abascal en su primera jornada antes de sumarse al plenario de jefes de Estado.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/filo1-_2026-11-03t201434.8978518_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "10f5d4e5ab84813b"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/caso-loan-peritos-forenses-y-policias-declaran-en-una-nueva-audiencia-del-juicio",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Caso Loan: peritos forenses y policías declaran en una nueva audiencia del juicio",
+   "link": "https://www.filo.news/noticia/2026/11/03/caso-loan-peritos-forenses-y-policias-declaran-en-una-nueva-audiencia-del-juicio",
+   "excerpt": "El debate oral avanza con el análisis de pruebas periciales y de evidencia en la causa central mientras diez personas continúan imputadas por entorpecimiento.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/filo1-_2026-11-03t202636.7125084_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "91f6d9b28c78665a"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/03/lali-maria-becerra-y-emilia-se-pronunciaron-contra-el-ataque-transodiante-en-los-bosques-de-palermo",
    "source": "Filo.News",
    "category": "Notis",
@@ -466,6 +635,19 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": false,
    "article": "ceafa2f85e5e29e7"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/conflicto-en-el-garrahan-convocan-a-un-acto-en-reclamo-de-insumos-y-personal",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Conflicto en el Garrahan: convocan a un acto en reclamo de insumos y personal",
+   "link": "https://www.filo.news/noticia/2026/11/03/conflicto-en-el-garrahan-convocan-a-un-acto-en-reclamo-de-insumos-y-personal",
+   "excerpt": "Con una concentración en el acceso principal, denunciarán los problemas en la atención de niños y la persecución disciplinaria contra delegados del hospital.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/filo1-_2026-11-03t203604.6516685_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "f0a5018c388436f1"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/03/violento-ataque-a-trabajadoras-sexuales-travestis-trans-en-los-bosques-de-palermo",
@@ -494,6 +676,19 @@ window.CIRCO = {
    "article": "a2cf284e4775f900"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/03/operativo-por-leon-xiv-como-funcionaran-los-colectivos-trenes-y-vuelo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Operativo por León XIV: cómo funcionarán los colectivos, trenes y vuelo",
+   "link": "https://www.filo.news/noticia/2026/11/03/operativo-por-leon-xiv-como-funcionaran-los-colectivos-trenes-y-vuelo",
+   "excerpt": "Con servicios de madrugada en los ferrocarriles del AMBA y limitaciones en el espacio aéreo, el esquema oficial busca facilitar el traslado masivo de fieles hacia las actividades programadas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/filo1-_2026-11-03t183606.6788826_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "fec149f17216f623"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/03/daniela-spalla-sobre-su-nueva-musica-hay-una-intencion-muy-clara-de-contar-de-donde-vengo",
    "source": "Filo.News",
    "category": "Notis",
@@ -505,6 +700,19 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": false,
    "article": "9bd1685b87f3347f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/03/la-side-lanzo-una-insolita-campana-para-reclutar-espias-por-la-web-y-con-afiches",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La SIDE lanzó una insólita campaña para reclutar espías por la web y con afiches",
+   "link": "https://www.filo.news/noticia/2026/11/03/la-side-lanzo-una-insolita-campana-para-reclutar-espias-por-la-web-y-con-afiches",
+   "excerpt": "A través de carteles en facultades y una inscripción abierta en internet, el organismo de inteligencia habilitó un concurso público para sumar agentes a su escuela de formación.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/03/filo1-_2026-11-03t180035.0779563_re.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": "11d0f3f7a9b93848"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/03/la-iglesia-advirtio-por-la-situacion-social-del-pais-a-dias-de-la-llegada-del-papa",
@@ -546,17 +754,17 @@ window.CIRCO = {
    "article": "b14559c29a575fac"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/03/caputo-anuncio-un-paquete-de-medidas-de-alivio-para",
+   "id": "https://www.filo.news/noticia/2026/11/03/caputo-anuncio-un-paquete-de-medidas-de-alivio-impositivo-para-las-pequenas-y-medianas-empresas",
    "source": "Filo.News",
    "category": "Notis",
    "title": "Caputo anunció un paquete de medidas de alivio impositivo para las pequeñas y medianas empresas",
-   "link": "https://www.filo.news/noticia/2026/11/03/caputo-anuncio-un-paquete-de-medidas-de-alivio-para",
+   "link": "https://www.filo.news/noticia/2026/11/03/caputo-anuncio-un-paquete-de-medidas-de-alivio-impositivo-para-las-pequenas-y-medianas-empresas",
    "excerpt": "Los anuncios incluyen la suspensión de embargos hasta mayo del año que viene y mayores facilidades para saldar deudas.",
    "image": "https://assets.dev-filo.dift.io/img/2026/11/03/noname8397_re.jpg",
    "day": "2026-11-03",
    "first_seen": "2026-11-03",
    "og_checked": false,
-   "article": ""
+   "article": "a23b4bf4eb350d2a"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/03/fecha-16-del-torneo-clausura-boca-argentinos-y-rosario-juegan-en-simultaneo-por-la-definicion-de-la-tabla-anual",
@@ -596,6 +804,32 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": false,
    "article": "d0ee882301b1c27a"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201673",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Condenan por lavado de activos a general (r) Óscar Izurieta; Kast desafía a la oposición a presentar acusación contra Rabat, y fundación de los Tompkins dona 22 mil hectáreas para futuro parque en Magallanes",
+   "link": "https://www.ciperchile.cl/2026/11/03/radar-03-11-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-03-11-2026",
+   "excerpt": "La entrada Condenan por lavado de activos a general (r) Óscar Izurieta; Kast desafía a la oposición a presentar acusación contra Rabat, y fundación de los Tompkins dona 22 mil hectáreas para futuro parque en Magallanes se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "1f6724809571e965"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201665",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Fiscalía se ausenta de audiencia en la que se revisó nueva prisión preventiva de Hermosilla",
+   "link": "https://www.ciperchile.cl/2026/11/03/fiscalia-se-ausenta-de-audiencia-en-la-que-se-reviso-nueva-prision-preventiva-de-hermosilla/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalia-se-ausenta-de-audiencia-en-la-que-se-reviso-nueva-prision-preventiva-de-hermosilla",
+   "excerpt": "La entrada Fiscalía se ausenta de audiencia en la que se revisó nueva prisión preventiva de Hermosilla se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/fiscalia_web.png",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "og_checked": true,
+   "article": "c3fc8c2037428be6"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201654",
@@ -702,58 +936,6 @@ window.CIRCO = {
    "article": "59669eb4ce774911"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/02/nuevo-record-el-dolar-oficial-trepo-a-usd1-565-y-empato-el-precio-del-blue",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Nuevo récord: el dólar oficial trepó a $1.565 y empató el precio del blue",
-   "link": "https://www.filo.news/noticia/2026/11/02/nuevo-record-el-dolar-oficial-trepo-a-usd1-565-y-empato-el-precio-del-blue",
-   "excerpt": "La divisa en el Banco Nación alcanzó su valor más alto de la historia y empujó a las demás opciones del mercado en una rueda difícil para los bonos del país.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/filo1-_2026-11-02t194422.0698398_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-03",
-   "og_checked": false,
-   "article": "e26b3351aa006a25"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/murio-un-turista-argentino-de-26-anos-en-un-accidente-de-ala-delta-en-rio-de-janeiro",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Murió un turista argentino de 26 años en un accidente de ala delta en Río de Janeiro",
-   "link": "https://www.filo.news/noticia/2026/11/02/murio-un-turista-argentino-de-26-anos-en-un-accidente-de-ala-delta-en-rio-de-janeiro",
-   "excerpt": "La víctima fue identificada como Adrián Guillermo Arismendi, oriundo de Puerto Deseado, Santa Cruz, quien había llegado a la ciudad el domingo junto a un grupo de amigos.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/diseosin_título_-_2026-11-02t191842.8859001_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-03",
-   "og_checked": false,
-   "article": "4017dc7269f43c3f"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/pity-alvarez-declaro-por-primera-vez-en-el-juicio-en-su-contra-estaba-acorralado-por-un-tipo-peligroso",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "\"Pity\" Álvarez declaró por primera vez en el juicio en su contra: \"Estaba acorralado por un tipo peligroso\"",
-   "link": "https://www.filo.news/noticia/2026/11/02/pity-alvarez-declaro-por-primera-vez-en-el-juicio-en-su-contra-estaba-acorralado-por-un-tipo-peligroso",
-   "excerpt": "El cantante describió ante la Justicia los hechos de inseguridad que atravesó en las horas previas al homicidio de 2018 y detalló el estado de alerta permanente en el que vivía dentro de su edificio.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/filo1-_2026-11-02t192458.8721343_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-03",
-   "og_checked": false,
-   "article": "3b1771f145fc5e44"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/cfk",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Cristina Kirchner se reunió con los estrategas electorales de Lula da Silva",
-   "link": "https://www.filo.news/noticia/2026/11/02/cfk",
-   "excerpt": "La ex presidenta y Sergio Massa recibieron al equipo que diseñó la campaña del mandatario brasileño para evaluar nuevos esquemas de comunicación digital y organizar un frente unificado de cara a 2027.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/filo1-_2026-11-02t190641.3644401_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-03",
-   "og_checked": false,
-   "article": "ee8fa4cfcc8d9c12"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201633",
    "source": "CIPER",
    "category": "Notis",
@@ -765,19 +947,6 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": true,
    "article": "edbc888db4314b67"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1024496",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
-   "link": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-   "excerpt": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot's hardware \"has been finished for around two years,\" but that the software isn't ready. The device's…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": true,
-   "article": "f5a6afe9996e3c06"
   },
   {
    "id": "https://www.applesfera.com/apple-1/apple-lleva-cuatro-anos-bloqueando-a-rusia-iphone-siguen-llegando-hay-letra-pequena-precios-altos",
@@ -819,39 +988,13 @@ window.CIRCO = {
    "article": "76e4d881a4aa0e6f"
   },
   {
-   "id": "https://www.theverge.com/?p=1024632",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Anthropic clamps down on Claude’s AI video game clones",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-   "excerpt": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": true,
-   "article": "ef0271738d48f34e"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1024604",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-   "excerpt": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": true,
-   "article": "995dfc6af7b2f92f"
-  },
-  {
    "id": "yt:video:67BmkptgTms",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
    "title": "The $1M+ Solo Grok Bot Business (Full Course)",
    "link": "https://www.youtube.com/watch?v=67BmkptgTms",
-   "excerpt": "I sit down with Nick, co-founder of Orgo, to break down how to build a custom Grok Bot for a business and sell it for $25,000 up front with a $3,000-a-month retainer. Nick demos Bops, the agent platform he built in a 36-hour weekend, where each bot has its own phone number,…",
-   "image": "https://i3.ytimg.com/vi/67BmkptgTms/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/67BmkptgTms/hqdefault.jpg",
    "day": "2026-11-02",
    "first_seen": "2026-11-02",
    "og_checked": false,
@@ -975,97 +1118,6 @@ window.CIRCO = {
    "article": "7039417a7e74eff1"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/02/los-jubilados-de-la-ciudad-ya-pueden-viajar-gratis-en-subte-directamente-con-su-dni",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Los jubilados de la Ciudad ya pueden viajar gratis en subte directamente con su DNI",
-   "link": "https://www.filo.news/noticia/2026/11/02/los-jubilados-de-la-ciudad-ya-pueden-viajar-gratis-en-subte-directamente-con-su-dni",
-   "excerpt": "La iniciativa está destinada a quienes perciban ingresos de hasta 2,5 veces el haber mínimo y abarca a jubilados, pensionados y retirados tanto de las Fuerzas Armadas como de las fuerzas de seguridad.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/20260226020230206417_re.jpg",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "f247a91f19a97692"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/arde-bogota-grabo-un-disco-sobre-la-soledad-sin-dejar-de-tocar-codo-a-codo",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Arde Bogotá grabó un disco sobre la soledad digital sin dejar de tocar codo a codo",
-   "link": "https://www.filo.news/noticia/2026/11/02/arde-bogota-grabo-un-disco-sobre-la-soledad-sin-dejar-de-tocar-codo-a-codo",
-   "excerpt": "Jota y Pepe, baterista y bajista de la banda de Cartagena, hablaron con Filo.News sobre \"Manufacturas del Club de la Gente Sola\". Cómo fue grabar los cuatro en vivo con Joe Chiccarelli, qué recuerdan de su visita a Argentina y cuándo podrían volver.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/proyectonuevo-_2026-11-02t180406.2068525_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "227c2bdc50f9ad8d"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/pedro-sanchez-apunto-contra-milei-antes-de-su-viaje-espana-se-gobierna-desde-aqui",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Pedro Sánchez apuntó contra Milei antes de que viaje a Madrid: \"España se gobierna desde aquí\"",
-   "link": "https://www.filo.news/noticia/2026/11/02/pedro-sanchez-apunto-contra-milei-antes-de-su-viaje-espana-se-gobierna-desde-aqui",
-   "excerpt": "En la previa de la Cumbre Iberoamericana en Madrid, el mandatario español cuestionó el avance de la ultraderecha internacional y rechazó cualquier intento de influencia política desde Buenos Aires.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/filo1-_2026-11-02t183650.6551747_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "23dcfc044f7e17a2"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/visita-del-papa-leon-xiv-como-obtener-el-qr-para-ingresar-a-las-zonas-de-seguridad",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Visita del papa León XIV: cómo obtener el QR para ingresar a las zonas de seguridad",
-   "link": "https://www.filo.news/noticia/2026/11/02/visita-del-papa-leon-xiv-como-obtener-el-qr-para-ingresar-a-las-zonas-de-seguridad",
-   "excerpt": "Las limitaciones y el operativo de seguridad comenzarán a regir el sábado 7 de noviembre y durarán hasta el miércoles 11 de noviembre.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/diseosin_título_-_2026-10-28t200624.6038448_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "0186487bed60eade"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/lali-y-pedro-rosemblat-los-datos-que-queres-saber-del-casamiento",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Lali y Pedro Rosemblat: los datos que queres saber del casamiento",
-   "link": "https://www.filo.news/noticia/2026/11/02/lali-y-pedro-rosemblat-los-datos-que-queres-saber-del-casamiento",
-   "excerpt": "La pareja se casó un una residencia en San Telmo y compartió algo de la intimidad del festejo.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/lalii9920_re.jpg",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "3c30f1dc31cf988b"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/elecciones-2027-habilitan-el-padron-provisorio-para-chequear-datos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Elecciones 2027: cómo consultar el padrón provisorio y verificar datos",
-   "link": "https://www.filo.news/noticia/2026/11/02/elecciones-2027-habilitan-el-padron-provisorio-para-chequear-datos",
-   "excerpt": "Los electores podrán ingresar al sitio oficial para constatar sus datos y pedir modificaciones de cara a los comicios presidenciales y legislativos del próximo año.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/filo1-_2026-11-02t180955.8951878_re.png",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": ""
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/02/llega-la-tercera-temporada-de-lol-argentina-conoce-a-los-nuevos-participantes",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Llega la tercera temporada de “LOL Argentina”: conocé a los nuevos participantes",
-   "link": "https://www.filo.news/noticia/2026/11/02/llega-la-tercera-temporada-de-lol-argentina-conoce-a-los-nuevos-participantes",
-   "excerpt": "Diez de los mejores comediantes de Argentina estarán encerrados juntos durante seis horas con un único objetivo: hacer reír a los demás sin soltar una sola carcajada.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/02/marcelotinelliar_lol_s34013_re.jpg",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "og_checked": false,
-   "article": "0f222374ccc619dc"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201608",
    "source": "CIPER",
    "category": "Notis",
@@ -1103,32 +1155,6 @@ window.CIRCO = {
    "first_seen": "2026-11-02",
    "og_checked": true,
    "article": "6efba0458a54b552"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1024219",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple’s HomeView could add security camera features",
-   "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-   "excerpt": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions.…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-01",
-   "first_seen": "2026-11-01",
-   "og_checked": true,
-   "article": "56e6f5cbb74d886f"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1024108",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "HomePod Mini 2 first look: three things I love and one disappointment",
-   "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-   "excerpt": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&strip=all&crop=0%2C19.336604742637%2C80.59453125%2C63.294399383614&w=1200",
-   "day": "2026-11-01",
-   "first_seen": "2026-11-01",
-   "og_checked": true,
-   "article": "6e49897be0d99145"
   },
   {
    "id": "https://www.applesfera.com/aplicaciones-ipados/freeform-app-desconocida-apple-yo-uso-ipad-para-organizarme-cabeza",
@@ -1495,19 +1521,6 @@ window.CIRCO = {
    "article": "f32d6b7597e3a449"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201555",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Desempleo sube a 9,8%; camioneros de San Antonio inician el primer paro del gobierno de Kast, y Corte confirma prisión preventiva para alcalde de Río Bueno por cohecho y lavado de activos",
-   "link": "https://www.ciperchile.cl/2026/10/29/desempleo-sube-a-98-camioneros-de-san-antonio-inician-el-primer-paro-del-gobierno-de-kast-y-corte-confirma-prision-preventiva-para-alcalde-de-rio-bueno-por-cohecho-y-lavado-de-activos/?utm_source=rss&utm_medium=rss&utm_campaign=desempleo-sube-a-98-camioneros-de-san-antonio-inician-el-primer-paro-del-gobierno-de-kast-y-corte-confirma-prision-preventiva-para-alcalde-de-rio-bueno-por-cohecho-y-lavado-de-activos",
-   "excerpt": "La entrada Desempleo sube a 9,8%; camioneros de San Antonio inician el primer paro del gobierno de Kast, y Corte confirma prisión preventiva para alcalde de Río Bueno por cohecho y lavado de activos se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-30",
-   "og_checked": true,
-   "article": "a4a61035b5b06f64"
-  },
-  {
    "id": "https://www.theverge.com/?p=1022519",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1526,8 +1539,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "SaaS is dead?",
    "link": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
-   "excerpt": "In this solo episode, I explain why I say SaaS is dead and what I see taking its place. For 15 years, SaaS meant paying engineers to build a tool and charging per seat, and now models like Opus 5.5, GPT-6, and Argon make the tool easy to build. I walk through what I call smart…",
-   "image": "https://i2.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": false,
@@ -1599,19 +1612,6 @@ window.CIRCO = {
    "article": "bfc087a1b4259675"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201510",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "La FIFA en Chile: la autonomía como moneda de cambio",
-   "link": "https://www.ciperchile.cl/2026/10/29/la-fifa-en-chile-la-autonomia-como-moneda-de-cambio/?utm_source=rss&utm_medium=rss&utm_campaign=la-fifa-en-chile-la-autonomia-como-moneda-de-cambio",
-   "excerpt": "La entrada La FIFA en Chile: la autonomía como moneda de cambio se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/mmilad-infantino.jpg",
-   "day": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "og_checked": true,
-   "article": "5f5ab6ac281ea1b0"
-  },
-  {
    "id": "https://www.theverge.com/?p=1020811",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1651,26 +1651,13 @@ window.CIRCO = {
    "article": "4034315f635079fe"
   },
   {
-   "id": "https://www.theverge.com/?p=1020626",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-   "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-   "excerpt": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "og_checked": true,
-   "article": "31e9a320c25fb030"
-  },
-  {
    "id": "yt:video:st61aKW8P5A",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
    "title": "$100M ARR Founder: The Next Big AI Opportunity",
    "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
-   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
-   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
    "og_checked": false,
@@ -1859,19 +1846,6 @@ window.CIRCO = {
    "article": "131e2b1e1b46450e"
   },
   {
-   "id": "https://www.theverge.com/?p=1019076",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Google’s next Genie AI model generates more realistic experiences",
-   "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-   "excerpt": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&strip=all&crop=0%2C3.0468973306098%2C100%2C93.90620533878&w=1200",
-   "day": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "og_checked": true,
-   "article": "6b9e3ee1668a8f68"
-  },
-  {
    "id": "https://musebyclios.com/?p=134049",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -1950,39 +1924,13 @@ window.CIRCO = {
    "article": "e4ce90fca5dcd5b5"
   },
   {
-   "id": "yt:video:35sh2FkQn-k",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
-   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
-   "excerpt": "",
-   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-11-03",
-   "og_checked": false,
-   "article": ""
-  },
-  {
-   "id": "https://www.theverge.com/?p=1018264",
-   "source": "The Verge · Google",
-   "category": "Tech + la IA",
-   "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-   "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-   "excerpt": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_Kevin_Roose.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "og_checked": true,
-   "article": "741204a424b0f092"
-  },
-  {
    "id": "yt:video:HKNpCwG3nlc",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
-   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -2228,8 +2176,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The 9 Stages of AI Agent Adoption, Explained",
    "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "In this solo episode, I break down the war on AI agents, from Amazon blocking Meta's Muse to Delta treating outside booking agents as unauthorized automated activity to Yelp charging agents for access. I share how I think about an agent, as a customer with a credit card who…",
-   "image": "https://i3.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-21",
    "first_seen": "2026-10-21",
    "og_checked": false,
@@ -2299,6 +2247,32 @@ window.CIRCO = {
    "first_seen": "2026-10-21",
    "og_checked": true,
    "article": "c82641345d533e09"
+  },
+  {
+   "id": "yt:video:tpZOU1ugODQ",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Meta Muse Will Create 1,000 Millionaires",
+   "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "yt:video:jEOUUAPC1sc",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
+   "link": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/jEOUUAPC1sc/hqdefault.jpg",
+   "day": "2026-10-20",
+   "first_seen": "2026-11-03",
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://musebyclios.com/?p=133860",
