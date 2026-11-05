@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-05T14:51-03:00",
+ "updated": "2026-11-05T17:20-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,45 @@ window.CIRCO = {
   }
  ],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1026570",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The touchscreen MacBook Pro is a winner",
+   "link": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review",
+   "excerpt": "I keep forgetting the MacBook Pro with PROLED XDR Display has a touchscreen. I've been testing this new laptop, one of the most impressive Apple has ever created, for the better part of a week. I can't stop noticing some of its other features: the slimmer design, the improved…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09105-edit.jpeg?quality=90&strip=all&crop=0%2C10.752726382539%2C100%2C78.494547234923&w=1200",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": true,
+   "article": "14d129a4e0a41ea5"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1027177",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The new iMac is a good desktop computer that needs a redesign",
+   "link": "https://www.theverge.com/tech/1027177/2026-imac-m6-review",
+   "excerpt": "I'm a simple guy. I usually work from my MacBook Neo wherever I end up sitting in my house. And while I have monitors, mice, and keyboards to plug it into, I often end up leaning over the MacBook and doing none of that. I rarely even sit at my office desk, which has done […]",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09145-Edit.png?quality=90&strip=all&crop=0%2C10.752726382539%2C100%2C78.494547234923&w=1200",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": true,
+   "article": "956230149a88ffbb"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1027250",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The M6 MacBook Pro is probably the last of its kind",
+   "link": "https://www.theverge.com/tech/1027250/m6-macbook-pro-review",
+   "excerpt": "On November 6th, Apple will release an all-new MacBook Pro. It's thinner and lighter and has a beautiful OLED touchscreen. It is very likely what every new MacBook Pro will look like in a couple of years. The M6 MacBook Pro, which is also out on the 6th, is not that laptop.…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0%2C10.738463156834%2C100%2C78.523073686333&w=1200",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": true,
+   "article": "96ca655ad52fb57f"
+  },
   {
    "id": "https://www.applesfera.com/iphone/llevo-anos-escuchando-mismos-mitos-carga-descarga-iphone-vamos-a-ponerle-remedio-1",
    "source": "Applesfera",
@@ -195,6 +234,45 @@ window.CIRCO = {
    "article": "b7da1638d555df68"
   },
   {
+   "id": "https://www.theverge.com/?p=1028015",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Muse has a voice mode now",
+   "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+   "excerpt": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": true,
+   "article": "392244ebfcecf1fe"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1027652",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Claude AI can plug directly into your bank account",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+   "excerpt": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": true,
+   "article": "957a2831b2a29b69"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1026927",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "‘Total repudiation’: The blue wave is about to hit AI",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+   "excerpt": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": true,
+   "article": "db7bfaa01f96e01f"
+  },
+  {
    "id": "https://www.theverge.com/?p=1026282",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -260,12 +338,25 @@ window.CIRCO = {
    "article": "1a1ef0fce5d6f9db"
   },
   {
+   "id": "https://musebyclios.com/?p=134350",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Unwrapping Sydney Sweeney’s Holiday Strategy",
+   "link": "https://musebyclios.com/musings/unwrapping-sydney-sweeneys-holiday-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=unwrapping-sydney-sweeneys-holiday-strategy",
+   "excerpt": "After American Eagle’s “Sydney Sweeney Has Great Jeans” campaign, critics cried foul. Some argued the wordplay on “genes” evoked eugenics and carried racial undertones. Sweeney followed it with an ad for the sports betting app Novig, in which she was barely clothed (if at all),…",
+   "image": "https://clio-muse-prod-media.s3.amazonaws.com/wp-content/uploads/2024/07/12184714/Muse-2024.png",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": true,
+   "article": "dfbf772e992760b0"
+  },
+  {
    "id": "https://musebyclios.com/?p=134346",
    "source": "Muse by Clio",
    "category": "Publi",
    "title": "Levi’s Yeti Roars Atop the Week’s Best Campaigns",
    "link": "https://musebyclios.com/advertising/levis-yeti-roars-atop-the-weeks-best-campaigns/?utm_source=rss&utm_medium=rss&utm_campaign=levis-yeti-roars-atop-the-weeks-best-campaigns",
-   "excerpt": "This week’s best work, ranked by the Clios’ staff, features two impressive stop-motion campaigns and other excellent efforts. But nothing beats a Yeti, especially for the festive season. Bestie: A Claymation Yeti Stomps Through Levi’s Holiday Campaign This beast’s gets a sweet…",
+   "excerpt": "This week’s best work, ranked by the Clios’ staff, features two impressive stop-motion campaigns and other excellent efforts. But nothing beats a Yeti, especially for the festive season. Bestie: A Claymation Yeti Stomps Through Levi’s Holiday Campaign This beast gets a sweet…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/11/05120505/MIDI1.jpeg",
    "day": "2026-11-05",
    "first_seen": "2026-11-05",
@@ -416,6 +507,71 @@ window.CIRCO = {
    "article": "ee821d82adc2dd21"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/05/fallecio-patricia-walsh-hija-del-escritor-rodolfo-walsh-a-los-74-anos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Falleció Patricia Walsh, hija del escritor Rodolfo Walsh, a los 74 años",
+   "link": "https://www.filo.news/noticia/2026/11/05/fallecio-patricia-walsh-hija-del-escritor-rodolfo-walsh-a-los-74-anos",
+   "excerpt": "Fue diputada nacional e impulsora de la nulidad de las leyes de Punto Final y Obediencia Debida.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/72018)6941.avif",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": false,
+   "article": "bb7f4a3a3826883c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/05/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-brasil",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Corre Franco Colapinto en la Fórmula 1: días y horarios del GP de Brasil",
+   "link": "https://www.filo.news/noticia/2026/11/05/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-brasil",
+   "excerpt": "Tras no poder sumar puntos en México por una penalización, el piloto argentino volverá a la acción este fin de semana en el Autódromo José Carlos Pace.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/20261105t171035z_158248070_up1emb51bpkd8_rtrmadp_3_motor-f1-brazil1444_re.jpg",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": false,
+   "article": "6e8ff5067caa16fa"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/05/cordoba-un-ginecologo-fue-multado-por-usar-anteojos-con-capacidad-para-filmar-durante-una-consulta",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Córdoba: un ginecólogo fue multado por usar anteojos con capacidad para filmar durante una consulta",
+   "link": "https://www.filo.news/noticia/2026/11/05/cordoba-un-ginecologo-fue-multado-por-usar-anteojos-con-capacidad-para-filmar-durante-una-consulta",
+   "excerpt": "La Justicia le impuso una multa de $900.000 y estableció que deberá asistir obligatoriamente a un curso educativo sobre género.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/disenosin_título_-_2026-11-05t145833.0123940_re.png",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": false,
+   "article": "a2586eda6ada72dc"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/05/renuncio-santiago-pena-a-la-presidencia-de-paraguay-tras-el-colapso-de-ueno-bank",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Renunció Santiago Peña a la presidencia de Paraguay tras el colapso de Ueno Bank",
+   "link": "https://www.filo.news/noticia/2026/11/05/renuncio-santiago-pena-a-la-presidencia-de-paraguay-tras-el-colapso-de-ueno-bank",
+   "excerpt": "Acorralado por la falta de apoyo del Partido Colorado y a minutos de que Diputados votara su juicio político, dejó el cargo luego del congelamiento de fondos que afectó a tres millones de ahorristas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/filo1-_2026-11-05t143252.6996111_re.png",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": false,
+   "article": "bbd8df03f275a0b9"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/05/agenda-filo-los-espectaculos-que-no-te-podes-perder",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Agenda Filo: los espectáculos que no te podes perder",
+   "link": "https://www.filo.news/noticia/2026/11/05/agenda-filo-los-espectaculos-que-no-te-podes-perder",
+   "excerpt": "Te dejamos los eventos más destacados de la cartelera para que elijas cuál de todas las opciones se acopla a tus gustos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/agendanoviembre29204_re.png",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": false,
+   "article": "195bc4426349bd71"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/10/30/xlov-el-grupo-de-k-pop-que-rompe-las-normas-de-la-musica-oriental-llega-a-la-argentina",
    "source": "Filo.News",
    "category": "Notis",
@@ -481,17 +637,17 @@ window.CIRCO = {
    "article": "4248d48c876639be"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/05/cr7",
+   "id": "https://www.filo.news/noticia/2026/11/05/cristiano-ronaldo-anuncio-su-retiro-de-la-seleccion-de-portugal",
    "source": "Filo.News",
    "category": "Notis",
    "title": "Cristiano Ronaldo anunció su retiro de la Selección de Portugal",
-   "link": "https://www.filo.news/noticia/2026/11/05/cr7",
+   "link": "https://www.filo.news/noticia/2026/11/05/cristiano-ronaldo-anuncio-su-retiro-de-la-seleccion-de-portugal",
    "excerpt": "CR7 le puso punto final a su carrera con la mayor tras 23 años. \"Gracias por haberme permitido vivir un sueño que comenzó cuando no era más que un niño en Madeira corriendo detrás de una pelota\", dijo.",
    "image": "https://assets.dev-filo.dift.io/img/2026/11/05/noname2511_re.png",
    "day": "2026-11-05",
    "first_seen": "2026-11-05",
    "og_checked": false,
-   "article": "fc32cd7be3b4107a"
+   "article": "1c0b6482ef8372ec"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/05/escandalo-ueno-bank-en-paraguay-tenia-usd-14-millones-de-conmebol-y-los-futbolistas-que-eran-clientes-preparan-demanda",
@@ -507,17 +663,17 @@ window.CIRCO = {
    "article": "d27ca9726cf785d0"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/05/milei-en-espana",
+   "id": "https://www.filo.news/noticia/2026/11/05/milei-se-cruzo-con-pedro-sanchez-asi-fue-el-frio-saludo-entre-los-mandatarios",
    "source": "Filo.News",
    "category": "Notis",
    "title": "Milei se cruzó con Pedro Sánchez: así fue el frío saludo entre los mandatarios",
-   "link": "https://www.filo.news/noticia/2026/11/05/milei-en-espana",
+   "link": "https://www.filo.news/noticia/2026/11/05/milei-se-cruzo-con-pedro-sanchez-asi-fue-el-frio-saludo-entre-los-mandatarios",
    "excerpt": "El presidente viajó a España para participar de la XXX Cumbre Iberoamericana. En medio de la tensión bilateral, volvió a criticar al socialismo.",
    "image": "https://assets.dev-filo.dift.io/img/2026/11/05/noname9553_re.png",
    "day": "2026-11-05",
    "first_seen": "2026-11-05",
    "og_checked": false,
-   "article": ""
+   "article": "3195bea34f84ab9b"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201756",
@@ -664,7 +820,7 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1026787",
-   "source": "The Verge · IA",
+   "source": "The Verge · Google",
    "category": "Tech + la IA",
    "title": "Gemini for Home now plugs into AT&T’s smart security system",
    "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
@@ -713,32 +869,6 @@ window.CIRCO = {
    "first_seen": "2026-11-04",
    "og_checked": true,
    "article": "a9e8a33bef2a8304"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1026586",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Nothing teases a screen-free AI device ahead of launch next month",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-   "excerpt": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": true,
-   "article": "2671e2fea11466d0"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1026464",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-   "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-   "excerpt": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": true,
-   "article": "805e4dee3e693883"
   },
   {
    "id": "yt:video:b3tMAOFB71o",
@@ -1040,71 +1170,6 @@ window.CIRCO = {
    "article": "ce327b5c3fa72f55"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/04/nelson-castro-le-salvo-la-vida-a-una-mujer-en-pleno-vuelo-a-roma",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Nelson Castro le salvó la vida a una mujer en pleno vuelo a Roma",
-   "link": "https://www.filo.news/noticia/2026/11/04/nelson-castro-le-salvo-la-vida-a-una-mujer-en-pleno-vuelo-a-roma",
-   "excerpt": "El periodista se encontraba rumbo a Roma cuando tuvo que asistir a una pasajera que sufrió una descompensación cardíaca.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/nelson1235_re.jpg",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": false,
-   "article": "27bee7f5e7bd219c"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/04/caputo-tras-las-elecciones-en-estados-unidos-para-la-argentina-no-cambia-nada",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Caputo tras las elecciones en Estados Unidos: \"Para la Argentina no cambia nada\"",
-   "link": "https://www.filo.news/noticia/2026/11/04/caputo-tras-las-elecciones-en-estados-unidos-para-la-argentina-no-cambia-nada",
-   "excerpt": "El ministro aseguró que el país no dependerá de un salvataje de Trump, descartó un atraso cambiario y advirtió que el Banco Central está listo para frenar cualquier intento de corrida.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/filo1-_2026-11-04t180840.6965920_re.png",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": false,
-   "article": "a6263b7482b9715a"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/04/en-lujan-kicillof-remarco-la-fuerza-del-mensaje-de-leon-xiv-y-el-rechazo-a-la-crueldad",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "En Luján, Kicillof remarcó la fuerza del mensaje de León XIV y el rechazo a la crueldad",
-   "link": "https://www.filo.news/noticia/2026/11/04/en-lujan-kicillof-remarco-la-fuerza-del-mensaje-de-leon-xiv-y-el-rechazo-a-la-crueldad",
-   "excerpt": "En conferencia de prensa junto al arzobispo Scheinig y el intendente Boto, afirmó que Buenos Aires abraza una agenda centrada en la pobreza, el trabajo y la solidaridad.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/filo1-_2026-11-04t172702.7086010_re.png",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": false,
-   "article": "b1599abd7cd99553"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/04/chapeaux-se-prepara-para-dar-su-primer-show-quienes-son-las-5-integrantes-de-la-nueva-banda-pop-argentina",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Chapeaux se prepara para dar su primer show: Quiénes son las 5 integrantes de la nueva banda pop argentina",
-   "link": "https://www.filo.news/noticia/2026/11/04/chapeaux-se-prepara-para-dar-su-primer-show-quienes-son-las-5-integrantes-de-la-nueva-banda-pop-argentina",
-   "excerpt": "Luego de atravesar un exigente proceso de selección, Juana, Maga, Kala, Mia y Adol comienzan una nueva etapa en sus carreras musicales. Y se prepararan para dar su primer show en vivo.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/chapeaux8884_re.jpg",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": false,
-   "article": "9feb10ee9a00b87a"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/04/giro-en-el-caso-usdlibra-casacion-concedio-un-recurso-para-revisar-el-rol-de-los-damnificados",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Giro en el caso $LIBRA: Casación concedió un recurso para revisar el rol de los damnificados",
-   "link": "https://www.filo.news/noticia/2026/11/04/giro-en-el-caso-usdlibra-casacion-concedio-un-recurso-para-revisar-el-rol-de-los-damnificados",
-   "excerpt": "La decisión judicial reactiva la disputa por la participación de los ahorristas en el proceso que investiga la presunta estafa financiera y tiene entre los imputados al Presidente.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/filo1-_2026-11-04t153733.7263980_re.png",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": false,
-   "article": "134aabd26d17538f"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201724",
    "source": "CIPER",
    "category": "Notis",
@@ -1259,32 +1324,6 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": true,
    "article": "cea09cba3ca02ad8"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1025015",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price",
-   "link": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
-   "excerpt": "The iPad Mini sometimes feels like a trap. It is, in some ways and for some people, the perfect iPad: meaningfully larger than my phone's screen but still small and light enough to use for reading in bed or gaming on the subway. As most of the rest of the iPad line has tilted…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0002.jpg?quality=90&strip=all&crop=0%2C11.942378189973%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "f548d1380e85874f"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1025185",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
-   "link": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion",
-   "excerpt": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Monday will require developers to declare if their apps allow…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925968/acastro_STK045_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "717e3ee59da8e5d1"
   },
   {
    "id": "https://www.applesfera.com/tutoriales/cada-vez-estoy-cerca-policia-explica-como-encontrar-iphone-robado",
@@ -1532,19 +1571,6 @@ window.CIRCO = {
    "first_seen": "2026-11-03",
    "og_checked": true,
    "article": "4520501e8ad5198e"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1024915",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
-   "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
-   "excerpt": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-02",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "f8bee6eaabce0fd0"
   },
   {
    "id": "https://www.theverge.com/?p=1024807",
