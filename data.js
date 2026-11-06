@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-06T14:12-03:00",
+ "updated": "2026-11-06T16:44-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,19 @@ window.CIRCO = {
   }
  ],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1028813",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
+   "link": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+   "excerpt": "Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. \"It's been wonderful to see how quickly developers have embraced iPhone Duo, and we're grateful for their…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1188.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "og_checked": true,
+   "article": "d074012bc6f31e17"
+  },
   {
    "id": "https://www.theverge.com/?p=1028663",
    "source": "The Verge · Apple",
@@ -154,6 +167,19 @@ window.CIRCO = {
    "first_seen": "2026-11-06",
    "og_checked": false,
    "article": "b6a881ad5d1e8aab"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1028871",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+   "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+   "excerpt": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&w=1200",
+   "day": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "og_checked": true,
+   "article": "60c72e7613398426"
   },
   {
    "id": "https://www.theverge.com/?p=1028609",
@@ -377,6 +403,71 @@ window.CIRCO = {
    "article": "3e8705fa8de74ab8"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/06/milei-califico-a-los-empresarios-como-heroes-y-destaco-su-rol-en-el-desarrollo-del-pais",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Milei calificó a los empresarios como \"héroes\" y destacó su rol en el desarrollo del país",
+   "link": "https://www.filo.news/noticia/2026/11/06/milei-califico-a-los-empresarios-como-heroes-y-destaco-su-rol-en-el-desarrollo-del-pais",
+   "excerpt": "Durante un encuentro de fin de año de la Sociedad Rural Argentina, el mandatario elogió a los empresarios, aseguró que son quienes generan riqueza y cuestionó el rol del Estado.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/capturadepantalla_2026-11-06_a_la(s)_3.41.25 p. m.8708_re.png",
+   "day": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "og_checked": false,
+   "article": "46782dccd47946ad"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/06/alex-caniggia-apunto-contra-su-madre-hay-vinculos-que-no-merecen-preservarse",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Alex Caniggia apuntó contra su madre: \"Hay vínculos que no merecen preservarse\"",
+   "link": "https://www.filo.news/noticia/2026/11/06/alex-caniggia-apunto-contra-su-madre-hay-vinculos-que-no-merecen-preservarse",
+   "excerpt": "El influencer grabó un fuerte discurso contra Mariana Nannis quien tuvo polémicas declaraciones contra su nieta, y la pareja de su hijo.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/alex6815_re.png",
+   "day": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "og_checked": false,
+   "article": "94ff3c4bb319f06e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/06/visita-del-papa-leon-xiv-a-la-ciudad-de-buenos-aires-como-funcionara-el-transporte",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Visita del papa León XIV a la Ciudad de Buenos Aires: cómo funcionará el transporte",
+   "link": "https://www.filo.news/noticia/2026/11/06/visita-del-papa-leon-xiv-a-la-ciudad-de-buenos-aires-como-funcionara-el-transporte",
+   "excerpt": "El Gobierno de la Ciudad de Buenos Aires oficializó un cronograma operativo que regirá para el transporte público de pasajeros ante la llegada del Sumo Pontífice.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/202511251102801-scaled9588_re.jpg",
+   "day": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "og_checked": false,
+   "article": "baf73d0b24ccd19b"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/06/stranger-things-tendra-una-precuela-se-conocieron-las-primeras-imagenes-y-los-detalles-de-la-nueva-historia",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "“Stranger Things” tendrá una precuela: se conocieron las primeras imágenes y los detalles de la nueva historia",
+   "link": "https://www.filo.news/noticia/2026/11/06/stranger-things-tendra-una-precuela-se-conocieron-las-primeras-imagenes-y-los-detalles-de-la-nueva-historia",
+   "excerpt": "La serie precuela de los hermanos Duffer y Kate Trefry, ambientada en la década de 1950, será dirigida por Joe Wright y contará con Trefry como showrunner de la serie. El material está previsto para el 2028.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/otrosmundos8318_re.png",
+   "day": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "og_checked": false,
+   "article": "54fc21d3c4b909fa"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/06/sin-pruebas-de-enriquecimiento-ilicito-la-causa-contra-adorni-saldria-de-comodoro-py",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Sin pruebas de enriquecimiento ilícito, la causa contra Adorni saldría de Comodoro Py",
+   "link": "https://www.filo.news/noticia/2026/11/06/sin-pruebas-de-enriquecimiento-ilicito-la-causa-contra-adorni-saldria-de-comodoro-py",
+   "excerpt": "El dictamen fiscal sostuvo que las pruebas no contradicen la compra de criptomonedas con la que adquirió inmuebles en Caballito e Indio Cuá, por lo que el trámite pasaría a la justicia tributaria.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/filo1-_2026-11-06t151956.6732269_re.png",
+   "day": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "og_checked": false,
+   "article": "bb09b7d53644f05d"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/06/leon-xiv-partio-rumbo-a-sudamerica-crisis-politica-en-paraguay-las-claves-del-colapso-de-ueno-bank-y-mas",
    "source": "Filo.News",
    "category": "Notis",
@@ -388,6 +479,19 @@ window.CIRCO = {
    "first_seen": "2026-11-06",
    "og_checked": false,
    "article": "9b39e9118862a9e1"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/06/tension-en-paraguay-el-senado-rechazo-el-pedido-de-pena-para-frenar-el-juicio-politico",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Tensión en Paraguay: el Senado rechazó el pedido de Peña para frenar el juicio político",
+   "link": "https://www.filo.news/noticia/2026/11/06/tension-en-paraguay-el-senado-rechazo-el-pedido-de-pena-para-frenar-el-juicio-politico",
+   "excerpt": "La Cámara alta mantuvo la citación fijada para este viernes tras rechazar los cuestionamientos por la falta de garantías legales y tiempo para analizar las pruebas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/filo1-_2026-11-06t153328.6682507_re.png",
+   "day": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "og_checked": false,
+   "article": "7db74411b06feedd"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/06/la-inflacion-en-la-ciudad-de-buenos-aires-fue-de-1-9-en-octubre",
@@ -442,17 +546,17 @@ window.CIRCO = {
    "article": "5ecd7f368f9d0dea"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/06/ueno-bank",
+   "id": "https://www.filo.news/noticia/2026/11/06/maniobras-fraudulentas-y-vinculos-con-el-poder-las-claves-para-entender-el-colapso-de-ueno-bank",
    "source": "Filo.News",
    "category": "Notis",
    "title": "Maniobras fraudulentas y vínculos con el poder: las claves para entender el colapso de Ueno Bank",
-   "link": "https://www.filo.news/noticia/2026/11/06/ueno-bank",
+   "link": "https://www.filo.news/noticia/2026/11/06/maniobras-fraudulentas-y-vinculos-con-el-poder-las-claves-para-entender-el-colapso-de-ueno-bank",
    "excerpt": "La caída de la entidad provocó una crisis política y social. El president Santiago Peña presentó su renuncia, pero el Congreso la rechazó y ahora deberá enfrentar un juicio político.",
    "image": "https://assets.dev-filo.dift.io/img/2026/11/06/noname8903_re.png",
    "day": "2026-11-06",
    "first_seen": "2026-11-06",
    "og_checked": false,
-   "article": ""
+   "article": "b2881f854f8e7159"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/06/bom-lleva-su-universo-a-la-pista-y-anuncia-unicas-3-fechas-en-vivo-en-buenos-aires",
@@ -481,17 +585,30 @@ window.CIRCO = {
    "article": "6b6dd480c5145a3a"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/06/carta-para-pena",
+   "id": "https://www.filo.news/noticia/2026/11/06/el-congreso-bloqueo-la-renuncia-de-santiago-pena-y-el-presidente-afirma-que-ejercera-su-derecho-a-defensa",
    "source": "Filo.News",
    "category": "Notis",
    "title": "El Congreso bloqueó la renuncia de Santiago Peña y el presidente afirma que ejercerá su derecho a defensa",
-   "link": "https://www.filo.news/noticia/2026/11/06/carta-para-pena",
+   "link": "https://www.filo.news/noticia/2026/11/06/el-congreso-bloqueo-la-renuncia-de-santiago-pena-y-el-presidente-afirma-que-ejercera-su-derecho-a-defensa",
    "excerpt": "Aún en funciones, Peña aseguró que se presentará ante el Parlamento para defenderse en el juicio político en su contra. Este viernes, medios paraguayos informaban que pidió una prórroga de 72 horas para armar su presentación.",
    "image": "https://assets.dev-filo.dift.io/img/2026/11/06/noname7729_re.png",
    "day": "2026-11-06",
    "first_seen": "2026-11-06",
    "og_checked": false,
-   "article": "c5dbbed868805c8b"
+   "article": "a860e1b7c1b6644e"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201778",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Del riesgo climático al riesgo económico",
+   "link": "https://www.ciperchile.cl/2026/11/06/del-riesgo-climatico-al-riesgo-economico/?utm_source=rss&utm_medium=rss&utm_campaign=del-riesgo-climatico-al-riesgo-economico",
+   "excerpt": "La entrada Del riesgo climático al riesgo económico se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "og_checked": true,
+   "article": "ff8c3d6ce0133b9f"
   },
   {
    "id": "https://www.theverge.com/?p=1026410",
@@ -726,19 +843,6 @@ window.CIRCO = {
    "first_seen": "2026-11-05",
    "og_checked": true,
    "article": "392244ebfcecf1fe"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1027652",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Claude AI can plug directly into your bank account",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-   "excerpt": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": true,
-   "article": "957a2831b2a29b69"
   },
   {
    "id": "https://musebyclios.com/?p=134350",
@@ -1038,84 +1142,6 @@ window.CIRCO = {
    "first_seen": "2026-11-05",
    "og_checked": false,
    "article": "fef61185be715a7f"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/05/resumen",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Milei se cruzó con Pedro Sánchez; Escándalo Ueno Bank en Paraguay; Cristiano Ronaldo anunció su retiro de la Selección; y más...",
-   "link": "https://www.filo.news/noticia/2026/11/05/resumen",
-   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/20261105t094708z_121369831_rc2khoa6e9jx_rtrmadp_3_iberoamerican-summit-spain7290_re.jpg",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": false,
-   "article": ""
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/05/fallecio-elsa-pavon-cofundadora-de-abuelas-y-un-simbolo-de-la-busqueda-de-nietos-apropiados",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Falleció Elsa Pavón, cofundadora de Abuelas y un símbolo de la búsqueda de nietos apropiados",
-   "link": "https://www.filo.news/noticia/2026/11/05/fallecio-elsa-pavon-cofundadora-de-abuelas-y-un-simbolo-de-la-busqueda-de-nietos-apropiados",
-   "excerpt": "Tras el secuestro de su familia en 1978, impulsó la búsqueda colectiva de bebés robados, presidió la Fundación Anahí e intervino en los juicios históricos contra los represores.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/filo1-_2026-11-05t140102.6959194_re.png",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": false,
-   "article": "666d0443cc0183e6"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/05/cyber-monday-el-boom-de-viajes-al-exterior-impulsa-un-crecimiento-del-18-en-las-ventas-de-la-asistencia-de-assist-card",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Cyber Monday: el boom de viajes al exterior impulsa un crecimiento del 18% en las ventas de la asistencia de Assist Card",
-   "link": "https://www.filo.news/noticia/2026/11/05/cyber-monday-el-boom-de-viajes-al-exterior-impulsa-un-crecimiento-del-18-en-las-ventas-de-la-asistencia-de-assist-card",
-   "excerpt": "En comparación con la edición del evento de e-commerce de 2025, la compañía líder en asistencia integral al viajero reportó un incremento en las transacciones del 20% interanual.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/tombarrettm0awnxnlamw-unsplash9261_re.jpg",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": false,
-   "article": "c410991de4e968da"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/05/frisco-king-samuel-l-jackson-protagonizara-el-spin-off-de-tulsa-king",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "\"Frisco King’: Samuel L. Jackson protagonizará el spin-off de \"Tulsa King\"",
-   "link": "https://www.filo.news/noticia/2026/11/05/frisco-king-samuel-l-jackson-protagonizara-el-spin-off-de-tulsa-king",
-   "excerpt": "La historia contará con la participación especial de Sylvester Stallone. Mirá el trailer y conocé la fecha de estreno en esta nota.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/20261007t010852z_387954059_rc21ynakojjo_rtrmadp_3_film-the-beast-premiere9140_re.jpg",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": false,
-   "article": "4248d48c876639be"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/05/cristiano-ronaldo-anuncio-su-retiro-de-la-seleccion-de-portugal",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Cristiano Ronaldo anunció su retiro de la Selección de Portugal",
-   "link": "https://www.filo.news/noticia/2026/11/05/cristiano-ronaldo-anuncio-su-retiro-de-la-seleccion-de-portugal",
-   "excerpt": "CR7 le puso punto final a su carrera con la mayor tras 23 años. \"Gracias por haberme permitido vivir un sueño que comenzó cuando no era más que un niño en Madeira corriendo detrás de una pelota\", dijo.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/noname2511_re.png",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": false,
-   "article": "1c0b6482ef8372ec"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/05/escandalo-ueno-bank-en-paraguay-tenia-usd-14-millones-de-conmebol-y-los-futbolistas-que-eran-clientes-preparan-demanda",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Escándalo Ueno Bank en Paraguay: tenía USD 14 millones de Conmebol y los futbolistas que eran clientes preparan demanda",
-   "link": "https://www.filo.news/noticia/2026/11/05/escandalo-ueno-bank-en-paraguay-tenia-usd-14-millones-de-conmebol-y-los-futbolistas-que-eran-clientes-preparan-demanda",
-   "excerpt": "La entidad tenía entre sus clientes a jugadores de la selección nacional y también registra depósitos de la Conmebol. Al menos diez futbolistas analizan avanzar con una acción judicial conjunta, el organismo sudamericano aseguró que las finales de la Libertadores y la…",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/didi1)1888_re.jpg",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": false,
-   "article": "d27ca9726cf785d0"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201768",
@@ -1508,19 +1534,6 @@ window.CIRCO = {
    "article": "b41888ef3e46f2f7"
   },
   {
-   "id": "https://www.theverge.com/?p=1025002",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-   "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-   "excerpt": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&strip=all&crop=0%2C26.334151505894%2C100%2C67.420228175335&w=1200",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "67d7908873dad0f2"
-  },
-  {
    "id": "https://www.theverge.com/?p=1025826",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1792,19 +1805,6 @@ window.CIRCO = {
    "first_seen": "2026-11-02",
    "og_checked": true,
    "article": "9ec835fcb2a0b04c"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201601",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "La remontada de Lula: el voto que no estaba en las encuestas",
-   "link": "https://www.ciperchile.cl/2026/11/01/la-remontada-de-lula-el-voto-que-no-estaba-en-las-encuestas/?utm_source=rss&utm_medium=rss&utm_campaign=la-remontada-de-lula-el-voto-que-no-estaba-en-las-encuestas",
-   "excerpt": "La entrada La remontada de Lula: el voto que no estaba en las encuestas se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1776415-scaled.jpg",
-   "day": "2026-11-01",
-   "first_seen": "2026-11-02",
-   "og_checked": true,
-   "article": "6efba0458a54b552"
   },
   {
    "id": "https://musebyclios.com/?p=134171",
