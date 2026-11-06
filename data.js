@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-05T17:20-03:00",
+ "updated": "2026-11-05T22:51-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -234,6 +234,45 @@ window.CIRCO = {
    "article": "b7da1638d555df68"
   },
   {
+   "id": "https://www.theverge.com/?p=1028454",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "excerpt": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": true,
+   "article": "d26796f2d1f234f7"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1028412",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Airbnb is working on an AI travel agent",
+   "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+   "excerpt": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": true,
+   "article": "ec2c529c8a706ef6"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1028302",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Perplexity launches its own take on AI agents for work",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "excerpt": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": true,
+   "article": "f9cfe2d745465f1b"
+  },
+  {
    "id": "https://www.theverge.com/?p=1028015",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -323,19 +362,6 @@ window.CIRCO = {
    "first_seen": "2026-11-05",
    "og_checked": true,
    "article": "72690b9f256b5c8f"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1027344",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Big Tech’s big AI buildout will not end until someone stops it",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-   "excerpt": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": true,
-   "article": "1a1ef0fce5d6f9db"
   },
   {
    "id": "https://musebyclios.com/?p=134350",
@@ -507,6 +533,32 @@ window.CIRCO = {
    "article": "ee821d82adc2dd21"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/05/el-gobierno-de-paraguay-afirma-desconocer-el-paradero-de-santiago-pena",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Gobierno de Paraguay afirma desconocer el paradero de Santiago Peña",
+   "link": "https://www.filo.news/noticia/2026/11/05/el-gobierno-de-paraguay-afirma-desconocer-el-paradero-de-santiago-pena",
+   "excerpt": "El vocero presidencial negó saber donde se encuentra Peña tras la crisis bancaria que se desató por el cierre del Ueno Bank. Además, Una diputada paraguaya pidió explicaciones por la supuesta llegada de Santiago Peña a la Argentina",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/2026112611050058340_re.jpg",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": false,
+   "article": "7aa5f26806b716a9"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/05/river-vencio-a-aldosivi-en-mar-del-plata-en-el-arranque-de-la-ultima-fecha-del-torneo-clausura-2026",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "River venció a Aldosivi en Mar del Plata en el arranque de la última fecha del Torneo Clausura 2026",
+   "link": "https://www.filo.news/noticia/2026/11/05/river-vencio-a-aldosivi-en-mar-del-plata-en-el-arranque-de-la-ultima-fecha-del-torneo-clausura-2026",
+   "excerpt": "Tras perder el Superclásico ante Boca, el Millonario venció 2 a 0 al Tiburón, en condición de visitante, y espera por rival en los playoffs.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/hwyzi1mxmaazpg45448_re.jpg",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": false,
+   "article": "b6be53cf02b6400a"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/05/fallecio-patricia-walsh-hija-del-escritor-rodolfo-walsh-a-los-74-anos",
    "source": "Filo.News",
    "category": "Notis",
@@ -531,6 +583,32 @@ window.CIRCO = {
    "first_seen": "2026-11-05",
    "og_checked": false,
    "article": "6e8ff5067caa16fa"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/05/juicio-a-pity-alvarez-dio-positivo-de-cocaina-y-piden-que-no-vuelva-a-los-tribunales",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Juicio a \"Pity\" Álvarez: dio positivo de cocaína y piden que no vuelva a los tribunales",
+   "link": "https://www.filo.news/noticia/2026/11/05/juicio-a-pity-alvarez-dio-positivo-de-cocaina-y-piden-que-no-vuelva-a-los-tribunales",
+   "excerpt": "Tras declarar, intentó consumir una sustancia al regresar a la clínica, reconoció el hecho ante los médicos y encendió el alerta sobre la falta de control en las audiencias.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/filo1-_2026-11-05t190756.7932209_re.png",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": false,
+   "article": "57fe8735d0dff4cd"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/05/investigan-si-se-usaron-fondos-publicos-para-la-fuga-de-flavio-bolsonaro-a-ee-uu",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Investigan si se usaron fondos públicos para la fuga de Flávio Bolsonaro a EE.UU.",
+   "link": "https://www.filo.news/noticia/2026/11/05/investigan-si-se-usaron-fondos-publicos-para-la-fuga-de-flavio-bolsonaro-a-ee-uu",
+   "excerpt": "La fiscal Ochoa le pidió medidas a la jueza Capuchetti para determinar el presunto financiamiento del Estado en el viaje del dirigente brasileño hacia Miami desde Puerto Iguazú.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/filo1-_2026-11-05t173247.7271786_re.png",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": false,
+   "article": "19dec2051958a9c0"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/05/cordoba-un-ginecologo-fue-multado-por-usar-anteojos-con-capacidad-para-filmar-durante-una-consulta",
@@ -674,6 +752,19 @@ window.CIRCO = {
    "first_seen": "2026-11-05",
    "og_checked": false,
    "article": "3195bea34f84ab9b"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201768",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Justicia rebajó condenas a 115 narcotraficantes extranjeros; Codelco cifra en 42 mil toneladas la producción artificial, y derrame de relaves obliga a cerrar compuertas del río Aconcagua",
+   "link": "https://www.ciperchile.cl/2026/11/05/justicia-rebajo-condenas-a-115-narcotraficantes-extranjeros-codelco-cifra-en-42-mil-toneladas-la-produccion-artificial-y-derrame-de-relaves-obliga-a-cerrar-compuertas-del-rio-aconcagua/?utm_source=rss&utm_medium=rss&utm_campaign=justicia-rebajo-condenas-a-115-narcotraficantes-extranjeros-codelco-cifra-en-42-mil-toneladas-la-produccion-artificial-y-derrame-de-relaves-obliga-a-cerrar-compuertas-del-rio-aconcagua",
+   "excerpt": "La entrada Justicia rebajó condenas a 115 narcotraficantes extranjeros; Codelco cifra en 42 mil toneladas la producción artificial, y derrame de relaves obliga a cerrar compuertas del río Aconcagua se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "og_checked": true,
+   "article": "3c6aee0c393e197a"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201756",
@@ -845,39 +936,13 @@ window.CIRCO = {
    "article": "cb19d8b13bf888db"
   },
   {
-   "id": "https://www.theverge.com/?p=1026867",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-   "excerpt": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": true,
-   "article": "b28c80c0602b95f0"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1026878",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "17 better ways Elon Musk could have wasted $446 million",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-   "excerpt": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": true,
-   "article": "a9e8a33bef2a8304"
-  },
-  {
    "id": "yt:video:b3tMAOFB71o",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
-   "title": "If You Want To Create Wealth In The Age of AI, Watch This",
+   "title": "8 Businesses for the AI Age",
    "link": "https://www.youtube.com/watch?v=b3tMAOFB71o",
-   "excerpt": "In this solo episode, I lay out how I think about building an AI-proof business now that anyone can press a few buttons and spin up a company in seconds. Layoffs keep coming, people copy products pixel for pixel, and I still see more opportunity than ever. I walk through eight…",
-   "image": "https://i3.ytimg.com/vi/b3tMAOFB71o/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/b3tMAOFB71o/hqdefault.jpg",
    "day": "2026-11-04",
    "first_seen": "2026-11-04",
    "og_checked": false,
@@ -1116,58 +1181,6 @@ window.CIRCO = {
    "first_seen": "2026-11-04",
    "og_checked": false,
    "article": "2bc223690f89d232"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/04/marcha-del-orgullo-cual-es-la-realidad-de-las-personas-lgbtiq",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Marcha del Orgullo: ¿cuál es la realidad de las personas LGBTIQ+?",
-   "link": "https://www.filo.news/noticia/2026/11/04/marcha-del-orgullo-cual-es-la-realidad-de-las-personas-lgbtiq",
-   "excerpt": "En la antesala de la 35° movilización en Buenos Aires del próximo sábado y ante el contexto de violencias a integrantes de la comunidad, dos agrupaciones históricas se reúnen para responder: ¿por qué es importante salir a marchar?",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/1j1a01296207_re.jpeg",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": false,
-   "article": "3a0aa6bea7e36b83"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/04/milei-falto-a-la-apertura-de-la-cumbre-en-espana-y-se-reunio-con-el-lider-de-vox",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Milei faltó a la apertura de la Cumbre en España y se reunió con el líder de Vox",
-   "link": "https://www.filo.news/noticia/2026/11/04/milei-falto-a-la-apertura-de-la-cumbre-en-espana-y-se-reunio-con-el-lider-de-vox",
-   "excerpt": "Aunque ya había llegado a Madrid, el Presidente no fue a sacarse la foto oficial con el rey Felipe VI y prefirió encontrarse a solas con Santiago Abascal.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/filo1-_2026-11-04t194050.7049888_re.png",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": false,
-   "article": "e63744a7e94d39af"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/04/tomas-etcheverry-logro-la-mejor-victoria-de-su-carrera-y-avanzo-a-los-octavos-de-final-del-masters-1000-de-paris",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Tomás Etcheverry logró la mejor victoria de su carrera y avanzó a los octavos de final del Masters 1000 de París",
-   "link": "https://www.filo.news/noticia/2026/11/04/tomas-etcheverry-logro-la-mejor-victoria-de-su-carrera-y-avanzo-a-los-octavos-de-final-del-masters-1000-de-paris",
-   "excerpt": "El tenista argentino venció en sets corridos al australiano Alex De Miñaur y se metió por cuarta vez en la temporada entre los 16 mejores de un torneo de este nivel.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/hwsjw2woaeas7u4156_re.jpg",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": false,
-   "article": "ffeaaa94338862c1"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/04/el-gobierno-cruzo-a-los-gremios-del-garrahan-y-nego-falta-de-personal-e-insumos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Gobierno cruzó a los gremios del Garrahan y negó falta de personal e insumos",
-   "link": "https://www.filo.news/noticia/2026/11/04/el-gobierno-cruzo-a-los-gremios-del-garrahan-y-nego-falta-de-personal-e-insumos",
-   "excerpt": "En la previa del acto de este jueves, autoridades rechazaron las acusaciones de ajuste, aseguraron que los sueldos subieron más del 80% y calificaron la protesta como una jugada electoral.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/04/filo1-_2026-11-04t191848.6889068_re.png",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": false,
-   "article": "ce327b5c3fa72f55"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201724",
@@ -1604,8 +1617,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1M+ Solo Grok Bot Business (Full Course)",
    "link": "https://www.youtube.com/watch?v=67BmkptgTms",
-   "excerpt": "I sit down with Nick, co-founder of Orgo, to break down how to build a custom Grok Bot for a business and sell it for $25,000 up front with a $3,000-a-month retainer. Nick demos Bops, the agent platform he built in a 36-hour weekend, where each bot has its own phone number,…",
-   "image": "https://i3.ytimg.com/vi/67BmkptgTms/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/67BmkptgTms/hqdefault.jpg",
    "day": "2026-11-02",
    "first_seen": "2026-11-02",
    "og_checked": false,
@@ -1727,19 +1740,6 @@ window.CIRCO = {
    "first_seen": "2026-11-01",
    "og_checked": true,
    "article": "1141d735814d70aa"
-  },
-  {
-   "id": "https://www.ciperchile.cl/?p=201597",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Carta abierta al Presidente Kast de las hijas del general Carlos Prats",
-   "link": "https://www.ciperchile.cl/2026/11/01/carta-abierta-al-presidente-kast-de-las-hijas-del-general-carlos-prats/?utm_source=rss&utm_medium=rss&utm_campaign=carta-abierta-al-presidente-kast-de-las-hijas-del-general-carlos-prats",
-   "excerpt": "La entrada Carta abierta al Presidente Kast de las hijas del general Carlos Prats se publicó primero en CIPER Chile .",
-   "image": "",
-   "day": "2026-11-01",
-   "first_seen": "2026-11-01",
-   "og_checked": true,
-   "article": "693cc84f35266a53"
   },
   {
    "id": "https://musebyclios.com/?p=134165",
@@ -1877,8 +1877,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "SaaS is dead?",
    "link": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
-   "excerpt": "In this solo episode, I explain why I say SaaS is dead and what I see taking its place. For 15 years, SaaS meant paying engineers to build a tool and charging per seat, and now models like Opus 5.5, GPT-6, and Argon make the tool easy to build. I walk through what I call smart…",
-   "image": "https://i2.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": false,
@@ -1955,8 +1955,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "$100M ARR Founder: The Next Big AI Opportunity",
    "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
-   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
-   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
    "og_checked": false,
@@ -2106,26 +2106,13 @@ window.CIRCO = {
    "article": "22a5205b198507cb"
   },
   {
-   "id": "yt:video:35sh2FkQn-k",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
-   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
-   "excerpt": "",
-   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
-   "day": "2026-10-26",
-   "first_seen": "2026-11-05",
-   "og_checked": false,
-   "article": ""
-  },
-  {
    "id": "yt:video:HKNpCwG3nlc",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
-   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -2273,6 +2260,32 @@ window.CIRCO = {
    "first_seen": "2026-10-23",
    "og_checked": true,
    "article": "a565b4fdc335dac1"
+  },
+  {
+   "id": "yt:video:nRl-7Yhmbog",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "The 9 Stages of AI Agent Adoption, Explained",
+   "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
+   "day": "2026-10-22",
+   "first_seen": "2026-11-05",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "yt:video:tpZOU1ugODQ",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Meta Muse Will Create 1,000 Millionaires",
+   "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "day": "2026-10-22",
+   "first_seen": "2026-11-05",
+   "og_checked": false,
+   "article": ""
   },
   {
    "id": "https://theinspiration.com/?p=54752",
