@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-07T13:06-03:00",
+ "updated": "2026-11-07T14:52-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,19 @@ window.CIRCO = {
   }
  ],
  "items": [
+  {
+   "id": "https://www.applesfera.com/curiosidades/que-hoy-segundo-1983-era-odisea-asi-apple-capturas-pantalla-camaras-polaroid-viajes-a-san-francisco-1",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Lo que hoy es un segundo, en 1983 era una odisea: así hacía Apple las capturas de pantalla con cámaras Polaroid y viajes a San Francisco",
+   "link": "https://www.applesfera.com/curiosidades/que-hoy-segundo-1983-era-odisea-asi-apple-capturas-pantalla-camaras-polaroid-viajes-a-san-francisco-1",
+   "excerpt": "Para cualquiera de nosotros, capturar lo que vemos en pantalla es un acto reflejo. Pulsamos Comando + Shift + 3 en el Mac o presionamos dos botones en el iPhone y listo: la imagen ya está en nuestro carrete, lista para enviarse por AirDrop o WhatsApp. Es tan inmediato que ni…",
+   "image": "https://i.blogs.es/1e84d3/captura/1024_2000.jpeg",
+   "day": "2026-11-07",
+   "first_seen": "2026-11-07",
+   "og_checked": false,
+   "article": "26a8747875016826"
+  },
   {
    "id": "https://www.applesfera.com/iphone/1-719-euros-esto-que-cuesta-reparar-iphone-duo-applecare",
    "source": "Applesfera",
@@ -141,6 +154,32 @@ window.CIRCO = {
    "first_seen": "2026-11-07",
    "og_checked": true,
    "article": "fdd3410cc71e5e64"
+  },
+  {
+   "id": "https://bencorde.com/blog/claude-code-2-1-novedades/",
+   "source": "Benjamín Cordero",
+   "category": "Tech + la IA",
+   "title": "Anthropic acaba de lanzar Claude 2.1 (Domínalo en 17 minutos)",
+   "link": "https://bencorde.com/blog/claude-code-2-1-novedades/",
+   "excerpt": "Revisé 85 actualizaciones y las bajé a 11 cambios: contexto, permisos, sesiones, Projects y mods, con demos y tres acciones para empezar.",
+   "image": "https://bencorde.com/blog/claude-code-2-1-novedades/imagenes/portada.jpg",
+   "day": "2026-11-07",
+   "first_seen": "2026-11-07",
+   "og_checked": true,
+   "article": "46d9c25c47be8838"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/07/resumen-se-celebra-la-35-a-marcha-del-orgullo-la-agenda-del-papa-leon-xiv-tres-equipos-definen-la-tabla-anual",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Resumen:  Se celebra la 35.ª Marcha del Orgullo - la agenda del Papa Leon XIV - tres equipos definen la tabla anual",
+   "link": "https://www.filo.news/noticia/2026/11/07/resumen-se-celebra-la-35-a-marcha-del-orgullo-la-agenda-del-papa-leon-xiv-tres-equipos-definen-la-tabla-anual",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/07/capturadepantalla_2026-11-07_0939437679_re.png",
+   "day": "2026-11-07",
+   "first_seen": "2026-11-07",
+   "og_checked": false,
+   "article": "82fd9348cdf64675"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/07/una-salida-familiar-por-calle-corrientes-equivale-al-salario-minimo",
@@ -845,19 +884,6 @@ window.CIRCO = {
    "article": "54fc21d3c4b909fa"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/06/reclamo-por-malvinas-argentina-prepara-el-juicio-contra-el-reino-unido-por-los-hidrocarburos",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Reclamo por Malvinas: Argentina prepara el juicio contra el Reino Unido por los hidrocarburos",
-   "link": "https://www.filo.news/noticia/2026/11/06/reclamo-por-malvinas-argentina-prepara-el-juicio-contra-el-reino-unido-por-los-hidrocarburos",
-   "excerpt": "La Casa Rosada ratificó que no tolerará el avance británico sobre los recursos marítimos y llevará el caso a las audiencias del 10 y 11 de noviembre en Alemania.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/filo1-_2026-11-06t170608.6929944_re.png",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": false,
-   "article": "4b39270546f48fef"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201786",
    "source": "CIPER",
    "category": "Notis",
@@ -1311,19 +1337,6 @@ window.CIRCO = {
    "first_seen": "2026-11-04",
    "og_checked": true,
    "article": "0e01e0cb9658e1be"
-  },
-  {
-   "id": "https://www.applesfera.com/ios/steve-jobs-murio-siete-dias-antes-ios-5-su-legado-sigue-nuestro-iphone",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Steve Jobs murió siete días antes del iOS 5, y su legado sigue en nuestro iPhone",
-   "link": "https://www.applesfera.com/ios/steve-jobs-murio-siete-dias-antes-ios-5-su-legado-sigue-nuestro-iphone",
-   "excerpt": "Steve Jobs murió el 5 de octubre de 2011. Siete días después, el 12 de octubre, Apple lanzaba iOS 5 . El sistema operativo que él mismo había presentado en la WWDC de junio. Steve no llegó a verlo instalado en los iPhone de medio mundo. Y aun así, de aquel iOS sale buena parte…",
-   "image": "https://i.blogs.es/73c113/steve-jobs/1024_2000.jpeg",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": false,
-   "article": "61491d333b76be70"
   },
   {
    "id": "https://www.theverge.com/?p=1026787",
