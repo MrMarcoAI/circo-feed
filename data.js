@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-08T15:07-03:00",
+ "updated": "2026-11-08T19:32-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,32 @@ window.CIRCO = {
  ],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1029552",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Apple is racing to make Siri more agentic",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "excerpt": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0%2C10.727837220746%2C100%2C78.544325558509&w=1200",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": true,
+   "article": "d2378b2a6f9245da"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1029526",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Chatbots might be coming to Apple’s HomeView",
+   "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+   "excerpt": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": true,
+   "article": "bab8c2c5d3592e86"
+  },
+  {
    "id": "https://www.applesfera.com/curiosidades/steve-jobs-tenia-equipo-exclusivamente-dedicado-a-abrir-cajas-durante-todo-dia-estas-eran-sus-razones-1",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -117,6 +143,19 @@ window.CIRCO = {
    "article": "c4adad6e03555e83"
   },
   {
+   "id": "https://www.theverge.com/?p=1029562",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+   "excerpt": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads:…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": true,
+   "article": "4d946f4afebd2cb7"
+  },
+  {
    "id": "https://www.theverge.com/?p=1029533",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -141,6 +180,58 @@ window.CIRCO = {
    "first_seen": "2026-11-08",
    "og_checked": true,
    "article": "816d6b184d5b309a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/el-arco-politico-celebro-el-arribo-del-papa-leon-xiv-al-pais",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El arco político celebró el arribo del Papa León XIV al país",
+   "link": "https://www.filo.news/noticia/2026/11/08/el-arco-politico-celebro-el-arribo-del-papa-leon-xiv-al-pais",
+   "excerpt": "Dirigentes de diversas fuerzas expresaron mensajes de bienvenida tras el aterrizaje del pontífice.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/hwow93txwaaiivk4398_re.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "488c6684c986539c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/emanuel-noir-pidio-perdon-tras-agredir-a-un-policia",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Emanuel Noir pidió perdón tras agredir a un policía",
+   "link": "https://www.filo.news/noticia/2026/11/08/emanuel-noir-pidio-perdon-tras-agredir-a-un-policia",
+   "excerpt": "El cantante de Ke Personajes emitió un comunicado donde asumió la responsabilidad de sus actos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/images61)6051_re.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "37458fe374e88a77"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/el-papa-leon-xiv-arribo-a-la-argentina-en-un-vuelo-historico",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Papa León XIV arribó a la argentina en un vuelo histórico",
+   "link": "https://www.filo.news/noticia/2026/11/08/el-papa-leon-xiv-arribo-a-la-argentina-en-un-vuelo-historico",
+   "excerpt": "El pontífice aterrizó en Aeroparque tras 39 años sin visitas papales y fue recibido por Javier Milei.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/hwokkx1w0aar87n6081_re.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "f9b1dc21ae6e4a0f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/colapinto-finalizo-13-en-brasil-y-mercedes-se-corono-campeon",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Colapinto finalizó 13° en Brasil y Mercedes se coronó campeón",
+   "link": "https://www.filo.news/noticia/2026/11/08/colapinto-finalizo-13-en-brasil-y-mercedes-se-corono-campeon",
+   "excerpt": "El piloto argentino superó a Gasly en el tramo final de Interlagos mientras Norris se llevó el triunfo.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/capturadepantalla_2026-11-08_1614499530_re.png",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "913b387da21b4496"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/08/papamovil-en-argentina-cuales-seran-los-recorridos-de-leon-xiv-y-como-sera-el-operativo-de-seguridad",
@@ -406,7 +497,7 @@ window.CIRCO = {
    "id": "https://www.filo.news/noticia/2026/11/07/misa-del-papa-leon-xiv-en-buenos-aires-horarios-accesos-y-que-se-puede-llevar",
    "source": "Filo.News",
    "category": "Notis",
-   "title": "El Papa llega a la Argentina: horarios, accesos y objetos permitidos para la misa en Buenos Aires",
+   "title": "El Papa en Argentina: horarios, accesos y objetos permitidos para la misa en Buenos Aires",
    "link": "https://www.filo.news/noticia/2026/11/07/misa-del-papa-leon-xiv-en-buenos-aires-horarios-accesos-y-que-se-puede-llevar",
    "excerpt": "El sumo pontífice llega a la Argentina este domingo por la tarde. Será la primera vez en casi 40 años que un Papa visita el país. La misa se celebrará el lunes 9 de noviembre en el Monumento a los Españoles, en Palermo.",
    "image": "https://assets.dev-filo.dift.io/img/2026/11/07/2025082508105085495_re.jpg",
@@ -533,19 +624,6 @@ window.CIRCO = {
    "article": "10f7bf0aad7c9364"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/07/el-papa-leon-xiv-cumple-una-intensa-agenda-en-uruguay",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Papa León XIV cumple una intensa agenda en Uruguay",
-   "link": "https://www.filo.news/noticia/2026/11/07/el-papa-leon-xiv-cumple-una-intensa-agenda-en-uruguay",
-   "excerpt": "El pontífice oficia misa en Paysandú y encabeza actividades sociales antes de viajar a la Argentina.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/07/capturadepantalla_2026-11-07_0925155488_re.png",
-   "day": "2026-11-07",
-   "first_seen": "2026-11-07",
-   "og_checked": false,
-   "article": "09881f1b0bfd5dcc"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201795",
    "source": "CIPER",
    "category": "Notis",
@@ -572,6 +650,19 @@ window.CIRCO = {
    "article": "805e57fbee3cf4e1"
   },
   {
+   "id": "https://www.theverge.com/?p=1029019",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+   "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+   "excerpt": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-06",
+   "first_seen": "2026-11-08",
+   "og_checked": true,
+   "article": "8bc6f0dc62851f4a"
+  },
+  {
    "id": "https://www.theverge.com/?p=1029126",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -596,19 +687,6 @@ window.CIRCO = {
    "first_seen": "2026-11-07",
    "og_checked": true,
    "article": "7a0e342adb3b36e5"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/06/el-senado-de-paraguay-destituyo-a-santiago-pena-y-la-justicia-ordeno-su-detencion",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El Senado de Paraguay destituyó a Santiago Peña y la Justicia ordenó su detención",
-   "link": "https://www.filo.news/noticia/2026/11/06/el-senado-de-paraguay-destituyo-a-santiago-pena-y-la-justicia-ordeno-su-detencion",
-   "excerpt": "Tras el rechazo a su renuncia previa, la Cámara alta votó por unanimidad su remoción por la caída de Ueno Bank y su vice, Pedro Alliana, juró como nuevo jefe de Estado.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/07/filo1-_2026-11-06t222010.7922213_re.png",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "og_checked": false,
-   "article": "3c197822a3eb0011"
   },
   {
    "id": "https://www.theverge.com/?p=1028813",
@@ -752,32 +830,6 @@ window.CIRCO = {
    "first_seen": "2026-11-06",
    "og_checked": true,
    "article": "43debe4fe2ca78f3"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1028871",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-   "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-   "excerpt": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&w=1200",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": true,
-   "article": "60c72e7613398426"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1028609",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "AI is the new dating dealbreaker",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-   "excerpt": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": true,
-   "article": "436915aa53f2a7de"
   },
   {
    "id": "https://bencorde.com/blog/27-casos-uso-claude-2027/",
@@ -960,32 +1012,6 @@ window.CIRCO = {
    "first_seen": "2026-11-06",
    "og_checked": false,
    "article": "3e8705fa8de74ab8"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/06/la-agenda-del-papa-leon-xvi-en-argentina",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "La agenda del Papa León XVI en Argentina",
-   "link": "https://www.filo.news/noticia/2026/11/06/la-agenda-del-papa-leon-xvi-en-argentina",
-   "excerpt": "Del 8 al 11 de noviembre, el Papa estará en CABA, Córdoba y Luján. Conocé las celebraciones abiertas al público.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/leoncito3718_re.jpg",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": false,
-   "article": "1be9829e2cbecc60"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/06/nations-championship-los-pumas-cayeron-ante-irlanda-en-dublin",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Nations Championship: Los Pumas cayeron ante Irlanda en Dublín",
-   "link": "https://www.filo.news/noticia/2026/11/06/nations-championship-los-pumas-cayeron-ante-irlanda-en-dublin",
-   "excerpt": "El seleccionado argentino de rugby perdió 42 a 12 ante el combinado irlandés, por una nueva jornada del certamen internacional. Su próximo rival será Italia.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/20261106t221631z_1937057220_up1emb61pvhi5_rtrmadp_3_rugby-union-nationschamp-irl-arg1598_re.jpg",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": false,
-   "article": "3c7336dfe6d2162b"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201786",
@@ -1612,32 +1638,6 @@ window.CIRCO = {
    "article": "b0319b32bfd6d043"
   },
   {
-   "id": "https://www.theverge.com/?p=1025748",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
-   "link": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
-   "excerpt": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is getting a couple of upgrades with the price hike,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-08",
-   "og_checked": true,
-   "article": "d4699187ec2d55af"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1025694",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple starts giving Siri AI access to third-party apps",
-   "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-   "excerpt": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C10.736302165243%2C100%2C78.527395669513&w=1200",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-08",
-   "og_checked": true,
-   "article": "b41888ef3e46f2f7"
-  },
-  {
    "id": "https://www.theverge.com/?p=1024862",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1649,19 +1649,6 @@ window.CIRCO = {
    "first_seen": "2026-11-04",
    "og_checked": true,
    "article": "201b03bbc1c1bd15"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1025835",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
-   "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
-   "excerpt": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/liverewind.jpg?quality=90&strip=all&crop=0%2C7.0647280488212%2C100%2C85.870543902358&w=1200",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "eb7862244282a8c3"
   },
   {
    "id": "https://www.theverge.com/?p=1025826",
