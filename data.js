@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-08T03:45-03:00",
+ "updated": "2026-11-08T13:31-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/@GregIsenberg"
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
   },
   {
    "name": "Benjamín Cordero",
@@ -64,6 +64,136 @@ window.CIRCO = {
   }
  ],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1029526",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Chatbots might be coming to Apple’s HomeView",
+   "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+   "excerpt": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": true,
+   "article": "bab8c2c5d3592e86"
+  },
+  {
+   "id": "https://www.applesfera.com/apple-tv/hay-11-peliculas-clasicas-modernas-que-se-pueden-ver-gratis-apple-tv-noviembre",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Hay 11 películas clásicas y modernas que se pueden ver gratis con Apple TV en noviembre",
+   "link": "https://www.applesfera.com/apple-tv/hay-11-peliculas-clasicas-modernas-que-se-pueden-ver-gratis-apple-tv-noviembre",
+   "excerpt": "Aunque hay muy buenas películas en Apple TV , la plataforma también trae de regalo 11 películas cada mes para todos aquellos que estén suscritos. Y este noviembre no iba a ser menos. Son películas que, sin ser de la plataforma, sí suelen estar disponibles para alquilar o…",
+   "image": "https://i.blogs.es/6bc3ba/apple-tv/1024_2000.jpeg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "c658c3bc181a7142"
+  },
+  {
+   "id": "https://www.applesfera.com/seleccion/hemos-encontrado-este-iphone-17-outlet-mediamarkt-esta-nuevo-a-estrenar-sale-barato-que-su-nuevo-pvp",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Hemos encontrado este iPhone 17 en el outlet de MediaMarkt: está nuevo a estrenar y sale más barato que su nuevo PVP",
+   "link": "https://www.applesfera.com/seleccion/hemos-encontrado-este-iphone-17-outlet-mediamarkt-esta-nuevo-a-estrenar-sale-barato-que-su-nuevo-pvp",
+   "excerpt": "Apple ha subido los precios de varios de sus dispositivos en las últimas semanas, incluyendo varios iPhone (incluso de generaciones anteriores). Eso hace que sea complicado encontrar un iPhone 17 por debajo de los 1.000 euros, puesto que no suelen protagonizar ninguna oferta…",
+   "image": "https://i.blogs.es/09d9b8/iphone-17-portada/1024_2000.jpeg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "fb7b21e2726d8bde"
+  },
+  {
+   "id": "https://www.applesfera.com/airtag/perdi-maleta-aeropuerto-estaba-delante-mi-airtag-me-habria-ahorrado-mal-rato",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Perdí la maleta en el aeropuerto y estaba delante de mí. Un AirTag me habría ahorrado el mal rato",
+   "link": "https://www.applesfera.com/airtag/perdi-maleta-aeropuerto-estaba-delante-mi-airtag-me-habria-ahorrado-mal-rato",
+   "excerpt": "Perder la maleta en un aeropuerto es un miedo que tenemos todos . Facturas, te subes al avión y durante todo el vuelo confías en que, al otro lado, la cinta te la devuelva. Yo me fui a Viena con mis padres y mi hermano, cada uno con su maleta facturada. El plan era llegar, coger…",
+   "image": "https://i.blogs.es/5ef87d/apple-airtat/1024_2000.jpeg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "c4adad6e03555e83"
+  },
+  {
+   "id": "https://musebyclios.com/?p=134430",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "The Real Deal: Daniel Bonder and Dave Brown Stake Their Claim With ImaginaryFriend",
+   "link": "https://musebyclios.com/2-minutes-with/the-real-deal-daniel-bonder-and-dave-brown-stake-their-claim-with-imaginaryfriend/?utm_source=rss&utm_medium=rss&utm_campaign=the-real-deal-daniel-bonder-and-dave-brown-stake-their-claim-with-imaginaryfriend",
+   "excerpt": "“Stop asking for a seat at the table. Build the table. Better yet, own a piece of the restaurant.” ImaginaryFriend cofounder Daniel Bonder issues that challenge to entrepreneurial creatives everywhere, urging them to step up and chart their own course in a fast-shifting business…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/11/07144212/DanielDave.png",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": true,
+   "article": "816d6b184d5b309a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/resumen-35-marcha-del-orgullo-el-papa-llega-a-la-argentina-reunion-con-gremios-y-mas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Resumen: 35° Marcha del Orgullo, el Papa llega a la Argentina, reunión con gremios y más",
+   "link": "https://www.filo.news/noticia/2026/11/08/resumen-35-marcha-del-orgullo-el-papa-llega-a-la-argentina-reunion-con-gremios-y-mas",
+   "excerpt": "Enterate las principales noticias del día en este breve resumen que hicimos especialmente para vos. Actualidad, deportes, cines y series, espectáculos y todo lo que tenés que saber.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/20261107t213642z_1886920240_rc26joa2wqoh_rtrmadp_3_gay-pride-argentina6809_re.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "4a34c6a9372fc4c0"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/leon-xiv-pidio-a-la-iglesia-que-busque-a-quienes-se-alejaron-de-la-fe-no-podemos-esperar-que-vuelvan-por-si-solos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Papa León XIV en Uruguay: pidió a la Iglesia que salga a buscar a quienes se alejaron de la fe",
+   "link": "https://www.filo.news/noticia/2026/11/08/leon-xiv-pidio-a-la-iglesia-que-busque-a-quienes-se-alejaron-de-la-fe-no-podemos-esperar-que-vuelvan-por-si-solos",
+   "excerpt": "El Papa encabezó su última misa en Uruguay antes de viajar a la Argentina. Durante la celebración, llamó a recuperar el vínculo con las nuevas generaciones, acercarse a quienes dejaron de practicar la religión y transmitir la fe desde las familias. \"No podemos esperar que…",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/20261108t143501z_1788410217_rc2qjoa88mmc_rtrmadp_3_pope-latam-uruguay6169_re.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "febf568ca7e83fb2"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/los-gremios-esperan-la-visita-del-papa-y-piensan-medidas-para-el-dia-despues",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Los gremios esperan la visita del Papa y piensan medidas para el día después",
+   "link": "https://www.filo.news/noticia/2026/11/08/los-gremios-esperan-la-visita-del-papa-y-piensan-medidas-para-el-dia-despues",
+   "excerpt": "El encuentro del mundo del trabajo será el lunes a las 16.10 en la UCA y los representantes empresariales. La visita de León XIV creen desde los gremios que dejará un clima social más favorable para sus reclamos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/didi3047_re.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "0d2f53bb25b9da6f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/marcha-del-orgullo-miles-de-personas-salieron-a-reclamar-contra-discursos-de-odio-y-ataques-a-la-comunidad-lgbtq",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Marcha del Orgullo: miles de personas salieron a reclamar contra discursos de odio y ataques a la comunidad LGBTQ+",
+   "link": "https://www.filo.news/noticia/2026/11/08/marcha-del-orgullo-miles-de-personas-salieron-a-reclamar-contra-discursos-de-odio-y-ataques-a-la-comunidad-lgbtq",
+   "excerpt": "La 35° movilización se realizó este sábado en Buenos Aires, con un recorrido que terminó frente al Congreso. El ataque a mujeres trans en los Bosques de Palermo y los cuestionamientos al Gobierno de Javier Milei atravesaron una jornada que también tuvo música y las…",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/20261107t213642z_1886920240_rc26joa2wqoh_rtrmadp_3_gay-pride-argentina1865_re.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "9af26000dafd259c"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201801",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Paulina García: “Nunca estuvo en mis sueños hacer cine”",
+   "link": "https://www.ciperchile.cl/2026/11/08/paulina-garcia-nunca-estuvo-en-mis-suenos-hacer-cine/?utm_source=rss&utm_medium=rss&utm_campaign=paulina-garcia-nunca-estuvo-en-mis-suenos-hacer-cine",
+   "excerpt": "La entrada Paulina García: “Nunca estuvo en mis sueños hacer cine” se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/paulina-garcia-dos-fotos.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": true,
+   "article": "7025b6ca696c3f73"
+  },
   {
    "id": "https://www.filo.news/noticia/2026/11/07/boca-se-consagro-campeon-de-la-tabla-anual-2026-tras-vencer-a-defensa-y-justicia-con-un-gol-de-enner-valencia",
    "source": "Filo.News",
@@ -224,9 +354,9 @@ window.CIRCO = {
    "id": "https://www.filo.news/noticia/2026/11/07/misa-del-papa-leon-xiv-en-buenos-aires-horarios-accesos-y-que-se-puede-llevar",
    "source": "Filo.News",
    "category": "Notis",
-   "title": "Misa del papa León XIV en Buenos Aires: horarios, accesos y qué se puede llevar",
+   "title": "El Papa llega a la Argentina: horarios, accesos y objetos permitidos para la misa en Buenos Aires",
    "link": "https://www.filo.news/noticia/2026/11/07/misa-del-papa-leon-xiv-en-buenos-aires-horarios-accesos-y-que-se-puede-llevar",
-   "excerpt": "La celebración será el lunes 9 de noviembre en el Monumento a los Españoles, en Palermo. El Gobierno porteño informó cómo ingresar, qué elementos están prohibidos y cómo funcionará el transporte público.",
+   "excerpt": "El sumo pontífice llega a la Argentina este domingo por la tarde. Será la primera vez en casi 40 años que un Papa visita el país. La misa se celebrará el lunes 9 de noviembre en el Monumento a los Españoles, en Palermo.",
    "image": "https://assets.dev-filo.dift.io/img/2026/11/07/2025082508105085495_re.jpg",
    "day": "2026-11-07",
    "first_seen": "2026-11-07",
@@ -390,6 +520,19 @@ window.CIRCO = {
    "article": "805e57fbee3cf4e1"
   },
   {
+   "id": "https://www.theverge.com/?p=1029019",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+   "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+   "excerpt": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-06",
+   "first_seen": "2026-11-08",
+   "og_checked": true,
+   "article": "8bc6f0dc62851f4a"
+  },
+  {
    "id": "https://www.theverge.com/?p=1029126",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -427,19 +570,6 @@ window.CIRCO = {
    "first_seen": "2026-11-07",
    "og_checked": false,
    "article": "3c197822a3eb0011"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/06/el-papa-leon-llego-a-uruguay-su-primer-destino-de-su-gira-por-sudamerica",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El papa León llegó a Uruguay: su primer destino de su gira por Sudamérica",
-   "link": "https://www.filo.news/noticia/2026/11/06/el-papa-leon-llego-a-uruguay-su-primer-destino-de-su-gira-por-sudamerica",
-   "excerpt": "El sumo pontífice fue recibido al pie del avión de Ita Airways, en la pista del aeropuerto, por el presidente de Uruguay, Yamandú Orsi.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/disenosin_título_-_2026-11-06t172229.7986609_re.png",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "og_checked": false,
-   "article": "ce851be5ad65e30b"
   },
   {
    "id": "https://www.theverge.com/?p=1028813",
@@ -871,45 +1001,6 @@ window.CIRCO = {
    "article": "5ef21e95612b3dda"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/06/caba-una-familia-tipo-necesito-usd1-724-966-para-no-ser-pobre-en-octubre",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "CABA: una familia tipo necesitó $1.724.966 para no ser pobre en octubre",
-   "link": "https://www.filo.news/noticia/2026/11/06/caba-una-familia-tipo-necesito-usd1-724-966-para-no-ser-pobre-en-octubre",
-   "excerpt": "El aumento de las canastas utilizadas para determinar las líneas de pobreza e indigencia en la Ciudad superó la inflación de octubre (1,9%).",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/2680ff7ee6fb41cd-80ee-52301d5c6b311619_re.jpeg",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": false,
-   "article": "2b5e32da0c6408ed"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/06/racing-perdio-ante-barracas-se-despidio-del-torneo-y-cerro-un-ano-para-olvido",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Racing perdió ante Barracas, se despidió del torneo y cerró un año para olvido",
-   "link": "https://www.filo.news/noticia/2026/11/06/racing-perdio-ante-barracas-se-despidio-del-torneo-y-cerro-un-ano-para-olvido",
-   "excerpt": "La Academia cerró su competencia oficial en 2026 y pone en marcha un proceso de reconstrucción para volver a estar a la altura de las exigencias de sus hinchas.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/filo1-_2026-11-06t201041.6539596_re.png",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": false,
-   "article": "0fd7b5d094cad56d"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/06/las-dos-cta-alertaron-al-papa-leon-xiv-sobre-el-endeudamiento-de-las-familias",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Las CTA enviaron una carta al papa León XIV: lo alertaron sobre el endeudamiento de las familias",
-   "link": "https://www.filo.news/noticia/2026/11/06/las-dos-cta-alertaron-al-papa-leon-xiv-sobre-el-endeudamiento-de-las-familias",
-   "excerpt": "Los gremios denunciaron la pérdida salarial, el aumento de la pobreza infantil y la represión a las protestas sociales antes de la llegada del pontífice a la Argentina.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/07/filo1-_2026-11-06t214341.6664236_re.png",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": false,
-   "article": ""
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201786",
    "source": "CIPER",
    "category": "Notis",
@@ -1090,45 +1181,6 @@ window.CIRCO = {
    "first_seen": "2026-11-05",
    "og_checked": false,
    "article": "940b7cec7c2d9066"
-  },
-  {
-   "id": "https://www.applesfera.com/seguridad/apple-podra-eliminar-archivos-icloud-a-partir-ios-27-3-hay-algo-que-todavia-no-han-explicado",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Apple podrá eliminar archivos de iCloud a partir de iOS 27.3. Y hay algo que todavía no han explicado",
-   "link": "https://www.applesfera.com/seguridad/apple-podra-eliminar-archivos-icloud-a-partir-ios-27-3-hay-algo-que-todavia-no-han-explicado",
-   "excerpt": "Compartir una foto, documento o una carpeta entera de iCloud Drive mediante un enlace público tiene una letra pequeña que quizás alguno pase por alto. Y es que cualquiera puede acceder a él . Incluida la propia Apple. A partir de las versiones 27.3, la compañía tendrá potestad…",
-   "image": "https://i.blogs.es/5f42d6/icloud/1024_2000.jpeg",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": false,
-   "article": "35e89a556957c000"
-  },
-  {
-   "id": "https://www.applesfera.com/apple-1/apple-estuvo-ano-animando-a-sus-empleados-a-usar-ia-ahora-se-estan-preocupando-cuanto-les-cuesta",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Apple se empeñó en que sus trabajadores abrazasen la IA. Hasta que se han puesto a echar cuentas",
-   "link": "https://www.applesfera.com/apple-1/apple-estuvo-ano-animando-a-sus-empleados-a-usar-ia-ahora-se-estan-preocupando-cuanto-les-cuesta",
-   "excerpt": "Apple lleva tiempo animando a sus trabajadores a incorporar la inteligencia artificial a su día a día para mejorar su productividad. Sin embargo, el coste que esto genera parece estar haciendo mella en los presupuestos. Lo suficiente al menos para que hayan decidido meter tijera…",
-   "image": "https://i.blogs.es/b6c090/ia-apple/1024_2000.jpeg",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": false,
-   "article": "83f8f2ea8e596edb"
-  },
-  {
-   "id": "https://www.applesfera.com/rumores/diseno-iphone-20-aniversario-se-quedan-casi-secretos-asi-lucen-ultimas-filtraciones",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "El diseño de los iPhone del 20 aniversario se queda (casi) sin secretos. Así lucen en las últimas filtraciones",
-   "link": "https://www.applesfera.com/rumores/diseno-iphone-20-aniversario-se-quedan-casi-secretos-asi-lucen-ultimas-filtraciones",
-   "excerpt": "Falta casi un año, pero hace mucho que se empezaron a filtrar los primeros detalles de los iPhone del 20 aniversario . Unos que, quizás, se llamen iPhone 19 Pro y 19 Pro Max tal y como tocaría, pero que independientemente del nombre supondrán el primer gran rediseño en una…",
-   "image": "https://i.blogs.es/01d070/render-iphone-del-20-aniversario/1024_2000.jpeg",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": false,
-   "article": "b7da1638d555df68"
   },
   {
    "id": "https://musebyclios.com/?p=134350",
@@ -1396,8 +1448,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "8 Businesses for the AI Age",
    "link": "https://www.youtube.com/watch?v=b3tMAOFB71o",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/b3tMAOFB71o/hqdefault.jpg",
+   "excerpt": "In this solo episode, I lay out how I think about building an AI-proof business now that anyone can press a few buttons and spin up a company in seconds. Layoffs keep coming, people copy products pixel for pixel, and I still see more opportunity than ever. I walk through eight…",
+   "image": "https://i3.ytimg.com/vi/b3tMAOFB71o/hqdefault.jpg",
    "day": "2026-11-04",
    "first_seen": "2026-11-04",
    "og_checked": false,
@@ -1612,32 +1664,6 @@ window.CIRCO = {
    "article": "eb7862244282a8c3"
   },
   {
-   "id": "https://www.theverge.com/?p=1025748",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
-   "link": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
-   "excerpt": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is getting a couple of upgrades with the price hike,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "d4699187ec2d55af"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1025694",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple starts giving Siri AI access to third-party apps",
-   "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-   "excerpt": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context,…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C10.736302165243%2C100%2C78.527395669513&w=1200",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "b41888ef3e46f2f7"
-  },
-  {
    "id": "https://www.theverge.com/?p=1025826",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1742,19 +1768,6 @@ window.CIRCO = {
    "article": "1f6724809571e965"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201665",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Fiscalía se ausenta de audiencia en la que se revisó nueva prisión preventiva de Hermosilla",
-   "link": "https://www.ciperchile.cl/2026/11/03/fiscalia-se-ausenta-de-audiencia-en-la-que-se-reviso-nueva-prision-preventiva-de-hermosilla/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalia-se-ausenta-de-audiencia-en-la-que-se-reviso-nueva-prision-preventiva-de-hermosilla",
-   "excerpt": "La entrada Fiscalía se ausenta de audiencia en la que se revisó nueva prisión preventiva de Hermosilla se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/fiscalia_web.png",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "c3fc8c2037428be6"
-  },
-  {
    "id": "https://www.theverge.com/?p=1024807",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1773,8 +1786,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1M+ Solo Grok Bot Business (Full Course)",
    "link": "https://www.youtube.com/watch?v=67BmkptgTms",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/67BmkptgTms/hqdefault.jpg",
+   "excerpt": "I sit down with Nick, co-founder of Orgo, to break down how to build a custom Grok Bot for a business and sell it for $25,000 up front with a $3,000-a-month retainer. Nick demos Bops, the agent platform he built in a 36-hour weekend, where each bot has its own phone number,…",
+   "image": "https://i3.ytimg.com/vi/67BmkptgTms/hqdefault.jpg",
    "day": "2026-11-02",
    "first_seen": "2026-11-02",
    "og_checked": false,
@@ -1994,8 +2007,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "SaaS is dead?",
    "link": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
+   "excerpt": "In this solo episode, I explain why I say SaaS is dead and what I see taking its place. For 15 years, SaaS meant paying engineers to build a tool and charging per seat, and now models like Opus 5.5, GPT-6, and Argon make the tool easy to build. I walk through what I call smart…",
+   "image": "https://i2.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": false,
@@ -2072,8 +2085,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "$100M ARR Founder: The Next Big AI Opportunity",
    "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
+   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
    "og_checked": false,
@@ -2223,13 +2236,26 @@ window.CIRCO = {
    "article": "22a5205b198507cb"
   },
   {
+   "id": "yt:video:35sh2FkQn-k",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
+   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
+   "excerpt": "",
+   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "yt:video:HKNpCwG3nlc",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
+   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -2325,32 +2351,6 @@ window.CIRCO = {
    "first_seen": "2026-10-25",
    "og_checked": true,
    "article": "cd697708de50936b"
-  },
-  {
-   "id": "yt:video:nRl-7Yhmbog",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "The 9 Stages of AI Agent Adoption, Explained",
-   "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
-   "day": "2026-10-24",
-   "first_seen": "2026-11-07",
-   "og_checked": false,
-   "article": ""
-  },
-  {
-   "id": "yt:video:tpZOU1ugODQ",
-   "source": "Greg Isenberg",
-   "category": "Tech + la IA",
-   "title": "Meta Muse Will Create 1,000 Millionaires",
-   "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
-   "excerpt": "",
-   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
-   "day": "2026-10-24",
-   "first_seen": "2026-11-07",
-   "og_checked": false,
-   "article": ""
   }
  ]
 };
