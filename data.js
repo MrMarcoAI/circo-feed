@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-07T19:23-03:00",
+ "updated": "2026-11-08T03:45-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,19 @@ window.CIRCO = {
   }
  ],
  "items": [
+  {
+   "id": "https://www.filo.news/noticia/2026/11/07/boca-se-consagro-campeon-de-la-tabla-anual-2026-tras-vencer-a-defensa-y-justicia-con-un-gol-de-enner-valencia",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Boca se consagró campeón de la Tabla Anual 2026 tras vencer a Defensa y Justicia con un gol de Enner Valencia",
+   "link": "https://www.filo.news/noticia/2026/11/07/boca-se-consagro-campeon-de-la-tabla-anual-2026-tras-vencer-a-defensa-y-justicia-con-un-gol-de-enner-valencia",
+   "excerpt": "El Xeneize se impuso por la mínima en La Bombonera con un tanto del delantero ecuatoriano y terminó en lo más alto de la clasificación general del fútbol argentino.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/07/hwjmhu6xqaabz3c7396_re.jpg",
+   "day": "2026-11-07",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "19e4c8f3e94beb34"
+  },
   {
    "id": "https://www.applesfera.com/curiosidades/que-hoy-segundo-1983-era-odisea-asi-apple-capturas-pantalla-camaras-polaroid-viajes-a-san-francisco-1",
    "source": "Applesfera",
@@ -895,19 +908,6 @@ window.CIRCO = {
    "first_seen": "2026-11-06",
    "og_checked": false,
    "article": ""
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/06/independiente-presento-la-camiseta-del-hincha",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Independiente presentó \"La Camiseta del Hincha\"",
-   "link": "https://www.filo.news/noticia/2026/11/06/independiente-presento-la-camiseta-del-hincha",
-   "excerpt": "Para este lanzamiento, el elenco de Avellaneda puso en manos de sus simpatizantes el diseño de la nueva casaca. La misma será estrenada este viernes en el partido ante Deportivo Riestra.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/cai_la_camiseta_del_hincha_(11)7943_re.jpg",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": false,
-   "article": "5a51e0233a342c82"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201786",
@@ -2351,19 +2351,6 @@ window.CIRCO = {
    "first_seen": "2026-11-07",
    "og_checked": false,
    "article": ""
-  },
-  {
-   "id": "https://musebyclios.com/?p=133972",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "From the 1960s to the 2000s, These Classic Album Covers Reflect the Tenor of Their Times",
-   "link": "https://musebyclios.com/art-of-the-album/from-the-1960s-to-the-2000s-these-album-covers-reflect-the-spirit-of-their-times/?utm_source=rss&utm_medium=rss&utm_campaign=from-the-1960s-to-the-2000s-these-album-covers-reflect-the-spirit-of-their-times",
-   "excerpt": "These are five of my favorite records, representing each decade from the 1960s to the 2000s. The music is why I bought them, but the artwork is a huge part of why they’ve stayed with me. I can almost hear the tunes when I look at the sleeves. For me, you can’t separate one from…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/24092647/LP-radiohead.jpg",
-   "day": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "og_checked": true,
-   "article": "96883a13a6db8639"
   }
  ]
 };
