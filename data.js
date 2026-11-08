@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-08T13:31-03:00",
+ "updated": "2026-11-08T15:07-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,17 +65,17 @@ window.CIRCO = {
  ],
  "items": [
   {
-   "id": "https://www.theverge.com/?p=1029526",
-   "source": "The Verge · Apple",
+   "id": "https://www.applesfera.com/curiosidades/steve-jobs-tenia-equipo-exclusivamente-dedicado-a-abrir-cajas-durante-todo-dia-estas-eran-sus-razones-1",
+   "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "Chatbots might be coming to Apple’s HomeView",
-   "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-   "excerpt": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+   "title": "Steve Jobs tenía un equipo exclusivamente dedicado a abrir cajas durante todo el día. Estas eran sus razones",
+   "link": "https://www.applesfera.com/curiosidades/steve-jobs-tenia-equipo-exclusivamente-dedicado-a-abrir-cajas-durante-todo-dia-estas-eran-sus-razones-1",
+   "excerpt": "Apple es la mayor importadora de desodorantes del mundo . Y todo está relacionado con las Apple Store... pero también con las cajas de embalaje. Todas tienen un olor particular. Y se abren de una forma específica . Forman parte de una gran estrategia que llevó años de…",
+   "image": "https://i.blogs.es/4580ed/steve-jobs-cajas/1024_2000.jpeg",
    "day": "2026-11-08",
    "first_seen": "2026-11-08",
-   "og_checked": true,
-   "article": "bab8c2c5d3592e86"
+   "og_checked": false,
+   "article": "cf010a99c1c0db82"
   },
   {
    "id": "https://www.applesfera.com/apple-tv/hay-11-peliculas-clasicas-modernas-que-se-pueden-ver-gratis-apple-tv-noviembre",
@@ -117,6 +117,19 @@ window.CIRCO = {
    "article": "c4adad6e03555e83"
   },
   {
+   "id": "https://www.theverge.com/?p=1029533",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Elvis and Eminem rights holders are suing Suno",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+   "excerpt": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&strip=all&crop=0%2C3.4730210448443%2C100%2C41.13900448979&w=1200",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": true,
+   "article": "016f8ea5f189acf9"
+  },
+  {
    "id": "https://musebyclios.com/?p=134430",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -128,6 +141,45 @@ window.CIRCO = {
    "first_seen": "2026-11-08",
    "og_checked": true,
    "article": "816d6b184d5b309a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/papamovil-en-argentina-cuales-seran-los-recorridos-de-leon-xiv-y-como-sera-el-operativo-de-seguridad",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Papamóvil en Argentina: cuáles serán los recorridos de León XIV y cómo será el operativo de seguridad",
+   "link": "https://www.filo.news/noticia/2026/11/08/papamovil-en-argentina-cuales-seran-los-recorridos-de-leon-xiv-y-como-sera-el-operativo-de-seguridad",
+   "excerpt": "La visita de León XIV tendrá recorridos especiales en Buenos Aires, Córdoba y Luján para acercar al Pontífice a los fieles. Habrá tramos vallados, restricciones al tránsito, accesos peatonales y postas médicas para organizar la llegada de miles de personas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/didi1)6354_re.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "041b575f52da4156"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/detuvieron-a-un-falso-bombero-cerca-del-escenario-del-papa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Detuvieron a un falso bombero cerca del escenario del Papa",
+   "link": "https://www.filo.news/noticia/2026/11/08/detuvieron-a-un-falso-bombero-cerca-del-escenario-del-papa",
+   "excerpt": "El sospechoso circulaba con documentación apócrifa e inhibidores a metros del Monumento a los Españoles.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/lcyg8m5ax720x0_12495_re.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "27d3f622eea718c9"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/asi-fue-la-melancolia-el-iii-congreso-clinico-internacional-de-la-institucion-fernando-ulloa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Así fue “La Melancolía”, el III Congreso Clínico Internacional de la Institución Fernando Ulloa",
+   "link": "https://www.filo.news/noticia/2026/11/08/asi-fue-la-melancolia-el-iii-congreso-clinico-internacional-de-la-institucion-fernando-ulloa",
+   "excerpt": "El encuentro reunió a especialistas de Argentina, México, Brasil y España en una jornada dedicada a las manifestaciones contemporáneas del sufrimiento psíquico.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/son01137416_re.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-08",
+   "og_checked": false,
+   "article": "e99bd1a2c39a093b"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/08/resumen-35-marcha-del-orgullo-el-papa-llega-a-la-argentina-reunion-con-gremios-y-mas",
@@ -520,19 +572,6 @@ window.CIRCO = {
    "article": "805e57fbee3cf4e1"
   },
   {
-   "id": "https://www.theverge.com/?p=1029019",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
-   "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-   "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-   "excerpt": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-08",
-   "og_checked": true,
-   "article": "8bc6f0dc62851f4a"
-  },
-  {
    "id": "https://www.theverge.com/?p=1029126",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -739,19 +778,6 @@ window.CIRCO = {
    "first_seen": "2026-11-06",
    "og_checked": true,
    "article": "436915aa53f2a7de"
-  },
-  {
-   "id": "https://www.theverge.com/?p=1028731",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "Big Tech lost big in the 2026 election",
-   "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-   "excerpt": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": true,
-   "article": "1cb939cc183ac3ee"
   },
   {
    "id": "https://bencorde.com/blog/27-casos-uso-claude-2027/",
@@ -962,45 +988,6 @@ window.CIRCO = {
    "article": "3c7336dfe6d2162b"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/05/un-amor-posible-de-lee-chang-dong-la-pelicula-elegida-por-corea-del-sur-para-representar-al-pais-en-los-oscar",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "“Un amor posible” de Lee Chang-dong: la película elegida por Corea del Sur para representar al país en los Óscar",
-   "link": "https://www.filo.news/noticia/2026/11/05/un-amor-posible-de-lee-chang-dong-la-pelicula-elegida-por-corea-del-sur-para-representar-al-pais-en-los-oscar",
-   "excerpt": "En este nuevo film del director surcoreano, dos parejas de diferentes clases sociales se entrecruzan en medio de un conflicto laboral y emocional.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/05/74939052820923219049731754381972003872112034_n-1536x10244347_re.jpeg",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": false,
-   "article": "6278a6878e3dd099"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/06/el-riesgo-pais-llego-a-los-939-puntos-y-alcanzo-su-pico-maximo-en-doce-meses",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "El riesgo país llegó a los 939 puntos y alcanzó su pico máximo en doce meses",
-   "link": "https://www.filo.news/noticia/2026/11/06/el-riesgo-pais-llego-a-los-939-puntos-y-alcanzo-su-pico-maximo-en-doce-meses",
-   "excerpt": "Pese a perforar los 900 puntos en la apertura, el retroceso en los papeles de deuda aceleró la suba del índice y encendió alarmas por los vencimientos del próximo año.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/filo1-_2026-11-06t201944.8262954_re.png",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": false,
-   "article": "6544aa04b941cce6"
-  },
-  {
-   "id": "https://www.filo.news/noticia/2026/11/06/franco-colapinto-termino-11-en-la-segunda-practica-libre-del-gp-de-brasil-de-la-formula-1",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Franco Colapinto terminó 11° en la segunda práctica libre del GP de Brasil de la Fórmula 1",
-   "link": "https://www.filo.news/noticia/2026/11/06/franco-colapinto-termino-11-en-la-segunda-practica-libre-del-gp-de-brasil-de-la-formula-1",
-   "excerpt": "Tras finalizar noveno en la primera tanda, el piloto argentino volvió a salir a la pista y quedó por encima de su compañero, Pierre Gasly. La actividad continuará este sábado con el tercer entrenamiento y la clasificación.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/06/colapintof120266141_re.jpg",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": false,
-   "article": "5ef21e95612b3dda"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201786",
    "source": "CIPER",
    "category": "Notis",
@@ -1168,19 +1155,6 @@ window.CIRCO = {
    "first_seen": "2026-11-05",
    "og_checked": false,
    "article": "7d0043acd225a6f6"
-  },
-  {
-   "id": "https://www.applesfera.com/seleccion/nueva-oferta-airtag-2-se-puede-comprar-pack-cuatro-unidades-mucho-barato-antes-black-friday",
-   "source": "Applesfera",
-   "category": "Mundo Apple",
-   "title": "Nueva oferta en el AirTag 2: ya se puede comprar el pack con cuatro unidades mucho más barato. Y antes del Black Friday",
-   "link": "https://www.applesfera.com/seleccion/nueva-oferta-airtag-2-se-puede-comprar-pack-cuatro-unidades-mucho-barato-antes-black-friday",
-   "excerpt": "Quedan unas semanas para la celebración del Black Friday y se nota. Las tiendas han dado comienzo a un mes de noviembre en el que estamos viendo buenas ofertas en todo tipo de productos, incluso en los de Apple. El AirTag 2 , por ejemplo, ha vuelto a bajar de precio en…",
-   "image": "https://i.blogs.es/8eb6a3/airtag-2/1024_2000.jpeg",
-   "day": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "og_checked": false,
-   "article": "940b7cec7c2d9066"
   },
   {
    "id": "https://musebyclios.com/?p=134350",
@@ -1636,6 +1610,32 @@ window.CIRCO = {
    "first_seen": "2026-11-04",
    "og_checked": true,
    "article": "b0319b32bfd6d043"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025748",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+   "link": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+   "excerpt": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is getting a couple of upgrades with the price hike,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-08",
+   "og_checked": true,
+   "article": "d4699187ec2d55af"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1025694",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "Apple starts giving Siri AI access to third-party apps",
+   "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+   "excerpt": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C10.736302165243%2C100%2C78.527395669513&w=1200",
+   "day": "2026-11-03",
+   "first_seen": "2026-11-08",
+   "og_checked": true,
+   "article": "b41888ef3e46f2f7"
   },
   {
    "id": "https://www.theverge.com/?p=1024862",
