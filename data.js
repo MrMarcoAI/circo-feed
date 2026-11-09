@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-08T19:32-03:00",
+ "updated": "2026-11-09T04:17-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -24,7 +24,7 @@ window.CIRCO = {
   {
    "name": "Greg Isenberg",
    "category": "Tech + la IA",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+   "feed": "https://www.youtube.com/@GregIsenberg"
   },
   {
    "name": "Benjamín Cordero",
@@ -64,6 +64,58 @@ window.CIRCO = {
   }
  ],
  "items": [
+  {
+   "id": "https://www.reasonwhy.es/actualidad/santa-claus-incognito-marks-spencer-anuncio-navidad-2026",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Un Santa Claus de incógnito y sin barba redescubre las fiestas en el anuncio de Navidad de Marks & Spencer",
+   "link": "https://www.reasonwhy.es/actualidad/santa-claus-incognito-marks-spencer-anuncio-navidad-2026",
+   "excerpt": "Es la primera vez desde 2017 que la cadena de grandes almacenes reúne sus secciones de moda, hogar, belleza y alimentación en el mismo spot.",
+   "image": "https://www.reasonwhy.es/media/library/m-s-anuncio-navidad-2026.jpg",
+   "day": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "og_checked": false,
+   "article": "96c8bf8ad8dcab5a"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1029595",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "excerpt": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "5e70d150f752b07f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/08/leon-xiv-y-javier-milei-llamaron-al-dialogo-y-a-superar-las-diferencias",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "León XIV y Javier Milei llamaron al diálogo y a superar las diferencias",
+   "link": "https://www.filo.news/noticia/2026/11/08/leon-xiv-y-javier-milei-llamaron-al-dialogo-y-a-superar-las-diferencias",
+   "excerpt": "En el Palacio Libertad, el pontífice pidió una economía al servicio de las personas y el presidente celebró la unión de todo el arco político.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/08/20261108t223848z_703359873_rc2yjoacizbj_rtrmadp_3_pope-latam-argentina8538_re.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-09",
+   "og_checked": false,
+   "article": "1a4e0824370bd25f"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201810",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Una política de envejecimiento que no solo mire el cuerpo",
+   "link": "https://www.ciperchile.cl/2026/11/08/una-politica-de-envejecimiento-que-no-solo-mire-el-cuerpo/?utm_source=rss&utm_medium=rss&utm_campaign=una-politica-de-envejecimiento-que-no-solo-mire-el-cuerpo",
+   "excerpt": "La entrada Una política de envejecimiento que no solo mire el cuerpo se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1133477-scaled.jpg",
+   "day": "2026-11-08",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "740e6d9d0c3303b6"
+  },
   {
    "id": "https://www.theverge.com/?p=1029552",
    "source": "The Verge · IA",
@@ -611,19 +663,6 @@ window.CIRCO = {
    "article": "ad2fcc9c77c271b4"
   },
   {
-   "id": "https://www.filo.news/noticia/2026/11/07/buenos-aires-celebra-la-35-a-marcha-del-orgullo-lgbtiq",
-   "source": "Filo.News",
-   "category": "Notis",
-   "title": "Buenos Aires celebra la 35.ª Marcha del Orgullo LGBTIQ+",
-   "link": "https://www.filo.news/noticia/2026/11/07/buenos-aires-celebra-la-35-a-marcha-del-orgullo-lgbtiq",
-   "excerpt": "La tradicional movilización recorre el centro porteño con reclamos legislativos, ferias y shows musicales.",
-   "image": "https://assets.dev-filo.dift.io/img/2026/11/07/capturadepantalla_2026-11-07_0939432222_re.png",
-   "day": "2026-11-07",
-   "first_seen": "2026-11-07",
-   "og_checked": false,
-   "article": "10f7bf0aad7c9364"
-  },
-  {
    "id": "https://www.ciperchile.cl/?p=201795",
    "source": "CIPER",
    "category": "Notis",
@@ -817,19 +856,6 @@ window.CIRCO = {
    "first_seen": "2026-11-06",
    "og_checked": true,
    "article": "95ad726d77e0bee3"
-  },
-  {
-   "id": "https://www.theverge.com/?post_type=vm_stream&p=902546",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
-   "title": "All the latest updates on AI data centers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-   "excerpt": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and…",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "day": "2026-11-06",
-   "first_seen": "2026-11-06",
-   "og_checked": true,
-   "article": "43debe4fe2ca78f3"
   },
   {
    "id": "https://bencorde.com/blog/27-casos-uso-claude-2027/",
@@ -1448,8 +1474,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "8 Businesses for the AI Age",
    "link": "https://www.youtube.com/watch?v=b3tMAOFB71o",
-   "excerpt": "In this solo episode, I lay out how I think about building an AI-proof business now that anyone can press a few buttons and spin up a company in seconds. Layoffs keep coming, people copy products pixel for pixel, and I still see more opportunity than ever. I walk through eight…",
-   "image": "https://i3.ytimg.com/vi/b3tMAOFB71o/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/b3tMAOFB71o/hqdefault.jpg",
    "day": "2026-11-04",
    "first_seen": "2026-11-04",
    "og_checked": false,
@@ -1558,19 +1584,6 @@ window.CIRCO = {
    "first_seen": "2026-11-04",
    "og_checked": false,
    "article": "b0cd2bd08bde8e4a"
-  },
-  {
-   "id": "https://www.reasonwhy.es/actualidad/naturgy-patrocina-conversaciones-ascensor-tiempo-cadenas-television",
-   "source": "Reason Why",
-   "category": "Publi",
-   "title": "Naturgy lleva las conversaciones de ascensor al patrocinio de “El Tiempo” en cuatro cadenas de TV",
-   "link": "https://www.reasonwhy.es/actualidad/naturgy-patrocina-conversaciones-ascensor-tiempo-cadenas-television",
-   "excerpt": "Patrocinará durante un año los espacios meteorológicos de Antena 3, Telecinco, TV3 y TVG.",
-   "image": "https://www.reasonwhy.es/media/library/naturgy-ascensor-el-tiempo.jpg",
-   "day": "2026-11-04",
-   "first_seen": "2026-11-04",
-   "og_checked": false,
-   "article": "7f1976951b07f14d"
   },
   {
    "id": "https://www.ciperchile.cl/?p=201724",
@@ -1742,19 +1755,6 @@ window.CIRCO = {
    "article": "a0d7845e21bbe799"
   },
   {
-   "id": "https://www.ciperchile.cl/?p=201673",
-   "source": "CIPER",
-   "category": "Notis",
-   "title": "Condenan por lavado de activos a general (r) Óscar Izurieta; Kast desafía a la oposición a presentar acusación contra Rabat, y fundación de los Tompkins dona 22 mil hectáreas para futuro parque en Magallanes",
-   "link": "https://www.ciperchile.cl/2026/11/03/radar-03-11-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-03-11-2026",
-   "excerpt": "La entrada Condenan por lavado de activos a general (r) Óscar Izurieta; Kast desafía a la oposición a presentar acusación contra Rabat, y fundación de los Tompkins dona 22 mil hectáreas para futuro parque en Magallanes se publicó primero en CIPER Chile .",
-   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
-   "day": "2026-11-03",
-   "first_seen": "2026-11-03",
-   "og_checked": true,
-   "article": "1f6724809571e965"
-  },
-  {
    "id": "https://www.theverge.com/?p=1024807",
    "source": "The Verge · Google",
    "category": "Tech + la IA",
@@ -1773,8 +1773,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1M+ Solo Grok Bot Business (Full Course)",
    "link": "https://www.youtube.com/watch?v=67BmkptgTms",
-   "excerpt": "I sit down with Nick, co-founder of Orgo, to break down how to build a custom Grok Bot for a business and sell it for $25,000 up front with a $3,000-a-month retainer. Nick demos Bops, the agent platform he built in a 36-hour weekend, where each bot has its own phone number,…",
-   "image": "https://i3.ytimg.com/vi/67BmkptgTms/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/67BmkptgTms/hqdefault.jpg",
    "day": "2026-11-02",
    "first_seen": "2026-11-02",
    "og_checked": false,
@@ -1994,8 +1994,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "SaaS is dead?",
    "link": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
-   "excerpt": "In this solo episode, I explain why I say SaaS is dead and what I see taking its place. For 15 years, SaaS meant paying engineers to build a tool and charging per seat, and now models like Opus 5.5, GPT-6, and Argon make the tool easy to build. I walk through what I call smart…",
-   "image": "https://i2.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/AqqjH_uv-_w/hqdefault.jpg",
    "day": "2026-10-29",
    "first_seen": "2026-10-29",
    "og_checked": false,
@@ -2072,8 +2072,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "$100M ARR Founder: The Next Big AI Opportunity",
    "link": "https://www.youtube.com/watch?v=st61aKW8P5A",
-   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
-   "image": "https://i4.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/st61aKW8P5A/hqdefault.jpg",
    "day": "2026-10-28",
    "first_seen": "2026-10-28",
    "og_checked": false,
@@ -2223,15 +2223,28 @@ window.CIRCO = {
    "article": "22a5205b198507cb"
   },
   {
-   "id": "yt:video:35sh2FkQn-k",
+   "id": "yt:video:nRl-7Yhmbog",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
-   "title": "Watch how I use @openai Dots AI agents in chatgpt to make my life & business better #chatgpt_partner",
-   "link": "https://www.youtube.com/shorts/35sh2FkQn-k",
+   "title": "The 9 Stages of AI Agent Adoption, Explained",
+   "link": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
    "excerpt": "",
-   "image": "https://i4.ytimg.com/vi/35sh2FkQn-k/hqdefault.jpg",
+   "image": "https://i.ytimg.com/vi/nRl-7Yhmbog/hqdefault.jpg",
    "day": "2026-10-26",
-   "first_seen": "2026-11-08",
+   "first_seen": "2026-11-09",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "yt:video:tpZOU1ugODQ",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "Meta Muse Will Create 1,000 Millionaires",
+   "link": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/tpZOU1ugODQ/hqdefault.jpg",
+   "day": "2026-10-26",
+   "first_seen": "2026-11-09",
    "og_checked": false,
    "article": ""
   },
@@ -2241,8 +2254,8 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "The $1,000/hour 1-person AI business",
    "link": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
-   "excerpt": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, who owns Diesel Dudes, a mobile diesel repair business in Charlotte, North Carolina, and spent years running agencies for local businesses. James shows…",
-   "image": "https://i1.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
+   "excerpt": "",
+   "image": "https://i.ytimg.com/vi/HKNpCwG3nlc/hqdefault.jpg",
    "day": "2026-10-26",
    "first_seen": "2026-10-26",
    "og_checked": false,
@@ -2325,19 +2338,6 @@ window.CIRCO = {
    "first_seen": "2026-10-26",
    "og_checked": true,
    "article": "861515a1c00d8afd"
-  },
-  {
-   "id": "https://musebyclios.com/?p=133956",
-   "source": "Muse by Clio",
-   "category": "Publi",
-   "title": "How Ringer Sciences’ Yash Gad Uses AI to Help Marketers Weigh Opportunity and Risk",
-   "link": "https://musebyclios.com/2-minutes-with/how-ringer-sciences-yash-gad-uses-ai-to-help-marketers-determine-opportunity-and-risk/?utm_source=rss&utm_medium=rss&utm_campaign=how-ringer-sciences-yash-gad-uses-ai-to-help-marketers-determine-opportunity-and-risk",
-   "excerpt": "Dr. Yash Gad has 20 years of experience in AI and technology across healthcare, marketing, machine learning and analytics. He pioneered the application of custom AI models to merge digital media, proprietary datasets and public datasets to provide insights about the behaviors of…",
-   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/10/23140327/Yash-Gad.jpg",
-   "day": "2026-10-25",
-   "first_seen": "2026-10-25",
-   "og_checked": true,
-   "article": "cd697708de50936b"
   }
  ]
 };
