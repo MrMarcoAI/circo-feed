@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-09T17:26-03:00",
+ "updated": "2026-11-09T17:39-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -47,6 +47,11 @@ window.CIRCO = {
    "feed": "https://www.reasonwhy.es/rss/actualidad"
   },
   {
+   "name": "Revista Líbero",
+   "category": "La pelotita",
+   "feed": "https://revistalibero.com/blogs/contenidos.atom"
+  },
+  {
    "name": "Filo.News",
    "category": "Notis",
    "feed": "https://www.filo.news/rss/rss.xml"
@@ -57,12 +62,7 @@ window.CIRCO = {
    "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
- "errors": [
-  {
-   "url": "https://revistalibero.com/blogs/contenidos",
-   "error": "syntax error: line 1, column 0"
-  }
- ],
+ "errors": [],
  "items": [
   {
    "id": "https://www.theverge.com/?p=1030084",
@@ -640,8 +640,8 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1029552",
-   "source": "The Verge · Apple",
-   "category": "Mundo Apple",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
    "title": "Apple is racing to make Siri more agentic",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
    "excerpt": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly…",
@@ -3823,6 +3823,20 @@ window.CIRCO = {
    "article": "5a5f95dd228ed8a8"
   },
   {
+   "id": "https://revistalibero.com/blogs/contenidos/libero-58-por-que-los-espanoles-jugamos-tan-bien-al-futbol",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "Líbero 58. ¿Por qué los españoles jugamos tan bien al fútbol?",
+   "link": "https://revistalibero.com/blogs/contenidos/libero-58-por-que-los-espanoles-jugamos-tan-bien-al-futbol",
+   "excerpt": "La paradoja nacional del fútbol nacional • 'La leche, el voto y la bola' por Antoni Damiel • Entrevista a Pedro Rodríguez 'pedrito' • Relato de Marta San Miguel • Villoro & Caparrós • El 11+6 de Ángel Stanich • Recuerdos del balón de Corona • Leyla Hamed en Ceuta Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-09-23_a_las_12.36.01_d3e67894-5742-4d36-8afd-ca2c09cfe78f_1024x1024.png?v=1790875525",
+   "day": "2026-10-07",
+   "ts": "2026-10-07T13:30-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "0858bd61d77fa35e"
+  },
+  {
    "id": "https://theinspiration.com/?p=54705",
    "source": "The Inspiration",
    "category": "Publi",
@@ -3921,6 +3935,20 @@ window.CIRCO = {
    "article": "3bb2f70d30e913a6"
   },
   {
+   "id": "https://revistalibero.com/blogs/contenidos/los-ojos-del-racing-mirando-de-frente-por-marta-san-miguel",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "'Los ojos del Racing mirando de frente', por Marta San Miguel",
+   "link": "https://revistalibero.com/blogs/contenidos/los-ojos-del-racing-mirando-de-frente-por-marta-san-miguel",
+   "excerpt": "El Barça estaba a punto de meternos siete goles —que no fueron más porque el ábaco estaba mojado—, y sin embargo, antes de que empezara el partido, ya había en nuestra región cierta impresión de victoria. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/50_57_RACING_06_1024x1024.jpg?v=1793383477",
+   "day": "2026-10-01",
+   "ts": "2026-10-01T20:30-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "c1504843af9c3d25"
+  },
+  {
    "id": "yt:video:1a5HxU52vCQ",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
@@ -3961,6 +3989,174 @@ window.CIRCO = {
    "first_seen": "2026-11-09",
    "og_checked": false,
    "article": "fc435c22d9993902"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/la-leche-el-voto-y-la-bola-por-antoni-daimiel",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "'La leche, el voto y la bola' por Antoni Daimiel",
+   "link": "https://revistalibero.com/blogs/contenidos/la-leche-el-voto-y-la-bola-por-antoni-daimiel",
+   "excerpt": "La Bola de Cristal trataba a los niños como adultos, despertaba el espíritu crítico, daba rienda suelta al atrevimiento y la creatividad, incitaba a cuestionar autoridades de inercia, a dudar de lo aparentemente correspondiente u obligatorio. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/la_bola_de_cristal-kNx-U2304173689IlE-1200x840_Diario_Montanes_1024x1024.webp?v=1791912260",
+   "day": "2026-10-01",
+   "ts": "2026-10-01T14:30-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "6b68b5b30d99f31e"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/el-paraiso-perdido-de-angeles-santos",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "El paraíso perdido de Ángeles Santos",
+   "link": "https://revistalibero.com/blogs/contenidos/el-paraiso-perdido-de-angeles-santos",
+   "excerpt": "‘Un mundo’ es la obra maestra adolescente de una joven pintora que con 17 años decidió incluir en sus pensamientos felices de Portbou un campo de fútbol. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-11-05_a_las_16.58.20_1024x1024.png?v=1793894330",
+   "day": "2026-10-01",
+   "ts": "2026-10-01T12:00-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "1319939a928a7df6"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/le-llamabamos-panucci-por-javier-aznar",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "'Le llamábamos Panucci' por Javier Aznar",
+   "link": "https://revistalibero.com/blogs/contenidos/le-llamabamos-panucci-por-javier-aznar",
+   "excerpt": "Probamos distintas carrerillas y celebraciones en cada lanzamiento de falta. Lo vivía todo muchísimo y me recordaba en intensidad a Tom Cruise en Jerry Maguire , película que vi tres veces en un mismo fin de semana. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-10-20_a_las_13.23.28_1024x1024.png?v=1792495727",
+   "day": "2026-10-01",
+   "ts": "2026-10-01T10:30-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "7d2ef21bda090e37"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/unos-kilometros-mas-al-sur-por-leyla-hamed",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "'Unos kilómetros más al sur', por Leyla Hamed",
+   "link": "https://revistalibero.com/blogs/contenidos/unos-kilometros-mas-al-sur-por-leyla-hamed",
+   "excerpt": "La periodista de familia malagueña y ceutí Leyla Hamed reflexiona sobre el papel del fútbol para los niños fotografiados por la fotoperiodista Ana López durante la crisis en Ceuta. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-10-15_a_las_12.19.46_1024x1024.png?v=1792060612",
+   "day": "2026-10-01",
+   "ts": "2026-10-01T08:00-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "51b3d9152eb2839c"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/pedro-guardiola-me-enseno-conceptos-que-me-gustaria-ensenar-a-mis-hijos",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "Pedro: «Guardiola me enseñó conceptos que me gustaría enseñar a mis hijos»",
+   "link": "https://revistalibero.com/blogs/contenidos/pedro-guardiola-me-enseno-conceptos-que-me-gustaria-ensenar-a-mis-hijos",
+   "excerpt": "Uno de los últimos supervivientes en activo de la selección de 2010 es un símbolo del fútbol español. Un canario regateador y triunfador en todos los tipos de fútbol posibles, el español, el inglés o el italiano que anuncia su retirada. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-10-08_a_las_12.15.51_1024x1024.png?v=1791455646",
+   "day": "2026-10-01",
+   "ts": "2026-10-01T08:00-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "e0cfab96820563e7"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/leo-contra-messi",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "Leo contra Messi. La lesión que no cambió la historia",
+   "link": "https://revistalibero.com/blogs/contenidos/leo-contra-messi",
+   "excerpt": "Marc Baiges ‘Leo’ para sus amigos, ignoró durante una década que le había roto la pierna a Messi. Fue en el segundo partido del delantero con el Barça, y pudo finiquitar su carrera. Por suerte la historia continuó. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/primera-federativa-Messi-Espana-recuerda_EDIIMA20130107_0339_13_1024x1024.jpg?v=1488302125",
+   "day": "2026-10-01",
+   "ts": "2026-10-01T03:00-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "45d6825584cf1ff3"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/el-cano-de-maradona-que-durmio-25-anos-en-los-archivos-de-el-grafico",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "El caño de Maradona que durmió 25 años en los archivos de 'El Gráfico'",
+   "link": "https://revistalibero.com/blogs/contenidos/el-cano-de-maradona-que-durmio-25-anos-en-los-archivos-de-el-grafico",
+   "excerpt": "Maradona debutó con 15 años el 20 de octubre de 1976. La leyenda dice que en su primer balón tiró un caño. La historia creció durante décadas sin pruebas más allá de lo que contaron los testigos. Una visita del periodista Diego Borinsky a los archivos de El Gráfico descubrió no…",
+   "image": "http://revistalibero.com/cdn/shop/articles/68_Foto-El-Can_ao_1024x1024.jpg?v=1483442825",
+   "day": "2026-09-30",
+   "ts": "2026-09-30T13:00-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "b301c45be4cf79cf"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/la-portada-de-libero-protagonista-por-un-dia-en-el-museo-del-prado",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "La portada de Líbero, protagonista por un día en el Museo del Prado",
+   "link": "https://revistalibero.com/blogs/contenidos/la-portada-de-libero-protagonista-por-un-dia-en-el-museo-del-prado",
+   "excerpt": "Para una revista como la nuestra que lleva ya 14 años reivindicando el papel del fútbol en la cultura española, estar en El Prado es una recompensa y un síntoma de que seguimos cumpliendo nuestra misión: culturizar el fútbol y futbolizar la cultura. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-10-27_a_las_13.05.06_1024x1024.png?v=1793114969",
+   "day": "2026-09-30",
+   "ts": "2026-09-30T12:00-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "f3100adac73841d8"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/la-magia-de-un-estadio-lleno",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "La magia de un estadio lleno",
+   "link": "https://revistalibero.com/blogs/contenidos/la-magia-de-un-estadio-lleno",
+   "excerpt": "El artista alemán Richard Nadler reivindica con sus hipnóticas gradas repletas el papel del público presencial como un actor imprescindible del deporte. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-10-19_a_las_13.12.45_1024x1024.png?v=1792409847",
+   "day": "2026-09-30",
+   "ts": "2026-09-30T09:00-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "547c5b45eee01ddb"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/una-nina-juega-al-futbol-en-una-playa-por-pedro-zuazua",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "'Una niña juega al fútbol en una playa', por Pedro Zuazua",
+   "link": "https://revistalibero.com/blogs/contenidos/una-nina-juega-al-futbol-en-una-playa-por-pedro-zuazua",
+   "excerpt": "Las dos jugadoras pedían la pelota y encaraban a sus rivales con confianza. Como los pimientos del Padrón, unos regates salían y otros no, claro. Pero su manera de estar en el campo era decisiva. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-10-16_a_las_13.48.10_1024x1024.png?v=1792151592",
+   "day": "2026-09-30",
+   "ts": "2026-09-30T09:00-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "6efcbfc800117877"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/skechers-football-lab-el-sueno-de-todo-adolescente",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "Skechers Football Lab, el sueño de todo adolescente hecho realidad",
+   "link": "https://revistalibero.com/blogs/contenidos/skechers-football-lab-el-sueno-de-todo-adolescente",
+   "excerpt": "La historia del fútbol está llena de niños que un día soñaron con ser futbolistas y persiguieron su sueño. El Mini Stage organizado por la marca en El Espinar (Segovia) fue lo más parecido a hacerlo realidad. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-10-20_a_las_13.07.04_1024x1024.png?v=1792494720",
+   "day": "2026-09-30",
+   "ts": "2026-09-30T08:30-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "5b4ee3eba518fd52"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/el-origen-del-tiki-taka",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "El origen del 'Tiki-taka'",
+   "link": "https://revistalibero.com/blogs/contenidos/el-origen-del-tiki-taka",
+   "excerpt": "En 1994 Ángel Cappa tituló un artículo en 'El País' como 'El tiki y el toque'. Clemente ridiculizó la expresión conviertiéndola en el tiki-taka. El periodista Luis Miguel Hinojal charla con el entrenador sobre aquel artículo con la perspectiva que dan los años. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/16_cappa1-iloveimg-cropped_4b648904-4125-455d-8979-a7815da9fb40_1024x1024.jpg?v=1790844946",
+   "day": "2026-09-30",
+   "ts": "2026-09-30T08:30-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "cd70144181cfe893"
   },
   {
    "id": "yt:video:Y_RevX5yMq8",
@@ -4061,6 +4257,20 @@ window.CIRCO = {
    "article": "2189ddcdf831239f"
   },
   {
+   "id": "https://revistalibero.com/blogs/contenidos/la-federacion-nos-drogo-contra-corea-en-el-66-para-echar-al-seleccionador",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "Mazzola: «La Federación nos drogó contra Corea en el 66 para echar al seleccionador»",
+   "link": "https://revistalibero.com/blogs/contenidos/la-federacion-nos-drogo-contra-corea-en-el-66-para-echar-al-seleccionador",
+   "excerpt": "Avisa de que a él le tocó vivir ya la época actual. Italia no se clasificó para Suecia 58 y supo sobreponerse ganando una Eurocopa 10 años después de ese desastre. En el camino, la terrible derrota contra Corea del Norte en Inglaterra que Mazzola denuncia como un complot. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/39_mazzola3_745cc53f-050b-44a4-bd18-304788fb47ea_1024x1024.jpg?v=1790076022",
+   "day": "2026-09-21",
+   "ts": "2026-09-21T07:28-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "206a158507a939e9"
+  },
+  {
    "id": "https://bencorde.com/blog/curso-codex-completo-espanol/",
    "source": "Benjamín Cordero",
    "category": "Tech + la IA",
@@ -4087,6 +4297,48 @@ window.CIRCO = {
    "first_seen": "2026-11-09",
    "og_checked": true,
    "article": "cb5bd05ab6431de3"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/mas-de-una-decada-odiando-el-balon-de-oro",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "Más de una década odiando los debates inanes del Balón de Oro",
+   "link": "https://revistalibero.com/blogs/contenidos/mas-de-una-decada-odiando-el-balon-de-oro",
+   "excerpt": "Corría el año 2007 y en Líbero rompíamos una lanza por el Ardaturanismo, el extraño fenómeno que hizo del futbolista turco del Atlético de Madrid un símbolo. ¿Un símbolo de qué? De algo que se parecía poco a los debates que mueven el balón de oro, así que publicamos aquella…",
+   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_pantalla_2026-09-15_a_las_20.06.36_deb511b6-458c-4bf0-ad00-e2a2a55e7bd4_1024x1024.png?v=1789495657",
+   "day": "2026-09-15",
+   "ts": "2026-09-15T15:07-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "48a895e21b2202a9"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/ansu-fati-fue-el-primero",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "Ansu Fati fue el primero",
+   "link": "https://revistalibero.com/blogs/contenidos/ansu-fati-fue-el-primero",
+   "excerpt": "Líbero 57 cuenta la historia del primer futbolista migrante nacido en África que fue a un Mundial con la selección española. Es la increíble historia de Ansu Fat, Lamine antes de Lamine. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/Captura_de_Pantalla_2026-06-08_a_las_18.00.25_dfc110e0-0ce0-47d7-a124-b273c913622b_1024x1024.png?v=1789495718",
+   "day": "2026-09-14",
+   "ts": "2026-09-14T12:30-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "2162e82c6e419083"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/jose-maria-aznar-lateral-derecho",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "José María Aznar, lateral derecho",
+   "link": "https://revistalibero.com/blogs/contenidos/jose-maria-aznar-lateral-derecho",
+   "excerpt": "A veces basta con el comportamiento de un jugador en el campo para hacer una radiografía de su personalidad. Egoísta, generoso, egocéntrico, humilde, líder, gregario... No sabemos la posición del expresidente del Gobierno en el equipo de ‘Ingreso B’ del Colegio de El Pilar de…",
+   "image": "http://revistalibero.com/cdn/shop/articles/img392_6ada0081-c0f8-4ec5-850d-0d036ac139de_1024x1024.jpg?v=1789122352",
+   "day": "2026-09-11",
+   "ts": "2026-09-11T05:30-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "89c9de781a3f16d7"
   },
   {
    "id": "https://bencorde.com/blog/record-a-skill-gpt-6-astra-criterio/",
