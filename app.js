@@ -28,8 +28,6 @@ hideRead.checked = store.get('hideRead', false);
 // en celular las categorías parten cerradas y recuerdan su estado aparte
 const openKey = matchMedia('(max-width: 800px)').matches ? 'openMobile' : 'open';
 const categories = [...new Set(data.sources.map(s => s.category))];
-// extracto de máximo 140 caracteres, siempre terminado en "..."
-const short = s => (s.length > 137 ? s.slice(0, 137).replace(/\s+\S*$/, '') : s).replace(/[\s.,;:…!?-]+$/, '') + '...';
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
 // fecha local (YYYY-MM-DD) calculada cada vez, para que "Hoy" cambie al pasar la medianoche
@@ -79,7 +77,7 @@ function navButton(v, label, cls) {
 
 function renderNav() {
   const openCats = store.get(openKey, openKey === 'open' ? categories : []);
-  let html = navButton({ type: 'today' }, 'Hoy', 'all') + navButton({ type: 'saved' }, 'Guardadas', 'all');
+  let html = navButton({ type: 'today' }, 'Hoy', 'all') + navButton({ type: 'saved' }, 'Guardados', 'all');
   for (const cat of categories) {
     html += `<details data-cat="${esc(cat)}"${openCats.includes(cat) ? ' open' : ''}>
       <summary>${navButton({ type: 'cat', name: cat }, cat, 'cat')}</summary>
@@ -93,13 +91,8 @@ function renderHead() {
   renderNav();
   const n = unread(view);
   markRead.checked = pool().some(i => inView(i)) && n === 0;
-  if (mobile()) {
-    const c = document.querySelector('.m-count');
-    if (c) c.textContent = n || '';
-    return;
-  }
-  const title = view.type === 'saved' ? 'Guardadas' : view.type === 'today' ? 'Hoy' : view.name;
-  document.getElementById('view-head').innerHTML = `<h1>${esc(title)}</h1>`;
+  const c = document.querySelector('.m-count');
+  if (c) c.textContent = n || '';
 }
 
 // marca como leída la noticia que sale por arriba de la pantalla al hacer scroll, como Feedly.
@@ -107,8 +100,8 @@ function renderHead() {
 let ticking = false;
 function checkScrolled() {
   ticking = false;
-  // el encabezado o la barra fija tapan el borde superior
-  const top = mobile() ? viewHead.getBoundingClientRect().bottom : matchMedia('(max-width: 1024px)').matches ? menu.offsetHeight : 0;
+  // el encabezado fijo (o en tablet, la barra de arriba) tapa el borde superior
+  const top = !mobile() && matchMedia('(max-width: 1024px)').matches ? menu.offsetHeight : viewHead.getBoundingClientRect().bottom;
   let changed = false;
   for (const a of document.querySelectorAll('#feed article:not(.read)')) {
     if (a.getBoundingClientRect().bottom > top) continue;
@@ -145,47 +138,15 @@ function render() {
   document.getElementById('errors').textContent = data.errors.length
     ? 'No se pudo leer: ' + data.errors.map(e => e.url).join(', ')
     : '';
-  if (mobile()) return renderMobile();
-  document.body.classList.remove('m-settings');
-  if (view.type === 'search') view = { type: 'today' };
-  renderHead();
-
-  const all = pool().filter(i => inView(i));
-
-  const items = all.filter(i => !(hideRead.checked && read.has(i.id)));
-  const feed = document.getElementById('feed');
-  if (!items.length) {
-    feed.innerHTML = view.type === 'saved' && !saved.length
-      ? '<p class="empty">Aún no guardas nada. Toca el marcador de una noticia para guardarla.</p>'
-      : view.type === 'today' && !all.length
-        ? '<p class="empty">Todavía no hay noticias de hoy. Pon un disco de Fito.</p>'
-        : '<p class="empty">Nada por leer. Pon un disco de Fito.</p>';
-  } else {
-    let html = '', day = null;
-    for (const i of items) {
-      if (!['saved', 'today'].includes(view.type) && i.day !== day) { day = i.day; html += `<h2>${dayLabel(day)}</h2>`; }
-      html += `<article class="${read.has(i.id) ? 'read' : ''}${i.image ? '' : ' no-img'}" data-id="${esc(i.id)}">
-        <div>
-          <div class="meta"><span><b>${esc(i.source)}</b> · ${esc(i.category)}</span>
-            <button class="save${isSaved(i.id) ? ' on' : ''}" title="${isSaved(i.id) ? 'Quitar de guardadas' : 'Guardar'}" aria-label="Guardar">
-              <svg viewBox="0 0 24 24" width="16" height="16"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button></div>
-          <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
-          ${i.excerpt ? `<p>${esc(short(i.excerpt))}</p>` : ''}
-        </div>
-        ${i.image ? `<a class="thumb" href="${esc(i.link)}" target="_blank" rel="noopener" tabindex="-1">
-          <img src="${esc(i.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('article').classList.add('no-img');this.parentNode.remove()"></a>` : ''}
-      </article>`;
-    }
-    feed.innerHTML = html;
+  if (!mobile()) {
+    document.body.classList.remove('m-settings');
+    if (view.type === 'search') view = { type: 'today' };
   }
-
-  // espacio final de una pantalla de alto, para que la última fila también pueda salir por arriba
-  document.getElementById('end').innerHTML = items.length
-    ? `<p>${ENDINGS[Math.floor(Math.random() * ENDINGS.length)]}</p>` : '';
+  renderMobile();
 }
 
-// Transiciones en celular: View Transitions API. El tipo (swap, open, close) elige la animación en style.css
-const canVT = () => mobile() && document.startViewTransition && !matchMedia('(prefers-reduced-motion: reduce)').matches;
+// Transiciones: View Transitions API. El tipo (swap, open, close) elige la animación en style.css
+const canVT = () => document.startViewTransition && !matchMedia('(prefers-reduced-motion: reduce)').matches;
 function withVT(kind, fn) {
   if (!canVT()) { fn(); return null; }
   document.documentElement.dataset.vt = kind;
@@ -241,16 +202,6 @@ document.getElementById('feed').addEventListener('click', e => {
   if (group) return setView({ type: 'src', name: group.dataset.src });
   const add = e.target.closest('[data-add]');
   if (add) return addFeed(sites[+add.dataset.add], add.previousElementSibling.value, add.parentNode);
-  const save = e.target.closest('.save');
-  if (save) {
-    const id = save.closest('article').dataset.id;
-    const item = findItem(id);
-    saved = isSaved(id) ? saved.filter(i => i.id !== id) : [item, ...saved];
-    stamps.s[id] = Date.now();
-    saveRead();
-    render();
-    return;
-  }
   const a = e.target.closest('a');
   if (!a) return;
   const id = a.closest('article').dataset.id;
@@ -284,16 +235,14 @@ async function openReader(i) {
   saveRead();
   if (card) card.classList.add('read');
   renderHead();
-  // en celular la foto va arriba a todo el ancho y el origen se muestra en chips (ver style.css)
-  readerBody.innerHTML = `<p class="reader-meta"><b>${esc(i.source)}</b> · ${esc(i.category)}</p>
-    <h1><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h1>${media}
+  // la foto va arriba a todo el ancho (style.css la pone primero) y el origen se muestra en chips
+  readerBody.innerHTML = `<h1><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h1>${media}
     <div class="reader-chips">
       <button class="chip" data-go="${esc(JSON.stringify({ type: 'src', name: i.source }))}">${fav(i)}<span>${esc(i.source)}</span>${CHEV_R}</button>
       <button class="chip" data-go="${esc(JSON.stringify({ type: 'cat', name: i.category }))}">${catIcon(i.category)}<span>${esc(i.category)}</span>${CHEV_R}</button>
     </div>
     <p class="reader-date">${new Date(i.ts || i.day + 'T12:00').toLocaleDateString('es-CL', { day: 'numeric', month: 'long', year: 'numeric' })}</p>
-    <div class="reader-text">${i.article ? '<p class="reader-loading">Cargando…</p>' : fallback}</div>
-    <a class="reader-link" href="${esc(i.link)}" target="_blank" rel="noopener">${yt ? 'Ver en YouTube' : 'Leer en ' + esc(i.source)} →</a>`;
+    <div class="reader-text">${i.article ? '<p class="reader-loading">Cargando…</p>' : fallback}</div>`;
   readerBar.innerHTML = `<button class="r-save glass${isSaved(i.id) ? ' on' : ''}" aria-label="Guardar">${ICONS.saved}</button>
     <a class="r-open glass" href="${esc(i.link)}" target="_blank" rel="noopener">${yt ? 'Ver en YouTube' : 'Leer en ' + esc(i.source)}${ICON_OUT}</a>`;
   if (reader.hidden) history.pushState({ reader: true }, '');
@@ -377,7 +326,7 @@ markRead.onchange = () => {
 };
 hideRead.onchange = () => { store.set('hideRead', hideRead.checked); render(); };
 
-// ───────── Versión celular ─────────
+// ───────── Vistas (celular y escritorio) ─────────
 const viewHead = document.getElementById('view-head');
 const feedEl = document.getElementById('feed');
 const findItem = id => data.items.find(i => i.id === id) || saved.find(i => i.id === id);
@@ -452,22 +401,27 @@ function settings(open) {
 // la cápsula de la pestaña activa se desliza entre pestañas
 function placePill() {
   const on = document.querySelector('#tabbar button.on'), pill = document.querySelector('.tab-pill');
-  if (!on || !pill) return;
+  if (!on || !pill || !on.offsetWidth) return;
+  const first = !pill.style.width; // al cargar aparece en su lugar, sin deslizarse
+  if (first) pill.style.transition = 'none';
   pill.style.width = on.offsetWidth + 'px';
   pill.style.transform = `translateX(${on.offsetLeft}px)`;
+  if (first) { pill.offsetWidth; pill.style.transition = ''; }
 }
 addEventListener('resize', placePill);
 
 function renderMobile() {
+  renderHead(); // barra lateral y "Marcar como leído"
   const tab = tabOf(view);
   document.querySelectorAll('#tabbar button').forEach(b => b.classList.toggle('on', b.dataset.tab === tab));
   placePill();
-  const title = { today: 'Hoy', feeds: 'Feeds', saved: 'Guardados', search: 'Buscar' }[tab];
+  // en escritorio la barra lateral elige categoría o portal: el título es su nombre y no hay chips de feeds
+  const title = tab === 'feeds' && !mobile() ? esc(view.name) : { today: 'Hoy', feeds: 'Feeds', saved: 'Guardados', search: 'Buscar' }[tab];
   const n = unread(view);
   let head = `<div class="m-top"><h1>${title}</h1>${tab === 'today' || tab === 'feeds' ? `<span class="m-count">${n || ''}</span>` : ''}
     <button class="m-gear glass" aria-label="Ajustes">${GEAR}</button></div>`;
   const cat = view.type === 'cat' ? view.name : srcCat(view.name);
-  if (tab === 'feeds') {
+  if (tab === 'feeds' && mobile()) {
     // con un portal elegido, su chip muestra el nombre del portal
     head += '<div class="chips">' + categories.map(c => chip(esc(c === cat && view.type === 'src' ? view.name : c), `data-cat="${esc(c)}"`, c === cat, catIcon(c))).join('') + '</div>';
     if (dropOpen) head += dropHTML(cat);
