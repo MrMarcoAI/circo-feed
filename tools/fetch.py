@@ -25,7 +25,7 @@ DATA = ROOT / "data.js"
 ARTICLES = ROOT / "articles"  # texto completo de cada nota, un .json por noticia, para el lightbox
 FULL_MIN = 1200  # caracteres desde los que el contenido del feed cuenta como nota completa
 TZ = ZoneInfo("America/Santiago")
-KEEP_DAYS = 14
+KEEP_DAYS = 30
 EXCERPT = 280
 UA = "Mozilla/5.0 (CIRCO FEED; +https://github.com/MrMarcoAI/circo-feed)"
 
@@ -417,12 +417,20 @@ def main():
                 "excerpt": e["excerpt"],
                 "image": e["image"] or old.get("image", ""),
                 "day": old.get("day", day.isoformat()),
+                # hora de publicación, para ordenar dentro del día y mostrar "hace X minutos"
+                "ts": old.get("ts") or min(e["date"] or now, now).astimezone(TZ).isoformat(timespec="minutes"),
                 "first_seen": old.get("first_seen", today.isoformat()),
                 "og_checked": old.get("og_checked", False),
                 "article": old.get("article"),  # None: todavía no se busca el texto completo
                 "content": e["content"],
             }
         print(f"{name}: {len(entries)} artículos")
+
+    # Los feeds solo traen sus últimas entradas: lo que ya salió del feed se conserva hasta KEEP_DAYS
+    categories = {c for c, _, _ in read_sources()}
+    for old in previous.values():
+        if old["id"] not in items and old["day"] >= cutoff.isoformat() and old["category"] in categories:
+            items[old["id"]] = {**old, "content": ""}
 
     # Para los artículos sin imagen en el feed, se busca og:image una sola vez
     missing = [i for i in items.values() if not i["image"] and not i["og_checked"]]
@@ -454,7 +462,7 @@ def main():
         "updated": now.isoformat(timespec="minutes"),
         "sources": sources,
         "errors": errors,
-        "items": sorted(items.values(), key=lambda i: (i["day"], i["first_seen"]), reverse=True),
+        "items": sorted(items.values(), key=lambda i: (i["day"], i.get("ts", ""), i["first_seen"]), reverse=True),
     }
     DATA.write_text("window.CIRCO = " + json.dumps(out, ensure_ascii=False, indent=1) + ";\n",
                     encoding="utf-8")
