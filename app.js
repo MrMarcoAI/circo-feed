@@ -135,9 +135,6 @@ function render() {
   document.getElementById('updated').textContent = data.updated
     ? 'Actualizado ' + new Date(data.updated).toLocaleString('es-CL', { dateStyle: 'medium', timeStyle: 'short' })
     : 'Sin datos todavía';
-  document.getElementById('errors').textContent = data.errors.length
-    ? 'No se pudo leer: ' + data.errors.map(e => e.url).join(', ')
-    : '';
   if (!mobile()) {
     document.body.classList.remove('m-settings');
     if (view.type === 'search') view = { type: 'today' };
@@ -257,7 +254,10 @@ async function openReader(i) {
     if (thumb) thumb.style.viewTransitionName = '';
     show();
     const big = readerBody.querySelector('.reader-img');
-    if (big && thumb) big.style.viewTransitionName = 'reader-img';
+    if (!big || !thumb) return;
+    big.style.viewTransitionName = 'reader-img';
+    // si la foto grande no está lista, la captura saldría vacía y la foto aparecería tarde
+    return Promise.race([big.decode().catch(() => {}), new Promise(r => setTimeout(r, 250))]);
   });
   if (t) {
     t.finished.finally(() => { const big = readerBody.querySelector('.reader-img'); if (big) big.style.viewTransitionName = ''; });

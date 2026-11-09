@@ -19,8 +19,8 @@ https://musebyclios.com/ | Muse by Clio
 https://www.reasonwhy.es/rss/actualidad | Reason Why
 
 [La pelotita]
-# revistalibero.com no publica un RSS en su portada; este es el feed de su blog
-https://revistalibero.com/blogs/contenidos | Revista Líbero
+# revistalibero.com no publica un RSS en su portada; este es el feed Atom de su blog
+https://revistalibero.com/blogs/contenidos.atom | Revista Líbero
 
 [Notis]
 https://www.filo.news/ | Filo.News

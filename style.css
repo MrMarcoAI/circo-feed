@@ -344,19 +344,24 @@ html[data-vt=swap] .chips .chip.on { view-transition-name: chip-on; }
 ::view-transition-group(tab-pill), ::view-transition-group(chip-on) { animation-duration: .55s; animation-timing-function: var(--spring); }
 ::view-transition-group(chip-on) { z-index: 2; }
 /* abrir y cerrar una noticia: la lista se hunde, el lector sube; la barra de pestañas se transforma en la del lector */
-html[data-vt=open]::view-transition-old(root) { animation: vt-sink .4s var(--ease) both; }
-html[data-vt=open]::view-transition-new(root) { animation: vt-up .5s var(--ease) both; }
-html[data-vt=close]::view-transition-old(root) { z-index: 1; animation: vt-down .34s cubic-bezier(0.4, 0, 1, 1) both; }
-html[data-vt=close]::view-transition-new(root) { animation: vt-sink .42s var(--ease) reverse both; }
-@keyframes vt-sink { to { opacity: 0; transform: scale(0.94); filter: blur(6px); } }
-@keyframes vt-up { from { opacity: 0; transform: translateY(12%); } }
-@keyframes vt-down { to { opacity: 0; transform: translateY(12%); } }
+/* el lector aparece y se va en el mismo tiempo que viaja la foto, sin desplazarse, para que todo llegue junto */
+html[data-vt=open]::view-transition-old(root) { animation: vt-sink .42s var(--ease) both; }
+html[data-vt=open]::view-transition-new(root) { animation: vt-show .42s var(--ease) both; }
+html[data-vt=close]::view-transition-old(root) { z-index: 1; animation: vt-show .38s var(--ease) reverse both; }
+html[data-vt=close]::view-transition-new(root) { animation: vt-sink .38s var(--ease) reverse both; }
+@keyframes vt-sink { to { opacity: 0; transform: scale(0.96); filter: blur(6px); } }
+@keyframes vt-show { from { opacity: 0; } }
 html[data-vt=open] #tabbar, html[data-vt=open] #reader-bar, html[data-vt=close] #tabbar, html[data-vt=close] #reader-bar { view-transition-name: bottom-bar; }
 ::view-transition-group(bottom-bar) { animation-duration: .55s; animation-timing-function: var(--spring); }
 ::view-transition-old(bottom-bar), ::view-transition-new(bottom-bar) { height: 100%; }
 /* la foto de la tarjeta crece hasta ser la foto del lector */
-::view-transition-group(reader-img) { animation-duration: .55s; animation-timing-function: cubic-bezier(0.25, 1.1, 0.4, 1); overflow: hidden; border-radius: 14px; }
+html[data-vt=open]::view-transition-group(reader-img) { animation-duration: .42s; animation-timing-function: var(--ease); }
+html[data-vt=close]::view-transition-group(reader-img) { animation-duration: .38s; animation-timing-function: var(--ease); }
+::view-transition-group(reader-img) { overflow: hidden; border-radius: 14px; }
 ::view-transition-old(reader-img), ::view-transition-new(reader-img) { width: 100%; height: 100%; object-fit: cover; }
+/* al abrir se ve la foto grande todo el viaje (la miniatura puede estar en gris); al cerrar se funde con la miniatura */
+html[data-vt=open]::view-transition-old(reader-img) { animation: none; opacity: 0; }
+html[data-vt=open]::view-transition-new(reader-img) { animation: none; }
 /* durante la transición, el lector ya llega en su lugar (sin su propia animación de entrada) */
 html[data-vt=open] .reader-box, html[data-vt=open] #reader { animation: none; }
 
