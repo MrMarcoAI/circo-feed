@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-09T17:39-03:00",
+ "updated": "2026-11-09T19:44-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,62 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://bencorde.com/blog/claude-fable-5-2-vs-opus-astra/",
+   "source": "Benjamín Cordero",
+   "category": "Tech + la IA",
+   "title": "Claude Fable 5.2 vs Opus 5.5 y GPT-6 Astra: tres pruebas reales",
+   "link": "https://bencorde.com/blog/claude-fable-5-2-vs-opus-astra/",
+   "excerpt": "Mismo prompt, tres modelos. Fable terminó el juego de naves en 28 minutos y Opus en 109, pero en el juego 3D la cuenta cambió.",
+   "image": "https://bencorde.com/blog/claude-fable-5-2-vs-opus-astra/imagenes/portada.jpg",
+   "day": "2026-11-09",
+   "ts": "2026-11-09T19:05-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": "c6ffe8db51ef7381"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/09/leon-xiv-en-el-encuentro-interreligioso-e-intercultural-las-religiones-custodian-la-dignidad-humana",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "León XIV en el encuentro interreligioso e intercultural: “Las religiones custodian la dignidad humana”",
+   "link": "https://www.filo.news/noticia/2026/11/09/leon-xiv-en-el-encuentro-interreligioso-e-intercultural-las-religiones-custodian-la-dignidad-humana",
+   "excerpt": "Durante un encuentro interreligioso en el Palacio San Martín, el pontífice destacó el papel de las distintas creencias en la formación de valores y llamó a promover el diálogo, la justicia y la paz.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/09/capturadepantalla_2026-11-09_1802564508_re.png",
+   "day": "2026-11-09",
+   "ts": "2026-11-09T19:00-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": false,
+   "article": "7466ad0df50c32d2"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/09/leon-xiv-en-la-uca-privar-a-una-persona-de-su-trabajo-es-herir-gravemente-su-dignidad",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "León XIV en la UCA: “Privar a una persona de su trabajo es herir gravemente su dignidad”",
+   "link": "https://www.filo.news/noticia/2026/11/09/leon-xiv-en-la-uca-privar-a-una-persona-de-su-trabajo-es-herir-gravemente-su-dignidad",
+   "excerpt": "El pontífice se reunió con sindicalistas, empresarios y referentes de movimientos sociales en Puerto Madero. Durante el encuentro, pidió equilibrar las necesidades de los trabajadores con los intereses económicos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/09/capturadepantalla_2026-11-09_1746507403_re.png",
+   "day": "2026-11-09",
+   "ts": "2026-11-09T17:43-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": false,
+   "article": "e3e2a660e56d9b97"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/09/la-historia-de-marta-la-mujer-que-emociono-al-papa-leon-xiv-su-vida-es-un-milagro-de-dios",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La historia de Marta, la mujer que emocionó al papa León XIV: “Su vida es un milagro de Dios”",
+   "link": "https://www.filo.news/noticia/2026/11/09/la-historia-de-marta-la-mujer-que-emociono-al-papa-leon-xiv-su-vida-es-un-milagro-de-dios",
+   "excerpt": "La residente de 78 años del Cottolengo Don Orione le contó al pontífice cómo encontró un hogar en la institución y le regaló un libro autobiográfico.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/09/202611261109819_(1)6037.jpg",
+   "day": "2026-11-09",
+   "ts": "2026-11-09T17:38-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": false,
+   "article": "cb0e550723dc0458"
+  },
+  {
    "id": "https://www.theverge.com/?p=1030084",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -110,7 +166,7 @@ window.CIRCO = {
    "id": "yt:video:uJuxenfe-NU",
    "source": "Greg Isenberg",
    "category": "Tech + la IA",
-   "title": "AI Agents are too good at marketing now",
+   "title": "Cracked Marketing 101",
    "link": "https://www.youtube.com/watch?v=uJuxenfe-NU",
    "excerpt": "I sit down with Cody Schneider, to break down how to become a top 0.1% marketer with GrokBot, Claude Code, and the tools around them. Cody shows the environment an agent needs to do marketing work: data in a warehouse, write access to ad platforms, and API tools for images,…",
    "image": "https://i2.ytimg.com/vi/uJuxenfe-NU/hqdefault.jpg",
@@ -640,8 +696,8 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1029552",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
    "title": "Apple is racing to make Siri more agentic",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
    "excerpt": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly…",
@@ -1233,6 +1289,20 @@ window.CIRCO = {
    "first_seen": "2026-11-08",
    "og_checked": true,
    "article": "8bc6f0dc62851f4a"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201838",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Podcast | Lo que calló Rabat",
+   "link": "https://www.ciperchile.cl/2026/11/06/podcast-lo-que-callo-rabat/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-lo-que-callo-rabat",
+   "excerpt": "La entrada Podcast | Lo que calló Rabat se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-11-06",
+   "ts": "2026-11-06T19:39-03:00",
+   "first_seen": "2026-11-09",
+   "og_checked": true,
+   "article": ""
   },
   {
    "id": "https://musebyclios.com/?p=134407",
