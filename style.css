@@ -224,7 +224,7 @@ body.reading { overflow: hidden; }
   .chips .chip { box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.12); }
   .chip svg { flex: none; width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linejoin: round; stroke-linecap: round; }
   .chip .chev { width: 14px; height: 14px; margin-right: -4px; opacity: 0.6; }
-  .chip.on { background: #ffffff; border-color: #ffffff; color: #000000; }
+  .chip.on { background: var(--accent); border-color: rgba(255, 255, 255, 0.22); color: #ffffff; }
 
   /* menú de portales de la categoría */
   .m-drop { position: absolute; top: 100%; left: 16px; right: 16px; max-height: 60vh; overflow-y: auto; margin-top: 6px; padding: 6px; border-radius: 22px; background: rgba(36, 36, 36, 0.72); animation: fade .15s ease-out; }
@@ -296,9 +296,14 @@ body.reading { overflow: hidden; }
 
   /* barra de pestañas */
   #tabbar { display: flex; position: fixed; z-index: 30; left: 16px; right: 16px; bottom: calc(env(safe-area-inset-bottom) + 8px); max-width: 480px; margin: 0 auto; padding: 5px; border-radius: 34px; }
-  #tabbar button { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 1px; padding: 7px 0 6px; border: 0; border-radius: 29px; background: none; color: rgba(255, 255, 255, 0.85); font: 600 11px var(--head); transition: background .2s; }
+  #tabbar button { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: column; align-items: center; gap: 1px; padding: 7px 0 6px; border: 0; border-radius: 29px; background: none; color: rgba(255, 255, 255, 0.62); font: 600 11px var(--head); transition: color .3s var(--ease), scale .45s var(--spring); }
+  #tabbar button:active { scale: 0.9; }
+  /* cápsula de la pestaña activa: se desliza con rebote y se infla al presionar */
+  .tab-pill { position: absolute; top: 5px; bottom: 5px; left: 0; border-radius: 29px; background: rgba(255, 255, 255, 0.14); box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.18), inset 0 -1px 0 rgba(255, 255, 255, 0.05); transition: transform .55s var(--spring), width .55s var(--spring), scale .4s var(--spring); }
+  #tabbar button.on:active ~ .tab-pill { scale: 1.08 1.12; }
+  html[data-vt] .tab-pill { transition: none; }
   #tabbar button svg { width: 25px; height: 25px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
-  #tabbar button.on { background: rgba(255, 255, 255, 0.13); color: var(--accent); }
+  #tabbar button.on { color: var(--fg); }
   body.reading #tabbar { display: none; }
 
   /* ajustes (los interruptores del menú) como globo bajo el botón */
@@ -328,4 +333,62 @@ body.reading { overflow: hidden; }
   .r-save.on svg { fill: var(--accent); stroke: var(--accent); }
   .r-open { flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; height: 54px; border-radius: 27px; background: rgba(255, 255, 255, 0.92); color: #000000; font: 600 16px var(--head); text-decoration: none; white-space: nowrap; overflow: hidden; }
   .r-open .out { flex: none; width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+}
+
+/* ───────── Movimiento: resortes suaves, vidrio que se condensa y se disuelve ───────── */
+:root { --spring: cubic-bezier(0.3, 1.32, 0.5, 1); --ease: cubic-bezier(0.2, 0.8, 0.2, 1); }
+@keyframes glass-in { from { opacity: 0; scale: 0.9; filter: blur(8px); } }
+@keyframes glass-out { to { opacity: 0; scale: 0.92; filter: blur(8px); } }
+@keyframes rise { from { opacity: 0; transform: translateY(18px) scale(0.98); } }
+@keyframes bar-in { from { opacity: 0; transform: translateY(40px) scale(0.9); } }
+.reader-box { animation: rise .45s var(--ease) both; }
+@media (max-width: 760px) {
+  .reader-box { animation: none; }
+  .glass, #reader-close, .chip, .row a, .hero a, .r-open, .site-add button { transition: transform .45s var(--spring), scale .45s var(--spring), background-color .35s var(--ease), color .35s var(--ease), border-color .35s var(--ease); }
+  .glass:active, #reader-close:active, .chip:active, .r-open:active, .site-add button:active { transform: none; scale: 0.92; }
+  .row a:active, .hero a:active { transform: none; scale: 0.97; }
+  .chip .chev { transition: rotate .4s var(--spring); }
+  #view-head.drop-open .chip.on .chev { rotate: 180deg; }
+  .m-drop { transform-origin: 50% 0; animation: glass-in .42s var(--spring) both; }
+  .m-drop.out { animation: glass-out .2s var(--ease) forwards; pointer-events: none; }
+  body.m-settings #menu { transform-origin: 100% 0; animation: glass-in .42s var(--spring) both; }
+  body.m-settings-out #menu { animation: glass-out .2s var(--ease) forwards; pointer-events: none; }
+  #reader-bar > * { animation: bar-in .55s var(--spring) both; }
+  #reader-bar > :nth-child(2) { animation-delay: .05s; }
+  .row a > img, .hero a > img, #feed h3, .row-meta span { transition: opacity .5s var(--ease), filter .5s var(--ease), color .5s var(--ease); }
+  .r-save svg { transition: fill .3s var(--ease), stroke .3s var(--ease), scale .45s var(--spring); }
+  .r-save.on svg { scale: 1.15; }
+  .m-count { transition: color .3s; }
+}
+
+/* transiciones entre vistas (View Transitions API, solo celular) */
+::view-transition-old(root) { animation: vt-out .26s var(--ease) both; }
+::view-transition-new(root) { animation: vt-in .38s var(--ease) both; }
+@keyframes vt-out { to { opacity: 0; filter: blur(10px); transform: scale(0.985); } }
+@keyframes vt-in { from { opacity: 0; filter: blur(10px); transform: scale(1.015); } }
+/* al cambiar de pestaña el encabezado y la barra no se desenfocan; la cápsula y el chip activo viajan */
+html[data-vt=swap] #view-head { view-transition-name: head; }
+html[data-vt=swap] #tabbar { view-transition-name: tabbar; }
+html[data-vt=swap] .tab-pill { view-transition-name: tab-pill; }
+html[data-vt=swap] .chips .chip.on { view-transition-name: chip-on; }
+::view-transition-group(head), ::view-transition-group(tabbar) { animation-duration: .35s; }
+::view-transition-group(tab-pill), ::view-transition-group(chip-on) { animation-duration: .55s; animation-timing-function: var(--spring); }
+::view-transition-group(chip-on) { z-index: 2; }
+/* abrir y cerrar una noticia: la lista se hunde, el lector sube; la barra de pestañas se transforma en la del lector */
+html[data-vt=open]::view-transition-old(root) { animation: vt-sink .4s var(--ease) both; }
+html[data-vt=open]::view-transition-new(root) { animation: vt-up .5s var(--ease) both; }
+html[data-vt=close]::view-transition-old(root) { z-index: 1; animation: vt-down .34s cubic-bezier(0.4, 0, 1, 1) both; }
+html[data-vt=close]::view-transition-new(root) { animation: vt-sink .42s var(--ease) reverse both; }
+@keyframes vt-sink { to { opacity: 0; transform: scale(0.94); filter: blur(6px); } }
+@keyframes vt-up { from { opacity: 0; transform: translateY(12%); } }
+@keyframes vt-down { to { opacity: 0; transform: translateY(12%); } }
+html[data-vt=open] #tabbar, html[data-vt=open] #reader-bar, html[data-vt=close] #tabbar, html[data-vt=close] #reader-bar { view-transition-name: bottom-bar; }
+::view-transition-group(bottom-bar) { animation-duration: .55s; animation-timing-function: var(--spring); }
+::view-transition-old(bottom-bar), ::view-transition-new(bottom-bar) { height: 100%; }
+/* la foto de la tarjeta crece hasta ser la foto del lector */
+::view-transition-group(reader-img) { animation-duration: .55s; animation-timing-function: cubic-bezier(0.25, 1.1, 0.4, 1); overflow: hidden; border-radius: 14px; }
+::view-transition-old(reader-img), ::view-transition-new(reader-img) { width: 100%; height: 100%; object-fit: cover; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
 }

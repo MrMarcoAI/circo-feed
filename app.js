@@ -184,13 +184,26 @@ function render() {
     ? `<p>${ENDINGS[Math.floor(Math.random() * ENDINGS.length)]}</p>` : '';
 }
 
-function setView(v) {
+// Transiciones en celular: View Transitions API. El tipo (swap, open, close) elige la animación en style.css
+const canVT = () => mobile() && document.startViewTransition && !matchMedia('(prefers-reduced-motion: reduce)').matches;
+function withVT(kind, fn) {
+  if (!canVT()) { fn(); return null; }
+  document.documentElement.dataset.vt = kind;
+  const t = document.startViewTransition(fn);
+  t.finished.finally(() => { if (document.documentElement.dataset.vt === kind) delete document.documentElement.dataset.vt; });
+  return t;
+}
+
+function setView(v, animate = true) {
   view = v;
   store.set('view', view);
   if (v.type === 'cat' || v.type === 'src') store.set('feedView', v);
   setMenu(false);
-  window.scrollTo(0, 0); // antes de dibujar, para que el scroll no marque como leído lo de arriba
-  render();
+  const draw = () => {
+    window.scrollTo(0, 0); // antes de dibujar, para que el scroll no marque como leído lo de arriba
+    render();
+  };
+  return animate ? withVT('swap', draw) : draw();
 }
 
 document.getElementById('nav').addEventListener('click', e => {
@@ -259,17 +272,18 @@ let readingId = null, readingItem = null, readerDirty = false, pendingView = nul
 async function openReader(i) {
   readingId = i.id;
   readingItem = i;
-  setRead(i.id, true);
-  saveRead();
   const card = document.querySelector(`#feed article[data-id="${CSS.escape(i.id)}"]`);
-  if (card) card.classList.add('read');
-  renderHead();
 
   const yt = i.link.match(/youtube\.com\/watch\?v=([\w-]{11})/);
   const media = yt
     ? `<div class="reader-video"><iframe src="https://www.youtube-nocookie.com/embed/${yt[1]}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>`
     : i.image ? `<img class="reader-img" src="${esc(i.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : '';
   const fallback = i.excerpt ? `<p>${esc(i.excerpt)}</p>` : '';
+  const show = () => {
+  setRead(i.id, true);
+  saveRead();
+  if (card) card.classList.add('read');
+  renderHead();
   // en celular la foto va arriba a todo el ancho y el origen se muestra en chips (ver style.css)
   readerBody.innerHTML = `<p class="reader-meta"><b>${esc(i.source)}</b> · ${esc(i.category)}</p>
     <h1><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h1>${media}
@@ -286,6 +300,20 @@ async function openReader(i) {
   reader.hidden = false;
   reader.scrollTop = 0;
   document.body.classList.add('reading');
+  };
+  // la foto de la tarjeta se transforma en la foto del lector
+  const thumb = reader.hidden && card?.querySelector('a > img');
+  if (thumb) thumb.style.viewTransitionName = 'reader-img';
+  const t = withVT('open', () => {
+    if (thumb) thumb.style.viewTransitionName = '';
+    show();
+    const big = readerBody.querySelector('.reader-img');
+    if (big && thumb) big.style.viewTransitionName = 'reader-img';
+  });
+  if (t) {
+    t.finished.finally(() => { const big = readerBody.querySelector('.reader-img'); if (big) big.style.viewTransitionName = ''; });
+    await t.updateCallbackDone.catch(() => {});
+  } else if (thumb) thumb.style.viewTransitionName = '';
 
   if (!i.article) return;
   let text;
@@ -303,13 +331,23 @@ async function openReader(i) {
 }
 function closeReader() {
   if (reader.hidden) return;
-  reader.hidden = true;
-  readerBody.innerHTML = ''; // corta el video si estaba sonando
-  readingId = readingItem = null;
-  document.body.classList.remove('reading');
-  if (pendingView) { const v = pendingView; pendingView = null; dropOpen = false; return setView(v); }
-  if (hideRead.checked || readerDirty) render();
-  readerDirty = false;
+  const id = readingId;
+  const big = readerBody.querySelector('.reader-img');
+  const morph = big && big.getBoundingClientRect().bottom > 0 && !pendingView;
+  if (morph) big.style.viewTransitionName = 'reader-img';
+  let thumb = null;
+  const t = withVT('close', () => {
+    reader.hidden = true;
+    readerBody.innerHTML = ''; // corta el video si estaba sonando
+    readingId = readingItem = null;
+    document.body.classList.remove('reading');
+    if (pendingView) { const v = pendingView; pendingView = null; dropOpen = false; setView(v, false); return; }
+    if (hideRead.checked || readerDirty) render();
+    readerDirty = false;
+    thumb = morph && document.querySelector(`#feed article[data-id="${CSS.escape(id)}"] a > img`);
+    if (thumb) thumb.style.viewTransitionName = 'reader-img';
+  });
+  t?.finished.finally(() => { if (thumb) thumb.style.viewTransitionName = ''; });
 }
 readerBody.addEventListener('click', e => {
   const go = e.target.closest('[data-go]');
@@ -387,9 +425,43 @@ const chip = (label, attrs, on, icon = '') =>
   `<button class="chip glass${on ? ' on' : ''}" ${attrs}>${icon}<span>${label}</span>${on && attrs.startsWith('data-cat') && tabOf(view) === 'feeds' ? CHEV_D : ''}</button>`;
 const viewAttr = v => `data-view="${esc(JSON.stringify(v))}"`;
 
+// menú de portales de la categoría
+function dropHTML(cat) {
+  const opts = [{ type: 'cat', name: cat, label: 'Todas' }, ...data.sources.filter(s => s.category === cat).map(s => ({ type: 'src', name: s.name, label: s.name }))];
+  return '<div class="m-drop glass">' + opts.map(o => {
+    const v = { type: o.type, name: o.name }, k = unread(v);
+    return `<button ${viewAttr(v)}>${view.type === o.type && view.name === o.name ? CHECK : '<i></i>'}<span>${esc(o.label)}</span>${k ? `<b>${k}</b>` : ''}</button>`;
+  }).join('') + '</div>';
+}
+// los globos (menú de portales, ajustes) salen con animación antes de quitarse
+function closeDrop() {
+  dropOpen = false;
+  viewHead.classList.remove('drop-open');
+  const d = viewHead.querySelector('.m-drop:not(.out)');
+  if (!d) return;
+  d.classList.add('out');
+  setTimeout(() => d.remove(), 220);
+}
+function settings(open) {
+  const b = document.body;
+  if (open) { b.classList.remove('m-settings-out'); b.classList.add('m-settings'); return; }
+  if (!b.classList.contains('m-settings') || b.classList.contains('m-settings-out')) return;
+  b.classList.add('m-settings-out');
+  setTimeout(() => b.classList.remove('m-settings', 'm-settings-out'), 220);
+}
+// la cápsula de la pestaña activa se desliza entre pestañas
+function placePill() {
+  const on = document.querySelector('#tabbar button.on'), pill = document.querySelector('.tab-pill');
+  if (!on || !pill) return;
+  pill.style.width = on.offsetWidth + 'px';
+  pill.style.transform = `translateX(${on.offsetLeft}px)`;
+}
+addEventListener('resize', placePill);
+
 function renderMobile() {
   const tab = tabOf(view);
   document.querySelectorAll('#tabbar button').forEach(b => b.classList.toggle('on', b.dataset.tab === tab));
+  placePill();
   const title = { today: 'Hoy', feeds: 'Feeds', saved: 'Guardados', search: 'Buscar' }[tab];
   const n = unread(view);
   let head = `<div class="m-top"><h1>${title}</h1>${tab === 'today' || tab === 'feeds' ? `<span class="m-count">${n || ''}</span>` : ''}
@@ -398,13 +470,7 @@ function renderMobile() {
   if (tab === 'feeds') {
     // con un portal elegido, su chip muestra el nombre del portal
     head += '<div class="chips">' + categories.map(c => chip(esc(c === cat && view.type === 'src' ? view.name : c), `data-cat="${esc(c)}"`, c === cat, catIcon(c))).join('') + '</div>';
-    if (dropOpen) {
-      const opts = [{ type: 'cat', name: cat, label: 'Todas' }, ...data.sources.filter(s => s.category === cat).map(s => ({ type: 'src', name: s.name, label: s.name }))];
-      head += '<div class="m-drop glass">' + opts.map(o => {
-        const v = { type: o.type, name: o.name }, k = unread(v);
-        return `<button ${viewAttr(v)}>${view.type === o.type && view.name === o.name ? CHECK : '<i></i>'}<span>${esc(o.label)}</span>${k ? `<b>${k}</b>` : ''}</button>`;
-      }).join('') + '</div>';
-    }
+    if (dropOpen) head += dropHTML(cat);
   }
   if (tab === 'saved') {
     const cats = categories.filter(c => saved.some(i => i.category === c));
@@ -416,6 +482,7 @@ function renderMobile() {
   // al redibujar, la fila de chips mantiene su scroll horizontal
   const x = viewHead.querySelector('.chips')?.scrollLeft || 0;
   viewHead.innerHTML = head;
+  viewHead.classList.toggle('drop-open', dropOpen && tab === 'feeds');
   const chips = viewHead.querySelector('.chips');
   if (chips) chips.scrollLeft = x || (chips.querySelector('.on')?.offsetLeft || 0) - 16;
   if (tab === 'search') return renderSearch();
@@ -534,19 +601,25 @@ async function addFeed(s, cat, box) {
 viewHead.addEventListener('click', e => {
   const b = e.target.closest('button');
   if (!b) return;
-  if (b.classList.contains('m-gear')) { document.body.classList.toggle('m-settings'); return; }
+  if (b.classList.contains('m-gear')) return settings(!document.body.classList.contains('m-settings') || document.body.classList.contains('m-settings-out'));
   if (b.dataset.view) { dropOpen = false; return setView(JSON.parse(b.dataset.view)); }
   if (b.dataset.cat === undefined) return;
   if (tabOf(view) === 'saved') return setView({ type: 'saved', cat: b.dataset.cat || undefined });
   // tocar una categoría la abre y despliega sus portales; tocarla de nuevo cierra o abre el menú
-  if (b.classList.contains('on')) { dropOpen = !dropOpen; return render(); }
+  if (b.classList.contains('on')) {
+    if (dropOpen) return closeDrop();
+    dropOpen = true;
+    viewHead.classList.add('drop-open');
+    viewHead.querySelector('.m-drop')?.remove();
+    return viewHead.insertAdjacentHTML('beforeend', dropHTML(b.dataset.cat));
+  }
   dropOpen = true;
   setView({ type: 'cat', name: b.dataset.cat });
 });
 // tocar fuera cierra el menú de portales y los ajustes
 document.addEventListener('click', e => {
-  if (dropOpen && !e.target.closest('.m-drop, .chip')) { dropOpen = false; viewHead.querySelector('.m-drop')?.remove(); }
-  if (document.body.classList.contains('m-settings') && !e.target.closest('#menu, .m-gear')) document.body.classList.remove('m-settings');
+  if (dropOpen && !e.target.closest('.m-drop, .chip')) closeDrop();
+  if (!e.target.closest('#menu, .m-gear')) settings(false);
 });
 document.getElementById('tabbar').addEventListener('click', e => {
   const b = e.target.closest('button');
@@ -556,8 +629,8 @@ document.getElementById('tabbar').addEventListener('click', e => {
   if (tab === tabOf(view)) return window.scrollTo({ top: 0, behavior: 'smooth' });
   let fv = store.get('feedView', null);
   if (!fv || !categories.includes(fv.type === 'cat' ? fv.name : srcCat(fv.name))) fv = { type: 'cat', name: categories[0] };
-  setView(tab === 'feeds' ? fv : { type: tab });
-  if (tab === 'search') viewHead.querySelector('input')?.focus();
+  const t = setView(tab === 'feeds' ? fv : { type: tab });
+  if (tab === 'search') (t ? t.updateCallbackDone : Promise.resolve()).then(() => viewHead.querySelector('input')?.focus());
 });
 mq.addEventListener('change', render);
 

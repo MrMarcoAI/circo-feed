@@ -25,7 +25,7 @@ DATA = ROOT / "data.js"
 ARTICLES = ROOT / "articles"  # texto completo de cada nota, un .json por noticia, para el lightbox
 FULL_MIN = 1200  # caracteres desde los que el contenido del feed cuenta como nota completa
 TZ = ZoneInfo("America/Santiago")
-KEEP_DAYS = 30
+KEEP_DAYS = 60
 EXCERPT = 280
 UA = "Mozilla/5.0 (CIRCO FEED; +https://github.com/MrMarcoAI/circo-feed)"
 
