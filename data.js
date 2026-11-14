@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-14T13:22-03:00",
+ "updated": "2026-11-14T15:33-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,62 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.filo.news/noticia/2026/11/14/dia-mundial-de-la-diabetes-cuales-son-las-complicaciones-y-por-que-es-importante-el-diagnostico-temprano",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Día Mundial de la Diabetes: cuáles son las complicaciones y por qué es importante el diagnóstico temprano",
+   "link": "https://www.filo.news/noticia/2026/11/14/dia-mundial-de-la-diabetes-cuales-son-las-complicaciones-y-por-que-es-importante-el-diagnostico-temprano",
+   "excerpt": "Más de 589 millones de adultos viven con esta enfermedad en el mundo. Especialistas destacan la importancia de los hábitos saludables y el seguimiento médico para prevenir problemas de salud.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/14/isensusa63t5bcdc_me-unsplash5137_re.jpg",
+   "day": "2026-11-14",
+   "ts": "2026-11-14T15:24-03:00",
+   "first_seen": "2026-11-14",
+   "og_checked": false,
+   "article": "c4182a6666266144"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/14/argentina-perdio-casi-10-000-empresas-empleadoras-en-2026-cuales-fueron-los-sectores-mas-afectados",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Argentina perdió casi 10.000 empresas empleadoras en 2026: cuáles fueron los sectores más afectados",
+   "link": "https://www.filo.news/noticia/2026/11/14/argentina-perdio-casi-10-000-empresas-empleadoras-en-2026-cuales-fueron-los-sectores-mas-afectados",
+   "excerpt": "Los datos oficiales muestran una caída del 2% entre diciembre de 2025 y agosto de este año. Comercio, industria y transporte concentraron la mayor parte de la reducción.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/14/c89027a935544bb3-986f-dc93812b4f782201.jpg",
+   "day": "2026-11-14",
+   "ts": "2026-11-14T14:27-03:00",
+   "first_seen": "2026-11-14",
+   "og_checked": false,
+   "article": "96254dd15b07bfbb"
+  },
+  {
+   "id": "https://www.applesfera.com/ios/este-mi-metodo-para-organizar-apps-e-informacion-mi-iphone-para-tener-cero-distracciones-1",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Este es mi método para organizar las apps e información en mi iPhone para tener cero distracciones",
+   "link": "https://www.applesfera.com/ios/este-mi-metodo-para-organizar-apps-e-informacion-mi-iphone-para-tener-cero-distracciones-1",
+   "excerpt": "Una de las cosas que más me gustaron cuando estrené mi iPhone 5 fue la posibilidad de poner una fila extra de aplicaciones en la pantalla de inicio. Sí, de acuerdo, es un detalle menor, pero el orden de esas apps es algo en lo que llevo dedicando bastante atención desde hace…",
+   "image": "https://i.blogs.es/a085fd/iphone-18-pro/1024_2000.jpeg",
+   "day": "2026-11-14",
+   "ts": "2026-11-14T14:01-03:00",
+   "first_seen": "2026-11-14",
+   "og_checked": false,
+   "article": "451f586c98b52365"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=202018",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Lo que el presupuesto no dice en educación",
+   "link": "https://www.ciperchile.cl/2026/11/14/lo-que-el-presupuesto-no-dice-en-educacion/?utm_source=rss&utm_medium=rss&utm_campaign=lo-que-el-presupuesto-no-dice-en-educacion",
+   "excerpt": "La entrada Lo que el presupuesto no dice en educación se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1557953-1-scaled.jpeg",
+   "day": "2026-11-14",
+   "ts": "2026-11-14T13:53-03:00",
+   "first_seen": "2026-11-14",
+   "og_checked": true,
+   "article": "e39f0e6dfc7420b7"
+  },
   {
    "id": "https://www.filo.news/noticia/2026/11/14/las-marcas-pyme-ganan-terreno-con-precios-hasta-un-68-mas-bajos",
    "source": "Filo.News",
@@ -203,6 +259,20 @@ window.CIRCO = {
    "first_seen": "2026-11-14",
    "og_checked": true,
    "article": "4a3f85264690c058"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=201928",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Seguimos llegando tarde: la epidemia silenciosa de la diabetes",
+   "link": "https://www.ciperchile.cl/2026/11/14/seguimos-llegando-tarde-la-epidemia-silenciosa-de-la-diabetes/?utm_source=rss&utm_medium=rss&utm_campaign=seguimos-llegando-tarde-la-epidemia-silenciosa-de-la-diabetes",
+   "excerpt": "La entrada Seguimos llegando tarde: la epidemia silenciosa de la diabetes se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-11-14",
+   "ts": "2026-11-14T04:00-03:00",
+   "first_seen": "2026-11-14",
+   "og_checked": true,
+   "article": "fc1e6813380535fa"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/13/estrenos-filo-or-festival-de-mar-del-plata-caballo-salvaje-nueve-y-borges-que-peliculas-llegan-esta-semana-al-cine-y-plataformas",
